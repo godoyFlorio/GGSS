@@ -1,0 +1,38 @@
+{
+  "unique_id": "cNQfuDfy",
+  "path": "condition.tpl",
+  "completePath": "elements/Programming/condition.tpl",
+  "type": "element",
+  "icon": "ico-condition",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "condition",
+      "display": "Condition",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "usefragment",
+      "display": "Do Not Use Fragment",
+      "type": "checkbox",
+      "options": ""
+    },
+    {
+      "name": "useInCode",
+      "display": "This condition is part of code",
+      "type": "checkbox"
+    }
+  ],
+  "helpText": "Make a decision based on a value",
+  "open": false,
+  "name": "Lang Strings Exist?",
+  "prevent_delete": false,
+  "cascades": false,
+  "value": "condition",
+  "values": {
+    "condition": "typeof langStrings !== 'undefined'",
+    "useInCode": true
+  },
+  "parent": "yVQMnXLM"
+}

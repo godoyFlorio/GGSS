@@ -1,0 +1,34 @@
+{
+  "_id": "KoF4HNNcwleLpFRO",
+  "createdAt": 1662580064830,
+  "modifiedAt": 1662581600942,
+  "settings": {
+    "name": "GGSS",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "GGSS",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://ggss_anonymous.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/anonymous"
+    },
+    "stagging": {
+      "apiURL": "https://GGSS_lite.aptugo.app",
+      "type": "Local",
+      "folder": "GGSS_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://ggss_anonymous.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/anonymous"
+    },
+    "production": {
+      "apiURL": "https://ggss_lite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "GGSS",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://ggss_lite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/ggss"
+    }
+  }
+}

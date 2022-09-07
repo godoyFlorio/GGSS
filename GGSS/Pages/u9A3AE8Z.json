@@ -1,0 +1,13 @@
+{
+  "unique_id": "u9A3AE8Z",
+  "name": "autolinking",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "value": "autolinking",
+  "collapseStatus": "expand",
+  "values": {
+    "fromLink": "JAg0dXCC"
+  },
+  "parent": "StNqZaIv"
+}

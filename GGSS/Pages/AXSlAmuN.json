@@ -1,0 +1,13 @@
+{
+  "unique_id": "AXSlAmuN",
+  "name": "text",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "collapseStatus": "expand",
+  "values": {
+    "Content": "I'm your Aptugo application"
+  },
+  "parent": "yUePTPfG"
+}

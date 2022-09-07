@@ -1,0 +1,13 @@
+{
+  "unique_id": "HEwXpNuc",
+  "name": "updateStateVariable",
+  "value": "updateStateVariable",
+  "values": {
+    "variable": "lang",
+    "newvalue": "langStrings[localStorage.getItem('aptugolang') || 'en']"
+  },
+  "type": "element",
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "cNQfuDfy"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "ZvXu6tXE",
+  "path": "dummyEncloser.tpl",
+  "completePath": "elements/Basic/dummyEncloser.tpl",
+  "icon": "ico-dummy-enclosure",
+  "helpText": "Organizational unit with no render value",
+  "open": false,
+  "name": "Language",
+  "cascades": true,
+  "type": "element",
+  "value": "dummyEncloser",
+  "prevent_delete": false,
+  "parent": "TlvIOpHe"
+}
