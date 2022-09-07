@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Móvil:"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "q24AT1Mo",
+  "unique_id": "xZqAUVw4",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

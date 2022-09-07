@@ -1,0 +1,14 @@
+{
+  "name": "image",
+  "value": "image",
+  "values": {
+    "useAsset": "P2O1EQAE"
+  },
+  "type": "element",
+  "path": "image.tpl",
+  "parent": "5Am2CdgU",
+  "unique_id": "PSz2R6tp",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

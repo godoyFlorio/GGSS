@@ -1,0 +1,14 @@
+{
+  "name": "Agregar",
+  "value": "div",
+  "values": {
+    "class": "theme.agregarCrud"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "QH3WatEO",
+  "unique_id": "eXc5npBw",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

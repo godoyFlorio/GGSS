@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "FEMENINO"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "FLpy3O2s",
+  "unique_id": "3zUbl5Kr",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

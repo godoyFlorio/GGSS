@@ -1,0 +1,14 @@
+{
+  "name": "Departamento",
+  "value": "div",
+  "values": {
+    "class": "theme.titleChofer"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "6mM7Bmsi",
+  "unique_id": "h4WP03pF",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

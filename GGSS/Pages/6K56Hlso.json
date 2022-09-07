@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Observaciones"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "W20g8wxu",
+  "unique_id": "6K56Hlso",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

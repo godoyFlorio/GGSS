@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Estudios:"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "Nw1qDrkH",
+  "unique_id": "GaTnPOvO",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

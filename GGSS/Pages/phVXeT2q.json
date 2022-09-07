@@ -1,0 +1,14 @@
+{
+  "name": "CheckBox",
+  "value": "div",
+  "values": {
+    "class": "theme.checkboxChoferes"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "h9x6f5Oe",
+  "unique_id": "phVXeT2q",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}
