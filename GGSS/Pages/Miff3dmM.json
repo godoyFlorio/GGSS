@@ -1,8 +1,8 @@
 {
-  "unique_id": "Miff3dmM",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
   "type": "element",
+  "unique_id": "Miff3dmM",
   "icon": "ico-div",
   "sourceType": "javascript",
   "options": [

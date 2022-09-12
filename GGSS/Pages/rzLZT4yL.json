@@ -1,7 +1,7 @@
 {
-  "unique_id": "rzLZT4yL",
   "path": "accordionDetails.tpl",
   "completePath": "elements/Material-UI/Accordion/accordionDetails.tpl",
+  "unique_id": "rzLZT4yL",
   "name": "accordionDetails",
   "prevent_delete": false,
   "cascades": false,

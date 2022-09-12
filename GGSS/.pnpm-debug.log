@@ -1,0 +1,14 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "code": "ERR_PNPM_NO_IMPORTER_MANIFEST_FOUND",
+    "err": {
+      "name": "pnpm",
+      "message": "No package.json (or package.yaml, or package.json5) was found in \"C:\\Users\\Ines\\github\\GGSS\\GGSS\".",
+      "code": "ERR_PNPM_NO_IMPORTER_MANIFEST_FOUND",
+      "stack": "pnpm: No package.json (or package.yaml, or package.json5) was found in \"C:\\Users\\Ines\\github\\GGSS\\GGSS\".\n    at readProjectManifest (C:\\Users\\Ines\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.32.1\\node_modules\\pnpm\\dist\\pnpm.cjs:19808:13)\n    at async Object.readProjectManifestOnly (C:\\Users\\Ines\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.32.1\\node_modules\\pnpm\\dist\\pnpm.cjs:19812:28)\n    at async readProjectManifestOnly (C:\\Users\\Ines\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.32.1\\node_modules\\pnpm\\dist\\pnpm.cjs:43711:24)\n    at async Object.handler (C:\\Users\\Ines\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.32.1\\node_modules\\pnpm\\dist\\pnpm.cjs:177889:24)\n    at async C:\\Users\\Ines\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.32.1\\node_modules\\pnpm\\dist\\pnpm.cjs:182165:21\n    at async run (C:\\Users\\Ines\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.32.1\\node_modules\\pnpm\\dist\\pnpm.cjs:182139:34)\n    at async runPnpm (C:\\Users\\Ines\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.32.1\\node_modules\\pnpm\\dist\\pnpm.cjs:182358:5)\n    at async C:\\Users\\Ines\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.32.1\\node_modules\\pnpm\\dist\\pnpm.cjs:182350:7"
+    }
+  }
+}

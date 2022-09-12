@@ -1,7 +1,7 @@
 {
-  "unique_id": "vxTgEG4q",
   "path": "accordionSummary.tpl",
   "completePath": "elements/Material-UI/Accordion/accordionSummary.tpl",
+  "unique_id": "vxTgEG4q",
   "name": "accordionSummary",
   "prevent_delete": false,
   "cascades": false,

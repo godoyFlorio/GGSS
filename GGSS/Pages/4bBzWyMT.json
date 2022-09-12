@@ -1,0 +1,9 @@
+{
+  "name": "Page Footer",
+  "type": "element",
+  "value": "pf",
+  "prevent_delete": true,
+  "cascades": false,
+  "parent": "sH0NRaiA",
+  "unique_id": "4bBzWyMT"
+}

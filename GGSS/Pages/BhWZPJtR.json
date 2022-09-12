@@ -1,0 +1,10 @@
+{
+  "name": "Page Header",
+  "type": "element",
+  "value": "ph",
+  "prevent_delete": true,
+  "cascades": false,
+  "collapseStatus": "collapse",
+  "parent": "8T9ymw9e",
+  "unique_id": "BhWZPJtR"
+}

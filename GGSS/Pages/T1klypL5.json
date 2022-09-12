@@ -1,0 +1,13 @@
+{
+  "name": "div",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "collapseStatus": "expand",
+  "values": {
+    "class": "theme.mainarea"
+  },
+  "parent": "Ux7tFw6T",
+  "unique_id": "T1klypL5"
+}
