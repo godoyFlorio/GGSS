@@ -1,15 +1,15 @@
 {
   "type": "table",
-  "unique_id": "4a4h7dlB",
-  "name": "Familias",
-  "singleName": "Familia",
+  "unique_id": "90XNCe8d",
+  "name": "Documentaciones",
+  "singleName": "documentacion",
   "subtype": "Aptugo",
   "fields": [
     {
       "column_name": "ID",
       "data_type": "Number",
       "key": "Auto Number",
-      "unique_id": "rqz0Ekm5",
+      "unique_id": "7eT0Qdz6",
       "length": "11"
     }
   ],
@@ -63,6 +63,6 @@
       "route_template": "delete"
     }
   ],
-  "x": 260,
-  "y": 30
+  "x": 720,
+  "y": 147
 }

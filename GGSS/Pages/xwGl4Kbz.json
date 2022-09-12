@@ -1,0 +1,21 @@
+{
+  "name": "dialog",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "value": "dialog",
+  "collapseStatus": "expand",
+  "values": {
+    "addProcedure": "Internal",
+    "title": "() => { return \"Add \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"KffposZJ\").singleName }",
+    "introText": "() => { return \"Enter \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"KffposZJ\").singleName + \" data\" }",
+    "color": "primary",
+    "table": "KffposZJ",
+    "button": "Add",
+    "editButton": "Edit",
+    "editTitle": "() => { return \"Edit \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"KffposZJ\").singleName }",
+    "editIntroText": "() => { return \"Update \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"KffposZJ\").singleName + \" data\" }"
+  },
+  "parent": "noxuTn3L",
+  "unique_id": "xwGl4Kbz"
+}

@@ -1,0 +1,10 @@
+{
+  "asociated_table": "KffposZJ",
+  "name": "() => aptugo.activeApplication.tables.find(table => table.unique_id === \"KffposZJ\").name",
+  "type": "page",
+  "path": "() => '/' + aptugo.activeApplication.tables.find(table => table.unique_id === \"KffposZJ\").name",
+  "parent": "RVWzrZms",
+  "collapseStatus": "collapse",
+  "filename": "() => aptugo.activeApplication.tables.find(table => table.unique_id === \"KffposZJ\").name + '.tsx'",
+  "unique_id": "kEvu1eMn"
+}

@@ -1,15 +1,15 @@
 {
   "type": "table",
-  "unique_id": "4a4h7dlB",
-  "name": "Familias",
-  "singleName": "Familia",
+  "unique_id": "gbMCyfdi",
+  "name": "Liquidaciones",
+  "singleName": "Liquidacion",
   "subtype": "Aptugo",
   "fields": [
     {
       "column_name": "ID",
       "data_type": "Number",
       "key": "Auto Number",
-      "unique_id": "rqz0Ekm5",
+      "unique_id": "pGEO8dor",
       "length": "11"
     }
   ],
@@ -63,6 +63,6 @@
       "route_template": "delete"
     }
   ],
-  "x": 260,
+  "x": 720,
   "y": 30
 }

@@ -1,0 +1,10 @@
+{
+  "name": "After Page Render",
+  "type": "element",
+  "value": "apr",
+  "prevent_delete": true,
+  "cascades": false,
+  "collapseStatus": "collapse",
+  "parent": "2rnt8rFB",
+  "unique_id": "1cIOd9Bu"
+}

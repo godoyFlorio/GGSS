@@ -1,0 +1,13 @@
+{
+  "name": "Head",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "collapseStatus": "expand",
+  "values": {
+    "class": "theme.tableHeading"
+  },
+  "parent": "v791mg8s",
+  "unique_id": "XhU7QXe4"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Body",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "collapseStatus": "expand",
+  "parent": "0G8HCWqk",
+  "unique_id": "t4ldP9t7"
+}
