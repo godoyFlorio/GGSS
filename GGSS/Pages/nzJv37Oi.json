@@ -1,8 +1,8 @@
 {
+  "unique_id": "nzJv37Oi",
   "path": "button.tpl",
   "completePath": "elements\\Material-UI\\button.tpl",
   "type": "element",
-  "unique_id": "nzJv37Oi",
   "icon": "ico-button",
   "options": [
     {

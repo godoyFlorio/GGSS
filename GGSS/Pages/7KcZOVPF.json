@@ -1,12 +1,30 @@
 {
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "type": "element",
   "unique_id": "7KcZOVPF",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    }
+  ],
   "name": "text",
   "value": "text",
   "values": {
     "Content": "Nacimiento:"
   },
-  "type": "element",
-  "path": "text.tpl",
   "parent": "Ot2s0miE",
   "prevent_delete": false,
   "cascades": false,
