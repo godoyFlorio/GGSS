@@ -1,12 +1,30 @@
 {
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "type": "element",
   "unique_id": "GkK9uIgS",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    }
+  ],
   "name": "text",
   "value": "text",
   "values": {
     "Content": "Localidad/CP"
   },
-  "type": "element",
-  "path": "text.tpl",
   "parent": "5zKsuqKC",
   "prevent_delete": false,
   "cascades": false,
