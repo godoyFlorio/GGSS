@@ -1,4 +1,5 @@
 {
+  "unique_id": "wN8VTp8o",
   "name": "AQUI VA SEXO MASCULINO FEMENINO CON CHECKS",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "whwt9vUi",
-  "unique_id": "wN8VTp8o",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

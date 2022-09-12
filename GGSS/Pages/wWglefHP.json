@@ -1,4 +1,5 @@
 {
+  "unique_id": "wWglefHP",
   "name": "Legajo N",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "TdLNVMUN",
-  "unique_id": "wWglefHP",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

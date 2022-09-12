@@ -1,4 +1,5 @@
 {
+  "unique_id": "XVv6seiG",
   "name": "Tipo y Nro Doc",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "7Ero6Zuu",
-  "unique_id": "XVv6seiG",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

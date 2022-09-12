@@ -1,4 +1,5 @@
 {
+  "unique_id": "53MkvfsT",
   "name": "image",
   "value": "image",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "image.tpl",
   "parent": "a0cm95WT",
-  "unique_id": "53MkvfsT",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

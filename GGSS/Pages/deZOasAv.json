@@ -1,4 +1,5 @@
 {
+  "unique_id": "deZOasAv",
   "name": "image",
   "value": "image",
   "values": {
@@ -9,7 +10,6 @@
   "type": "element",
   "path": "image.tpl",
   "parent": "mo7Jd86n",
-  "unique_id": "deZOasAv",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"
