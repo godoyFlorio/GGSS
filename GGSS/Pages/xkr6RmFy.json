@@ -1,0 +1,14 @@
+{
+  "name": "Barrio",
+  "value": "div",
+  "values": {
+    "class": "theme.unidadInputs"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "v18CQMp8",
+  "unique_id": "xkr6RmFy",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

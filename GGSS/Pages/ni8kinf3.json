@@ -1,0 +1,14 @@
+{
+  "name": "Nacimiento",
+  "value": "div",
+  "values": {
+    "class": "theme.title"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "DvTDguh7",
+  "unique_id": "ni8kinf3",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

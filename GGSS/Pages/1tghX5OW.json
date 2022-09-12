@@ -1,0 +1,15 @@
+{
+  "name": "Cancelar",
+  "value": "button",
+  "values": {
+    "ButtonText": "Cancelar",
+    "icon": "None"
+  },
+  "type": "element",
+  "path": "button.tpl",
+  "parent": "E4tg01oU",
+  "unique_id": "1tghX5OW",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

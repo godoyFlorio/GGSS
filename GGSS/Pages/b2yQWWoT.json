@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Nombres:"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "lkoQE1J1",
+  "unique_id": "b2yQWWoT",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

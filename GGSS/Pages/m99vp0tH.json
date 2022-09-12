@@ -1,0 +1,14 @@
+{
+  "name": "Nacionalidad",
+  "value": "div",
+  "values": {
+    "class": "theme.titleChofer"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "EfUV7KCd",
+  "unique_id": "m99vp0tH",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

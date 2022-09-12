@@ -1,0 +1,14 @@
+{
+  "name": "Apellido",
+  "value": "div",
+  "values": {
+    "class": "theme.title"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "Tgd3Ez6o",
+  "unique_id": "KhsHWIDC",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

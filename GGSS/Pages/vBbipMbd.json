@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Barrio"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "s2fE0yl1",
+  "unique_id": "vBbipMbd",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

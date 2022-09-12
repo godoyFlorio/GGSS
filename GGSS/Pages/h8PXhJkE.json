@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "C.U.I.L.:"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "NlOrnW6e",
+  "unique_id": "h8PXhJkE",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

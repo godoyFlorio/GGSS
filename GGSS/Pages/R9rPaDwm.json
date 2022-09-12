@@ -1,0 +1,14 @@
+{
+  "name": "País de origen:",
+  "value": "div",
+  "values": {
+    "class": "theme.unidadInputs"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "tOLJUAs0",
+  "unique_id": "R9rPaDwm",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

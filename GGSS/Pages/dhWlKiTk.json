@@ -1,0 +1,15 @@
+{
+  "name": "Aceptar",
+  "value": "button",
+  "values": {
+    "ButtonText": "Aceptar",
+    "icon": "None"
+  },
+  "type": "element",
+  "path": "button.tpl",
+  "parent": "Tx6Z1EfB",
+  "unique_id": "dhWlKiTk",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

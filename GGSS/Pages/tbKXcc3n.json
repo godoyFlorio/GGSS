@@ -1,0 +1,18 @@
+{
+  "name": "Body",
+  "value": "b",
+  "values": {
+    "className": [
+      "theme.taller",
+      "theme.abmTablasVarias",
+      "theme.proveedores"
+    ]
+  },
+  "path": "b.tpl",
+  "unique_id": "tbKXcc3n",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "WJVCaeNb",
+  "collapseStatus": "collapse"
+}

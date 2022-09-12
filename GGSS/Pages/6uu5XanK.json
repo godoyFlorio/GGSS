@@ -1,0 +1,14 @@
+{
+  "name": "Estado:",
+  "value": "div",
+  "values": {
+    "class": "theme.title"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "HuDLWU6i",
+  "unique_id": "6uu5XanK",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

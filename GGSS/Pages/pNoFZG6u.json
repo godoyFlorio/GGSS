@@ -1,0 +1,14 @@
+{
+  "name": "button",
+  "value": "button",
+  "values": {
+    "ButtonText": "Modificar"
+  },
+  "type": "element",
+  "path": "button.tpl",
+  "parent": "ELXsf2KF",
+  "unique_id": "pNoFZG6u",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

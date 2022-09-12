@@ -1,0 +1,14 @@
+{
+  "name": "Text Content",
+  "value": "text",
+  "values": {
+    "Content": "Personales"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "CozynQu2",
+  "unique_id": "Qq7oZTnm",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Apellido"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "C7KIEBJS",
+  "unique_id": "dysuXP2x",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

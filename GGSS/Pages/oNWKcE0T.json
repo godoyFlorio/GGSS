@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Calle/Numero"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "R6ZUzXZB",
+  "unique_id": "oNWKcE0T",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

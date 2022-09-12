@@ -1,0 +1,14 @@
+{
+  "name": "button",
+  "value": "button",
+  "values": {
+    "ButtonText": "Agregar"
+  },
+  "type": "element",
+  "path": "button.tpl",
+  "parent": "lc2zZnVb",
+  "unique_id": "uAKQL4Zg",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

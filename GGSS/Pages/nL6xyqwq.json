@@ -1,0 +1,14 @@
+{
+  "name": "Estudios",
+  "value": "div",
+  "values": {
+    "class": "theme.unidadInputs"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "kTsX54AX",
+  "unique_id": "nL6xyqwq",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

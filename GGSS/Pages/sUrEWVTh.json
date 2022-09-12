@@ -1,0 +1,14 @@
+{
+  "name": "Sub Title Section",
+  "value": "div",
+  "values": {
+    "class": "theme.mainABMTitle"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "JdlZz72W",
+  "unique_id": "sUrEWVTh",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

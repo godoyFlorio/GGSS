@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Nacionalidad:"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "8kw1RwuZ",
+  "unique_id": "aIoxMpTU",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

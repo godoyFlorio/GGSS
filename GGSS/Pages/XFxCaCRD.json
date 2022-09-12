@@ -1,0 +1,14 @@
+{
+  "name": "Modificar",
+  "value": "div",
+  "values": {
+    "class": "theme.modificarCrud"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "DdAEcPT6",
+  "unique_id": "XFxCaCRD",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "C.U.I.L.:",
+  "value": "div",
+  "values": {
+    "class": "theme.unidadInputs"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "KmbEMiWn",
+  "unique_id": "SEg7K2LG",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

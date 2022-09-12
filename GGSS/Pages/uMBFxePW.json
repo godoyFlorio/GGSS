@@ -1,0 +1,14 @@
+{
+  "name": "Perfil",
+  "value": "div",
+  "values": {
+    "class": "theme.choferButtons"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "CRUISeg2",
+  "unique_id": "uMBFxePW",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

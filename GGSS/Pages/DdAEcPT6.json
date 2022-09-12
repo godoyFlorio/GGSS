@@ -1,0 +1,14 @@
+{
+  "name": "Crud Bar Section",
+  "value": "div",
+  "values": {
+    "class": "theme.crudBarSection"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "6PuPKghL",
+  "unique_id": "DdAEcPT6",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

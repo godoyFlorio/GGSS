@@ -1,0 +1,14 @@
+{
+  "name": "Perfil",
+  "value": "div",
+  "values": {
+    "class": "theme.choferButtons"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "VyXD5ZEO",
+  "unique_id": "AzJSVvx6",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

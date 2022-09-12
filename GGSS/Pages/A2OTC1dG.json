@@ -1,0 +1,14 @@
+{
+  "name": "Crud Bar",
+  "value": "div",
+  "values": {
+    "class": "theme.cudBarProveedores"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "tPEziZxf",
+  "unique_id": "A2OTC1dG",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

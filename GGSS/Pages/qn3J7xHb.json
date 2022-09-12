@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Tipo y Nro Doc.:"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "ZrPXBZWO",
+  "unique_id": "qn3J7xHb",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

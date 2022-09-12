@@ -1,9 +1,15 @@
 {
-  "name": "Before Page Render",
+  "path": "bpr.tpl",
+  "completePath": "elements\\Aptugo Internal Use\\bpr.tpl",
   "type": "element",
-  "value": "bpr",
+  "unique_id": "ZIT01bbn",
+  "icon": "ico-field",
+  "sourceType": "javascript",
+  "internalUse": true,
   "prevent_delete": true,
+  "name": "Before Page Render",
+  "value": "bpr",
   "cascades": false,
   "parent": "Hin6cFn2",
-  "unique_id": "ZIT01bbn"
+  "collapseStatus": "collapse"
 }

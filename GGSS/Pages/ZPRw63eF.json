@@ -1,0 +1,14 @@
+{
+  "name": "button",
+  "value": "button",
+  "values": {
+    "ButtonText": "Listar"
+  },
+  "type": "element",
+  "path": "button.tpl",
+  "parent": "hnV6iqXQ",
+  "unique_id": "ZPRw63eF",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

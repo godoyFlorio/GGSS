@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Examinar"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "UmQfyKT2",
+  "unique_id": "tfPfx0Rb",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

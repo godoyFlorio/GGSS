@@ -1,0 +1,14 @@
+{
+  "name": "Localidad/CP",
+  "value": "div",
+  "values": {
+    "class": "theme.title"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "oC8qehRf",
+  "unique_id": "iOlzT2hv",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

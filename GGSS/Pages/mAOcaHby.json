@@ -1,0 +1,14 @@
+{
+  "name": "Nacionalidad",
+  "value": "div",
+  "values": {
+    "class": "theme.unidadInputs"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "AWxMmUzO",
+  "unique_id": "mAOcaHby",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

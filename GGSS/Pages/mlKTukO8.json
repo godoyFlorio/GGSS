@@ -1,8 +1,8 @@
 {
   "unique_id": "mlKTukO8",
-  "name": "Personales",
-  "path": "/Personales",
-  "filename": "personales.tsx",
+  "name": "PersonalesPrueba",
+  "path": "/PersonalesPrueba",
+  "filename": "personalesprueba.tsx",
   "priority": 5,
   "type": "page",
   "parent": "JAg0dXCC",

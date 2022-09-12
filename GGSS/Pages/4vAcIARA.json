@@ -1,0 +1,14 @@
+{
+  "name": "Title",
+  "value": "div",
+  "values": {
+    "class": "theme.textDiv"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "eArsJug4",
+  "unique_id": "4vAcIARA",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

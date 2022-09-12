@@ -1,0 +1,14 @@
+{
+  "name": "Buttons - Cancel / Select",
+  "value": "div",
+  "values": {
+    "class": "theme.choferButtonAceptar"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "hA8an7r8",
+  "unique_id": "LaIlKt7e",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

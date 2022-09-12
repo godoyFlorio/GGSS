@@ -1,0 +1,14 @@
+{
+  "name": "Piso/Dpto/Ofic/Torre",
+  "value": "div",
+  "values": {
+    "class": "theme.title"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "k83t2P9T",
+  "unique_id": "gQDadobx",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

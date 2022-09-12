@@ -1,0 +1,14 @@
+{
+  "name": "Nombres",
+  "value": "div",
+  "values": {
+    "class": "theme.title"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "keyxtIbT",
+  "unique_id": "P2P4LRvf",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

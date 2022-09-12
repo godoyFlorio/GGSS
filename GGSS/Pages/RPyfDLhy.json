@@ -1,0 +1,14 @@
+{
+  "name": "Text Content",
+  "value": "text",
+  "values": {
+    "Content": "Personales"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "niJZKUCw",
+  "unique_id": "RPyfDLhy",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

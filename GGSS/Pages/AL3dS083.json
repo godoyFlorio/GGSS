@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Departamento"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "tOqfhUkz",
+  "unique_id": "AL3dS083",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

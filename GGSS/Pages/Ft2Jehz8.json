@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "MASCULINO "
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "lFu8T1C9",
+  "unique_id": "Ft2Jehz8",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

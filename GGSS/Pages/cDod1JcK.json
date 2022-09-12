@@ -1,0 +1,14 @@
+{
+  "name": "E-mail:",
+  "value": "div",
+  "values": {
+    "class": "theme.unidadInputs"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "AWxMmUzO",
+  "unique_id": "cDod1JcK",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

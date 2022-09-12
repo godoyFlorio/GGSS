@@ -1,0 +1,14 @@
+{
+  "name": "Text Content",
+  "value": "text",
+  "values": {
+    "Content": "Domicilios"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "1egIowsF",
+  "unique_id": "A47c85MH",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

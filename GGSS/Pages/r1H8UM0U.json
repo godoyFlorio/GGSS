@@ -1,0 +1,14 @@
+{
+  "name": "Eliminar",
+  "value": "div",
+  "values": {
+    "class": "theme.eliminarCrud"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "mGy5R0oK",
+  "unique_id": "r1H8UM0U",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

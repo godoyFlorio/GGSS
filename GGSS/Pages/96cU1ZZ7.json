@@ -1,0 +1,14 @@
+{
+  "name": "Movil",
+  "value": "div",
+  "values": {
+    "class": "theme.unidadInputs"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "VyXD5ZEO",
+  "unique_id": "96cU1ZZ7",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

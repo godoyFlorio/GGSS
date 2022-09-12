@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Perfil"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "paFeReRA",
+  "unique_id": "qc20ikDH",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}
