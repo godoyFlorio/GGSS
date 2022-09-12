@@ -1,8 +1,8 @@
 {
-  "unique_id": "uuiSy3iJ",
   "path": "bpr.tpl",
   "completePath": "elements\\Aptugo Internal Use\\bpr.tpl",
   "type": "element",
+  "unique_id": "uuiSy3iJ",
   "icon": "ico-field",
   "sourceType": "javascript",
   "internalUse": true,

@@ -1,8 +1,8 @@
 {
-  "unique_id": "CevsGXDE",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
   "type": "element",
+  "unique_id": "CevsGXDE",
   "icon": "ico-div",
   "sourceType": "javascript",
   "options": [

@@ -1,0 +1,268 @@
+//Body
+.taller{
+    & .sidebar{
+        & :global(.MuiPaper-root){
+            background-color: rgba(19, 23, 32, 1);
+            width: 225px;
+        }
+    
+        .sidebarLogo{
+            margin-left: 47px;
+            margin-top: 20px;
+        }
+    
+        .moduleTitle{
+            margin-left: 47px;
+            margin-top: 24px;
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 22px;
+            color: #FFFFFF;
+        }
+    
+        .sidebarElements{
+            padding-left: 18px;
+            margin-top: 37px;
+            display: block;
+            height: 421px;
+            width: 199px;
+            
+            .sidebarTaller{
+                div > div > div > .icon{
+                    margin-left: -15px;
+                    margin-right: 15px;
+                }
+    
+                div > div > svg{
+                    color:#4A5A68;
+                    padding-right: 27px;
+                }
+    
+                div > div > div > .tallerText{
+                    font-family: 'Poppins';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 13px;
+                    line-height: 20px;
+                    color: #E2E8ED;
+                }
+
+                [class*='MuiAccordionDetails']{
+                    font-family: 'Poppins';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 13px;
+                    line-height: 20px;
+                    color: #E2E8ED;
+                    margin-left: 11px;
+                    max-width: 160px;
+                }
+
+                [class*='Mui-expanded']{
+                    background: #1A2232;
+                    width: 250px;
+                    margin-left: -18px;
+                    padding-left: 24px;
+                    margin-right: 15px;
+                }
+
+                [class*='MuiAccordionDetails-root']:hover{
+                    background: #293247;
+                    margin-left: -24px;
+                    padding-left: 51px;
+                }
+            }
+    
+            .sidebarHome{
+                display: flex;
+                .icon{
+                    margin-right: 15px;
+                }
+    
+                .homeText{
+                    font-family: 'Poppins';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 13px;
+                    line-height: 20px;
+                    color: #E2E8ED;
+                }
+            }
+    
+            .separador{
+                border: 1px solid #1C2934;                
+                margin-top: 25px;
+            }
+    
+    
+            a{
+                .sidebarHome{
+                    display: flex;
+                    cursor: pointer;
+                    .icon{
+                        margin-right: 15px;
+                    }
+                    &.icon2{
+                        position: relative;
+                        left: -25px;
+                        top: 2px;
+                    }
+    
+                    .homeText{
+                        font-family: 'Poppins';
+                        font-style: normal;
+                        font-weight: 400;
+                        font-size: 13px;
+                        line-height: 20px;
+                        color: #E2E8ED;
+                    }
+                    
+                }
+            }
+        }
+    }
+
+    .centerSection{
+        .centerContainer{
+            margin-left: 288px;
+            margin-top: 74px;
+
+            .welcomeSection{
+                display: flex;
+                gap: 138px;
+
+                .bienvenidoText{
+                    width: 478px;
+                    height: 215px;
+
+                    .bigText{
+                        h2{
+                            font-family: 'Poppins';
+                            font-style: normal;
+                            font-weight: 400;
+                            font-size: 46px;
+                            line-height: 56px;
+                            color: #003C70;
+                        }
+                    }
+
+                    .smallText{
+                        font-family: 'Poppins';
+                        font-style: normal;
+                        font-weight: 400;
+                        font-size: 24px;
+                        line-height: 29px;
+                        color: #4A5A68;
+                    }
+                }
+
+            }
+
+            .secondSection{
+                margin-top: 92px;
+                display: flex;
+                gap: 107px;
+
+                .subMenus{
+                    width: 340px;
+                    height: 415px;
+
+                    .divTitle{
+                        font-family: 'Poppins';
+                        font-style: normal;
+                        font-weight: 400;
+                        font-size: 24px;
+                        line-height: 29px;
+                        color: #003C70;
+                        margin-bottom: 27px;
+                    }
+
+                    .divSub{
+                        width: 319px;
+                        height: 96px;
+                        font-family: 'Poppins';
+                        font-style: normal;
+                        font-weight: 400;
+                        font-size: 16px;
+                        line-height: 24px;
+                        color: #4A5A68;
+                        margin-bottom: 38px;
+                    }
+                }
+
+                .accesosDiv{
+                    width: 340px;
+                    height: 415px;
+
+                    .divTitle{
+                        font-family: 'Poppins';
+                        font-style: normal;
+                        font-weight: 400;
+                        font-size: 24px;
+                        line-height: 29px;
+                        color: #003C70;
+                        margin-bottom: 27px;
+                    }
+
+                    .divSub{
+                        width: 319px;
+                        height: 96px;
+                        font-family: 'Poppins';
+                        font-style: normal;
+                        font-weight: 400;
+                        font-size: 16px;
+                        line-height: 24px;
+                        color: #4A5A68;
+                        margin-bottom: 38px;
+                    }
+
+                    .underText{
+                        width: 319px;
+                        height: 72px;
+                        font-family: 'Poppins';
+                        font-style: normal;
+                        font-weight: 400;
+                        font-size: 16px;
+                        line-height: 24px;
+                        color: #4A5A68;
+                    }
+                }
+
+                .soporteDiv{
+                    width: 340px;
+                    height: 415px;
+
+                    .divTitle{
+                        font-family: 'Poppins';
+                        font-style: normal;
+                        font-weight: 400;
+                        font-size: 24px;
+                        line-height: 29px;
+                        color: #003C70;
+                        margin-bottom: 27px;
+                    }
+
+                    .divSub{
+                        width: 319px;
+                        height: 96px;
+                        font-family: 'Poppins';
+                        font-style: normal;
+                        font-weight: 400;
+                        font-size: 16px;
+                        line-height: 24px;
+                        color: #4A5A68;
+                        margin-bottom: 38px;
+                    }
+                }
+            }
+        }
+    }
+    }
+
+//container
+//title sections
+//main section
+//subTitle section
+//crudbar

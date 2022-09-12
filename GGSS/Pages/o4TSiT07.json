@@ -1,4 +1,5 @@
 {
+  "unique_id": "o4TSiT07",
   "name": "Aceptar",
   "value": "button",
   "values": {
@@ -8,7 +9,6 @@
   "type": "element",
   "path": "button.tpl",
   "parent": "ThOd54GB",
-  "unique_id": "o4TSiT07",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"
