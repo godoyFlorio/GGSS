@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Egreso (baja):"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "6i6LqWIo",
+  "unique_id": "1syVuR80",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

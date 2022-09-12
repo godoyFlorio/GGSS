@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Observaciones"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "70BEw12V",
+  "unique_id": "MTPOveQD",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "searchField",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "value": "searchField",
+  "collapseStatus": "expand",
+  "values": {
+    "table": "TJBzGo6B"
+  },
+  "parent": "VnekgL2b",
+  "unique_id": "2cx5Hss1"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Main Section",
+  "value": "div",
+  "values": {
+    "class": "theme.mainChoferes"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "yoTFTIzP",
+  "unique_id": "WEJwZCCT",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

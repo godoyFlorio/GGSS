@@ -1,0 +1,14 @@
+{
+  "name": "Telefono fijo",
+  "value": "div",
+  "values": {
+    "class": "theme.unidadInputs"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "TdrSJ0C0",
+  "unique_id": "7u2uhlKl",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

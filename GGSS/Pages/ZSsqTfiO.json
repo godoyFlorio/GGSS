@@ -1,0 +1,14 @@
+{
+  "name": "Nombres",
+  "value": "div",
+  "values": {
+    "class": "theme.unidadInputs"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "TdTLp67E",
+  "unique_id": "ZSsqTfiO",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

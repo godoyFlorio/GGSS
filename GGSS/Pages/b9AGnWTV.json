@@ -1,0 +1,14 @@
+{
+  "name": "Espacio vacio",
+  "value": "div",
+  "values": {
+    "class": "theme.checkboxChoferes"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "Pk12edhm",
+  "unique_id": "b9AGnWTV",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

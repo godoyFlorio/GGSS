@@ -1,8 +1,8 @@
 {
+  "unique_id": "a0cm95WT",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
   "type": "element",
-  "unique_id": "a0cm95WT",
   "icon": "ico-div",
   "sourceType": "javascript",
   "options": [

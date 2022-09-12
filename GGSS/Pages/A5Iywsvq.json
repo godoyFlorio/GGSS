@@ -1,0 +1,14 @@
+{
+  "name": "Tipo y Nro Doc",
+  "value": "div",
+  "values": {
+    "class": "theme.title"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "7Tark8Zf",
+  "unique_id": "A5Iywsvq",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

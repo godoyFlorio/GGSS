@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Localidad/CP"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "NTNpmxMR",
+  "unique_id": "NvmqiEVy",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

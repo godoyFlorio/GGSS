@@ -1,0 +1,14 @@
+{
+  "name": "button",
+  "value": "button",
+  "values": {
+    "ButtonText": "Eliminar"
+  },
+  "type": "element",
+  "path": "button.tpl",
+  "parent": "0WGDXTm4",
+  "unique_id": "QD1hae3z",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

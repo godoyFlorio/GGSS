@@ -1,0 +1,14 @@
+{
+  "name": "C.U.I.L.:",
+  "value": "div",
+  "values": {
+    "class": "theme.title"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "lidJnH5r",
+  "unique_id": "igGxkCmG",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

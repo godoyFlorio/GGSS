@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "E-mail:"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "9AMzZnUP",
+  "unique_id": "IzA3tEzt",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

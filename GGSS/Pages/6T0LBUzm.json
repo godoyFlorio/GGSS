@@ -1,7 +1,7 @@
 {
+  "unique_id": "6T0LBUzm",
   "path": "image.tpl",
   "completePath": "elements/Material-UI/image.tpl",
-  "unique_id": "6T0LBUzm",
   "icon": "ico-image",
   "helpText": "Easily use images from Assets or the web",
   "options": [

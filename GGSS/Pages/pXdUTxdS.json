@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Piso/Dpto/Ofic/Torre"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "TC47uVCg",
+  "unique_id": "pXdUTxdS",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

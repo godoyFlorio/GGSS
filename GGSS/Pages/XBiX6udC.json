@@ -1,0 +1,14 @@
+{
+  "name": "Departamento",
+  "value": "div",
+  "values": {
+    "class": "theme.unidadInputs"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "XGLmTZ0k",
+  "unique_id": "XBiX6udC",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

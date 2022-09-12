@@ -1,0 +1,14 @@
+{
+  "name": "Sub Title",
+  "value": "div",
+  "values": {
+    "class": "theme.textDiv"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "GlBuWxSW",
+  "unique_id": "Enfq7KXT",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

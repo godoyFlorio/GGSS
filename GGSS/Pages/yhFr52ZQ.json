@@ -1,0 +1,14 @@
+{
+  "name": "Calle/Numero",
+  "value": "div",
+  "values": {
+    "class": "theme.unidadInputs"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "tyeCqUdA",
+  "unique_id": "yhFr52ZQ",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

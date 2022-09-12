@@ -1,0 +1,14 @@
+{
+  "name": "Crud Bar Choferes",
+  "value": "div",
+  "values": {
+    "class": "theme.crudBarChoferes"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "TPmKWcv5",
+  "unique_id": "L6EpRqfv",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

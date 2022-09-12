@@ -1,0 +1,14 @@
+{
+  "name": "Buttons",
+  "value": "div",
+  "values": {
+    "class": "theme.choferButtons"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "tyeCqUdA",
+  "unique_id": "Bmdp4B4C",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

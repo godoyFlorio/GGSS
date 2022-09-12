@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Nacimiento:"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "T97PgLdy",
+  "unique_id": "4RHigbX0",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

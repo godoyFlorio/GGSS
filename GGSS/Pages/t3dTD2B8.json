@@ -1,0 +1,14 @@
+{
+  "name": "Observaciones",
+  "value": "div",
+  "values": {
+    "class": "theme.title"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "VAKpTecN",
+  "unique_id": "t3dTD2B8",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

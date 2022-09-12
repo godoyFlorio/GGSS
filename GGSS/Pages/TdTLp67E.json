@@ -1,0 +1,14 @@
+{
+  "name": "Right Section",
+  "value": "div",
+  "values": {
+    "class": "theme.rightChoferesSection"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "waU890IJ",
+  "unique_id": "TdTLp67E",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

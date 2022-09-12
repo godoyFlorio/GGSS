@@ -1,0 +1,14 @@
+{
+  "name": "Estado Civil:",
+  "value": "div",
+  "values": {
+    "class": "theme.unidadInputs"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "IQs2eXJA",
+  "unique_id": "4ZhMrmsL",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

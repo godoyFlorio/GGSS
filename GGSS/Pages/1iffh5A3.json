@@ -1,0 +1,14 @@
+{
+  "name": "E-mail:",
+  "value": "div",
+  "values": {
+    "class": "theme.titleChofer"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "MiWTccG7",
+  "unique_id": "1iffh5A3",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "País de origen:",
+  "value": "div",
+  "values": {
+    "class": "theme.titleChofer"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "IRacG06n",
+  "unique_id": "UU24VWD1",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

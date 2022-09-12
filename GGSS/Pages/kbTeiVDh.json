@@ -1,0 +1,14 @@
+{
+  "name": "Estado:",
+  "value": "div",
+  "values": {
+    "class": "theme.title"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "TCRMC42s",
+  "unique_id": "kbTeiVDh",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

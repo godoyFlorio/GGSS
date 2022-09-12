@@ -1,0 +1,14 @@
+{
+  "name": "Barrio",
+  "value": "div",
+  "values": {
+    "class": "theme.title"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "zitXdUTm",
+  "unique_id": "4RMpO8Se",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

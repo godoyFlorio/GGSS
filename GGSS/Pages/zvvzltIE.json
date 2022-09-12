@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Estado Civil:"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "dSKDX25B",
+  "unique_id": "zvvzltIE",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

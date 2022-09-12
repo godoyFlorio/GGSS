@@ -1,0 +1,13 @@
+{
+  "name": "searchField",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "value": "searchField",
+  "collapseStatus": "expand",
+  "values": {
+    "table": "SJUuhfEz"
+  },
+  "parent": "VMToRAnx",
+  "unique_id": "VbK2P37M"
+}

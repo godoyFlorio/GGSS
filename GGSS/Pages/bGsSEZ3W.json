@@ -1,0 +1,14 @@
+{
+  "name": "Title Section",
+  "value": "div",
+  "values": {
+    "class": "theme.mainABMTitle"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "dzacmRLe",
+  "unique_id": "bGsSEZ3W",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

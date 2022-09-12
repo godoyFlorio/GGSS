@@ -1,0 +1,14 @@
+{
+  "name": "Boton Examinar",
+  "value": "div",
+  "values": {
+    "class": "theme.choferButtonCancelar"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "6pXRo2D6",
+  "unique_id": "PuKTp28D",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Before Page Render",
+  "type": "element",
+  "value": "bpr",
+  "prevent_delete": true,
+  "cascades": false,
+  "collapseStatus": "collapse",
+  "parent": "2eNt4Idk",
+  "unique_id": "n04oB5cm"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Table Area",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "collapseStatus": "expand",
+  "values": {
+    "class": "classes.tableResponsive"
+  },
+  "parent": "ac146ZGA",
+  "unique_id": "vq8wMnoD"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Examinar"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "PuKTp28D",
+  "unique_id": "POAdppGp",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

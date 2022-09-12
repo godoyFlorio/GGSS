@@ -1,0 +1,14 @@
+{
+  "name": "Observaciones",
+  "value": "div",
+  "values": {
+    "class": "theme.unidadInputs"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "FISbv53u",
+  "unique_id": "Em9ywdyw",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Provincia",
+  "value": "div",
+  "values": {
+    "class": "theme.unidadInputs"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "5sTMKvX1",
+  "unique_id": "fECf43pi",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

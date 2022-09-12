@@ -1,0 +1,13 @@
+{
+  "path": "ph.tpl",
+  "completePath": "elements/Aptugo Internal Use/ph.tpl",
+  "unique_id": "hGQ5ZpQS",
+  "prevent_delete": true,
+  "icon": "ico-field",
+  "name": "Page Header",
+  "type": "element",
+  "value": "ph",
+  "cascades": false,
+  "parent": "2kQlgX3b",
+  "collapseStatus": "expand"
+}

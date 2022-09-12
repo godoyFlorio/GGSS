@@ -1,0 +1,14 @@
+{
+  "name": "button",
+  "value": "button",
+  "values": {
+    "ButtonText": "Salir"
+  },
+  "type": "element",
+  "path": "button.tpl",
+  "parent": "CdL7K5G1",
+  "unique_id": "7FsuiQTM",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

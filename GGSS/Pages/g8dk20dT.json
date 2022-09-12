@@ -1,0 +1,14 @@
+{
+  "name": "Egreso",
+  "value": "div",
+  "values": {
+    "class": "theme.titleChofer"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "mX920rn7",
+  "unique_id": "g8dk20dT",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

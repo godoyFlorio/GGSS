@@ -1,0 +1,14 @@
+{
+  "name": "Estudios",
+  "value": "div",
+  "values": {
+    "class": "theme.titleChofer"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "mX920rn7",
+  "unique_id": "hnUrJ5LP",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "LEGAJO N°"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "eiBCwdWA",
+  "unique_id": "vymcwyMt",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

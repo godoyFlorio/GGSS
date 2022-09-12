@@ -1,0 +1,14 @@
+{
+  "name": "Estado Civil:",
+  "value": "div",
+  "values": {
+    "class": "theme.titleChofer"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "sKp8QLHD",
+  "unique_id": "9haSwfXq",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

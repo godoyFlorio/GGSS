@@ -1,0 +1,14 @@
+{
+  "name": "AQUI VA SEXO MASCULINO FEMENINO CON CHECKS",
+  "value": "div",
+  "values": {
+    "class": "theme.unidadInputs"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "TdTLp67E",
+  "unique_id": "kmrU0mlc",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

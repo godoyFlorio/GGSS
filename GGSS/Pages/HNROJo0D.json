@@ -1,0 +1,14 @@
+{
+  "name": "Legajo N",
+  "value": "div",
+  "values": {
+    "class": "theme.title"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "SWdeZb87",
+  "unique_id": "HNROJo0D",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

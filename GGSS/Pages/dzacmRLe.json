@@ -1,0 +1,14 @@
+{
+  "name": "Container",
+  "value": "Container",
+  "values": {
+    "className": "theme.choferes"
+  },
+  "type": "element",
+  "path": "Container.tpl",
+  "parent": "6E21noNw",
+  "unique_id": "dzacmRLe",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

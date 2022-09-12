@@ -1,0 +1,14 @@
+{
+  "name": "Center Section Up",
+  "value": "div",
+  "values": {
+    "class": "theme.centerChoferesSection"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "0zIA70gF",
+  "unique_id": "WuggnicN",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

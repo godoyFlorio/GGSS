@@ -1,0 +1,14 @@
+{
+  "name": "Predeterminado",
+  "value": "div",
+  "values": {
+    "class": "theme.unidadInputs"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "HirnF917",
+  "unique_id": "DGf29TCS",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

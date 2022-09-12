@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Nacionalidad:"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "GIbNpAAS",
+  "unique_id": "4uxb2fRO",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Estado:"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "Pz6A4eLI",
+  "unique_id": "3N9QNABS",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}
