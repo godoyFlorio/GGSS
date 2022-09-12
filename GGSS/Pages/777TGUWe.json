@@ -1,0 +1,16 @@
+{
+  "unique_id": "777TGUWe",
+  "name": "gridCentral",
+  "parent": "GzOsOa7x",
+  "path": "grid.tpl",
+  "completePath": "elements/Material-UI/grid.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "grid",
+  "values": {
+    "midcolumns": "4",
+    "className": "theme.GridCentralPaso4"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "7ON75pu2",
+  "name": "Mecánico",
+  "parent": "fZNSfPLr",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Mecánico"
+  },
+  "prevent_delete": false
+}

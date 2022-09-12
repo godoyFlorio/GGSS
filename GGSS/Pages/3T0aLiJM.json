@@ -1,0 +1,15 @@
+{
+  "name": "useState",
+  "value": "useState",
+  "values": {
+    "variableName": "dataCharacters",
+    "defaultValue": "{\n    character: ''\n}"
+  },
+  "type": "element",
+  "path": "useState.tpl",
+  "parent": "DsxVSiUn",
+  "unique_id": "3T0aLiJM",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

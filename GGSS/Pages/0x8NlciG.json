@@ -1,0 +1,15 @@
+{
+  "unique_id": "0x8NlciG",
+  "name": "15W40",
+  "parent": "S64TXF7B",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "15W40"
+  },
+  "prevent_delete": false
+}

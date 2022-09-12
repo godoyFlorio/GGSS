@@ -1,0 +1,15 @@
+{
+  "unique_id": "rlm45MRE",
+  "name": "Text Content",
+  "parent": "BEDvQKnM",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Inicio de Tareas"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,20 @@
+{
+  "unique_id": "FENXUwBm",
+  "name": "Litros",
+  "parent": "3avwpaIi",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "",
+    "fieldname": "usNombre",
+    "className": "",
+    "placeholder": "Litros",
+    "variant": "outlined",
+    "type": "text"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "zbqkutMs",
+  "name": " div text Descripcion",
+  "parent": "kTV8ksbt",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.divtextProvincia"
+  },
+  "prevent_delete": false
+}

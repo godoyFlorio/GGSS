@@ -1,0 +1,13 @@
+{
+  "unique_id": "tyvELfPZ",
+  "path": "accordionSummary.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionSummary.tpl",
+  "name": "Taller - wrapper",
+  "value": "accordionSummary",
+  "values": {},
+  "type": "element",
+  "parent": "CmC5We5c",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

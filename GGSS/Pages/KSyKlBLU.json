@@ -1,0 +1,15 @@
+{
+  "unique_id": "KSyKlBLU",
+  "name": "MaterialIcon",
+  "parent": "0HTbxhxs",
+  "path": "MaterialIcon.tpl",
+  "completePath": "elements\\Material-UI\\MaterialIcon.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "MaterialIcon",
+  "values": {
+    "icon": "ArrowBackIosNew"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,16 @@
+{
+  "unique_id": "DSue5CgK",
+  "name": "Cancelar",
+  "parent": "yhBTP5yv",
+  "path": "button.tpl",
+  "completePath": "elements/Material-UI/button.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Cancelar",
+    "icon": "Add"
+  },
+  "prevent_delete": false
+}

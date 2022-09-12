@@ -1,0 +1,12 @@
+{
+  "unique_id": "dzCxILTe",
+  "name": "accordion",
+  "value": "accordion",
+  "values": {},
+  "type": "element",
+  "path": "accordion.tpl",
+  "parent": "EMBmPPwF",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,36 @@
+{
+  "unique_id": "C0pqyyEQ",
+  "path": "MaterialIcon.tpl",
+  "completePath": "elements\\Material-UI\\MaterialIcon.tpl",
+  "type": "element",
+  "icon": "ico-icon-button",
+  "helpText": "Shows a material icon from the list",
+  "options": [
+    {
+      "name": "icon",
+      "display": "Icon",
+      "type": "text",
+      "options": "Access"
+    },
+    {
+      "name": "color",
+      "display": "Color",
+      "type": "dropdown",
+      "options": "default;primary;secondary;action;disabled"
+    },
+    {
+      "name": "className",
+      "display": "className",
+      "type": "styles"
+    }
+  ],
+  "name": "MaterialIcon",
+  "value": "MaterialIcon",
+  "values": {
+    "icon": "ArrowBackIosNew"
+  },
+  "parent": "VRyUugsG",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

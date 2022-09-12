@@ -1,0 +1,15 @@
+{
+  "unique_id": "GWRhF0l8",
+  "name": "Mantenimiento",
+  "parent": "yfmPEibt",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.mantenimiento"
+  },
+  "prevent_delete": false
+}

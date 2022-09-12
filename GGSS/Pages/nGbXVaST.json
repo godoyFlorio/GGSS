@@ -1,0 +1,15 @@
+{
+  "unique_id": "nGbXVaST",
+  "name": "Fecha",
+  "parent": "UN9pKRCJ",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.inputs"
+  },
+  "prevent_delete": false
+}

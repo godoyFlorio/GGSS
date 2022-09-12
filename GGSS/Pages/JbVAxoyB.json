@@ -1,0 +1,15 @@
+{
+  "unique_id": "JbVAxoyB",
+  "name": "MaterialIcon",
+  "parent": "9ACQ9ohl",
+  "path": "MaterialIcon.tpl",
+  "completePath": "elements\\Material-UI\\MaterialIcon.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "MaterialIcon",
+  "values": {
+    "icon": "MoreVert"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "mWat26Ww",
+  "name": "Ayudante",
+  "parent": "sfEeK7hA",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Ayudante"
+  },
+  "prevent_delete": false
+}

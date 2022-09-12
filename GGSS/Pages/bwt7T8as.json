@@ -1,0 +1,15 @@
+{
+  "unique_id": "bwt7T8as",
+  "name": "Distancia - litros",
+  "parent": "FFMu5Rov",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.abmTrazas2"
+  },
+  "prevent_delete": false
+}

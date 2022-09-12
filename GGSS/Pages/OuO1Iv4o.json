@@ -1,0 +1,15 @@
+{
+  "unique_id": "OuO1Iv4o",
+  "name": "div",
+  "parent": "CZQ3QcHB",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.checkbox"
+  },
+  "prevent_delete": false
+}

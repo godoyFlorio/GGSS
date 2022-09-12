@@ -1,0 +1,15 @@
+{
+  "unique_id": "tFGy0IRg",
+  "name": "Pasar automáticamente el estado de la unidad a ",
+  "parent": "MDw8wroc",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Pasar automáticamente el estado de la unidad a "
+  },
+  "prevent_delete": false
+}

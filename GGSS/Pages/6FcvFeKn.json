@@ -1,0 +1,15 @@
+{
+  "unique_id": "6FcvFeKn",
+  "name": "div",
+  "parent": "IAzkuMza",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.textBotton"
+  },
+  "prevent_delete": false
+}

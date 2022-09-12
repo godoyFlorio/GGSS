@@ -1,0 +1,15 @@
+{
+  "unique_id": "FH8P9eb0",
+  "name": "Exit Button",
+  "parent": "V99eAE6O",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.exitButton"
+  },
+  "prevent_delete": false
+}

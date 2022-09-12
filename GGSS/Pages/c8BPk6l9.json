@@ -1,0 +1,15 @@
+{
+  "unique_id": "c8BPk6l9",
+  "name": "div checkbox Unidad Propia",
+  "parent": "L5rc5O82",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.divCheckbox"
+  },
+  "prevent_delete": false
+}

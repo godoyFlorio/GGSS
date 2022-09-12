@@ -1,0 +1,15 @@
+{
+  "unique_id": "vetwekt4",
+  "name": "Input Options",
+  "parent": "qEuR9ZfD",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.inputOptions"
+  },
+  "prevent_delete": false
+}

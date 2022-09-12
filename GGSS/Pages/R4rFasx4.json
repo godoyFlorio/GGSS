@@ -1,0 +1,15 @@
+{
+  "unique_id": "R4rFasx4",
+  "name": "Text Content",
+  "parent": "rRkFdDJ2",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Taller Córdoba"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,20 @@
+{
+  "unique_id": "NhDMCTdJ",
+  "name": "Córdoba",
+  "parent": "vetwekt4",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "",
+    "fieldname": "usNombre",
+    "className": "",
+    "placeholder": "Córdoba",
+    "variant": "outlined",
+    "type": "text"
+  },
+  "prevent_delete": false
+}

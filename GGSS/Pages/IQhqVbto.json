@@ -1,0 +1,11 @@
+{
+  "unique_id": "IQhqVbto",
+  "name": "Application Root",
+  "type": "page",
+  "subtype": "cascade",
+  "prevent_delete": true,
+  "path": "",
+  "parent": null,
+  "collapseStatus": "expand",
+  "warning": "IQhqVbto.json does not exist"
+}

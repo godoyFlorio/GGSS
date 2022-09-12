@@ -1,0 +1,16 @@
+{
+  "unique_id": "Z1l6c1Ap",
+  "name": "Agregar",
+  "parent": "FXv8M02Q",
+  "path": "button.tpl",
+  "completePath": "elements\\Material-UI\\button.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Agregar",
+    "icon": "Add"
+  },
+  "prevent_delete": false
+}

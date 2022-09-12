@@ -1,0 +1,15 @@
+{
+  "unique_id": "vmuGpw8Z",
+  "name": "MaterialIcon",
+  "parent": "nASgI6HR",
+  "path": "MaterialIcon.tpl",
+  "completePath": "elements\\Material-UI\\MaterialIcon.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "MaterialIcon",
+  "values": {
+    "icon": "ArrowBackIosNew"
+  },
+  "prevent_delete": false
+}

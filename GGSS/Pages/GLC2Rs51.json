@@ -1,0 +1,13 @@
+{
+  "unique_id": "GLC2Rs51",
+  "path": "accordionSummary.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionSummary.tpl",
+  "name": "Unidades - wrapper",
+  "value": "accordionSummary",
+  "values": {},
+  "type": "element",
+  "parent": "LKB2Nl78",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

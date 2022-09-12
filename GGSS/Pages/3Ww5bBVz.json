@@ -1,0 +1,15 @@
+{
+  "unique_id": "3Ww5bBVz",
+  "name": "Equipamiento",
+  "parent": "TEiPRRKE",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.divsMan"
+  },
+  "prevent_delete": false
+}

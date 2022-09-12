@@ -1,0 +1,32 @@
+{
+  "unique_id": "RT7a1IaQ",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "type": "element",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    }
+  ],
+  "name": "Registro de trabajos realizados",
+  "value": "text",
+  "values": {
+    "Content": "Registro de trabajos realizados"
+  },
+  "parent": "pMnVR7MK",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

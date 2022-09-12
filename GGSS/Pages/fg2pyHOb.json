@@ -1,0 +1,15 @@
+{
+  "unique_id": "fg2pyHOb",
+  "name": "Con Pedido",
+  "parent": "FSlWrm8X",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Con Pedido"
+  },
+  "prevent_delete": false
+}

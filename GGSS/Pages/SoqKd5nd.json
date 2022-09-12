@@ -1,0 +1,15 @@
+{
+  "unique_id": "SoqKd5nd",
+  "name": "ABM Select - Inputs",
+  "parent": "hFlCxJz0",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.abmSelectsInputs"
+  },
+  "prevent_delete": false
+}

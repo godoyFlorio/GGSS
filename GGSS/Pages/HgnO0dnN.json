@@ -1,0 +1,15 @@
+{
+  "unique_id": "HgnO0dnN",
+  "name": "div",
+  "parent": "HQgb4lOS",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.flexRutas"
+  },
+  "prevent_delete": false
+}

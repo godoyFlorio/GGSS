@@ -1,0 +1,15 @@
+{
+  "unique_id": "W4XKSisx",
+  "name": "div",
+  "parent": "sMVKekIS",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.salir"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,16 @@
+{
+  "unique_id": "qOq20Bzo",
+  "name": "text",
+  "parent": "9ACQ9ohl",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Méndez, Roberto",
+    "ClassName": "theme.textLogin"
+  },
+  "prevent_delete": false
+}

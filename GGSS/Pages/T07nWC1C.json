@@ -1,0 +1,14 @@
+{
+  "name": "Bastidor y Chasis",
+  "value": "text",
+  "values": {
+    "Content": "Bastidor y Chasis"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "hXyxTMHZ",
+  "unique_id": "T07nWC1C",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

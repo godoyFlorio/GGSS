@@ -1,0 +1,17 @@
+{
+  "unique_id": "E8fhDSgC",
+  "name": "Bastidor y Chasis",
+  "originalName": "typography",
+  "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
+  "parent": "OZ3fusU0",
+  "path": "typography.tpl",
+  "completePath": "elements/Material-UI/typography.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "typography",
+  "values": {
+    "tag": "body1"
+  },
+  "prevent_delete": false
+}

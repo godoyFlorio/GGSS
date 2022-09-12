@@ -1,0 +1,15 @@
+{
+  "unique_id": "K4KwIw77",
+  "name": "Chapa y pintura",
+  "parent": "twdWKRo9",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Chapa y pintura"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "9dx93DMk",
+  "name": "Especialidades",
+  "parent": "CBQw3WT7",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Especialidades"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,18 @@
+{
+  "unique_id": "iveTlzKx",
+  "name": "grid titulos",
+  "parent": "TAM7AN4t",
+  "path": "grid.tpl",
+  "completePath": "elements/Material-UI/grid.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "grid",
+  "values": {
+    "className": "theme.gridTitulos",
+    "container": true,
+    "smallcolumns": "",
+    "midcolumns": "12"
+  },
+  "prevent_delete": false
+}

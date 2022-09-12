@@ -1,0 +1,15 @@
+{
+  "unique_id": "QH7Zn9Jg",
+  "name": "Combustibles",
+  "parent": "Hp9Xn1AW",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Combustibles"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "UFGBd6e4",
+  "name": "Reales anteriores",
+  "parent": "UGGCq0gg",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.divsKm"
+  },
+  "prevent_delete": false
+}

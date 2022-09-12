@@ -1,0 +1,15 @@
+{
+  "unique_id": "lUHVFTy1",
+  "name": "Primario Completo",
+  "parent": "ok6FrFSD",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Primario Completo"
+  },
+  "prevent_delete": false
+}

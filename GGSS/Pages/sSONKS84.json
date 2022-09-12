@@ -1,0 +1,12 @@
+{
+  "unique_id": "sSONKS84",
+  "path": "accordionDetails.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionDetails.tpl",
+  "name": "Estados de las unidades",
+  "parent": "tupkNeyp",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "accordionDetails",
+  "prevent_delete": false
+}

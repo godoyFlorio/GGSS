@@ -1,0 +1,18 @@
+{
+  "unique_id": "3rvdAdQH",
+  "name": "checkbox",
+  "parent": "kdrHAQxz",
+  "path": "checkbox.tpl",
+  "completePath": "elements\\Material-UI\\checkbox.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "checkbox",
+  "values": {
+    "Checked": "check",
+    "OnClick": "",
+    "label": "Reparar soportes de espejo retrovisor",
+    "margin": "none"
+  },
+  "prevent_delete": false
+}

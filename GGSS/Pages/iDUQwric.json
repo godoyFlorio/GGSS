@@ -1,0 +1,19 @@
+{
+  "unique_id": "iDUQwric",
+  "name": "Ingresar Kms",
+  "parent": "D4oFAXLn",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "placeholder": "Ingresar Kms",
+    "className": "theme.inputs",
+    "variant": "outlined",
+    "margin": "none",
+    "type": "text"
+  },
+  "prevent_delete": false
+}

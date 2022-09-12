@@ -1,0 +1,12 @@
+{
+  "name": "Paper",
+  "value": "Paper",
+  "values": {},
+  "type": "element",
+  "path": "Paper.tpl",
+  "parent": "Jarvch4R",
+  "unique_id": "oeU61gWy",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

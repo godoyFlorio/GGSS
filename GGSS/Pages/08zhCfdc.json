@@ -1,0 +1,14 @@
+{
+  "name": "Neumáticos",
+  "value": "text",
+  "values": {
+    "Content": "Neumáticos"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "IFe7pC5T",
+  "unique_id": "08zhCfdc",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

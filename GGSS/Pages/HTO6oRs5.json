@@ -1,0 +1,28 @@
+{
+  "unique_id": "HTO6oRs5",
+  "path": "list.tpl",
+  "completePath": "elements/Material-UI/list.tpl",
+  "type": "element",
+  "icon": "ico-list",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "disablePadding",
+      "display": "Disable Padding",
+      "type": "checkbox",
+      "options": ""
+    }
+  ],
+  "name": "list",
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "XsDgHRpl",
+  "value": "list",
+  "collapseStatus": "expand"
+}

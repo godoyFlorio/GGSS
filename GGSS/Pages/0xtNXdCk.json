@@ -1,0 +1,15 @@
+{
+  "unique_id": "0xtNXdCk",
+  "name": "Lugar de abastecimiento predeterminado",
+  "parent": "nyulaLdn",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Lugar de abastecimiento predeterminado"
+  },
+  "prevent_delete": false
+}

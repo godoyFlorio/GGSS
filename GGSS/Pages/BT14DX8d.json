@@ -1,0 +1,12 @@
+{
+  "unique_id": "BT14DX8d",
+  "name": "accordion",
+  "parent": "6BNF9tsc",
+  "path": "accordion.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordion.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "accordion",
+  "prevent_delete": false
+}

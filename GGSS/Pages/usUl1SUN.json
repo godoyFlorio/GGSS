@@ -1,0 +1,13 @@
+{
+  "unique_id": "usUl1SUN",
+  "name": "typography",
+  "parent": "6i0DtPbo",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "typography",
+  "values": {
+    "tag": "h5"
+  },
+  "prevent_delete": false
+}

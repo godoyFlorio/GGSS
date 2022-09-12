@@ -1,0 +1,32 @@
+{
+  "unique_id": "6V5Xt41B",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "type": "element",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    }
+  ],
+  "name": "Motor",
+  "value": "text",
+  "values": {
+    "Content": "Motor"
+  },
+  "parent": "2oEJrJ2K",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

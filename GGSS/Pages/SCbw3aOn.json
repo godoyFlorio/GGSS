@@ -1,0 +1,15 @@
+{
+  "unique_id": "SCbw3aOn",
+  "name": "text",
+  "parent": "C7Ps4FWL",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Gestoría"
+  },
+  "prevent_delete": false
+}

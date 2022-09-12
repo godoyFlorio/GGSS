@@ -1,0 +1,12 @@
+{
+  "unique_id": "1tD3N9oV",
+  "name": "Bajo",
+  "parent": "ktGqI6RK",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Bajo"
+  },
+  "prevent_delete": false
+}

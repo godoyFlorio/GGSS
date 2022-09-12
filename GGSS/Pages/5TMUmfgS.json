@@ -1,0 +1,17 @@
+{
+  "unique_id": "5TMUmfgS",
+  "name": "grid ingreso Taller",
+  "parent": "iveTlzKx",
+  "path": "grid.tpl",
+  "completePath": "elements/Material-UI/grid.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "grid",
+  "values": {
+    "smallcolumns": "",
+    "midcolumns": "10",
+    "className": "theme.ingTaller"
+  },
+  "prevent_delete": false
+}

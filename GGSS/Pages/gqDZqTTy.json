@@ -1,0 +1,14 @@
+{
+  "unique_id": "gqDZqTTy",
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "{item.Direcciones}"
+  },
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "eTd9La1K",
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "o0GnrI2e",
+  "name": "Funciones",
+  "parent": "lm844DxP",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Funciones"
+  },
+  "prevent_delete": false
+}

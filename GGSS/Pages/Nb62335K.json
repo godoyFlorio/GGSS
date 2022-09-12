@@ -1,0 +1,14 @@
+{
+  "unique_id": "Nb62335K",
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Código de fábrica"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "g2magqlC",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

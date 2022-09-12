@@ -1,0 +1,15 @@
+{
+  "unique_id": "Gvhuqx4Z",
+  "name": "Nombre Modulo",
+  "parent": "mHbUIs3b",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.moduloNombrestock"
+  },
+  "prevent_delete": false
+}

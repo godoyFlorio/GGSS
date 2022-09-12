@@ -1,0 +1,16 @@
+{
+  "unique_id": "12XhT21O",
+  "name": "Modificar",
+  "parent": "SRacH2D5",
+  "path": "button.tpl",
+  "completePath": "elements/Material-UI/button.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Modificar",
+    "icon": "Home"
+  },
+  "prevent_delete": false
+}

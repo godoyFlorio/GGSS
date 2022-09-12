@@ -1,0 +1,15 @@
+{
+  "unique_id": "MKL0yz8V",
+  "name": "Aceite fino",
+  "parent": "XTrThsNl",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Aceite fino"
+  },
+  "prevent_delete": false
+}

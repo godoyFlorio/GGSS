@@ -1,0 +1,20 @@
+{
+  "unique_id": "FxA6dght",
+  "name": "Ingresar observaciones",
+  "parent": "WxM5NxZ6",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "Ingresar observaciones",
+    "fieldname": "usNombre",
+    "className": "",
+    "placeholder": "",
+    "variant": "outlined",
+    "type": "text"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "rugZVcP2",
+  "path": "accordionSummary.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionSummary.tpl",
+  "name": "Wrapper",
+  "value": "accordionSummary",
+  "values": {},
+  "type": "element",
+  "parent": "MHavFrmJ",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

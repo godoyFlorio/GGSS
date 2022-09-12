@@ -1,0 +1,15 @@
+{
+  "unique_id": "rQ4KkzB8",
+  "name": "Activable",
+  "parent": "O8JqQlb6",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Activable"
+  },
+  "prevent_delete": false
+}

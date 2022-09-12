@@ -1,0 +1,15 @@
+{
+  "unique_id": "rkck5e7r",
+  "name": "div salir Provincia",
+  "parent": "9R54CPGX",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.salirProvincia"
+  },
+  "prevent_delete": false
+}

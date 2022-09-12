@@ -1,0 +1,15 @@
+{
+  "unique_id": "OFwUqI8n",
+  "name": "div",
+  "parent": "TWhKcwzy",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.botonGuardarCambios"
+  },
+  "prevent_delete": false
+}

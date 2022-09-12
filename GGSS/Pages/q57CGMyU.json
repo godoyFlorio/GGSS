@@ -1,0 +1,15 @@
+{
+  "unique_id": "q57CGMyU",
+  "name": "Seleccionar Rubro",
+  "parent": "9vvBLcJF",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Seleccionar Rubro"
+  },
+  "prevent_delete": false
+}

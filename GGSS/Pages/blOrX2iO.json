@@ -1,0 +1,16 @@
+{
+  "unique_id": "blOrX2iO",
+  "name": "Modificar",
+  "parent": "dVDl07Er",
+  "path": "button.tpl",
+  "completePath": "elements\\Material-UI\\button.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Modificar",
+    "icon": "Home"
+  },
+  "prevent_delete": false
+}

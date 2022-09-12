@@ -1,0 +1,12 @@
+{
+  "unique_id": "bXuE8JEb",
+  "name": "Input",
+  "parent": "ydb30emq",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.abmInput"
+  },
+  "prevent_delete": false
+}

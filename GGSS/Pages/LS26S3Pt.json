@@ -1,0 +1,15 @@
+{
+  "unique_id": "LS26S3Pt",
+  "name": "Input Options",
+  "parent": "NrsxfCZ4",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.inputOptions"
+  },
+  "prevent_delete": false
+}

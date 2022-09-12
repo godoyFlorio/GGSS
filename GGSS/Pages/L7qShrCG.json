@@ -1,0 +1,15 @@
+{
+  "unique_id": "L7qShrCG",
+  "name": "Center section",
+  "parent": "znScTHHd",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.centerSection"
+  },
+  "prevent_delete": false
+}

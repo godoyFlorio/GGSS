@@ -1,0 +1,16 @@
+{
+  "unique_id": "Wc5PbgLJ",
+  "name": "text",
+  "parent": "AUZRpAbW",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Córdoba",
+    "ClassName": "theme.fieldText"
+  },
+  "prevent_delete": false
+}

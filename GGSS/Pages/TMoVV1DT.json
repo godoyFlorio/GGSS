@@ -1,13 +1,31 @@
 {
+  "unique_id": "TMoVV1DT",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "type": "element",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    }
+  ],
   "name": "text",
   "value": "text",
   "values": {
     "Content": "Predeterminado"
   },
-  "type": "element",
-  "path": "text.tpl",
   "parent": "O2yQzR09",
-  "unique_id": "TMoVV1DT",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

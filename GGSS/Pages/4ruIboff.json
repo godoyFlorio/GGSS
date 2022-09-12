@@ -1,0 +1,12 @@
+{
+  "name": "accordionDetails",
+  "value": "accordionDetails",
+  "values": {},
+  "type": "element",
+  "path": "accordionDetails.tpl",
+  "parent": "fnVOtsqf",
+  "unique_id": "4ruIboff",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

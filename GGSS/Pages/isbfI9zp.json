@@ -1,0 +1,10 @@
+{
+  "unique_id": "isbfI9zp",
+  "name": "Dashboard",
+  "type": "page",
+  "path": "/",
+  "filename": "dashboard.tsx",
+  "prevent_delete": false,
+  "collapseStatus": "expand",
+  "parent": "iUg8HFHh"
+}

@@ -1,0 +1,18 @@
+{
+  "unique_id": "rUyTftER",
+  "name": "Observaciones",
+  "value": "field",
+  "values": {
+    "Field": "z3mzUJGn",
+    "Type": "edit",
+    "margin": "normal",
+    "variant": "filled",
+    "autosave": false
+  },
+  "type": "element",
+  "path": "field.tpl",
+  "parent": "chUVUFfk",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

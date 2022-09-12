@@ -1,0 +1,15 @@
+{
+  "unique_id": "UymgG8DH",
+  "name": "Text Content",
+  "parent": "zWuMqEf4",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Cabina"
+  },
+  "prevent_delete": false
+}

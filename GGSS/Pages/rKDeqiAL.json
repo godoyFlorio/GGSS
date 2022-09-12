@@ -1,0 +1,14 @@
+{
+  "name": "Hidráulico",
+  "value": "text",
+  "values": {
+    "Content": "Hidráulico"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "S37m3krK",
+  "unique_id": "rKDeqiAL",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

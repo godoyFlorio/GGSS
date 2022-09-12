@@ -1,0 +1,10 @@
+{
+  "unique_id": "z3k166bg",
+  "name": "ABM-Unidades de taller",
+  "path": "/menu/taller/unidades-taller",
+  "filename": "unidadestaller.tsx",
+  "priority": 5,
+  "type": "page",
+  "parent": "qFKncRK7",
+  "collapseStatus": "collapse"
+}

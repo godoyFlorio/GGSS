@@ -1,0 +1,15 @@
+{
+  "unique_id": "y4eUXIq1",
+  "name": "text",
+  "parent": "TKb90bam",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Módulos"
+  },
+  "prevent_delete": false
+}

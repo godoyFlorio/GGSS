@@ -1,0 +1,15 @@
+{
+  "unique_id": "ElH2VBsJ",
+  "name": "Generales",
+  "parent": "0rZHLRWf",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Generales"
+  },
+  "prevent_delete": false
+}

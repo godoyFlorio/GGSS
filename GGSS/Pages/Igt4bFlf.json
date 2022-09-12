@@ -1,0 +1,16 @@
+{
+  "unique_id": "Igt4bFlf",
+  "name": "Cancelar",
+  "parent": "gmn09x36",
+  "path": "button.tpl",
+  "completePath": "elements\\Material-UI\\button.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "Color": "inherit",
+    "ButtonText": "Cancelar"
+  },
+  "prevent_delete": false
+}

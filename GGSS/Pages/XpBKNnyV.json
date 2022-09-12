@@ -1,0 +1,15 @@
+{
+  "unique_id": "XpBKNnyV",
+  "name": "Tipos de combustible",
+  "parent": "3Erk0iCm",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Tipos de combustible"
+  },
+  "prevent_delete": false
+}

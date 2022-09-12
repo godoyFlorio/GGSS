@@ -1,0 +1,17 @@
+{
+  "unique_id": "GzOsOa7x",
+  "name": "grid contenedor Columnas Paso4",
+  "parent": "TAM7AN4t",
+  "path": "grid.tpl",
+  "completePath": "elements/Material-UI/grid.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "grid",
+  "values": {
+    "container": true,
+    "className": "theme.contenedorGridsPaso4",
+    "midcolumns": "12"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,12 @@
+{
+  "unique_id": "g1LGIFah",
+  "name": "Incluir en accesos directos",
+  "parent": "e90GDLKs",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.IncluirAccesosDirectos"
+  },
+  "prevent_delete": false
+}

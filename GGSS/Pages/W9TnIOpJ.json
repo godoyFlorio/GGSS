@@ -1,0 +1,15 @@
+{
+  "unique_id": "W9TnIOpJ",
+  "name": "Grasa negra",
+  "parent": "G7e5hU1s",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Grasa negra"
+  },
+  "prevent_delete": false
+}

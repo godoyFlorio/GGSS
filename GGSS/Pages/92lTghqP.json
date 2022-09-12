@@ -1,0 +1,13 @@
+{
+  "unique_id": "92lTghqP",
+  "name": "Incluir en accesos directos",
+  "parent": "iNBG2IEx",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.IncluirAccesosDirectos"
+  },
+  "prevent_delete": false
+}

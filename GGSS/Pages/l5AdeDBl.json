@@ -1,0 +1,15 @@
+{
+  "unique_id": "l5AdeDBl",
+  "name": "Text Content",
+  "parent": "5xkV3n2C",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Informe Línea 2"
+  },
+  "prevent_delete": false
+}

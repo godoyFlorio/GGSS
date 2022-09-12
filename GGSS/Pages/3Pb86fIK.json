@@ -1,0 +1,43 @@
+{
+  "unique_id": "3Pb86fIK",
+  "path": "listItemText.tpl",
+  "completePath": "elements/Material-UI/listItemText.tpl",
+  "type": "element",
+  "icon": "ico-list-item",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "text",
+      "display": "Text",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "secondaryText",
+      "display": "Secondary Text",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "onClick",
+      "display": "On Click",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "name": "listItemText",
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "HTO6oRs5",
+  "value": "listItemText",
+  "collapseStatus": "expand",
+  "values": {
+    "text": "{item.descripcion}"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "unique_id": "3PvEFtBX",
+  "name": "Medio",
+  "parent": "ZnJiduNg",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Medio"
+  },
+  "prevent_delete": false
+}

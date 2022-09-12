@@ -1,0 +1,15 @@
+{
+  "unique_id": "6LXxz98b",
+  "name": "En venta",
+  "parent": "hNx9zvT2",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "En venta"
+  },
+  "prevent_delete": false
+}

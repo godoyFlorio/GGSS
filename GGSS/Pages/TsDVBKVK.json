@@ -1,0 +1,25 @@
+{
+  "unique_id": "TsDVBKVK",
+  "path": "dummyEncloser.tpl",
+  "completePath": "elements/Basic/dummyEncloser.tpl",
+  "icon": "ico-dummy-enclosure",
+  "helpText": "Organizational unit with no render value",
+  "options": [
+    {
+      "name": "titleAsComment",
+      "display": "Use Name as Comment",
+      "type": "checkbox",
+      "options": ""
+    }
+  ],
+  "name": "Radio",
+  "value": "dummyEncloser",
+  "values": {
+    "titleAsComment": true
+  },
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "wHy1kKCN",
+  "collapseStatus": "collapse"
+}

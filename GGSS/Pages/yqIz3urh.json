@@ -1,0 +1,15 @@
+{
+  "unique_id": "yqIz3urh",
+  "name": "text",
+  "parent": "kRQeJsta",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Tomar nombre de usuario de Login"
+  },
+  "prevent_delete": false
+}

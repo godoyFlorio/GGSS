@@ -1,0 +1,13 @@
+{
+  "unique_id": "TgALCZzR",
+  "name": "text",
+  "parent": "OHRQ5Vsl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Reset your Password"
+  },
+  "prevent_delete": false
+}

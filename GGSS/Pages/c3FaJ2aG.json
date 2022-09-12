@@ -1,0 +1,15 @@
+{
+  "unique_id": "c3FaJ2aG",
+  "name": "Select",
+  "parent": "bELWsv5E",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.abmSelect"
+  },
+  "prevent_delete": false
+}

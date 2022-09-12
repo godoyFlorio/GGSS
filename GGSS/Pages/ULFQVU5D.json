@@ -1,0 +1,10 @@
+{
+  "unique_id": "ULFQVU5D",
+  "name": "Before Page Render",
+  "type": "element",
+  "value": "bpr",
+  "prevent_delete": true,
+  "cascades": false,
+  "collapseStatus": "collapse",
+  "parent": "WH9Q1lsk"
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "NoTsXhcK",
+  "name": "Mantenimiento - gomería",
+  "parent": "IcdKVkkC",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Mantenimiento - gomería"
+  },
+  "prevent_delete": false
+}

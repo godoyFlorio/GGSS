@@ -1,0 +1,15 @@
+{
+  "unique_id": "eUXvuRzU",
+  "name": "Auxiliar administrativo",
+  "parent": "KZRSPT4f",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Auxiliar administrativo"
+  },
+  "prevent_delete": false
+}

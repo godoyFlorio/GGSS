@@ -1,0 +1,16 @@
+{
+  "unique_id": "DQWgBpKw",
+  "name": "grid",
+  "parent": "zi2PTGvx",
+  "path": "grid.tpl",
+  "completePath": "elements/Material-UI/grid.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "grid",
+  "values": {
+    "className": "theme.contenedorPaso6Derecha",
+    "midcolumns": "6"
+  },
+  "prevent_delete": false
+}

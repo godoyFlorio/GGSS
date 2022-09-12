@@ -1,0 +1,15 @@
+{
+  "unique_id": "JZ13DGhX",
+  "name": "Paso 3b",
+  "parent": "zt24lODh",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.contenedorBotonesPaso3b"
+  },
+  "prevent_delete": false
+}

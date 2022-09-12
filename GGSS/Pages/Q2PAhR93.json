@@ -1,0 +1,16 @@
+{
+  "unique_id": "Q2PAhR93",
+  "name": "table",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "value": "table",
+  "collapseStatus": "expand",
+  "values": {
+    "table": "lOHhZA65",
+    "editProcedure": "Internal",
+    "title": "Table Title",
+    "headerColor": "rose"
+  },
+  "parent": "Zv5uJxmF"
+}

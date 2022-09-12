@@ -1,0 +1,15 @@
+{
+  "unique_id": "LT4Vu1Px",
+  "name": "Ayudante mantenimiento",
+  "parent": "rpohxNbK",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Ayudante mantenimiento"
+  },
+  "prevent_delete": false
+}

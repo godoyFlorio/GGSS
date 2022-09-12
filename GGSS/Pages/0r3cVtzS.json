@@ -1,0 +1,12 @@
+{
+  "unique_id": "0r3cVtzS",
+  "name": "Exit Button",
+  "parent": "7OBgPfiJ",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.exitButton"
+  },
+  "prevent_delete": false
+}

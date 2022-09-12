@@ -1,0 +1,15 @@
+{
+  "unique_id": "OQKMT73W",
+  "name": "En Revisión",
+  "parent": "b9I53kLl",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "En Revisión"
+  },
+  "prevent_delete": false
+}

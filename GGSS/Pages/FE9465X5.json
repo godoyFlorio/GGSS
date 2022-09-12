@@ -1,0 +1,18 @@
+{
+  "unique_id": "FE9465X5",
+  "name": "checkbox",
+  "parent": "kdrHAQxz",
+  "path": "checkbox.tpl",
+  "completePath": "elements\\Material-UI\\checkbox.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "checkbox",
+  "values": {
+    "Checked": "check",
+    "OnClick": "",
+    "label": "Desmontar puertas de cabina",
+    "margin": "none"
+  },
+  "prevent_delete": false
+}

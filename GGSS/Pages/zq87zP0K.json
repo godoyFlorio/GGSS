@@ -1,0 +1,15 @@
+{
+  "unique_id": "zq87zP0K",
+  "name": "CP",
+  "parent": "L9IOeSiV",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "CP"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "Tnu6yo9h",
+  "name": "Bella Vista",
+  "parent": "SWPonKKT",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Bella Vista"
+  },
+  "prevent_delete": false
+}

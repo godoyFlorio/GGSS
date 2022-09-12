@@ -1,0 +1,56 @@
+{
+  "unique_id": "aDDohU2B",
+  "path": "div.tpl",
+  "completePath": "elements/Material-UI/div.tpl",
+  "type": "element",
+  "icon": "ico-div",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "class",
+      "display": "ClassName",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "useid",
+      "display": "Use UniqueID as ID",
+      "type": "checkbox",
+      "options": ""
+    },
+    {
+      "name": "id",
+      "display": "ID",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "onclick",
+      "display": "On Click",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ref",
+      "display": "Use Reference",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "style",
+      "display": "Extra Styles",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "helpText": "Basic HTML Div element",
+  "name": "Field",
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "R98ABIq3",
+  "value": "div",
+  "collapseStatus": "expand",
+  "values": {
+    "class": "theme.bottomMedicionesSection"
+  }
+}

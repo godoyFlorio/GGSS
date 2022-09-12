@@ -1,9 +1,45 @@
 {
   "unique_id": "TTbhhxW4",
+  "path": "navLink.tpl",
+  "completePath": "elements\\Material-UI\\navLink.tpl",
+  "type": "element",
+  "icon": "ico-navlink",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Destination",
+      "display": "destination",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "destination",
+      "display": "Destination",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    },
+    {
+      "name": "activeClassname",
+      "display": "ClassName (active)",
+      "type": "styles",
+      "options": ""
+    },
+    {
+      "name": "linkText",
+      "display": "Text",
+      "type": "text",
+      "options": ""
+    }
+  ],
   "name": "navLink",
   "prevent_delete": false,
   "cascades": false,
-  "type": "element",
   "value": "navLink",
   "collapseStatus": "expand",
   "values": {

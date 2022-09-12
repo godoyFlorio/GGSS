@@ -1,0 +1,13 @@
+{
+  "path": "pf.tpl",
+  "completePath": "elements/Aptugo Internal Use/pf.tpl",
+  "unique_id": "K1k3rVxT",
+  "icon": "ico-field",
+  "name": "Page Footer",
+  "parent": "KbJ9NQIV",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "pf",
+  "prevent_delete": false
+}

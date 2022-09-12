@@ -1,0 +1,25 @@
+{
+  "unique_id": "PRBotDQR",
+  "path": "dummyEncloser.tpl",
+  "completePath": "elements/Basic/dummyEncloser.tpl",
+  "icon": "ico-dummy-enclosure",
+  "helpText": "Organizational unit with no render value",
+  "options": [
+    {
+      "name": "titleAsComment",
+      "display": "Use Name as Comment",
+      "type": "checkbox",
+      "options": ""
+    }
+  ],
+  "name": "Wrapper items",
+  "value": "dummyEncloser",
+  "values": {
+    "titleAsComment": true
+  },
+  "type": "element",
+  "parent": "J7TZwzl4",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "JXtHhwWL",
+  "name": "Nafta Super",
+  "parent": "TEZMxSEw",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Nafta Super"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,25 @@
+{
+  "unique_id": "eRXTJt9m",
+  "path": "dummyEncloser.tpl",
+  "completePath": "elements/Basic/dummyEncloser.tpl",
+  "icon": "ico-dummy-enclosure",
+  "helpText": "Organizational unit with no render value",
+  "options": [
+    {
+      "name": "titleAsComment",
+      "display": "Use Name as Comment",
+      "type": "checkbox",
+      "options": ""
+    }
+  ],
+  "name": "Wrapper items",
+  "parent": "dhIKzz0Q",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "dummyEncloser",
+  "values": {
+    "titleAsComment": true
+  },
+  "prevent_delete": false
+}

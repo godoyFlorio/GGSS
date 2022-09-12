@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "País de origen:"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "e9aWSB0c",
+  "unique_id": "tADsswl3",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

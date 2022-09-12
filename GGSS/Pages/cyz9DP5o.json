@@ -1,0 +1,13 @@
+{
+  "unique_id": "cyz9DP5o",
+  "path": "accordionDetails.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionDetails.tpl",
+  "name": "Datos del Equipamiento - wrapper",
+  "value": "accordionDetails",
+  "values": {},
+  "type": "element",
+  "parent": "oOzq2UfS",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

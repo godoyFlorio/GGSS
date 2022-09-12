@@ -1,0 +1,18 @@
+{
+  "unique_id": "SywvSM50",
+  "name": "checkbox",
+  "parent": "bCraCJfm",
+  "path": "checkbox.tpl",
+  "completePath": "elements\\Material-UI\\checkbox.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "checkbox",
+  "values": {
+    "Checked": "check",
+    "OnClick": "",
+    "label": "",
+    "Switch": true
+  },
+  "prevent_delete": false
+}

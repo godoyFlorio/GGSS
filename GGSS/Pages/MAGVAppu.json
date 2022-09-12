@@ -1,0 +1,13 @@
+{
+  "unique_id": "MAGVAppu",
+  "path": "accordion.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordion.tpl",
+  "name": "accordion",
+  "value": "accordion",
+  "values": {},
+  "type": "element",
+  "parent": "cyz9DP5o",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

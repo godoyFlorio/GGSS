@@ -1,0 +1,15 @@
+{
+  "unique_id": "1wh210yi",
+  "name": "Input",
+  "parent": "bELWsv5E",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.abmInput"
+  },
+  "prevent_delete": false
+}

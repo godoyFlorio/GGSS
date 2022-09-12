@@ -1,0 +1,13 @@
+{
+  "unique_id": "Iz3NRAN9",
+  "name": "text",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "collapseStatus": "expand",
+  "values": {
+    "Content": "<span>(you can edit me at the Page Manager)</span>"
+  },
+  "parent": "DI4XaWCD"
+}

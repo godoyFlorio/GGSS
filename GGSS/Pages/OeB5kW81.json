@@ -1,0 +1,16 @@
+{
+  "unique_id": "OeB5kW81",
+  "name": "gridDerecha",
+  "parent": "GzOsOa7x",
+  "path": "grid.tpl",
+  "completePath": "elements/Material-UI/grid.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "grid",
+  "values": {
+    "midcolumns": "4",
+    "className": "theme.GridDerechaPaso4"
+  },
+  "prevent_delete": false
+}

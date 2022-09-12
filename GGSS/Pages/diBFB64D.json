@@ -1,0 +1,17 @@
+{
+  "unique_id": "diBFB64D",
+  "name": "checkbox",
+  "value": "checkbox",
+  "values": {
+    "Checked": "false",
+    "OnClick": "",
+    "label": "",
+    "Switch": true
+  },
+  "type": "element",
+  "path": "checkbox.tpl",
+  "parent": "5Pplfzfa",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

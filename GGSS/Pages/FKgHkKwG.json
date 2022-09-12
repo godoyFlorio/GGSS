@@ -1,0 +1,15 @@
+{
+  "unique_id": "FKgHkKwG",
+  "name": "Incluir en accesos directos",
+  "parent": "HIHcU5c9",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Incluir en accesos directos"
+  },
+  "prevent_delete": false
+}

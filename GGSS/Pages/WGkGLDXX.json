@@ -1,0 +1,15 @@
+{
+  "unique_id": "WGkGLDXX",
+  "name": "Text Content",
+  "parent": "F7K5TF5Q",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "00"
+  },
+  "prevent_delete": false
+}

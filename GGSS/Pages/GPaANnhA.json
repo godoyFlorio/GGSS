@@ -1,0 +1,12 @@
+{
+  "unique_id": "GPaANnhA",
+  "name": "Defectuoso",
+  "parent": "GK9CMzlX",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Defectuoso"
+  },
+  "prevent_delete": false
+}

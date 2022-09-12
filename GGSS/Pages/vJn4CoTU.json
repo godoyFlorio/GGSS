@@ -1,0 +1,15 @@
+{
+  "unique_id": "vJn4CoTU",
+  "name": "Al seleccionar estos tipos de servicios en el ingreso de Unidad al taller",
+  "parent": "wsn17GRt",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Al seleccionar estos tipos de servicios en el ingreso de Unidad al taller"
+  },
+  "prevent_delete": false
+}

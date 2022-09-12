@@ -1,0 +1,15 @@
+{
+  "unique_id": "aq3TFb7w",
+  "name": "Exportar",
+  "parent": "4gNmi3L0",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Exportar"
+  },
+  "prevent_delete": false
+}

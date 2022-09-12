@@ -1,0 +1,10 @@
+{
+  "unique_id": "u7afDGKJ",
+  "name": "ABM-Sub rubros del taller",
+  "path": "/menu/taller/subrubros-taller",
+  "filename": "subrubros.tsx",
+  "priority": 5,
+  "type": "page",
+  "parent": "qFKncRK7",
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,10 @@
+{
+  "unique_id": "cdNRM3uI",
+  "name": "Solicitudes cerradas",
+  "path": "/menu/taller/solicitudescerradas",
+  "filename": "solicitudescerradas.tsx",
+  "priority": 5,
+  "type": "page",
+  "parent": "qFKncRK7",
+  "collapseStatus": "collapse"
+}

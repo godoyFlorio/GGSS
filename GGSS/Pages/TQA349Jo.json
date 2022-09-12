@@ -1,0 +1,14 @@
+{
+  "unique_id": "TQA349Jo",
+  "name": "Incluir en accesos directos",
+  "value": "text",
+  "values": {
+    "Content": "Incluir en accesos directos"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "lv64tDsg",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

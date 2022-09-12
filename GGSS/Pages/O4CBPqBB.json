@@ -1,0 +1,32 @@
+{
+  "unique_id": "O4CBPqBB",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "type": "element",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "name": "text",
+  "parent": "lcBuopiK",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "value": "text",
+  "values": {
+    "Content": "Para brindarte siempre el servicio que mereces, te ofrecemos un correo y un teléfono, para que nos contactes y nos hagas las consultas que necesites."
+  },
+  "prevent_delete": false
+}

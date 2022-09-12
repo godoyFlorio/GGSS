@@ -1,0 +1,15 @@
+{
+  "unique_id": "TDEIJAPN",
+  "name": "Text Content",
+  "parent": "hLTibsnk",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Volver"
+  },
+  "prevent_delete": false
+}

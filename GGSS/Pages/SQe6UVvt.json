@@ -1,0 +1,15 @@
+{
+  "unique_id": "SQe6UVvt",
+  "name": "Caja Trabajos correctivos",
+  "parent": "GWRhF0l8",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.cajaTC"
+  },
+  "prevent_delete": false
+}

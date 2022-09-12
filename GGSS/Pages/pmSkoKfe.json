@@ -1,0 +1,15 @@
+{
+  "unique_id": "pmSkoKfe",
+  "name": "Origen",
+  "parent": "OlsCWFTN",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Origen"
+  },
+  "prevent_delete": false
+}

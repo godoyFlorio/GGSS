@@ -1,0 +1,14 @@
+{
+  "unique_id": "Q32hi3eZ",
+  "name": "button",
+  "value": "button",
+  "values": {
+    "ButtonText": "Modificar"
+  },
+  "type": "element",
+  "path": "button.tpl",
+  "parent": "Gd6LrycU",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

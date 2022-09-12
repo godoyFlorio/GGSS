@@ -1,0 +1,32 @@
+{
+  "unique_id": "psVzGSHA",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "type": "element",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "name": "text",
+  "parent": "8tAif9oo",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "value": "text",
+  "values": {
+    "Content": "Para garantizarte un uso más eficiente y ágil de nuestra herramienta, podrás activar el acceso directo clicando en el interruptor: "
+  },
+  "prevent_delete": false
+}

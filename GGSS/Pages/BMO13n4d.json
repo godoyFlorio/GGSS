@@ -1,0 +1,13 @@
+{
+  "unique_id": "BMO13n4d",
+  "path": "accordionDetails.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionDetails.tpl",
+  "name": "Grupos para modelos",
+  "value": "accordionDetails",
+  "values": {},
+  "type": "element",
+  "parent": "iBMTfMbd",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

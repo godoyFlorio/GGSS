@@ -1,0 +1,15 @@
+{
+  "unique_id": "R8UJECcJ",
+  "name": "Text Content",
+  "parent": "bLl3v2ht",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Ruta de carpeta compartida"
+  },
+  "prevent_delete": false
+}

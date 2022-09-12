@@ -1,0 +1,32 @@
+{
+  "unique_id": "5cKgZ9rh",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "type": "element",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "name": "Asignación de equipamiento a una unidad",
+  "parent": "miHBluw5",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "value": "text",
+  "values": {
+    "Content": "Asignación de equipamiento a una unidad"
+  },
+  "prevent_delete": false
+}

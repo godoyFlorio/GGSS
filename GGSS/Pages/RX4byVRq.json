@@ -1,0 +1,15 @@
+{
+  "unique_id": "RX4byVRq",
+  "name": "Chilecito",
+  "parent": "Z0Zv3g6Z",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Chilecito"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "eK6Xh9WR",
+  "name": "Correctivo",
+  "parent": "8JlLt1OD",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Correctivo"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "lhsr6V61",
+  "name": "button",
+  "parent": "WL2mpTwZ",
+  "path": "button.tpl",
+  "completePath": "elements\\Material-UI\\button.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Examinar"
+  },
+  "prevent_delete": false
+}

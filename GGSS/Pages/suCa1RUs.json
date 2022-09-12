@@ -1,0 +1,15 @@
+{
+  "unique_id": "suCa1RUs",
+  "name": "Jefe de área",
+  "parent": "244m2XBg",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Jefe de área"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "5PfrqeQq",
+  "name": "typography",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "value": "typography",
+  "collapseStatus": "collapse",
+  "values": {
+    "tag": "h1"
+  },
+  "parent": "nMKWWxsZ"
+}

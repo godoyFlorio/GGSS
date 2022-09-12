@@ -1,0 +1,20 @@
+{
+  "unique_id": "mI7PcEQp",
+  "name": "15W40",
+  "parent": "S635cNRL",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "",
+    "fieldname": "usNombre",
+    "className": "",
+    "placeholder": "15W40",
+    "variant": "outlined",
+    "type": "text"
+  },
+  "prevent_delete": false
+}

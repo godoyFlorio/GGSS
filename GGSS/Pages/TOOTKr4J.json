@@ -1,0 +1,15 @@
+{
+  "unique_id": "TOOTKr4J",
+  "name": "Text Content",
+  "parent": "0Xldd0cM",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Cantidad de dias sin partes"
+  },
+  "prevent_delete": false
+}

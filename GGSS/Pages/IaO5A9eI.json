@@ -1,0 +1,16 @@
+{
+  "unique_id": "IaO5A9eI",
+  "name": " div text Seleccionar",
+  "parent": "8s9HZqRz",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.divSelecProvincia",
+    "useid": false
+  },
+  "prevent_delete": false
+}

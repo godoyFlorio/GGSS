@@ -1,0 +1,15 @@
+{
+  "unique_id": "QhcugSTT",
+  "name": "Descripción",
+  "parent": "qBDsWoiZ",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Descripción"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "GsucRe1Q",
+  "name": "Text Content",
+  "parent": "8sGmyLnU",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Taller"
+  },
+  "prevent_delete": false
+}

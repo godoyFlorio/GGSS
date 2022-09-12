@@ -1,0 +1,12 @@
+{
+  "unique_id": "4tvpMAP1",
+  "name": "Valores de medición",
+  "parent": "w0kPrSFM",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Valores de medición"
+  },
+  "prevent_delete": false
+}

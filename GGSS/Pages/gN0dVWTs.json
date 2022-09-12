@@ -1,0 +1,12 @@
+{
+  "unique_id": "gN0dVWTs",
+  "name": "ABM - CRUD Bar",
+  "parent": "P4VFTwq9",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.crudBar"
+  },
+  "prevent_delete": false
+}

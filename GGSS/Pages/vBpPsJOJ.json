@@ -1,0 +1,13 @@
+{
+  "unique_id": "vBpPsJOJ",
+  "name": "With Nonce",
+  "parent": "XlETIzD8",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "condition",
+  "values": {
+    "condition": "props.match.params.nonce"
+  },
+  "prevent_delete": false
+}

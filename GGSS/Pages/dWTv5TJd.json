@@ -1,0 +1,14 @@
+{
+  "unique_id": "dWTv5TJd",
+  "name": "Buttons",
+  "value": "div",
+  "values": {
+    "class": "theme.variablesUnidadesButtons"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "bmou3zsW",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

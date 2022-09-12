@@ -1,0 +1,15 @@
+{
+  "unique_id": "WvIP4Qmi",
+  "name": "div Contenedor tablacambiar",
+  "parent": "VN39ElTW",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.divContenedortablacambiar"
+  },
+  "prevent_delete": false
+}

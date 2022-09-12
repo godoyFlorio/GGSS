@@ -1,0 +1,25 @@
+{
+  "unique_id": "1FCVRQNA",
+  "name": "autolinking",
+  "parent": "ZwAsZG1o",
+  "path": "autolinking.tpl",
+  "completePath": "elements/Basic/autolinking.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "autolinking",
+  "values": {
+    "fromLink": "bEce1nL5"
+  },
+  "prevent_delete": false,
+  "icon": "ico-autolinking",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "fromLink",
+      "display": "From Link",
+      "type": "dropdown",
+      "options": "return aptugo.pageUtils.getAllPages()"
+    }
+  ]
+}

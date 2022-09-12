@@ -1,0 +1,12 @@
+{
+  "name": "Body",
+  "value": "div",
+  "values": {},
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "XrFv4340",
+  "unique_id": "U1G4OPSs",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

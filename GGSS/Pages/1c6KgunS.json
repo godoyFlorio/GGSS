@@ -1,0 +1,10 @@
+{
+  "unique_id": "1c6KgunS",
+  "name": "Body",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "collapseStatus": "expand",
+  "parent": "1CXix249"
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "Nq578zKl",
+  "name": "Paso 2b",
+  "parent": "zt24lODh",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.divcontenedorPaso2b"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "CZQ3QcHB",
+  "name": "div",
+  "parent": "0qACI79O",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.NombresCheckbox"
+  },
+  "prevent_delete": false
+}

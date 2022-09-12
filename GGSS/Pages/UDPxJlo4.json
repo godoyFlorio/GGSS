@@ -1,0 +1,15 @@
+{
+  "unique_id": "UDPxJlo4",
+  "name": "Text Content",
+  "parent": "wweuntr9",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Estado de solicitud"
+  },
+  "prevent_delete": false
+}

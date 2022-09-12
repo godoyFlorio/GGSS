@@ -1,0 +1,14 @@
+{
+  "name": "Combustibles",
+  "value": "text",
+  "values": {
+    "Content": "Combustibles"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "fWz4hHwT",
+  "unique_id": "NDqxy1ZR",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

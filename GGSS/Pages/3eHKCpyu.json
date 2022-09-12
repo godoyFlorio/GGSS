@@ -1,0 +1,16 @@
+{
+  "unique_id": "3eHKCpyu",
+  "name": "typography",
+  "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
+  "parent": "GJnV3n2T",
+  "path": "typography.tpl",
+  "completePath": "elements/Material-UI/typography.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "typography",
+  "values": {
+    "tag": "h5"
+  },
+  "prevent_delete": false
+}

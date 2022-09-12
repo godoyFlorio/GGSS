@@ -1,0 +1,13 @@
+{
+  "unique_id": "iwNfA8Ip",
+  "name": "typography",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "value": "typography",
+  "collapseStatus": "expand",
+  "values": {
+    "tag": "h4"
+  },
+  "parent": "s7Sy9S1N"
+}

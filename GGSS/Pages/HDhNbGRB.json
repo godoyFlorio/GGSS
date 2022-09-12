@@ -1,0 +1,16 @@
+{
+  "name": "function",
+  "value": "function",
+  "values": {
+    "functionName": "addCharacters",
+    "functionParameters": "",
+    "functionBody": ""
+  },
+  "type": "element",
+  "path": "function.tpl",
+  "parent": "DsxVSiUn",
+  "unique_id": "HDhNbGRB",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

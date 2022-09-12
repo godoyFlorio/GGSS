@@ -1,0 +1,14 @@
+{
+  "unique_id": "kbhcPSRU",
+  "name": "Calles",
+  "value": "text",
+  "values": {
+    "Content": "Calles"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "kvFnq0Sx",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,10 @@
+{
+  "unique_id": "4wCyLFGN",
+  "name": "ABM-Convenios",
+  "path": "/menu/taller/convenios",
+  "filename": "abmConvenios.tsx",
+  "priority": 5,
+  "type": "page",
+  "parent": "kifHVEzn",
+  "collapseStatus": "expand"
+}

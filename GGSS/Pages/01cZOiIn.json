@@ -1,0 +1,18 @@
+{
+  "unique_id": "01cZOiIn",
+  "name": "Nombre",
+  "value": "field",
+  "values": {
+    "Field": "Ic0HwtNU",
+    "Type": "edit",
+    "margin": "normal",
+    "variant": "filled",
+    "autosave": false
+  },
+  "type": "element",
+  "path": "field.tpl",
+  "parent": "zkLfeND7",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

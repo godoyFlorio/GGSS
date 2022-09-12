@@ -1,0 +1,15 @@
+{
+  "unique_id": "pa5C0zeT",
+  "name": "Text Content",
+  "parent": "vhysiwGS",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Interno número"
+  },
+  "prevent_delete": false
+}

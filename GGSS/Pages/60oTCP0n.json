@@ -1,0 +1,16 @@
+{
+  "unique_id": "60oTCP0n",
+  "name": "Title Container",
+  "parent": "VTnblFA5",
+  "path": "Container.tpl",
+  "completePath": "elements/Material-UI/Container.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "Container",
+  "values": {
+    "maxWidth": "lg",
+    "className": "theme.containerTitle"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,11 @@
+{
+  "unique_id": "5KyLsJ55",
+  "name": "Domicilios",
+  "path": "() => '/' + aptugo.activeApplication.tables.find(table => table.unique_id === \"lOHhZA65\").name",
+  "filename": "() => aptugo.activeApplication.tables.find(table => table.unique_id === \"lOHhZA65\").name + '.tsx'",
+  "priority": 5,
+  "asociated_table": "lOHhZA65",
+  "type": "page",
+  "parent": "JAg0dXCC",
+  "collapseStatus": "collapse"
+}

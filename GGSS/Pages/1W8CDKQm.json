@@ -1,0 +1,12 @@
+{
+  "unique_id": "1W8CDKQm",
+  "name": "Titulo",
+  "parent": "e90GDLKs",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.tituloAzulh4"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,17 @@
+{
+  "unique_id": "L8whiluk",
+  "name": "Center Container",
+  "parent": "oMOxqVWg",
+  "path": "Container.tpl",
+  "completePath": "elements\\Material-UI\\Container.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "Container",
+  "values": {
+    "maxWidth": "false",
+    "disableGutters": true,
+    "className": "theme.centerContainer"
+  },
+  "prevent_delete": false
+}

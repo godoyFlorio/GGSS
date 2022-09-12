@@ -1,0 +1,15 @@
+{
+  "unique_id": "D2d1Z3gR",
+  "name": "Coordinador",
+  "parent": "a3TNlcoU",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Coordinador"
+  },
+  "prevent_delete": false
+}

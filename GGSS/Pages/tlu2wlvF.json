@@ -1,0 +1,13 @@
+{
+  "unique_id": "tlu2wlvF",
+  "path": "accordion.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordion.tpl",
+  "name": "accordion",
+  "value": "accordion",
+  "values": {},
+  "type": "element",
+  "parent": "FnuZnq2z",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,17 @@
+{
+  "unique_id": "ENItiCU8",
+  "name": "Localidad",
+  "parent": "1Z5xcGGe",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "Córdoba Capital",
+    "fieldname": "usNombre",
+    "className": "theme.fieldACambiar"
+  },
+  "prevent_delete": false
+}

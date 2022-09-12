@@ -1,0 +1,18 @@
+{
+  "unique_id": "d5dAohV7",
+  "name": "checkbox",
+  "parent": "MPpsMl5H",
+  "path": "checkbox.tpl",
+  "completePath": "elements/Material-UI/checkbox.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "checkbox",
+  "values": {
+    "Checked": "false",
+    "OnClick": "",
+    "label": "",
+    "Switch": true
+  },
+  "prevent_delete": false
+}

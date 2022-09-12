@@ -1,0 +1,13 @@
+{
+  "unique_id": "eUTumJa3",
+  "name": "Listar",
+  "parent": "7OBgPfiJ",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Listar",
+    "icon": "Menu"
+  },
+  "prevent_delete": false
+}

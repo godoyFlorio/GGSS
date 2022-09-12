@@ -1,0 +1,15 @@
+{
+  "unique_id": "sMVKekIS",
+  "name": "div",
+  "parent": "wB2iDyFe",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.botonesPaso7"
+  },
+  "prevent_delete": false
+}

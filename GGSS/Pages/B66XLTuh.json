@@ -1,0 +1,32 @@
+{
+  "unique_id": "B66XLTuh",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "type": "element",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    }
+  ],
+  "name": "Observaciones",
+  "value": "text",
+  "values": {
+    "Content": "Observaciones"
+  },
+  "parent": "fGLhE6F3",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

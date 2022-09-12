@@ -1,0 +1,13 @@
+{
+  "unique_id": "G0sgnJO4",
+  "path": "accordionDetails.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionDetails.tpl",
+  "name": "Esquema de mantenimiento tecnico-mecanico",
+  "value": "accordionDetails",
+  "values": {},
+  "type": "element",
+  "parent": "uRDVMmnK",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

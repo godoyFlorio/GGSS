@@ -1,0 +1,14 @@
+{
+  "unique_id": "1VZU2FyV",
+  "name": "Wrapper items",
+  "value": "dummyEncloser",
+  "values": {
+    "titleAsComment": true
+  },
+  "type": "element",
+  "path": "dummyEncloser.tpl",
+  "parent": "dzCxILTe",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

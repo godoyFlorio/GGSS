@@ -1,0 +1,32 @@
+{
+  "unique_id": "75rDFVxc",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "type": "element",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    }
+  ],
+  "name": "Esquema de Mantenimiento Técnico - Mecánico",
+  "value": "text",
+  "values": {
+    "Content": "Esquema de Mantenimiento Técnico - Mecánico"
+  },
+  "parent": "L5ccx5aX",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

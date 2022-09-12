@@ -1,0 +1,14 @@
+{
+  "unique_id": "g2magqlC",
+  "name": "Código de fábrica",
+  "value": "div",
+  "values": {
+    "class": "theme.title"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "uv0x6JdU",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

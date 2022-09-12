@@ -1,0 +1,54 @@
+{
+  "unique_id": "qBrhIJli",
+  "path": "IconButton.tpl",
+  "completePath": "elements\\Material-UI\\IconButton.tpl",
+  "type": "element",
+  "icon": "ico-icon-button",
+  "options": [
+    {
+      "name": "Action",
+      "display": "Action",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "Color",
+      "display": "Color",
+      "type": "dropdown",
+      "options": "default;inherit;primary;secondary;error;info;success;warning",
+      "settings": {
+        "default": "primary"
+      }
+    },
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    },
+    {
+      "name": "icon",
+      "display": "Icon",
+      "type": "dropdown",
+      "options": "None;AcUnit;Add;AddShoppingCart;CallMade;ChevronLeft;ChevronRight;HelpOutline;Home;Link;MoreVert;Search;Send;ShoppingBasket;ShoppingCart;SportsBasketball;AllInbox;Menu;DeleteOutline;Favorite;Clear;Google;Facebook;Twitter;Person;ThumbUp"
+    },
+    {
+      "name": "iconstyle",
+      "display": "Icon Style",
+      "type": "dropdown",
+      "options": "Filled;Outlined;Rounded;TwoTone;Sharp"
+    }
+  ],
+  "sourceType": "javascript",
+  "name": "IconButton",
+  "value": "IconButton",
+  "values": {
+    "icon": "MoreVert",
+    "iconstyle": "Rounded",
+    "Color": "error"
+  },
+  "parent": "bzQU4HR1",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

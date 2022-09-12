@@ -1,0 +1,15 @@
+{
+  "unique_id": "DtC6iOke",
+  "name": "La Serenísima",
+  "parent": "PRdX4vKX",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "La Serenísima"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "accordion",
+  "value": "accordion",
+  "values": {},
+  "type": "element",
+  "path": "accordion.tpl",
+  "parent": "QfMaPthr",
+  "unique_id": "fnVOtsqf",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

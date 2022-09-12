@@ -1,0 +1,14 @@
+{
+  "unique_id": "5CiR67nQ",
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Equipamiento basico segun tipo de unidad"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "P1d58wRA",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

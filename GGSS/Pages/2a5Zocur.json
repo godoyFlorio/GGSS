@@ -1,0 +1,15 @@
+{
+  "unique_id": "2a5Zocur",
+  "name": "Taller",
+  "parent": "wqbxkrgB",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.tallerDiv"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "X75mV6dk",
+  "name": "80W90-XX",
+  "parent": "fnfF62rA",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "80W90-XX"
+  },
+  "prevent_delete": false
+}

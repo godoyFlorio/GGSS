@@ -1,0 +1,12 @@
+{
+  "unique_id": "4TM4vE29",
+  "name": "Equipamiento basico segun tipo de unidad",
+  "value": "accordionDetails",
+  "values": {},
+  "type": "element",
+  "path": "accordionDetails.tpl",
+  "parent": "1VZU2FyV",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

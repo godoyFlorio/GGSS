@@ -1,0 +1,10 @@
+{
+  "unique_id": "GNuVUOfO",
+  "name": "ABM-Artículos",
+  "path": "/menu/taller/articulos",
+  "filename": "abmArticulos.tsx",
+  "priority": 5,
+  "type": "page",
+  "parent": "qFKncRK7",
+  "collapseStatus": "expand"
+}

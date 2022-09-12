@@ -1,0 +1,45 @@
+{
+  "unique_id": "pnrbLXGb",
+  "path": "function.tpl",
+  "completePath": "elements/Programming/function.tpl",
+  "type": "element",
+  "icon": "ico-function",
+  "sourceType": "javascript",
+  "helpText": "Prepares a function to be called by other components and actions",
+  "options": [
+    {
+      "name": "functionName",
+      "display": "Function Name",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "functionParameters",
+      "display": "Parameters",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "functionBody",
+      "display": "Body",
+      "type": "function",
+      "options": ""
+    },
+    {
+      "name": "priority",
+      "display": "Priiority",
+      "type": "dropdown",
+      "options": "Normal;High;Low"
+    }
+  ],
+  "name": "handleLogin",
+  "parent": "ydW9cUzi",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "value": "function",
+  "values": {
+    "functionName": "handleLogin",
+    "functionBody": "AuthService.login(loginData.Email, loginData.Password).then(\n      (res) => {\n        console.log(res)\n        props.history.push('/mainmenu')\n      },\n      (error) => {\n        setloginError(error.response.data.message)\n      }\n    )"
+  },
+  "prevent_delete": false
+}

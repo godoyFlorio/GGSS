@@ -1,0 +1,12 @@
+{
+  "unique_id": "B4xhTELU",
+  "name": "Incluir en accesos directos",
+  "parent": "QHTMLu52",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Incluir en accesos directos"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "hxCF8yZV",
+  "path": "accordionDetails.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionDetails.tpl",
+  "name": "Marcas",
+  "value": "accordionDetails",
+  "values": {},
+  "type": "element",
+  "parent": "MKNJPbog",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "FtJ8VIaq",
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Articulos para equipamiento de las unidades"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "iJ27iVJ9",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

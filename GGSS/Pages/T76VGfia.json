@@ -1,0 +1,14 @@
+{
+  "name": "Provincia",
+  "value": "div",
+  "values": {
+    "class": "theme.titleChofer"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "semG7KVT",
+  "unique_id": "T76VGfia",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

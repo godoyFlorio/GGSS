@@ -1,0 +1,13 @@
+{
+  "unique_id": "HEFE4W0G",
+  "name": "Cancelar",
+  "parent": "kE7z9bGf",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Cancelar",
+    "icon": "Add"
+  },
+  "prevent_delete": false
+}

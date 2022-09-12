@@ -1,0 +1,17 @@
+{
+  "unique_id": "yfo5es6T",
+  "name": "Nombre",
+  "parent": "66ilXeZ8",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "Seleccionar lugar",
+    "fieldname": "usNombre",
+    "className": "theme.fieldACambiar"
+  },
+  "prevent_delete": false
+}

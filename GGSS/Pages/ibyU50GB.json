@@ -1,0 +1,14 @@
+{
+  "name": "Predeterminado",
+  "value": "div",
+  "values": {
+    "class": "theme.unidadInputs"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "ATofXsCo",
+  "unique_id": "ibyU50GB",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

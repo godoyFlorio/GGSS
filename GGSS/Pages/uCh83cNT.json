@@ -1,0 +1,12 @@
+{
+  "unique_id": "uCh83cNT",
+  "name": "typography",
+  "parent": "9p1zMaQt",
+  "cascades": false,
+  "type": "element",
+  "value": "typography",
+  "values": {
+    "tag": "h4"
+  },
+  "prevent_delete": false
+}

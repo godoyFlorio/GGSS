@@ -1,0 +1,14 @@
+{
+  "unique_id": "S71elwoy",
+  "name": "Main Section",
+  "value": "div",
+  "values": {
+    "class": "theme.mainVariablesUnidades"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "nEg0yGSz",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

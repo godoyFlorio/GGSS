@@ -1,0 +1,56 @@
+{
+  "unique_id": "2fSO5Ils",
+  "name": "Table Toolbar",
+  "parent": "9rebTy7o",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.tabletoolbar"
+  },
+  "prevent_delete": false,
+  "icon": "ico-div",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "class",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    },
+    {
+      "name": "useid",
+      "display": "Use UniqueID as ID",
+      "type": "checkbox",
+      "options": ""
+    },
+    {
+      "name": "id",
+      "display": "ID",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "onclick",
+      "display": "On Click",
+      "type": "function",
+      "options": ""
+    },
+    {
+      "name": "ref",
+      "display": "Use Reference",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "style",
+      "display": "Extra Styles",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "helpText": "Basic HTML Div element"
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "VN39ElTW",
+  "name": "div Seleccione Provicia",
+  "parent": "8s9HZqRz",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.opcionesSelecProvincia"
+  },
+  "prevent_delete": false
+}

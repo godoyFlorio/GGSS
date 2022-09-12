@@ -1,0 +1,10 @@
+{
+  "unique_id": "N7WZB5hm",
+  "name": "ABM-Provincia",
+  "path": "/menu/taller/provincia",
+  "filename": "abmProvincia.tsx",
+  "priority": 5,
+  "type": "page",
+  "parent": "kifHVEzn",
+  "collapseStatus": "expand"
+}

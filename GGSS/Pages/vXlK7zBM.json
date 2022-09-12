@@ -1,0 +1,15 @@
+{
+  "unique_id": "vXlK7zBM",
+  "name": "Buttons - Aceptar / Select",
+  "parent": "xSz5SMMh",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.abmInputButtonsAceptar"
+  },
+  "prevent_delete": false
+}

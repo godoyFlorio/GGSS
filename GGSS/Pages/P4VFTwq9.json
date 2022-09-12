@@ -1,0 +1,14 @@
+{
+  "unique_id": "P4VFTwq9",
+  "name": "Center Container",
+  "parent": "OAgIKTM5",
+  "cascades": false,
+  "type": "element",
+  "value": "Container",
+  "values": {
+    "maxWidth": "false",
+    "disableGutters": true,
+    "className": "theme.centerContainer"
+  },
+  "prevent_delete": false
+}

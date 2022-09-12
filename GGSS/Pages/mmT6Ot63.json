@@ -1,0 +1,15 @@
+{
+  "unique_id": "mmT6Ot63",
+  "name": "Text Content",
+  "parent": "ify0t5zC",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Finalizacion estimada"
+  },
+  "prevent_delete": false
+}

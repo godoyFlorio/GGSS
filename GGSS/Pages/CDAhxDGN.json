@@ -1,0 +1,13 @@
+{
+  "unique_id": "CDAhxDGN",
+  "name": "Salir",
+  "parent": "0r3cVtzS",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Salir",
+    "className": ""
+  },
+  "prevent_delete": false
+}

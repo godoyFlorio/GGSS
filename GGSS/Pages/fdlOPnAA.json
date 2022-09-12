@@ -1,0 +1,19 @@
+{
+  "unique_id": "fdlOPnAA",
+  "name": "addConvenios",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "Convenios",
+    "value": "{dataConvenios.descripcion}",
+    "onChange": "(e) => { setdataConvenios({ ...dataConvenios, descripcion: e.target.value }) }",
+    "variant": "filled",
+    "margin": "normal",
+    "type": "text"
+  },
+  "path": "uncontrolledInput.tpl",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "RTcDFKiZ",
+  "collapseStatus": "expand"
+}

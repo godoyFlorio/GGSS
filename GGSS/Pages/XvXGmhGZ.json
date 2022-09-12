@@ -1,0 +1,15 @@
+{
+  "unique_id": "XvXGmhGZ",
+  "name": "Incluir en accesos directos",
+  "parent": "N9vky8vf",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.IncluirAccesosDirectos"
+  },
+  "prevent_delete": false
+}

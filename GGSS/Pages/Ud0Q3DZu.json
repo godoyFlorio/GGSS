@@ -1,0 +1,15 @@
+{
+  "unique_id": "Ud0Q3DZu",
+  "name": "Mecánica gral.",
+  "parent": "UwQ9yKoW",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Mecánica gral."
+  },
+  "prevent_delete": false
+}

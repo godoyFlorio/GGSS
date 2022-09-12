@@ -1,0 +1,15 @@
+{
+  "unique_id": "VTnblFA5",
+  "name": "Title Area",
+  "parent": "sTG5P535",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.divTitle"
+  },
+  "prevent_delete": false
+}

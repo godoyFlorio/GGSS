@@ -1,0 +1,14 @@
+{
+  "unique_id": "bmou3zsW",
+  "name": "Center Section",
+  "value": "div",
+  "values": {
+    "class": "theme.centerVariablesUnidadesSection"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "hzIFm6it",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

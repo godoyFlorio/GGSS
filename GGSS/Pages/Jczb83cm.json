@@ -1,0 +1,12 @@
+{
+  "unique_id": "Jczb83cm",
+  "name": "Incluir en accesos directos",
+  "parent": "Gb3w27HQ",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Incluir en accesos directos"
+  },
+  "prevent_delete": false
+}

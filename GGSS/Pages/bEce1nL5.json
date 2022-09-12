@@ -1,0 +1,10 @@
+{
+  "unique_id": "bEce1nL5",
+  "name": "Admin",
+  "path": "/admin",
+  "filename": "adminDashboard.tsx",
+  "type": "page",
+  "parent": "hgcbLI6P",
+  "collapseStatus": "expand",
+  "priority": 5
+}

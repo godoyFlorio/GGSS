@@ -1,0 +1,12 @@
+{
+  "unique_id": "z7vCgBdV",
+  "name": "Page Footer",
+  "parent": "1NwEZr9l",
+  "path": "pf.tpl",
+  "completePath": "elements/Aptugo Internal Use/pf.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "pf",
+  "prevent_delete": false
+}

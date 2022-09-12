@@ -1,0 +1,15 @@
+{
+  "unique_id": "PPVkTOMQ",
+  "name": "En Obra",
+  "parent": "ORExqKZ4",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "En Obra"
+  },
+  "prevent_delete": false
+}

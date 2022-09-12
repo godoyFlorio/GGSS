@@ -1,0 +1,18 @@
+{
+  "unique_id": "ZW57erZ3",
+  "name": "uncontrolledInput",
+  "parent": "ILLJdStB",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "New Password",
+    "variant": "outlined",
+    "margin": "normal",
+    "type": "password",
+    "onChange": "(e) => { setuserData({ ...userData, Password: e.target.value}) }",
+    "value": "{userData.Password}"
+  },
+  "prevent_delete": false
+}

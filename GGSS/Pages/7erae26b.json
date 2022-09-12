@@ -1,0 +1,15 @@
+{
+  "unique_id": "7erae26b",
+  "name": "Gasoil",
+  "parent": "MdNLNfZU",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Gasoil"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "Ayi7NeW0",
+  "name": "text",
+  "parent": "tUD5cXCE",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "If you requested a password reset, use the link below to complete the process. If you didn't make this request, ignore this email.\n"
+  },
+  "prevent_delete": false
+}

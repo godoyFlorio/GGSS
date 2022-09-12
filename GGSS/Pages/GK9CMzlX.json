@@ -1,0 +1,12 @@
+{
+  "unique_id": "GK9CMzlX",
+  "name": "typography",
+  "parent": "yRBpuwRZ",
+  "cascades": false,
+  "type": "element",
+  "value": "typography",
+  "values": {
+    "tag": "h5"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "d2O7eomH",
+  "name": "useState",
+  "value": "useState",
+  "values": {
+    "variableName": "choferesData",
+    "defaultValue": "{}"
+  },
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "gp1fRNg7",
+  "collapseStatus": "expand"
+}

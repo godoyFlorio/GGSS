@@ -1,0 +1,32 @@
+{
+  "unique_id": "VODJZMNy",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "type": "element",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "name": "Seleccionar provincia",
+  "parent": "ZTmXuvh9",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "value": "text",
+  "values": {
+    "Content": "Seleccionar provincia"
+  },
+  "prevent_delete": false
+}

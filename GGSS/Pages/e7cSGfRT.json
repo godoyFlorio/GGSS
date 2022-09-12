@@ -1,0 +1,13 @@
+{
+  "unique_id": "e7cSGfRT",
+  "name": "Agregar",
+  "parent": "7OBgPfiJ",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Agregar",
+    "icon": "Add"
+  },
+  "prevent_delete": false
+}

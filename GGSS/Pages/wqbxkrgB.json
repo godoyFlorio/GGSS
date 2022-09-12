@@ -1,0 +1,20 @@
+{
+  "unique_id": "wqbxkrgB",
+  "name": "Center Grid",
+  "parent": "0z0WDVG9",
+  "path": "grid.tpl",
+  "completePath": "elements/Material-UI/grid.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "grid",
+  "values": {
+    "className": "theme.centerGrid",
+    "justify": "space-evenly",
+    "align": "center",
+    "smallcolumns": "12",
+    "midcolumns": "3",
+    "container": true
+  },
+  "prevent_delete": false
+}

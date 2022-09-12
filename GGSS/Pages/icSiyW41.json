@@ -1,0 +1,15 @@
+{
+  "unique_id": "icSiyW41",
+  "name": "Gasoil",
+  "parent": "55mPBV7F",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Gasoil"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "XlETIzD8",
+  "name": "Container",
+  "parent": "nIG7AxnF",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "Container",
+  "values": {
+    "className": "theme.loginPage",
+    "maxWidth": "false"
+  },
+  "prevent_delete": false
+}

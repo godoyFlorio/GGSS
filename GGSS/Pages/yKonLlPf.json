@@ -1,0 +1,32 @@
+{
+  "unique_id": "yKonLlPf",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "type": "element",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "name": "text",
+  "parent": "8AqFRrQT",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "value": "text",
+  "values": {
+    "Content": "Articulos para equipamiento de las unidades"
+  },
+  "prevent_delete": false
+}

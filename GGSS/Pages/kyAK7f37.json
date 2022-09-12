@@ -1,0 +1,15 @@
+{
+  "unique_id": "kyAK7f37",
+  "name": "Select Label",
+  "parent": "CHIcOltz",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.inputLabelh4"
+  },
+  "prevent_delete": false
+}

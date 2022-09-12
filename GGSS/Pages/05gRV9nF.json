@@ -1,0 +1,16 @@
+{
+  "unique_id": "05gRV9nF",
+  "name": "Aceptar",
+  "parent": "9R54CPGX",
+  "path": "button.tpl",
+  "completePath": "elements/Material-UI/button.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Aceptar",
+    "icon": "Add"
+  },
+  "prevent_delete": false
+}

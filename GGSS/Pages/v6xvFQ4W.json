@@ -1,0 +1,16 @@
+{
+  "unique_id": "v6xvFQ4W",
+  "name": "Ver histórico de unidad",
+  "parent": "HkIia9Zi",
+  "path": "button.tpl",
+  "completePath": "elements\\Material-UI\\button.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "Color": "default",
+    "ButtonText": "Ver histórico de unidad"
+  },
+  "prevent_delete": false
+}

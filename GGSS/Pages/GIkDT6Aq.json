@@ -1,0 +1,15 @@
+{
+  "unique_id": "GIkDT6Aq",
+  "name": "Córdoba Capital",
+  "parent": "K0yBQWEn",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Córdoba Capital"
+  },
+  "prevent_delete": false
+}

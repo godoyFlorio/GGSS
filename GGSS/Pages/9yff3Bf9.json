@@ -1,0 +1,15 @@
+{
+  "unique_id": "9yff3Bf9",
+  "name": "Grasa especial",
+  "parent": "zPCdcvsT",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Grasa especial"
+  },
+  "prevent_delete": false
+}

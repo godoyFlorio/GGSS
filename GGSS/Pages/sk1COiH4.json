@@ -1,0 +1,15 @@
+{
+  "unique_id": "sk1COiH4",
+  "name": "Montevideo",
+  "parent": "TuDlN6yE",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Montevideo"
+  },
+  "prevent_delete": false
+}

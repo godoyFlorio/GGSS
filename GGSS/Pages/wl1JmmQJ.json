@@ -1,0 +1,12 @@
+{
+  "unique_id": "wl1JmmQJ",
+  "path": "accordionDetails.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionDetails.tpl",
+  "name": "Asignaciones - wrapper",
+  "parent": "tupkNeyp",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "accordionDetails",
+  "prevent_delete": false
+}

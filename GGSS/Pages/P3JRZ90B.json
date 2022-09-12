@@ -1,0 +1,15 @@
+{
+  "unique_id": "P3JRZ90B",
+  "name": "inputs",
+  "parent": "yfmPEibt",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.inputsDiv"
+  },
+  "prevent_delete": false
+}

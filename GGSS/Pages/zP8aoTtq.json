@@ -1,0 +1,15 @@
+{
+  "unique_id": "zP8aoTtq",
+  "name": "Seleccionar función",
+  "parent": "nUnCUWVu",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Seleccionar función"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,16 @@
+{
+  "unique_id": "TGIFyf2H",
+  "name": "simpleLink",
+  "parent": "bDMOO9wd",
+  "path": "simpleLink.tpl",
+  "completePath": "elements/Material-UI/simpleLink.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/",
+    "tagToUse": "NavLink"
+  },
+  "prevent_delete": false
+}

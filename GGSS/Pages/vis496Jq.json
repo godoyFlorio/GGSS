@@ -1,0 +1,17 @@
+{
+  "unique_id": "vis496Jq",
+  "name": "checkbox",
+  "parent": "dyK4kKMv",
+  "path": "checkbox.tpl",
+  "completePath": "elements\\Material-UI\\checkbox.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "checkbox",
+  "values": {
+    "Checked": "check",
+    "OnClick": "",
+    "label": "Unidad Propia"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "ZHmrtvDv",
+  "name": "Buttons - Cancel / Select",
+  "parent": "M2Mbr0eU",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.abmInputButtonsAceptar"
+  },
+  "prevent_delete": false
+}

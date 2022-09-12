@@ -1,0 +1,17 @@
+{
+  "unique_id": "MX5e7yK3",
+  "name": "Provincia",
+  "parent": "drdzeWfX",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "Córdoba",
+    "fieldname": "usNombre",
+    "className": "theme.fieldACambiar"
+  },
+  "prevent_delete": false
+}

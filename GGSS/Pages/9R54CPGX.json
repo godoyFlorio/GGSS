@@ -1,0 +1,15 @@
+{
+  "unique_id": "9R54CPGX",
+  "name": "div botones CRUD",
+  "parent": "JZ13DGhX",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.botonesProvinciaCRUD"
+  },
+  "prevent_delete": false
+}

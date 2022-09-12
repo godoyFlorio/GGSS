@@ -1,0 +1,13 @@
+{
+  "unique_id": "ET5yd1Ar",
+  "path": "accordionDetails.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionDetails.tpl",
+  "name": "Articulos para equipamiento de las unidades",
+  "value": "accordionDetails",
+  "values": {},
+  "type": "element",
+  "parent": "KGiyBzoz",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

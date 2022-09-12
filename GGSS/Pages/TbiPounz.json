@@ -1,0 +1,16 @@
+{
+  "unique_id": "TbiPounz",
+  "name": "Modificar",
+  "parent": "slpDBv6U",
+  "path": "button.tpl",
+  "completePath": "elements\\Material-UI\\button.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Modificar",
+    "icon": "Home"
+  },
+  "prevent_delete": false
+}

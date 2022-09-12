@@ -1,0 +1,15 @@
+{
+  "unique_id": "qTs4JEKv",
+  "name": "useState",
+  "value": "useState",
+  "values": {
+    "variableName": "usNombre",
+    "defaultValue": ""
+  },
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "GG58FeC8",
+  "collapseStatus": "expand"
+}

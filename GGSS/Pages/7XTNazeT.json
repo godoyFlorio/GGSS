@@ -1,0 +1,14 @@
+{
+  "unique_id": "7XTNazeT",
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Seleccionar valor de medición"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "EbOHdFPz",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

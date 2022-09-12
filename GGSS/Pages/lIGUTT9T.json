@@ -1,0 +1,10 @@
+{
+  "unique_id": "lIGUTT9T",
+  "name": "ABM-Especialidades",
+  "path": "/menu/taller/especialidades",
+  "filename": "abmEspecialidades.tsx",
+  "priority": 5,
+  "type": "page",
+  "parent": "kifHVEzn",
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "1TZTQSCg",
+  "path": "apr.tpl",
+  "completePath": "elements/Aptugo Internal Use/apr.tpl",
+  "icon": "ico-field",
+  "helpText": "After Page Render",
+  "name": "After Page Render",
+  "parent": "T7J7sJ8u",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "apr",
+  "prevent_delete": false
+}

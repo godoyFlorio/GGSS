@@ -1,0 +1,13 @@
+{
+  "unique_id": "h6ds83gs",
+  "name": "text",
+  "parent": "hqkMdUCC",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Forgot your password?"
+  },
+  "prevent_delete": false
+}

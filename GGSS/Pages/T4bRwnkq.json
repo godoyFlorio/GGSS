@@ -1,0 +1,15 @@
+{
+  "unique_id": "T4bRwnkq",
+  "name": "San Domingo",
+  "parent": "pf4xA9IH",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "San Domingo"
+  },
+  "prevent_delete": false
+}

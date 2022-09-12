@@ -10,5 +10,6 @@
   "cascades": false,
   "value": "onPageLoad",
   "prevent_delete": false,
-  "parent": "ZvXu6tXE"
+  "parent": "ZvXu6tXE",
+  "collapseStatus": "collapse"
 }

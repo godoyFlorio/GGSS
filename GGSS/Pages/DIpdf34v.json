@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Perfil"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "sU7bVfFz",
+  "unique_id": "DIpdf34v",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

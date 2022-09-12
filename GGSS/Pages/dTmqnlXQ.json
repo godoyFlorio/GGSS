@@ -1,0 +1,15 @@
+{
+  "unique_id": "dTmqnlXQ",
+  "name": "Text Content",
+  "parent": "Foq2uq5m",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Ruta donde se almacena el fondo de pantalla"
+  },
+  "prevent_delete": false
+}

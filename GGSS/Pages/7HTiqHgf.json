@@ -1,0 +1,16 @@
+{
+  "unique_id": "7HTiqHgf",
+  "name": "Ingreso de una Unidad a Taller",
+  "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
+  "parent": "VxskVLxn",
+  "path": "typography.tpl",
+  "completePath": "elements/Material-UI/typography.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "typography",
+  "values": {
+    "tag": "h4"
+  },
+  "prevent_delete": false
+}

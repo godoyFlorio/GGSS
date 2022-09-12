@@ -1,0 +1,20 @@
+{
+  "unique_id": "eraTq32A",
+  "name": "Administrativo",
+  "parent": "LS26S3Pt",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "",
+    "fieldname": "usNombre",
+    "className": "",
+    "placeholder": "Administrativo",
+    "variant": "outlined",
+    "type": "text"
+  },
+  "prevent_delete": false
+}

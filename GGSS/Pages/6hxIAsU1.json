@@ -1,0 +1,15 @@
+{
+  "unique_id": "6hxIAsU1",
+  "name": "GGTT title",
+  "parent": "60oTCP0n",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.orangeTitle"
+  },
+  "prevent_delete": false
+}

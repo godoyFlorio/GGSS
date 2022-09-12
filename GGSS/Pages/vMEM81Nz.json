@@ -1,0 +1,46 @@
+{
+  "unique_id": "vMEM81Nz",
+  "path": "Container.tpl",
+  "completePath": "elements/Material-UI/Container.tpl",
+  "type": "element",
+  "icon": "ico-field",
+  "helpText": "The container centers your content horizontally. It's the most basic layout element.",
+  "options": [
+    {
+      "name": "disableGutters",
+      "display": "Disable Gutters",
+      "type": "checkbox",
+      "options": ""
+    },
+    {
+      "name": "fixed",
+      "display": "Fixed?",
+      "type": "checkbox",
+      "options": ""
+    },
+    {
+      "name": "maxWidth",
+      "display": "Max Width",
+      "type": "dropdown",
+      "options": "lg;md;sm;xl;xs;false"
+    },
+    {
+      "name": "className",
+      "display": "className",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "sourceType": "javascript",
+  "name": "Footer Container",
+  "parent": "0SxcvlTG",
+  "collapseStatus": "expand",
+  "cascades": true,
+  "value": "Container",
+  "values": {
+    "maxWidth": "false",
+    "disableGutters": true,
+    "className": "theme.footerContainer"
+  },
+  "prevent_delete": false
+}

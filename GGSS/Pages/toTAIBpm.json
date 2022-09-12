@@ -1,0 +1,15 @@
+{
+  "unique_id": "toTAIBpm",
+  "name": "Córdoba capital - Sampacho",
+  "parent": "wk0Xv1xL",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Córdoba capital - Sampacho"
+  },
+  "prevent_delete": false
+}

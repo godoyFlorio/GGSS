@@ -1,0 +1,15 @@
+{
+  "unique_id": "mA5lrpqa",
+  "name": "Córdoba capital - Dalmacio Vélez Sarfield",
+  "parent": "41kVMMfR",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Córdoba capital - Dalmacio Vélez Sarfield"
+  },
+  "prevent_delete": false
+}

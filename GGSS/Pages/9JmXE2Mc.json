@@ -1,0 +1,15 @@
+{
+  "unique_id": "9JmXE2Mc",
+  "name": "Administrativo",
+  "parent": "22lPATho",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Administrativo"
+  },
+  "prevent_delete": false
+}

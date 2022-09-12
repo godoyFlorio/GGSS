@@ -1,0 +1,15 @@
+{
+  "unique_id": "3c7iaCac",
+  "name": "Input Options",
+  "parent": "L5rc5O82",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.inputOptions"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "7g9cmUQq",
+  "name": "code",
+  "parent": "dctpVkXF",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "code",
+  "values": {
+    "code": "if (props.match.params.nonce) {\n      AuthService.checkNonce(props.match.params.nonce, props.match.params.email).then(\n        (res) => {\n          authHeaders()\n          setuserData({ ...userData, _id: res })\n        },\n        (error) => {\n          console.error(error)\n        }\n      )\n    }"
+  },
+  "prevent_delete": false
+}

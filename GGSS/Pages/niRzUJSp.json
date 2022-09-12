@@ -1,0 +1,20 @@
+{
+  "unique_id": "niRzUJSp",
+  "name": "5186",
+  "parent": "7IPQE6G4",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "",
+    "fieldname": "usNombre",
+    "className": "",
+    "placeholder": "5186",
+    "variant": "outlined",
+    "type": "text"
+  },
+  "prevent_delete": false
+}

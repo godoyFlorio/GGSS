@@ -1,0 +1,15 @@
+{
+  "unique_id": "6vbmnsSy",
+  "name": "Distancia (Km)",
+  "parent": "0FhLh46w",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Distancia (Km)"
+  },
+  "prevent_delete": false
+}

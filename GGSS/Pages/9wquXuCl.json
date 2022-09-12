@@ -1,0 +1,32 @@
+{
+  "unique_id": "9wquXuCl",
+  "path": "import.tpl",
+  "completePath": "elements/Programming/import.tpl",
+  "type": "element",
+  "icon": "file.svg",
+  "helpText": "Imports modules",
+  "options": [
+    {
+      "name": "moduleName",
+      "display": "Module Name",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "modulePath",
+      "display": "Module Path",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "name": "authHeaders",
+  "parent": "dXlaPcWE",
+  "collapseStatus": "expand",
+  "cascades": true,
+  "value": "import",
+  "values": {
+    "moduleName": "authHeaders",
+    "modulePath": "../services/auth-header"
+  },
+  "prevent_delete": false
+}

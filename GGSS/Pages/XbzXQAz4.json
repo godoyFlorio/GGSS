@@ -1,0 +1,10 @@
+{
+  "unique_id": "XbzXQAz4",
+  "name": "Asignacion de rubros por usuario",
+  "path": "/menu/taller/asignacion-rubros",
+  "filename": "asignacionRubros.tsx",
+  "priority": 5,
+  "type": "page",
+  "parent": "qFKncRK7",
+  "collapseStatus": "expand"
+}

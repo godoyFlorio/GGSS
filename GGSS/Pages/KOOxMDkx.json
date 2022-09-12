@@ -1,0 +1,13 @@
+{
+  "unique_id": "KOOxMDkx",
+  "path": "accordionDetails.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionDetails.tpl",
+  "name": "Trabajos posibles de efectuar segun tipo de unidad",
+  "value": "accordionDetails",
+  "values": {},
+  "type": "element",
+  "parent": "RLaUU1aR",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

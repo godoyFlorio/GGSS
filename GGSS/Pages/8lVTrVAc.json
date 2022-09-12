@@ -1,0 +1,13 @@
+{
+  "unique_id": "8lVTrVAc",
+  "path": "accordionDetails.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionDetails.tpl",
+  "name": "Asignacion masiva de centro de costo y km-hs aceptadas",
+  "value": "accordionDetails",
+  "values": {},
+  "type": "element",
+  "parent": "T6oCrHqK",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

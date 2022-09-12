@@ -1,0 +1,12 @@
+{
+  "unique_id": "VJ0Saxff",
+  "name": "Input Options",
+  "parent": "bXuE8JEb",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.inputOptions"
+  },
+  "prevent_delete": false
+}

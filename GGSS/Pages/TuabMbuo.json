@@ -1,0 +1,14 @@
+{
+  "unique_id": "TuabMbuo",
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Ingresos a Taller"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "Gsutfkil",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

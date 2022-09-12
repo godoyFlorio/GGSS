@@ -1,0 +1,12 @@
+{
+  "unique_id": "uIw5J6MG",
+  "name": "Buttons - Cancel / Select",
+  "parent": "bXuE8JEb",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.abmInputButtonsAceptarObservaciones"
+  },
+  "prevent_delete": false
+}

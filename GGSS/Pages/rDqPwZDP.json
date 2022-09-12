@@ -1,0 +1,15 @@
+{
+  "unique_id": "rDqPwZDP",
+  "name": "Background image",
+  "parent": "fyvDTaRE",
+  "path": "image.tpl",
+  "completePath": "elements/Material-UI/image.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "image",
+  "values": {
+    "useAsset": "gBwyH44J"
+  },
+  "prevent_delete": false
+}

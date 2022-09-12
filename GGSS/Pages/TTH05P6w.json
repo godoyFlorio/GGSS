@@ -1,0 +1,19 @@
+{
+  "unique_id": "TTH05P6w",
+  "name": "Nombre Taller",
+  "parent": "kVcmA80l",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "placeholder": "Seleccionar Taller",
+    "type": "text",
+    "className": "",
+    "margin": "none",
+    "variant": "outlined"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,17 @@
+{
+  "unique_id": "FnZLSAM1",
+  "name": "Ingresar observaciones",
+  "parent": "bhZc2uhZ",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "Ingresar observaciones",
+    "fieldname": "usNombre",
+    "className": "",
+    "placeholder": "",
+    "variant": "outlined",
+    "type": "text"
+  },
+  "prevent_delete": false
+}

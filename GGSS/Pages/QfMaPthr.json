@@ -1,0 +1,14 @@
+{
+  "name": "List of Options",
+  "value": "div",
+  "values": {
+    "class": "theme.selectOptions"
+  },
+  "path": "div.tpl",
+  "unique_id": "QfMaPthr",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "S3JNVVO0",
+  "collapseStatus": "expand"
+}

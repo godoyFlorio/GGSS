@@ -1,0 +1,15 @@
+{
+  "unique_id": "yeVTNn84",
+  "name": "Seleccionar Localidad",
+  "parent": "4xPqri08",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Seleccionar Localidad"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "K3LvEGzR",
+  "name": "Nombre Modulo",
+  "parent": "uPEwlqRu",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.moduloNombreneumaticos"
+  },
+  "prevent_delete": false
+}

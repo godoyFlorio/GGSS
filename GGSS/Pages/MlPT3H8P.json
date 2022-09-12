@@ -1,0 +1,15 @@
+{
+  "unique_id": "MlPT3H8P",
+  "name": "Paso 5",
+  "parent": "TAM7AN4t",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.contenedorGridPaso5"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "2bMG3oqW",
+  "name": "Filtrar",
+  "parent": "ExHcU9rO",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Filtrar"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,16 @@
+{
+  "unique_id": "CnN7lmCo",
+  "name": "Centro costo",
+  "parent": "nKqB17HO",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.generalABMInput",
+    "style": ""
+  },
+  "prevent_delete": false
+}

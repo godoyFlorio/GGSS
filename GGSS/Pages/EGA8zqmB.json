@@ -1,0 +1,15 @@
+{
+  "unique_id": "EGA8zqmB",
+  "name": "Preventivo",
+  "parent": "talumxMK",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Preventivo"
+  },
+  "prevent_delete": false
+}

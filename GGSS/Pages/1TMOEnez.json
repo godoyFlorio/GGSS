@@ -1,0 +1,15 @@
+{
+  "unique_id": "1TMOEnez",
+  "name": "Nuevo lubricante",
+  "parent": "B6qUMHLc",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Nuevo lubricante"
+  },
+  "prevent_delete": false
+}

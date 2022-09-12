@@ -1,0 +1,15 @@
+{
+  "unique_id": "Vmvvf45k",
+  "name": "div ContenedorBotonesFiltrostablaaCambiar",
+  "parent": "VN39ElTW",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.divContenedorBotonesFiltros"
+  },
+  "prevent_delete": false
+}

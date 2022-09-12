@@ -1,0 +1,16 @@
+{
+  "unique_id": "TWhKcwzy",
+  "name": "div",
+  "parent": "dTQC246A",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.bottomsDiv2",
+    "style": ""
+  },
+  "prevent_delete": false
+}

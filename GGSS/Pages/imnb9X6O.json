@@ -1,0 +1,18 @@
+{
+  "unique_id": "imnb9X6O",
+  "name": "Body",
+  "parent": "SbNiK0Hc",
+  "path": "b.tpl",
+  "completePath": "elements/Aptugo Internal Use/b.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "b",
+  "values": {
+    "className": [
+      "theme.abmTablasVarias",
+      "theme.taller"
+    ]
+  },
+  "prevent_delete": false
+}

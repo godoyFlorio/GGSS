@@ -1,0 +1,10 @@
+{
+  "unique_id": "bHIXwiiL",
+  "name": "Email Content",
+  "parent": "elxWPH5S",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "emailContent",
+  "prevent_delete": false
+}

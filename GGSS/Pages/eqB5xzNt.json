@@ -1,0 +1,15 @@
+{
+  "unique_id": "eqB5xzNt",
+  "name": "Cerrar solicitud",
+  "value": "button",
+  "values": {
+    "ButtonText": "Cerrar solicitud",
+    "icon": "Clear"
+  },
+  "path": "button.tpl",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "1mbr6wOi",
+  "collapseStatus": "expand"
+}

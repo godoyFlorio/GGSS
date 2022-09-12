@@ -1,0 +1,20 @@
+{
+  "unique_id": "1PAfvqSM",
+  "name": "Ingresar descripción",
+  "parent": "C6RQce9T",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements/Material-UI/uncontrolledInput.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "",
+    "fieldname": "usNombre",
+    "className": "",
+    "placeholder": "Ingresar descripción",
+    "variant": "outlined",
+    "type": "text"
+  },
+  "prevent_delete": false
+}

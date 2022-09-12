@@ -1,0 +1,10 @@
+{
+  "unique_id": "nQSHrML4",
+  "name": "ABM-Marcas",
+  "path": "/menu/taller/marcas-vehiculos",
+  "filename": "abmMarcas.tsx",
+  "priority": 5,
+  "type": "page",
+  "parent": "qFKncRK7",
+  "collapseStatus": "expand"
+}

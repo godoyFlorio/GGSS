@@ -1,0 +1,16 @@
+{
+  "unique_id": "4ZoUBTfQ",
+  "name": "text",
+  "parent": "89QP9808",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "INFT S.A",
+    "ClassName": "theme.fieldText"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "PfsrvFCa",
+  "name": "Select",
+  "parent": "620U8pyI",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.abmSelect"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "HsGF6m5H",
+  "name": "Buttons - Cancel / Select",
+  "value": "div",
+  "values": {
+    "class": "theme.variablesUnidadesButtonAceptar"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "GmJZCu0c",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

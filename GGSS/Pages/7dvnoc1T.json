@@ -1,0 +1,17 @@
+{
+  "unique_id": "7dvnoc1T",
+  "name": "IconButton",
+  "parent": "OwfoNOxm",
+  "path": "IconButton.tpl",
+  "completePath": "elements\\Material-UI\\IconButton.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "IconButton",
+  "values": {
+    "icon": "MoreVert",
+    "iconstyle": "Rounded",
+    "Color": "error"
+  },
+  "prevent_delete": false
+}

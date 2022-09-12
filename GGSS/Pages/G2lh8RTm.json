@@ -28,8 +28,10 @@
   "cascades": true,
   "value": "themeSelection",
   "values": {
-    "theme": "minimum"
+    "theme": "minimum",
+    "useAsset": "yTgCxvSb"
   },
   "prevent_delete": false,
-  "parent": "TlvIOpHe"
+  "parent": "TlvIOpHe",
+  "collapseStatus": "collapse"
 }

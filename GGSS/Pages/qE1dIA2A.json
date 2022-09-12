@@ -1,0 +1,15 @@
+{
+  "unique_id": "qE1dIA2A",
+  "name": "Programado",
+  "parent": "kVG8MerS",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Programado"
+  },
+  "prevent_delete": false
+}

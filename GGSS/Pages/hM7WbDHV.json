@@ -1,0 +1,10 @@
+{
+  "unique_id": "hM7WbDHV",
+  "name": "ABM-Rubros del taller",
+  "path": "/menu/taller/rubros-taller",
+  "filename": "rubrostaller.tsx",
+  "priority": 5,
+  "type": "page",
+  "parent": "qFKncRK7",
+  "collapseStatus": "expand"
+}

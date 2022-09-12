@@ -1,0 +1,16 @@
+{
+  "unique_id": "8fNZzg2i",
+  "name": "image",
+  "parent": "Kiu0JiHa",
+  "path": "image.tpl",
+  "completePath": "elements/Material-UI/image.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "image",
+  "values": {
+    "path": "/img/${currentUser.ProfilePic}",
+    "ClassName": []
+  },
+  "prevent_delete": false
+}

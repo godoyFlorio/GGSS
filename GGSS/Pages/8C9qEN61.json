@@ -1,0 +1,15 @@
+{
+  "unique_id": "8C9qEN61",
+  "name": "Guaymayén",
+  "parent": "hu8iRe2O",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Guaymayén"
+  },
+  "prevent_delete": false
+}

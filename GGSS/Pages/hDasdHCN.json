@@ -1,0 +1,15 @@
+{
+  "unique_id": "hDasdHCN",
+  "name": "Seleccionar trazas",
+  "parent": "FxUfNhiA",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Seleccionar trazas"
+  },
+  "prevent_delete": false
+}

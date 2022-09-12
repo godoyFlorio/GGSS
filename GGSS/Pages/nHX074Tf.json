@@ -1,0 +1,32 @@
+{
+  "unique_id": "nHX074Tf",
+  "path": "import.tpl",
+  "completePath": "elements/Programming/import.tpl",
+  "type": "element",
+  "icon": "file.svg",
+  "helpText": "Imports modules",
+  "options": [
+    {
+      "name": "moduleName",
+      "display": "Module Name",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "modulePath",
+      "display": "Module Path",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "name": "React-Google-Login",
+  "parent": "fttesIBt",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "value": "import",
+  "values": {
+    "moduleName": "{ useGoogleLogin }",
+    "modulePath": "react-google-login"
+  },
+  "prevent_delete": false
+}

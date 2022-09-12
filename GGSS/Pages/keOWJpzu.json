@@ -1,0 +1,14 @@
+{
+  "unique_id": "keOWJpzu",
+  "name": "Title",
+  "value": "div",
+  "values": {
+    "class": "theme.textDiv"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "RlXC34QT",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

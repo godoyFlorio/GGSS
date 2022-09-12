@@ -1,0 +1,17 @@
+{
+  "unique_id": "UsoZqxrX",
+  "name": "Alto",
+  "parent": "VJ0Saxff",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "",
+    "fieldname": "usNombre",
+    "className": "",
+    "placeholder": "Alto",
+    "variant": "outlined",
+    "type": "text"
+  },
+  "prevent_delete": false
+}

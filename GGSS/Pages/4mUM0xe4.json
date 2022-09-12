@@ -1,0 +1,44 @@
+{
+  "unique_id": "4mUM0xe4",
+  "path": "TopMenuItem.tpl",
+  "completePath": "elements/Material-UI/TopMenuItem.tpl",
+  "icon": "ico-top-menu-item",
+  "options": [
+    {
+      "name": "text",
+      "display": "Display Text",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "link",
+      "display": "Navigate to",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "onClick",
+      "display": "On Click",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "chips",
+      "options": "return aptugo.assetUtils.grabCssSelectors( aptugo.variables.retrievePageVariablesFromElement(arguments[0],'theme') )"
+    }
+  ],
+  "name": "TopMenuItem",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "wBCLRMkR",
+  "value": "TopMenuItem",
+  "collapseStatus": "expand",
+  "values": {
+    "text": "Adjuntos",
+    "link": "http://localhost:8080/menu/taller/proveedores",
+    "className": []
+  }
+}

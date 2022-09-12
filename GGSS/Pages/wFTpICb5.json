@@ -1,0 +1,32 @@
+{
+  "unique_id": "wFTpICb5",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "type": "element",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "name": "Text Content",
+  "parent": "so0bbBVr",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "value": "text",
+  "values": {
+    "Content": "¡Bienvenido al Módulo de Taller!"
+  },
+  "prevent_delete": false
+}

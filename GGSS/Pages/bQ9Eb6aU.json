@@ -1,0 +1,15 @@
+{
+  "unique_id": "bQ9Eb6aU",
+  "name": "text",
+  "parent": "Gvhuqx4Z",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Stock"
+  },
+  "prevent_delete": false
+}

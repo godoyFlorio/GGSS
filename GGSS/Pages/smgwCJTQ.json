@@ -1,0 +1,13 @@
+{
+  "unique_id": "smgwCJTQ",
+  "path": "accordionDetails.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionDetails.tpl",
+  "name": "Estados de las unidades",
+  "value": "accordionDetails",
+  "values": {},
+  "type": "element",
+  "parent": "qq57xilC",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

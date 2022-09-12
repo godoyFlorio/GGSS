@@ -1,0 +1,13 @@
+{
+  "unique_id": "nrDZBTwh",
+  "name": "text",
+  "parent": "5X1Bhooz",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Click here to reset your password"
+  },
+  "prevent_delete": false
+}

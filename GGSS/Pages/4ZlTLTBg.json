@@ -1,0 +1,17 @@
+{
+  "unique_id": "4ZlTLTBg",
+  "name": "Logo",
+  "parent": "6hxIAsU1",
+  "path": "image.tpl",
+  "completePath": "elements/Material-UI/image.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "image",
+  "values": {
+    "useAsset": "ZeQ8gXAw",
+    "width": "88px",
+    "height": "24px"
+  },
+  "prevent_delete": false
+}

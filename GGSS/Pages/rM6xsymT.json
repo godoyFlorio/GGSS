@@ -1,0 +1,15 @@
+{
+  "unique_id": "rM6xsymT",
+  "name": "Titulo",
+  "parent": "CFoKRuWO",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.tituloAzulh4"
+  },
+  "prevent_delete": false
+}

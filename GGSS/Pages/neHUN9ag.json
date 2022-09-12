@@ -1,0 +1,15 @@
+{
+  "unique_id": "neHUN9ag",
+  "name": "navLink",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "value": "navLink",
+  "collapseStatus": "expand",
+  "values": {
+    "Destination": "/",
+    "destination": "/",
+    "linkText": "Home"
+  },
+  "parent": "23PPX8s6"
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "OnHtqgtB",
+  "name": "Text Content",
+  "parent": "9X86d5MB",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Tipo de servicio"
+  },
+  "prevent_delete": false
+}

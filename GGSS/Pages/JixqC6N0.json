@@ -1,0 +1,15 @@
+{
+  "unique_id": "JixqC6N0",
+  "name": "Resp. recibir unidades",
+  "parent": "sy0N7wVi",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Resp. recibir unidades"
+  },
+  "prevent_delete": false
+}

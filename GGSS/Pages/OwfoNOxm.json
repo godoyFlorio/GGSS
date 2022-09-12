@@ -1,0 +1,15 @@
+{
+  "unique_id": "OwfoNOxm",
+  "name": "div",
+  "parent": "wweuntr9",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.inputButton"
+  },
+  "prevent_delete": false
+}

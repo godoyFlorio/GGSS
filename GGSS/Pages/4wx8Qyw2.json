@@ -1,0 +1,15 @@
+{
+  "unique_id": "4wx8Qyw2",
+  "name": "Seleccionar barrio",
+  "parent": "fTGq7amW",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Seleccionar barrio"
+  },
+  "prevent_delete": false
+}

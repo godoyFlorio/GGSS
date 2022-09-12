@@ -1,0 +1,12 @@
+{
+  "unique_id": "yzdae7yA",
+  "name": "List of Options",
+  "parent": "ZtdhP9Nv",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.selectOptions"
+  },
+  "prevent_delete": false
+}

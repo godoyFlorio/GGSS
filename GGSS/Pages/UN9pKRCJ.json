@@ -1,0 +1,15 @@
+{
+  "unique_id": "UN9pKRCJ",
+  "name": "Inicio de tareas",
+  "parent": "5I2z92rp",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.fecha"
+  },
+  "prevent_delete": false
+}

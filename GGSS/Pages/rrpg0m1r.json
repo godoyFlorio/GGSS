@@ -1,0 +1,12 @@
+{
+  "unique_id": "rrpg0m1r",
+  "path": "accordionDetails.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionDetails.tpl",
+  "name": "Situaciones de las unidades",
+  "parent": "tupkNeyp",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "accordionDetails",
+  "prevent_delete": false
+}

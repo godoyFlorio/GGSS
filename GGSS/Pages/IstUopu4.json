@@ -1,0 +1,14 @@
+{
+  "unique_id": "IstUopu4",
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Calle"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "G0xGt53a",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "OA7chBiO",
+  "name": "Estado de solicitud",
+  "parent": "KTzvrvom",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.generalABMInput"
+  },
+  "prevent_delete": false
+}

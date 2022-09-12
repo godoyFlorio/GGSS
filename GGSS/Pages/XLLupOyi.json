@@ -1,0 +1,15 @@
+{
+  "unique_id": "XLLupOyi",
+  "name": "Dalmacio Vélez Sárfield",
+  "parent": "Ty3leT1Z",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Dalmacio Vélez Sárfield"
+  },
+  "prevent_delete": false
+}

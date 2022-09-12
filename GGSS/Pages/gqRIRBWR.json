@@ -1,0 +1,15 @@
+{
+  "unique_id": "gqRIRBWR",
+  "name": "San Miguel",
+  "parent": "yG4T57qo",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "San Miguel"
+  },
+  "prevent_delete": false
+}

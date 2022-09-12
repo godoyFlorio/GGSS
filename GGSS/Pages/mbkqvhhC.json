@@ -1,0 +1,14 @@
+{
+  "unique_id": "mbkqvhhC",
+  "name": "Descripcion",
+  "value": "div",
+  "values": {
+    "class": "theme.title"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "rNkP3Xu0",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

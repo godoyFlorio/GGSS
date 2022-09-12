@@ -1,0 +1,15 @@
+{
+  "unique_id": "oFZwd3De",
+  "path": "bpr.tpl",
+  "completePath": "elements/Aptugo Internal Use/bpr.tpl",
+  "type": "element",
+  "icon": "ico-field",
+  "sourceType": "javascript",
+  "internalUse": true,
+  "prevent_delete": false,
+  "name": "Before Page Render",
+  "parent": "T7J7sJ8u",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "value": "bpr"
+}

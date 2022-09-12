@@ -1,0 +1,17 @@
+{
+  "unique_id": "3kscutq2",
+  "name": "checkbox",
+  "value": "checkbox",
+  "values": {
+    "Checked": "false",
+    "OnClick": "",
+    "label": "",
+    "Switch": true
+  },
+  "type": "element",
+  "path": "checkbox.tpl",
+  "parent": "eZVS4vrE",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

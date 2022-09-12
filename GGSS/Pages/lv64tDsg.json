@@ -1,0 +1,14 @@
+{
+  "unique_id": "lv64tDsg",
+  "name": "typography",
+  "value": "typography",
+  "values": {
+    "tag": "h5"
+  },
+  "type": "element",
+  "path": "typography.tpl",
+  "parent": "eZVS4vrE",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

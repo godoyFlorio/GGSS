@@ -1,0 +1,15 @@
+{
+  "unique_id": "UW414UxJ",
+  "name": "button",
+  "parent": "6FcvFeKn",
+  "path": "button.tpl",
+  "completePath": "elements\\Material-UI\\button.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Examinar"
+  },
+  "prevent_delete": false
+}

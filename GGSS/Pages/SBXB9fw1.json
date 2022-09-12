@@ -1,0 +1,16 @@
+{
+  "unique_id": "SBXB9fw1",
+  "name": "Aceptar",
+  "parent": "SKO1V2kG",
+  "path": "button.tpl",
+  "completePath": "elements/Material-UI/button.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Aceptar",
+    "icon": "Home"
+  },
+  "prevent_delete": false
+}

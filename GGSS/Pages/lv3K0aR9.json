@@ -1,0 +1,15 @@
+{
+  "unique_id": "lv3K0aR9",
+  "name": "condition",
+  "parent": "CBwrmklm",
+  "path": "condition.tpl",
+  "completePath": "elements/Programming/condition.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "condition",
+  "values": {
+    "condition": "currentUser"
+  },
+  "prevent_delete": false
+}

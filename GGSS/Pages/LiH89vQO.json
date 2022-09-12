@@ -1,0 +1,15 @@
+{
+  "unique_id": "LiH89vQO",
+  "name": "Text Content",
+  "parent": "sCdSKJ0l",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Taller Sampacho CBA"
+  },
+  "prevent_delete": false
+}

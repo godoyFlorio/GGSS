@@ -1,0 +1,32 @@
+{
+  "unique_id": "20cimsca",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "type": "element",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "name": "Asignación de mecánico por defecto a tarea según taller",
+  "value": "text",
+  "values": {
+    "Content": "Asignación de mecánico por defecto a tarea según taller"
+  },
+  "parent": "dSmc6HvX",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "e1rFNTRf",
+  "name": "Modificar",
+  "parent": "7OBgPfiJ",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Modificar",
+    "icon": "Home"
+  },
+  "prevent_delete": false
+}

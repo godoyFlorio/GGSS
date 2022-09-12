@@ -1,0 +1,15 @@
+{
+  "unique_id": "VA2UkWtT",
+  "name": "Electricista",
+  "parent": "zmHhJw05",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Electricista"
+  },
+  "prevent_delete": false
+}

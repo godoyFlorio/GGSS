@@ -1,0 +1,15 @@
+{
+  "unique_id": "fyvDTaRE",
+  "name": "Background",
+  "parent": "BZpkZJyv",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.mainBackground"
+  },
+  "prevent_delete": false
+}

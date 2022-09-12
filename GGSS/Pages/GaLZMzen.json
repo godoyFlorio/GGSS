@@ -1,0 +1,13 @@
+{
+  "unique_id": "GaLZMzen",
+  "path": "accordion.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordion.tpl",
+  "name": "accordion",
+  "value": "accordion",
+  "values": {},
+  "type": "element",
+  "parent": "mu9vSvXS",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

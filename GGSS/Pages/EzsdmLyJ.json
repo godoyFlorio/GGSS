@@ -1,0 +1,18 @@
+{
+  "unique_id": "EzsdmLyJ",
+  "name": "Nombre ",
+  "parent": "OwfoNOxm",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "collapse",
+  "cascades": true,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "placeholder": "Selecciona estado de solicitud",
+    "type": "text",
+    "margin": "none",
+    "variant": "outlined"
+  },
+  "prevent_delete": false
+}

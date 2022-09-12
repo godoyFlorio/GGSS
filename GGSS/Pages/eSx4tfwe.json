@@ -1,0 +1,18 @@
+{
+  "unique_id": "eSx4tfwe",
+  "name": "uncontrolledInput",
+  "parent": "MfIwqWTq",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "variant": "outlined",
+    "margin": "normal",
+    "type": "text",
+    "label": "Email address",
+    "onChange": "(e) => { setuserEmail(e.target.value) }",
+    "value": "{userEmail}"
+  },
+  "prevent_delete": false
+}

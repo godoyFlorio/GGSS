@@ -1,0 +1,16 @@
+{
+  "unique_id": "T2qdBHwD",
+  "name": "Recibido por",
+  "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
+  "parent": "GaD8GP4S",
+  "path": "typography.tpl",
+  "completePath": "elements/Material-UI/typography.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "typography",
+  "values": {
+    "tag": "body1"
+  },
+  "prevent_delete": false
+}

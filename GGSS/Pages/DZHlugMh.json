@@ -1,0 +1,10 @@
+{
+  "unique_id": "DZHlugMh",
+  "name": "ABM-Modelos",
+  "path": "/menu/taller/modelos-vehiculos",
+  "filename": "abmVehiculos.tsx",
+  "priority": 5,
+  "type": "page",
+  "parent": "qFKncRK7",
+  "collapseStatus": "collapse"
+}

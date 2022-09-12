@@ -1,0 +1,15 @@
+{
+  "unique_id": "TmPMD3B0",
+  "name": "Nafta Fangio XXI",
+  "parent": "PF13Mad0",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Nafta Fangio XXI"
+  },
+  "prevent_delete": false
+}

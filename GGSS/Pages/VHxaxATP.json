@@ -1,0 +1,15 @@
+{
+  "unique_id": "VHxaxATP",
+  "name": "Mar del Plata",
+  "parent": "wBNUX5vN",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Mar del Plata"
+  },
+  "prevent_delete": false
+}

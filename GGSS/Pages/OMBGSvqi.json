@@ -1,0 +1,13 @@
+{
+  "unique_id": "OMBGSvqi",
+  "name": "Aceptar",
+  "parent": "uIw5J6MG",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Aceptar",
+    "icon": "Home"
+  },
+  "prevent_delete": false
+}

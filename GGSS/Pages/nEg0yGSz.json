@@ -1,0 +1,14 @@
+{
+  "unique_id": "nEg0yGSz",
+  "name": "Container",
+  "value": "Container",
+  "values": {
+    "className": "theme.variablesUnidades"
+  },
+  "type": "element",
+  "path": "Container.tpl",
+  "parent": "TbxyO7a8",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

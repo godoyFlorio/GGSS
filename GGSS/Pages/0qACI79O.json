@@ -1,0 +1,16 @@
+{
+  "unique_id": "0qACI79O",
+  "name": "grid",
+  "parent": "MlPT3H8P",
+  "path": "grid.tpl",
+  "completePath": "elements/Material-UI/grid.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "grid",
+  "values": {
+    "midcolumns": "6",
+    "className": "theme.gridIzquierda"
+  },
+  "prevent_delete": false
+}

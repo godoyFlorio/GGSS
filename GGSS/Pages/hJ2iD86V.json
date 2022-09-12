@@ -1,0 +1,14 @@
+{
+  "unique_id": "hJ2iD86V",
+  "name": "Seleccionar Calle",
+  "value": "div",
+  "values": {
+    "class": "theme.selectUnidadText"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "P0tQ3TeR",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

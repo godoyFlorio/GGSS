@@ -1,0 +1,15 @@
+{
+  "unique_id": "3avwpaIi",
+  "name": "Input Options",
+  "parent": "AJly9aUK",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.inputOptions"
+  },
+  "prevent_delete": false
+}

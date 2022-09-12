@@ -1,0 +1,12 @@
+{
+  "unique_id": "ydb30emq",
+  "name": "ABM Select - Inputs",
+  "parent": "P4VFTwq9",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.abmSelectsInputs"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "v7vkAT3h",
+  "name": "text",
+  "parent": "OMwdZ7EZ",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Password reset?"
+  },
+  "prevent_delete": false
+}

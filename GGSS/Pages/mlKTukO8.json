@@ -1,10 +1,10 @@
 {
   "unique_id": "mlKTukO8",
-  "name": "prueba",
-  "path": "/prueba",
-  "filename": "prueba.tsx",
+  "name": "Personales",
+  "path": "/Personales",
+  "filename": "personales.tsx",
   "priority": 5,
   "type": "page",
   "parent": "JAg0dXCC",
-  "collapseStatus": "collapse"
+  "collapseStatus": "expand"
 }

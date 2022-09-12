@@ -1,0 +1,15 @@
+{
+  "unique_id": "7QaIxf1S",
+  "name": "text",
+  "parent": "6MWJMXue",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "{currentUser.FirstName} {currentUser.LastName}"
+  },
+  "prevent_delete": false
+}

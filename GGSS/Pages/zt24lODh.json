@@ -1,0 +1,17 @@
+{
+  "unique_id": "zt24lODh",
+  "name": "Center Container",
+  "parent": "PmmM3oEk",
+  "path": "Container.tpl",
+  "completePath": "elements/Material-UI/Container.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "Container",
+  "values": {
+    "maxWidth": "false",
+    "disableGutters": true,
+    "className": "theme.centerContainerAsignacionTiposServicioEstados"
+  },
+  "prevent_delete": false
+}

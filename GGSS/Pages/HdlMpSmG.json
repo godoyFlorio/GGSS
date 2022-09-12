@@ -1,0 +1,10 @@
+{
+  "unique_id": "HdlMpSmG",
+  "name": "ABM - Taller",
+  "path": "/menu/taller/ingreso-unidad-taller/ingreso-taller",
+  "filename": "abmTaller.tsx",
+  "type": "page",
+  "parent": "qsAWZAnz",
+  "collapseStatus": "expand",
+  "priority": 5
+}

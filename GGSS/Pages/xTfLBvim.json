@@ -1,0 +1,13 @@
+{
+  "unique_id": "xTfLBvim",
+  "name": "searchField",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "value": "searchField",
+  "collapseStatus": "expand",
+  "values": {
+    "table": "GrSXmXOk"
+  },
+  "parent": "6rpmcRGd"
+}

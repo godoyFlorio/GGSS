@@ -1,0 +1,13 @@
+{
+  "unique_id": "NtTeFoFh",
+  "path": "accordionSummary.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionSummary.tpl",
+  "name": "Datos del Equipamiento - wrapper",
+  "value": "accordionSummary",
+  "values": {},
+  "type": "element",
+  "parent": "81F9lQNh",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

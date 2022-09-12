@@ -1,0 +1,14 @@
+{
+  "unique_id": "J2Tvo7oR",
+  "name": "Crud Bar Variables Unidades",
+  "value": "div",
+  "values": {
+    "class": "theme.crudBarVariablesUnidades"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "c2ZowCtq",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

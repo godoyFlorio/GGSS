@@ -1,0 +1,12 @@
+{
+  "unique_id": "77OkflmX",
+  "name": "Ingresos a Taller",
+  "value": "accordionSummary",
+  "values": {},
+  "type": "element",
+  "path": "accordionSummary.tpl",
+  "parent": "dzCxILTe",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

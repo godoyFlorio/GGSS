@@ -1,0 +1,15 @@
+{
+  "unique_id": "HKgsT4Ll",
+  "name": "Input Options",
+  "parent": "L5rc5O82",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.inputOptionsObservaciones"
+  },
+  "prevent_delete": false
+}

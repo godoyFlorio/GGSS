@@ -1,0 +1,15 @@
+{
+  "unique_id": "iFeTTssK",
+  "name": "Titulo",
+  "parent": "cOTOndZb",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.tituloAzulh4"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "SLHmK572",
+  "name": "Text Content",
+  "parent": "7HTiqHgf",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Ingreso de una Unidad a Taller"
+  },
+  "prevent_delete": false
+}

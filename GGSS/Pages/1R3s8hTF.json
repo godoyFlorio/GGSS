@@ -1,0 +1,15 @@
+{
+  "unique_id": "1R3s8hTF",
+  "name": "Acumulados text",
+  "parent": "3p84yB4o",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.generalBody1BLUE"
+  },
+  "prevent_delete": false
+}

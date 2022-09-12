@@ -1,13 +1,55 @@
 {
+  "unique_id": "y7fQFKh0",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "type": "element",
+  "icon": "ico-div",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "class",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    },
+    {
+      "name": "useid",
+      "display": "Use UniqueID as ID",
+      "type": "checkbox",
+      "options": ""
+    },
+    {
+      "name": "id",
+      "display": "ID",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "onclick",
+      "display": "On Click",
+      "type": "function",
+      "options": ""
+    },
+    {
+      "name": "ref",
+      "display": "Use Reference",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "style",
+      "display": "Extra Styles",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "helpText": "Basic HTML Div element",
   "name": "Sub Title",
   "value": "div",
   "values": {
     "class": "theme.textDiv"
   },
-  "type": "element",
-  "path": "div.tpl",
-  "parent": "khcvSd17",
-  "unique_id": "y7fQFKh0",
+  "parent": "vxTgEG4q",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

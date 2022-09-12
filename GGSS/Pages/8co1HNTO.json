@@ -1,0 +1,15 @@
+{
+  "unique_id": "8co1HNTO",
+  "name": "Text Content",
+  "parent": "ORa2uKOz",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Ruta donde se almacena el icono"
+  },
+  "prevent_delete": false
+}

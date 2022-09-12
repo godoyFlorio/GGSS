@@ -1,0 +1,15 @@
+{
+  "unique_id": "AeILbXtl",
+  "name": "useState",
+  "parent": "a6Nmub0Q",
+  "path": "useState.tpl",
+  "completePath": "elements/Programming/useState.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "useState",
+  "values": {
+    "variableName": "usNombre"
+  },
+  "prevent_delete": false
+}

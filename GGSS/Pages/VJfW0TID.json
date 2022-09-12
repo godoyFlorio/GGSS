@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Provincia"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "T76VGfia",
+  "unique_id": "VJfW0TID",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

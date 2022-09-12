@@ -1,0 +1,17 @@
+{
+  "unique_id": "r7LuEJar",
+  "name": "grid Volver",
+  "parent": "iveTlzKx",
+  "path": "grid.tpl",
+  "completePath": "elements/Material-UI/grid.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "grid",
+  "values": {
+    "smallcolumns": "",
+    "midcolumns": "2",
+    "className": "theme.volveringTaller"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,10 @@
+{
+  "unique_id": "DPqAGS7p",
+  "name": "ABM-Proveedores",
+  "path": "/menu/taller/proveedores",
+  "filename": "abmProveedores.tsx",
+  "priority": 5,
+  "type": "page",
+  "parent": "qFKncRK7",
+  "collapseStatus": "expand"
+}

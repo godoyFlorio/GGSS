@@ -1,0 +1,13 @@
+{
+  "unique_id": "2qQgCxiy",
+  "path": "accordionDetails.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionDetails.tpl",
+  "name": "Asignacion de centro de costo x talleres",
+  "value": "accordionDetails",
+  "values": {},
+  "type": "element",
+  "parent": "iBMTfMbd",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

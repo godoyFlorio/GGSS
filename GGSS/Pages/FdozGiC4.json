@@ -1,0 +1,15 @@
+{
+  "unique_id": "FdozGiC4",
+  "name": "Motor",
+  "parent": "slp4ITKs",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Motor"
+  },
+  "prevent_delete": false
+}

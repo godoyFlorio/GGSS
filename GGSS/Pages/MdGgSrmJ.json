@@ -1,0 +1,15 @@
+{
+  "unique_id": "MdGgSrmJ",
+  "name": "Herrero",
+  "parent": "xohOJJtL",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Herrero"
+  },
+  "prevent_delete": false
+}

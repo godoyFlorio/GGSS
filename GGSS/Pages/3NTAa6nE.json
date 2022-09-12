@@ -1,0 +1,20 @@
+{
+  "unique_id": "3NTAa6nE",
+  "name": "400",
+  "parent": "wupPEK73",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "",
+    "fieldname": "usNombre",
+    "className": "",
+    "placeholder": "400",
+    "variant": "outlined",
+    "type": "text"
+  },
+  "prevent_delete": false
+}

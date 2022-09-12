@@ -1,0 +1,12 @@
+{
+  "unique_id": "M4fs02DB",
+  "name": "Observaciones",
+  "parent": "ORK3Jvpy",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Observaciones"
+  },
+  "prevent_delete": false
+}

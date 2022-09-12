@@ -1,0 +1,15 @@
+{
+  "unique_id": "P0xXH3Zy",
+  "name": "Choferes",
+  "parent": "fMlL7lGn",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Choferes"
+  },
+  "prevent_delete": false
+}

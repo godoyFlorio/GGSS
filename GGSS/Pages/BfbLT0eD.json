@@ -1,0 +1,17 @@
+{
+  "unique_id": "BfbLT0eD",
+  "name": "Teléfono",
+  "parent": "i5G52uMI",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "1234321",
+    "fieldname": "usNombre",
+    "className": "theme.fieldACambiar"
+  },
+  "prevent_delete": false
+}

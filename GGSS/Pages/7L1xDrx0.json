@@ -1,0 +1,16 @@
+{
+  "unique_id": "7L1xDrx0",
+  "name": "Listar",
+  "parent": "V99eAE6O",
+  "path": "button.tpl",
+  "completePath": "elements\\Material-UI\\button.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Listar",
+    "icon": "Menu"
+  },
+  "prevent_delete": false
+}

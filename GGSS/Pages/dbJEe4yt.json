@@ -1,0 +1,15 @@
+{
+  "unique_id": "dbJEe4yt",
+  "name": "Carapachay",
+  "parent": "4wyLJ6ST",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Carapachay"
+  },
+  "prevent_delete": false
+}

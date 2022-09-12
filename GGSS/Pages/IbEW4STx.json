@@ -1,0 +1,13 @@
+{
+  "unique_id": "IbEW4STx",
+  "name": "Container",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "value": "Container",
+  "collapseStatus": "expand",
+  "values": {
+    "maxWidth": "lg"
+  },
+  "parent": "rdi2Hk2p"
+}

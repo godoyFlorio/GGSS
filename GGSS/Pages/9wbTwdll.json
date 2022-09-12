@@ -1,0 +1,15 @@
+{
+  "unique_id": "9wbTwdll",
+  "name": "div input Descripcion",
+  "parent": "zbqkutMs",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.opcionesInputProvincia"
+  },
+  "prevent_delete": false
+}

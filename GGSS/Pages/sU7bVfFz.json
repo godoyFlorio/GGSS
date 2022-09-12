@@ -1,0 +1,14 @@
+{
+  "name": "Perfil",
+  "value": "div",
+  "values": {
+    "class": "theme.choferButtonCancelar"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "KvheHyar",
+  "unique_id": "sU7bVfFz",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

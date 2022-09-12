@@ -1,0 +1,15 @@
+{
+  "unique_id": "FmauAiHZ",
+  "name": "Cacheuta",
+  "parent": "J8gbWlTz",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Cacheuta"
+  },
+  "prevent_delete": false
+}

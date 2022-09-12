@@ -1,0 +1,12 @@
+{
+  "unique_id": "8IcBITAf",
+  "name": "MenuItem",
+  "parent": "L09Dxd6C",
+  "path": "MenuItem.tpl",
+  "completePath": "elements/Material-UI/Menu/MenuItem.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "MenuItem",
+  "prevent_delete": false
+}

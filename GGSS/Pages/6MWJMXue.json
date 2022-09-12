@@ -1,0 +1,15 @@
+{
+  "unique_id": "6MWJMXue",
+  "name": "div",
+  "parent": "L09Dxd6C",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.menuProfileDetails"
+  },
+  "prevent_delete": false
+}

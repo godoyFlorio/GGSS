@@ -1,0 +1,15 @@
+{
+  "unique_id": "7ARr88z2",
+  "name": "Trabajos correctivos",
+  "parent": "TEiPRRKE",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.divsMan"
+  },
+  "prevent_delete": false
+}

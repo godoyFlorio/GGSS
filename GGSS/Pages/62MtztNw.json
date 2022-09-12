@@ -1,0 +1,14 @@
+{
+  "unique_id": "62MtztNw",
+  "name": "Eliminar",
+  "value": "div",
+  "values": {
+    "class": "theme.eliminarCrud"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "fZUSraal",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

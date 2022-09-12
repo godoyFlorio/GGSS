@@ -1,0 +1,15 @@
+{
+  "unique_id": "wUxSCktD",
+  "name": "Text Content",
+  "parent": "OFd4GX0p",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Seleccionar Taller"
+  },
+  "prevent_delete": false
+}

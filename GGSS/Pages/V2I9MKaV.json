@@ -1,0 +1,16 @@
+{
+  "unique_id": "V2I9MKaV",
+  "name": "Guardar Cambios",
+  "parent": "OFwUqI8n",
+  "path": "button.tpl",
+  "completePath": "elements\\Material-UI\\button.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Guardar Cambios",
+    "Color": "inherit"
+  },
+  "prevent_delete": false
+}

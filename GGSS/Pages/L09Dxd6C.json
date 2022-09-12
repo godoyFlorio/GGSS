@@ -1,0 +1,16 @@
+{
+  "unique_id": "L09Dxd6C",
+  "name": "Menu",
+  "parent": "r9vSA2W0",
+  "path": "Menu.tpl",
+  "completePath": "elements/Material-UI/Menu/Menu.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "Menu",
+  "values": {
+    "anchorElement": "profileMenuAnchor",
+    "onClose": "(params) => { setprofileMenuAnchor(null)}"
+  },
+  "prevent_delete": false
+}

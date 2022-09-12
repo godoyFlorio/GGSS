@@ -1,0 +1,16 @@
+{
+  "unique_id": "SMO3qmRn",
+  "name": "Ingreso de una unidad a taller / Taller",
+  "parent": "n4TuRkyP",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Ingreso de una unidad a taller / Taller",
+    "ClassName": ""
+  },
+  "prevent_delete": false
+}

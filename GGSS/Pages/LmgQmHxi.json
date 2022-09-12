@@ -1,0 +1,13 @@
+{
+  "unique_id": "LmgQmHxi",
+  "name": "Input Options Observaciones",
+  "parent": "M2Mbr0eU",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.inputOptionsObservaciones"
+  },
+  "prevent_delete": false
+}

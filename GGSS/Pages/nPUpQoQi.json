@@ -1,0 +1,15 @@
+{
+  "unique_id": "nPUpQoQi",
+  "name": "useState",
+  "parent": "6m0Sep6i",
+  "path": "useState.tpl",
+  "completePath": "elements/Programming/useState.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "useState",
+  "values": {
+    "variableName": "usNombre"
+  },
+  "prevent_delete": false
+}

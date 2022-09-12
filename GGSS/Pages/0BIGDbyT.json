@@ -1,0 +1,20 @@
+{
+  "unique_id": "0BIGDbyT",
+  "name": "Auxiliar administrativo",
+  "parent": "OrdovOoF",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "",
+    "fieldname": "usNombre",
+    "className": "",
+    "placeholder": "Auxiliar administrativo",
+    "variant": "outlined",
+    "type": "text"
+  },
+  "prevent_delete": false
+}

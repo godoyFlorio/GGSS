@@ -1,0 +1,14 @@
+{
+  "unique_id": "Wft6lbdA",
+  "name": "Div Marcas",
+  "value": "div",
+  "values": {
+    "class": "theme.unidadDiv"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "3eLDPQL7",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

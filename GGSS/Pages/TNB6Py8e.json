@@ -1,0 +1,16 @@
+{
+  "unique_id": "TNB6Py8e",
+  "name": "Centro costo",
+  "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
+  "parent": "cAoZbXgV",
+  "path": "typography.tpl",
+  "completePath": "elements/Material-UI/typography.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "typography",
+  "values": {
+    "tag": "body1"
+  },
+  "prevent_delete": false
+}

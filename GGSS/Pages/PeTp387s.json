@@ -1,0 +1,15 @@
+{
+  "unique_id": "PeTp387s",
+  "name": "SEPEYCO",
+  "parent": "zd0EQ1lP",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "SEPEYCO"
+  },
+  "prevent_delete": false
+}

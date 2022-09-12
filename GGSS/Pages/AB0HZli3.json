@@ -1,0 +1,13 @@
+{
+  "unique_id": "AB0HZli3",
+  "path": "accordionDetails.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionDetails.tpl",
+  "name": "Choferes",
+  "value": "accordionDetails",
+  "values": {},
+  "type": "element",
+  "parent": "KUH8pMDz",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

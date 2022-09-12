@@ -1,0 +1,15 @@
+{
+  "unique_id": "C9Hgyxdg",
+  "name": "Provincias",
+  "parent": "oThcGzrC",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Provincias"
+  },
+  "prevent_delete": false
+}

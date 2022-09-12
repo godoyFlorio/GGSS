@@ -1,0 +1,13 @@
+{
+  "unique_id": "RSRDuIvC",
+  "name": "typography",
+  "parent": "0lt5cVOn",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "typography",
+  "values": {
+    "tag": "h4"
+  },
+  "prevent_delete": false
+}

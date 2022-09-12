@@ -1,0 +1,15 @@
+{
+  "unique_id": "7RKQDll1",
+  "path": "bpr.tpl",
+  "completePath": "elements/Aptugo Internal Use/bpr.tpl",
+  "type": "element",
+  "icon": "ico-field",
+  "sourceType": "javascript",
+  "internalUse": true,
+  "prevent_delete": false,
+  "name": "Before Page Render",
+  "parent": "qFKncRK7",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "value": "bpr"
+}

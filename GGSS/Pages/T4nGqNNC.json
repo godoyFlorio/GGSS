@@ -1,0 +1,15 @@
+{
+  "unique_id": "T4nGqNNC",
+  "name": "MaterialIcon",
+  "parent": "iIQ98okv",
+  "path": "MaterialIcon.tpl",
+  "completePath": "elements/Material-UI/MaterialIcon.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "MaterialIcon",
+  "values": {
+    "icon": "CropSquare"
+  },
+  "prevent_delete": false
+}

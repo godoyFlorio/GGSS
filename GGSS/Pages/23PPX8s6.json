@@ -1,0 +1,14 @@
+{
+  "unique_id": "23PPX8s6",
+  "name": "sidebar",
+  "prevent_delete": false,
+  "cascades": true,
+  "type": "element",
+  "value": "sidebar",
+  "collapseStatus": "collapse",
+  "values": {
+    "colorSchema": "Greens",
+    "open": "true"
+  },
+  "parent": "UKsQQtdp"
+}

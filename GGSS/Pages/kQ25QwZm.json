@@ -1,0 +1,14 @@
+{
+  "unique_id": "kQ25QwZm",
+  "name": "Button Volver ",
+  "value": "div",
+  "values": {
+    "class": "theme.backButtonDiv"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "CxrB0Wpr",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Generales",
+  "value": "text",
+  "values": {
+    "Content": "Generales"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "6rgPAKcL",
+  "unique_id": "MwZDOaSs",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

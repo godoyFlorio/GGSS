@@ -1,0 +1,14 @@
+{
+  "unique_id": "G0xGt53a",
+  "name": "Calle",
+  "value": "div",
+  "values": {
+    "class": "theme.title"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "zkLfeND7",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

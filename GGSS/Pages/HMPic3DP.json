@@ -1,0 +1,14 @@
+{
+  "unique_id": "HMPic3DP",
+  "path": "apr.tpl",
+  "completePath": "elements/Aptugo Internal Use/apr.tpl",
+  "icon": "ico-field",
+  "helpText": "After Page Render",
+  "name": "After Page Render",
+  "parent": "DPqAGS7p",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "apr",
+  "prevent_delete": false
+}

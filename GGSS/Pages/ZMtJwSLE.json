@@ -1,0 +1,15 @@
+{
+  "unique_id": "ZMtJwSLE",
+  "name": "Text Content",
+  "parent": "7I00vGZu",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Volver"
+  },
+  "prevent_delete": false
+}

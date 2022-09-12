@@ -1,0 +1,23 @@
+{
+  "unique_id": "fGC3LDU1",
+  "path": "dummyEncloser.tpl",
+  "completePath": "elements/Basic/dummyEncloser.tpl",
+  "icon": "ico-dummy-enclosure",
+  "helpText": "Organizational unit with no render value",
+  "options": [
+    {
+      "name": "titleAsComment",
+      "display": "Use Name as Comment",
+      "type": "checkbox",
+      "options": ""
+    }
+  ],
+  "open": false,
+  "name": "Language",
+  "cascades": true,
+  "type": "element",
+  "value": "dummyEncloser",
+  "prevent_delete": false,
+  "parent": "rKJR5MIm",
+  "collapseStatus": "collapse"
+}

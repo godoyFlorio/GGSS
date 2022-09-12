@@ -1,0 +1,12 @@
+{
+  "unique_id": "IuG915A1",
+  "path": "accordionDetails.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionDetails.tpl",
+  "name": "Trabajos posibles de efectuar segun tipo de unidad",
+  "parent": "eRXTJt9m",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "accordionDetails",
+  "prevent_delete": false
+}

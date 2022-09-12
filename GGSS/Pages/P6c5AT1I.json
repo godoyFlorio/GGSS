@@ -1,13 +1,31 @@
 {
+  "unique_id": "P6c5AT1I",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "type": "element",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    }
+  ],
   "name": "text",
   "value": "text",
   "values": {
     "Content": "Nombres:"
   },
-  "type": "element",
-  "path": "text.tpl",
   "parent": "KU0159I5",
-  "unique_id": "P6c5AT1I",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

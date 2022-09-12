@@ -1,0 +1,15 @@
+{
+  "unique_id": "MCWATq8g",
+  "name": "CRUD Buttons",
+  "parent": "UvQiHw2L",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.crudButtons"
+  },
+  "prevent_delete": false
+}

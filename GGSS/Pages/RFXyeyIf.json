@@ -1,0 +1,13 @@
+{
+  "unique_id": "RFXyeyIf",
+  "name": "Table Toolbar",
+  "parent": "1pwfsNVJ",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.tabletoolbar"
+  },
+  "prevent_delete": false
+}

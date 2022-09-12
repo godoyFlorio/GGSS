@@ -1,0 +1,15 @@
+{
+  "unique_id": "snCMUI3g",
+  "name": "Tipo de lubricante",
+  "parent": "KyV9rSgy",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Tipo de lubricante"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "i2U8y76n",
+  "name": "div",
+  "parent": "OZ3fusU0",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.baldeYcabina"
+  },
+  "prevent_delete": false
+}

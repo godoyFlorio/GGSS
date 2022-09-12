@@ -1,0 +1,12 @@
+{
+  "name": "accordionSummary",
+  "value": "accordionSummary",
+  "values": {},
+  "type": "element",
+  "path": "accordionSummary.tpl",
+  "parent": "fnVOtsqf",
+  "unique_id": "SraCqpbU",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

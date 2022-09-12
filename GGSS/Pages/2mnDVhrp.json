@@ -1,0 +1,13 @@
+{
+  "unique_id": "2mnDVhrp",
+  "name": "Main Area",
+  "prevent_delete": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.mainarea"
+  },
+  "cascades": false,
+  "collapseStatus": "expand",
+  "parent": "UKsQQtdp"
+}

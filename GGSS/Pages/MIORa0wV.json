@@ -1,0 +1,12 @@
+{
+  "unique_id": "MIORa0wV",
+  "name": "Descripción",
+  "parent": "Ws5HilVH",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Descripción"
+  },
+  "prevent_delete": false
+}

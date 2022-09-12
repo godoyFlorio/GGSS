@@ -1,0 +1,13 @@
+{
+  "unique_id": "eCVVhuKk",
+  "name": "Eliminar",
+  "parent": "7OBgPfiJ",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Eliminar",
+    "icon": "Clear"
+  },
+  "prevent_delete": false
+}

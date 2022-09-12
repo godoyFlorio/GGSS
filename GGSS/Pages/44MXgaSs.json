@@ -1,0 +1,16 @@
+{
+  "unique_id": "44MXgaSs",
+  "name": "Salir",
+  "parent": "9VKIkAfS",
+  "path": "button.tpl",
+  "completePath": "elements\\Material-UI\\button.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Salir",
+    "className": ""
+  },
+  "prevent_delete": false
+}

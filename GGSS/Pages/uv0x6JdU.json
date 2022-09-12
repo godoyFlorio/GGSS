@@ -1,0 +1,14 @@
+{
+  "unique_id": "uv0x6JdU",
+  "name": "Código de fábrica",
+  "value": "div",
+  "values": {
+    "class": "theme.unidadInputs"
+  },
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "fFVTTmM5",
+  "collapseStatus": "expand"
+}

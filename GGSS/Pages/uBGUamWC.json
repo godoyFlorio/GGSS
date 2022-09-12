@@ -1,0 +1,13 @@
+{
+  "unique_id": "uBGUamWC",
+  "name": "div",
+  "parent": "RZVN6UPl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.mainarea"
+  },
+  "prevent_delete": false
+}

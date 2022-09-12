@@ -1,0 +1,15 @@
+{
+  "unique_id": "F96RkRTR",
+  "name": "Bastidor y Chasis",
+  "parent": "MdgZ0MhA",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Bastidor y Chasis"
+  },
+  "prevent_delete": false
+}

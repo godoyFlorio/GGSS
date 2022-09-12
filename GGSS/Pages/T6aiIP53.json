@@ -1,0 +1,15 @@
+{
+  "unique_id": "T6aiIP53",
+  "name": "Text Content",
+  "parent": "XnxJ1sqz",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Trabajos correctivos"
+  },
+  "prevent_delete": false
+}

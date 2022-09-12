@@ -1,0 +1,15 @@
+{
+  "unique_id": "F06d7vlP",
+  "name": "List of Options",
+  "parent": "RTlZwbA3",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.selectOptions"
+  },
+  "prevent_delete": false
+}

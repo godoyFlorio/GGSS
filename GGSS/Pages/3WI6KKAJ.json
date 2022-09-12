@@ -1,0 +1,15 @@
+{
+  "unique_id": "3WI6KKAJ",
+  "name": "Estado",
+  "parent": "nKqB17HO",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.generalABMInput"
+  },
+  "prevent_delete": false
+}

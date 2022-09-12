@@ -1,0 +1,15 @@
+{
+  "unique_id": "yB8Azlgl",
+  "name": "Buttons - Cancel / Select",
+  "parent": "FFMu5Rov",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.abmInputButtonsCancelar"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,26 @@
+{
+  "unique_id": "wBCLRMkR",
+  "path": "TopMenu.tpl",
+  "completePath": "elements/Material-UI/TopMenu.tpl",
+  "type": "element",
+  "icon": "browser-51.svg",
+  "helpText": "Sets a Top Navigation Menu for a Webpage",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "name": "TopMenu",
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "evC4pire",
+  "value": "TopMenu",
+  "collapseStatus": "collapse",
+  "values": {
+    "className": "theme.topMenu"
+  }
+}

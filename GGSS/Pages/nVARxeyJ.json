@@ -1,0 +1,15 @@
+{
+  "unique_id": "nVARxeyJ",
+  "name": "Kilometros",
+  "parent": "UGGCq0gg",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.divsKm"
+  },
+  "prevent_delete": false
+}

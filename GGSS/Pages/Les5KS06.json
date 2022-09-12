@@ -1,0 +1,16 @@
+{
+  "unique_id": "Les5KS06",
+  "name": "Imagen",
+  "parent": "yT4KOxsi",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "useid": false,
+    "class": "theme.tallerImg"
+  },
+  "prevent_delete": false
+}

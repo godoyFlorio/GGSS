@@ -1,0 +1,13 @@
+{
+  "unique_id": "TGOeeoFd",
+  "path": "accordionDetails.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionDetails.tpl",
+  "name": "Equipamiento basico segun tipo de unidad",
+  "value": "accordionDetails",
+  "values": {},
+  "type": "element",
+  "parent": "3ubvRlqH",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,16 @@
+{
+  "unique_id": "Kiu0JiHa",
+  "name": "IconButton",
+  "parent": "r9vSA2W0",
+  "path": "IconButton.tpl",
+  "completePath": "elements/Material-UI/IconButton.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "IconButton",
+  "values": {
+    "className": "theme.profilePicture",
+    "Action": "(event) => { setprofileMenuAnchor(event.currentTarget) }"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,16 @@
+{
+  "unique_id": "q0yzPnc0",
+  "name": "useState",
+  "parent": "09D6gZSb",
+  "path": "useState.tpl",
+  "completePath": "elements/Programming/useState.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "useState",
+  "values": {
+    "variableName": "check",
+    "defaultValue": "''"
+  },
+  "prevent_delete": false
+}

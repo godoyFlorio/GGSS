@@ -1,0 +1,32 @@
+{
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "type": "element",
+  "unique_id": "Q60npnq1",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    }
+  ],
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Incluir en accesos directos"
+  },
+  "parent": "kF0Ls1Lt",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

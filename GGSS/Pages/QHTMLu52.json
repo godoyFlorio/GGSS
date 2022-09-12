@@ -1,0 +1,12 @@
+{
+  "unique_id": "QHTMLu52",
+  "name": "typography",
+  "parent": "92lTghqP",
+  "cascades": false,
+  "type": "element",
+  "value": "typography",
+  "values": {
+    "tag": "h5"
+  },
+  "prevent_delete": false
+}

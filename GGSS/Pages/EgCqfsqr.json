@@ -1,0 +1,16 @@
+{
+  "name": "performApiCall",
+  "value": "performApiCall",
+  "values": {
+    "method": "post",
+    "url": "'https://rickandmortyapi.com/api/character'",
+    "dataVariable": "dataCharacters"
+  },
+  "type": "element",
+  "path": "performApiCall.tpl",
+  "parent": "HDhNbGRB",
+  "unique_id": "EgCqfsqr",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

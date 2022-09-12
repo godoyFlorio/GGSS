@@ -1,0 +1,51 @@
+{
+  "unique_id": "gqFJaOM7",
+  "path": "radio.tpl",
+  "completePath": "elements/Material-UI/Forms/radio.tpl",
+  "type": "element",
+  "icon": "ico-radio",
+  "options": [
+    {
+      "name": "checked",
+      "display": "Checked",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "onchange",
+      "display": "On Change",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "value",
+      "display": "Value",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "name",
+      "display": "Name",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "label",
+      "display": "label",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "name": "Radio Correctiva",
+  "value": "radio",
+  "values": {
+    "checked": "{ radios == 1 ? true:false }",
+    "onchange": "{radioSelect}",
+    "value": "1",
+    "name": "Interno"
+  },
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "31Hx0fC8",
+  "collapseStatus": "expand"
+}

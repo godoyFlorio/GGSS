@@ -1,0 +1,17 @@
+{
+  "unique_id": "x6kCMmk2",
+  "name": "button",
+  "value": "button",
+  "values": {
+    "icon": "None",
+    "Variant": "text",
+    "ButtonText": "Volver",
+    "Action": "props.history.push('/menu/taller/abm-unidades')"
+  },
+  "type": "element",
+  "path": "button.tpl",
+  "parent": "kQ25QwZm",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

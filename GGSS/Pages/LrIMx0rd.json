@@ -1,0 +1,15 @@
+{
+  "unique_id": "LrIMx0rd",
+  "name": "Nombre Modulo",
+  "parent": "ikHQ6vO4",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.moduloNombresoporte"
+  },
+  "prevent_delete": false
+}

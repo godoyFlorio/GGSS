@@ -1,0 +1,46 @@
+{
+  "unique_id": "HAUHcNZa",
+  "path": "function.tpl",
+  "completePath": "elements/Programming/function.tpl",
+  "type": "element",
+  "icon": "ico-function",
+  "sourceType": "javascript",
+  "helpText": "Prepares a function to be called by other components and actions",
+  "options": [
+    {
+      "name": "functionName",
+      "display": "Function Name",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "functionParameters",
+      "display": "Parameters",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "functionBody",
+      "display": "Body",
+      "type": "function",
+      "options": ""
+    },
+    {
+      "name": "priority",
+      "display": "Priiority",
+      "type": "dropdown",
+      "options": "Normal;High;Low"
+    }
+  ],
+  "name": "Radio",
+  "value": "function",
+  "values": {
+    "functionName": "radioSelect",
+    "functionBody": "setradios(e.target.value)",
+    "functionParameters": "e"
+  },
+  "parent": "TEbHy9cT",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

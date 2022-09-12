@@ -1,0 +1,13 @@
+{
+  "unique_id": "Ifgku2K3",
+  "path": "accordionSummary.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionSummary.tpl",
+  "name": "Unidades - wrapper",
+  "value": "accordionSummary",
+  "values": {},
+  "type": "element",
+  "parent": "DHb6tTkq",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

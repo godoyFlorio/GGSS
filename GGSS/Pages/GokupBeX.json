@@ -1,0 +1,17 @@
+{
+  "unique_id": "GokupBeX",
+  "name": "Ingresar observaciones",
+  "parent": "LmgQmHxi",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "Ingresar observaciones",
+    "fieldname": "usNombre",
+    "className": "",
+    "placeholder": "",
+    "variant": "outlined",
+    "type": "text"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "cAoZbXgV",
+  "name": "div",
+  "parent": "CnN7lmCo",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.inputs"
+  },
+  "prevent_delete": false
+}

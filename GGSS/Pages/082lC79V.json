@@ -1,0 +1,15 @@
+{
+  "unique_id": "082lC79V",
+  "name": "Destino",
+  "parent": "8u0vXkaI",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Destino"
+  },
+  "prevent_delete": false
+}

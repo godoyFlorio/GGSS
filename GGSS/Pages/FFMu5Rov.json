@@ -1,0 +1,15 @@
+{
+  "unique_id": "FFMu5Rov",
+  "name": "Input",
+  "parent": "5hI09aTs",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.abmInput"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,33 @@
+{
+  "unique_id": "k8o9RcfL",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "type": "element",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    }
+  ],
+  "name": "Forgot",
+  "parent": "G82AxMia",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "value": "text",
+  "values": {
+    "Content": "¿Olvidaste tu contraseña?",
+    "ClassName": ""
+  },
+  "prevent_delete": false
+}

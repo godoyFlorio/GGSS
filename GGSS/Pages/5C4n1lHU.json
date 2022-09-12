@@ -1,0 +1,13 @@
+{
+  "unique_id": "5C4n1lHU",
+  "path": "accordionSummary.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionSummary.tpl",
+  "name": "Unidades - wrapper",
+  "value": "accordionSummary",
+  "values": {},
+  "type": "element",
+  "parent": "i5O25PBR",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

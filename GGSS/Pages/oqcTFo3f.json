@@ -1,0 +1,16 @@
+{
+  "unique_id": "oqcTFo3f",
+  "name": "grid",
+  "parent": "MlPT3H8P",
+  "path": "grid.tpl",
+  "completePath": "elements/Material-UI/grid.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "grid",
+  "values": {
+    "midcolumns": "6",
+    "className": "theme.gridDerecha"
+  },
+  "prevent_delete": false
+}

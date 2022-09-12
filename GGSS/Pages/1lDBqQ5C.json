@@ -1,0 +1,17 @@
+{
+  "unique_id": "1lDBqQ5C",
+  "name": "button",
+  "parent": "ILLJdStB",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "Variant": "contained",
+    "Color": "primary",
+    "fullWidth": true,
+    "ButtonText": "Reset Password!",
+    "Action": "saveNewPassword"
+  },
+  "prevent_delete": false
+}

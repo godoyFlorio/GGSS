@@ -1,0 +1,12 @@
+{
+  "unique_id": "e90GDLKs",
+  "name": "ABM Titulo",
+  "parent": "P4VFTwq9",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.tituloABM"
+  },
+  "prevent_delete": false
+}

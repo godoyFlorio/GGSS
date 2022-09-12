@@ -1,0 +1,18 @@
+{
+  "unique_id": "GV4SHUuS",
+  "name": "input Centro costo",
+  "parent": "TNB6Py8e",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "placeholder": "ingresar centro costo",
+    "type": "text",
+    "variant": "outlined",
+    "margin": "none"
+  },
+  "prevent_delete": false
+}

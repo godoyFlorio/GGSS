@@ -1,0 +1,15 @@
+{
+  "unique_id": "IyzoKJim",
+  "name": "div Titulo body 3b",
+  "parent": "Nq578zKl",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.divTitulobody3b"
+  },
+  "prevent_delete": false
+}

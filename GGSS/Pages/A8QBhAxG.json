@@ -1,0 +1,14 @@
+{
+  "name": "Motor",
+  "value": "text",
+  "values": {
+    "Content": "Motor"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "LpZMyg6o",
+  "unique_id": "A8QBhAxG",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,51 @@
+{
+  "unique_id": "kuiWuUQn",
+  "name": "navLink",
+  "parent": "ZwAsZG1o",
+  "path": "navLink.tpl",
+  "completePath": "elements/Material-UI/navLink.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "navLink",
+  "values": {
+    "Destination": "/admin",
+    "destination": "/admin",
+    "linkText": "Home"
+  },
+  "prevent_delete": false,
+  "icon": "ico-navlink",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Destination",
+      "display": "destination",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "destination",
+      "display": "Destination",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    },
+    {
+      "name": "activeClassname",
+      "display": "ClassName (active)",
+      "type": "styles",
+      "options": ""
+    },
+    {
+      "name": "linkText",
+      "display": "Text",
+      "type": "text",
+      "options": ""
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "LUol0rSf",
+  "name": "Valores de medición",
+  "value": "text",
+  "values": {
+    "Content": "Valores de medición"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "T2hzoTup",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

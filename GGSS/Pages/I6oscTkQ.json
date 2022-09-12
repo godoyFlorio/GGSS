@@ -1,0 +1,14 @@
+{
+  "unique_id": "I6oscTkQ",
+  "name": "Observaciones",
+  "value": "div",
+  "values": {
+    "class": "theme.title"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "DgA6VJRm",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

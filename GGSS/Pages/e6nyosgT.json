@@ -1,0 +1,37 @@
+{
+  "unique_id": "e6nyosgT",
+  "name": "Paper",
+  "parent": "B4SNNKzP",
+  "path": "Paper.tpl",
+  "completePath": "elements/Material-UI/Paper.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "Paper",
+  "prevent_delete": false,
+  "icon": "ico-paper",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "styles"
+    },
+    {
+      "name": "elevation",
+      "display": "Elevation",
+      "type": "text"
+    },
+    {
+      "name": "square",
+      "display": "Square Looking",
+      "type": "checkbox"
+    },
+    {
+      "name": "variant",
+      "display": "Variant",
+      "type": "dropdown",
+      "options": "elevation;outlined"
+    }
+  ]
+}

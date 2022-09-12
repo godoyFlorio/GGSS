@@ -1,0 +1,26 @@
+{
+  "unique_id": "VAlq1SLQ",
+  "path": "TopMenu.tpl",
+  "completePath": "elements/Material-UI/TopMenu.tpl",
+  "type": "element",
+  "icon": "browser-51.svg",
+  "helpText": "Sets a Top Navigation Menu for a Webpage",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    }
+  ],
+  "name": "TopMenu",
+  "value": "TopMenu",
+  "values": {
+    "className": "theme.abmUnidadesTopMenu"
+  },
+  "parent": "6qH9GUMw",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

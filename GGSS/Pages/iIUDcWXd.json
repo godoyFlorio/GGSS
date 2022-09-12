@@ -1,0 +1,43 @@
+{
+  "unique_id": "iIUDcWXd",
+  "path": "TopMenuItem.tpl",
+  "completePath": "elements/Material-UI/TopMenuItem.tpl",
+  "icon": "ico-top-menu-item",
+  "options": [
+    {
+      "name": "text",
+      "display": "Display Text",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "link",
+      "display": "Navigate to",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "onClick",
+      "display": "On Click",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "styles"
+    }
+  ],
+  "name": "TopMenuItem",
+  "value": "TopMenuItem",
+  "values": {
+    "text": "Unidad",
+    "link": "http://localhost:8080/menu/taller/abm-unidades",
+    "className": []
+  },
+  "type": "element",
+  "parent": "VAlq1SLQ",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

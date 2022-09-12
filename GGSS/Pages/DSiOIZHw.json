@@ -1,0 +1,13 @@
+{
+  "unique_id": "DSiOIZHw",
+  "name": "Table Area",
+  "parent": "3y6fXDiw",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "classes.tableResponsive"
+  },
+  "prevent_delete": false
+}

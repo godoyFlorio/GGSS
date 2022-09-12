@@ -1,0 +1,14 @@
+{
+  "unique_id": "Ve3kQDT3",
+  "name": "Agregar",
+  "value": "div",
+  "values": {
+    "class": "theme.agregarCrud"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "fZUSraal",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

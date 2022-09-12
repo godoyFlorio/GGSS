@@ -1,0 +1,12 @@
+{
+  "unique_id": "9p1zMaQt",
+  "name": "Select Label",
+  "parent": "ZtdhP9Nv",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.selectLabelh4"
+  },
+  "prevent_delete": false
+}

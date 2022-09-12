@@ -1,0 +1,17 @@
+{
+  "unique_id": "F13cRMoM",
+  "name": "Nombre",
+  "parent": "Ao72Koxw",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "Taller Circunvalación",
+    "fieldname": "usNombre",
+    "className": "theme.fieldACambiar"
+  },
+  "prevent_delete": false
+}

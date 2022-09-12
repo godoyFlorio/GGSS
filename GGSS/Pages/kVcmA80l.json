@@ -1,0 +1,15 @@
+{
+  "unique_id": "kVcmA80l",
+  "name": "div",
+  "parent": "8sGmyLnU",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.inputButton"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "Zv1Tak9E",
+  "name": "Text Content",
+  "parent": "TNB6Py8e",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Centro costo"
+  },
+  "prevent_delete": false
+}

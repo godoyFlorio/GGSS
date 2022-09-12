@@ -1,0 +1,15 @@
+{
+  "unique_id": "emWv7MTb",
+  "name": "div",
+  "parent": "yQKA4ekI",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": ""
+  },
+  "prevent_delete": false
+}

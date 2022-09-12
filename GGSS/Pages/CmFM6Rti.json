@@ -1,0 +1,17 @@
+{
+  "unique_id": "CmFM6Rti",
+  "name": "IconButton",
+  "parent": "kVcmA80l",
+  "path": "IconButton.tpl",
+  "completePath": "elements\\Material-UI\\IconButton.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "IconButton",
+  "values": {
+    "icon": "MoreVert",
+    "iconstyle": "Rounded",
+    "Color": "error"
+  },
+  "prevent_delete": false
+}

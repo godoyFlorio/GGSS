@@ -1,0 +1,15 @@
+{
+  "unique_id": "fT3KqX7Q",
+  "name": "O.U.M.",
+  "parent": "Or2TQNdX",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "O.U.M."
+  },
+  "prevent_delete": false
+}

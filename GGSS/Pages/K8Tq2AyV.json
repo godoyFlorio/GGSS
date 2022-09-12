@@ -1,0 +1,29 @@
+{
+  "unique_id": "K8Tq2AyV",
+  "path": "list.tpl",
+  "completePath": "elements/Material-UI/list.tpl",
+  "type": "element",
+  "icon": "ico-list",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    },
+    {
+      "name": "disablePadding",
+      "display": "Disable Padding",
+      "type": "checkbox",
+      "options": ""
+    }
+  ],
+  "name": "list",
+  "value": "list",
+  "values": {},
+  "parent": "VS0ioMyD",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

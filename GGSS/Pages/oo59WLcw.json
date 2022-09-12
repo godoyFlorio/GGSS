@@ -1,0 +1,15 @@
+{
+  "unique_id": "oo59WLcw",
+  "name": "SAE 30",
+  "parent": "T50hAAL5",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "SAE 30"
+  },
+  "prevent_delete": false
+}

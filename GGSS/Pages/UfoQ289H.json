@@ -1,0 +1,32 @@
+{
+  "unique_id": "UfoQ289H",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "type": "element",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    }
+  ],
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Choferes"
+  },
+  "parent": "tJ7W1fdq",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

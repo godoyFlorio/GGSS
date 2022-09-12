@@ -1,0 +1,16 @@
+{
+  "unique_id": "Hacp4IP5",
+  "name": "Salir",
+  "parent": "N2WFpVwn",
+  "path": "button.tpl",
+  "completePath": "elements\\Material-UI\\button.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Salir",
+    "className": ""
+  },
+  "prevent_delete": false
+}

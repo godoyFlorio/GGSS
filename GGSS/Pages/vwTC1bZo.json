@@ -1,0 +1,10 @@
+{
+  "unique_id": "vwTC1bZo",
+  "name": "Asignación de mecánico por defecto a tarea según taller",
+  "path": "/menu/taller/asignacion-mecanico-segun-taller",
+  "filename": "asignacionMecanicoSegunTaller.tsx",
+  "priority": 5,
+  "type": "page",
+  "parent": "qFKncRK7",
+  "collapseStatus": "collapse"
+}

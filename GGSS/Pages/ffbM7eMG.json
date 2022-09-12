@@ -1,0 +1,15 @@
+{
+  "unique_id": "ffbM7eMG",
+  "name": "Text Content",
+  "parent": "pE4NMvBw",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Mantenimiento preventivo"
+  },
+  "prevent_delete": false
+}

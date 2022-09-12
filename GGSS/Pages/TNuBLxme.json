@@ -1,0 +1,15 @@
+{
+  "unique_id": "TNuBLxme",
+  "name": "Text Content",
+  "parent": "wnQr5IBb",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Reales anteriores"
+  },
+  "prevent_delete": false
+}

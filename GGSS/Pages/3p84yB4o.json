@@ -1,0 +1,15 @@
+{
+  "unique_id": "3p84yB4o",
+  "name": "Acumulados",
+  "parent": "UGGCq0gg",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.divsKm"
+  },
+  "prevent_delete": false
+}

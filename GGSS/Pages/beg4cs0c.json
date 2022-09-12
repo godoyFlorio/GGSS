@@ -1,0 +1,12 @@
+{
+  "unique_id": "beg4cs0c",
+  "name": "accordion",
+  "parent": "cBi6wcpp",
+  "path": "accordion.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordion.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "accordion",
+  "prevent_delete": false
+}

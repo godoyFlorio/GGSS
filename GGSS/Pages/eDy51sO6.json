@@ -1,13 +1,31 @@
 {
+  "unique_id": "eDy51sO6",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "type": "element",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    }
+  ],
   "name": "Text Content",
   "value": "text",
   "values": {
     "Content": "Personales"
   },
-  "type": "element",
-  "path": "text.tpl",
   "parent": "8Rgmyoa4",
-  "unique_id": "eDy51sO6",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

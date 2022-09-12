@@ -1,0 +1,25 @@
+{
+  "unique_id": "bGbAqkhs",
+  "path": "code.tpl",
+  "completePath": "elements/Programming/code.tpl",
+  "type": "element",
+  "icon": "ico-code",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "code",
+      "display": "Code",
+      "type": "code",
+      "options": ""
+    }
+  ],
+  "name": "code",
+  "parent": "yf9TfTT7",
+  "collapseStatus": "expand",
+  "cascades": true,
+  "value": "code",
+  "values": {
+    "code": "if (!authHeaders()) { \n  props.history.push(\"/Login\")\n}"
+  },
+  "prevent_delete": false
+}

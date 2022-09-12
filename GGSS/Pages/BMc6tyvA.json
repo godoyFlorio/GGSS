@@ -1,0 +1,14 @@
+{
+  "unique_id": "BMc6tyvA",
+  "name": "Listar",
+  "value": "div",
+  "values": {
+    "class": "theme.listarCrud"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "fZUSraal",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

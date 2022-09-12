@@ -1,0 +1,14 @@
+{
+  "unique_id": "MuPotcm0",
+  "name": "Div Calle",
+  "value": "div",
+  "values": {
+    "class": "theme.unidadDiv"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "P0tQ3TeR",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "bRQsTfwx",
+  "name": "Text Content",
+  "parent": "xqxZn62C",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Estado"
+  },
+  "prevent_delete": false
+}

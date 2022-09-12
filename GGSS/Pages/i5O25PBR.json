@@ -1,0 +1,13 @@
+{
+  "unique_id": "i5O25PBR",
+  "path": "accordion.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordion.tpl",
+  "name": "Unidades - accordeon",
+  "value": "accordion",
+  "values": {},
+  "type": "element",
+  "parent": "XkLd3QOF",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

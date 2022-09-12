@@ -1,0 +1,15 @@
+{
+  "unique_id": "ZqgRKrM2",
+  "name": "Predictivo",
+  "parent": "iAA2gDcl",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Predictivo"
+  },
+  "prevent_delete": false
+}

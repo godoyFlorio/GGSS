@@ -1,0 +1,20 @@
+{
+  "unique_id": "04lwfMqD",
+  "name": "Córdoba",
+  "parent": "ycIX0Jhc",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "",
+    "fieldname": "usNombre",
+    "className": "",
+    "placeholder": "Córdoba",
+    "variant": "outlined",
+    "type": "text"
+  },
+  "prevent_delete": false
+}

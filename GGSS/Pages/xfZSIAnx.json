@@ -1,0 +1,15 @@
+{
+  "unique_id": "xfZSIAnx",
+  "name": "Barrios",
+  "parent": "9Z58LmEp",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Barrios"
+  },
+  "prevent_delete": false
+}

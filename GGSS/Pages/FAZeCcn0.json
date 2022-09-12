@@ -1,0 +1,13 @@
+{
+  "unique_id": "FAZeCcn0",
+  "path": "ph.tpl",
+  "completePath": "elements/Aptugo Internal Use/ph.tpl",
+  "prevent_delete": false,
+  "icon": "ico-field",
+  "name": "Page Header",
+  "parent": "LRBZcesh",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "ph"
+}

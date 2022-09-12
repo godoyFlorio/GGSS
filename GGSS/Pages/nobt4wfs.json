@@ -1,0 +1,13 @@
+{
+  "unique_id": "nobt4wfs",
+  "name": "text",
+  "parent": "Xv5GlZUe",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "{recoverSuccess}"
+  },
+  "prevent_delete": false
+}

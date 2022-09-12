@@ -1,0 +1,15 @@
+{
+  "unique_id": "yQKA4ekI",
+  "name": "div",
+  "parent": "777TGUWe",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.DatosTaller"
+  },
+  "prevent_delete": false
+}

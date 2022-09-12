@@ -1,0 +1,15 @@
+{
+  "unique_id": "OMr1w8Ui",
+  "name": "Provincias . Localidades . Barrios",
+  "parent": "AxsGOoGo",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Provincias . Localidades . Barrios"
+  },
+  "prevent_delete": false
+}

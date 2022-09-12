@@ -1,0 +1,15 @@
+{
+  "unique_id": "A9cPHXOH",
+  "name": "15W40",
+  "parent": "DMAEkTdI",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "15W40"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "XPApJhBu",
+  "path": "accordionSummary.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionSummary.tpl",
+  "name": "Wrapper",
+  "value": "accordionSummary",
+  "values": {},
+  "type": "element",
+  "parent": "kcih1W6a",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

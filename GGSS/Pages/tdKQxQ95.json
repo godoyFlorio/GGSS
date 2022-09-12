@@ -1,0 +1,14 @@
+{
+  "unique_id": "tdKQxQ95",
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Seleccionar Calle"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "hJ2iD86V",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

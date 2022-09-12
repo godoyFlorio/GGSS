@@ -1,0 +1,15 @@
+{
+  "unique_id": "56gZVJX4",
+  "name": "Incluir en accesos directos",
+  "parent": "LUTTS4L1",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Incluir en accesos directos"
+  },
+  "prevent_delete": false
+}

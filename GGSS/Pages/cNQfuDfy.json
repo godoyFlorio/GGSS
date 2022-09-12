@@ -34,5 +34,6 @@
     "condition": "typeof langStrings !== 'undefined'",
     "useInCode": true
   },
-  "parent": "yVQMnXLM"
+  "parent": "yVQMnXLM",
+  "collapseStatus": "collapse"
 }

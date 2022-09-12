@@ -1,0 +1,10 @@
+{
+  "unique_id": "KbJ9NQIV",
+  "name": "Apertura de Solicitudes",
+  "path": "/menu/taller/apertura-solicitudes",
+  "filename": "aperturaSolicitudes.tsx",
+  "type": "page",
+  "parent": "qFKncRK7",
+  "collapseStatus": "expand",
+  "priority": 5
+}

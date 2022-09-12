@@ -1,0 +1,15 @@
+{
+  "name": "Aceptar",
+  "value": "button",
+  "values": {
+    "ButtonText": "Aceptar",
+    "icon": "None"
+  },
+  "type": "element",
+  "path": "button.tpl",
+  "parent": "ThOd54GB",
+  "unique_id": "o4TSiT07",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "btIA9kkc",
+  "name": "useState",
+  "parent": "TEQ3Wvu1",
+  "path": "useState.tpl",
+  "completePath": "elements/Programming/useState.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "useState",
+  "values": {
+    "variableName": "usNombre"
+  },
+  "prevent_delete": false
+}

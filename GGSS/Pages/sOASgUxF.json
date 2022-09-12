@@ -1,0 +1,20 @@
+{
+  "unique_id": "sOASgUxF",
+  "name": "Alta Gracia",
+  "parent": "J6pwS5Zz",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "",
+    "fieldname": "usNombre",
+    "className": "",
+    "placeholder": "Alta Gracia",
+    "variant": "outlined",
+    "type": "text"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,12 @@
+{
+  "unique_id": "JaEgkeN3",
+  "name": "accordionDetails",
+  "parent": "ZQDTVxav",
+  "path": "accordionDetails.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionDetails.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "accordionDetails",
+  "prevent_delete": false
+}

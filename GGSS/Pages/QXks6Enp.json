@@ -1,0 +1,15 @@
+{
+  "unique_id": "QXks6Enp",
+  "name": "Preventivo",
+  "parent": "WcXXHuUr",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Preventivo"
+  },
+  "prevent_delete": false
+}

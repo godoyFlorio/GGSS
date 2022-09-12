@@ -1,0 +1,15 @@
+{
+  "unique_id": "172VSyf9",
+  "name": "Seleccionar empresa",
+  "parent": "MAdOamXO",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Seleccionar empresa"
+  },
+  "prevent_delete": false
+}

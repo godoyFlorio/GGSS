@@ -1,0 +1,14 @@
+{
+  "unique_id": "86xNCabM",
+  "name": "userEmail",
+  "parent": "VHeCBGKp",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "useState",
+  "values": {
+    "variableName": "userEmail",
+    "defaultValue": "''"
+  },
+  "prevent_delete": false
+}

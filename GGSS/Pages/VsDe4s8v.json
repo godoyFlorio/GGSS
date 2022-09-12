@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Teléfono fijo"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "L4wtRaC5",
+  "unique_id": "VsDe4s8v",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

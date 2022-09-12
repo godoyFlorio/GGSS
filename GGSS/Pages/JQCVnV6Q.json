@@ -1,0 +1,15 @@
+{
+  "unique_id": "JQCVnV6Q",
+  "name": "S.U.O.E.M.",
+  "parent": "TJ8ns2uP",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "S.U.O.E.M."
+  },
+  "prevent_delete": false
+}

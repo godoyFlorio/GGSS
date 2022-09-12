@@ -1,0 +1,15 @@
+{
+  "unique_id": "novSTTVe",
+  "name": "Buttons - Cancel / Select",
+  "parent": "bW1bumw4",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.abmInputButtonsAceptar"
+  },
+  "prevent_delete": false
+}

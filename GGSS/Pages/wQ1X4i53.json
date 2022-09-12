@@ -1,0 +1,13 @@
+{
+  "unique_id": "wQ1X4i53",
+  "path": "accordionDetails.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionDetails.tpl",
+  "name": "Equipamiento basico",
+  "value": "accordionDetails",
+  "values": {},
+  "type": "element",
+  "parent": "RLaUU1aR",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

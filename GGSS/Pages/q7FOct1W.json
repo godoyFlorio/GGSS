@@ -1,0 +1,15 @@
+{
+  "unique_id": "q7FOct1W",
+  "name": "Text Content",
+  "parent": "kb5qT8RU",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Nombre por defecto de quien <span>solicita</span> en Taller las unidades"
+  },
+  "prevent_delete": false
+}

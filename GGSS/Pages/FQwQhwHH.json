@@ -1,0 +1,15 @@
+{
+  "unique_id": "FQwQhwHH",
+  "name": "useState",
+  "value": "useState",
+  "values": {
+    "variableName": "holdersData",
+    "defaultValue": "{}"
+  },
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "gp1fRNg7",
+  "collapseStatus": "expand"
+}

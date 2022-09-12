@@ -1,0 +1,16 @@
+{
+  "unique_id": "B3t3UUGq",
+  "name": "text",
+  "parent": "ohLzTcnE",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "ClassName": "theme.textCarga",
+    "Content": "Usa carga automática de combustible en partes"
+  },
+  "prevent_delete": false
+}

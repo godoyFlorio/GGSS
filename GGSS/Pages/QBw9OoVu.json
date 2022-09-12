@@ -1,0 +1,15 @@
+{
+  "unique_id": "QBw9OoVu",
+  "name": "Localidad",
+  "parent": "2Z2X7VfR",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Localidad"
+  },
+  "prevent_delete": false
+}

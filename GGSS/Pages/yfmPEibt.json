@@ -1,0 +1,15 @@
+{
+  "unique_id": "yfmPEibt",
+  "name": "div",
+  "parent": "teT9Kc3E",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.ingresoTaller"
+  },
+  "prevent_delete": false
+}

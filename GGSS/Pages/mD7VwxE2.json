@@ -1,0 +1,15 @@
+{
+  "unique_id": "mD7VwxE2",
+  "name": "O.U.C.R.A.",
+  "parent": "TZtEMKUe",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "O.U.C.R.A."
+  },
+  "prevent_delete": false
+}

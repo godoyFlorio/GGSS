@@ -1,0 +1,12 @@
+{
+  "unique_id": "7OBgPfiJ",
+  "name": "CRUD Buttons",
+  "parent": "gN0dVWTs",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.crudButtons"
+  },
+  "prevent_delete": false
+}

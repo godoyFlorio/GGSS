@@ -1,0 +1,15 @@
+{
+  "unique_id": "kJ8IAAnQ",
+  "name": "Tipos de servicio de taller/Asignación de tipos de servicios a estados",
+  "parent": "0dGsdFA3",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Tipos de servicio de taller/Asignación de tipos de servicios a estados"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,19 @@
+{
+  "unique_id": "tbpdh5Li",
+  "name": "Nombre Taller",
+  "parent": "KueWkMkg",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "placeholder": "Selecciona tipo de servicio",
+    "type": "text",
+    "className": "",
+    "margin": "none",
+    "variant": "outlined"
+  },
+  "prevent_delete": false
+}

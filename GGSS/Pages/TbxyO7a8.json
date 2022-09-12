@@ -1,0 +1,18 @@
+{
+  "unique_id": "TbxyO7a8",
+  "name": "Body",
+  "value": "b",
+  "values": {
+    "className": [
+      "theme.abmTablasVarias",
+      "theme.taller",
+      "theme.proveedores"
+    ]
+  },
+  "path": "b.tpl",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "Cy2IRQQE",
+  "collapseStatus": "expand"
+}

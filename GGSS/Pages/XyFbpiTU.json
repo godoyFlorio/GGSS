@@ -1,0 +1,16 @@
+{
+  "unique_id": "XyFbpiTU",
+  "name": "Modificar",
+  "parent": "MCWATq8g",
+  "path": "button.tpl",
+  "completePath": "elements\\Material-UI\\button.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Modificar",
+    "icon": "Home"
+  },
+  "prevent_delete": false
+}

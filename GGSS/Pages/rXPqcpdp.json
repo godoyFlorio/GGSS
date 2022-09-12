@@ -1,0 +1,16 @@
+{
+  "unique_id": "rXPqcpdp",
+  "name": "gridDerecha",
+  "parent": "GzOsOa7x",
+  "path": "grid.tpl",
+  "completePath": "elements/Material-UI/grid.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "grid",
+  "values": {
+    "midcolumns": "4",
+    "className": "theme.TablaSelecTaller"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "yTnESEZk",
+  "name": "div Titulo SeleccionTaller",
+  "parent": "rXPqcpdp",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.textTaller"
+  },
+  "prevent_delete": false
+}

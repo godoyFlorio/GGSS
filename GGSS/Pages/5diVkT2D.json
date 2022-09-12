@@ -1,0 +1,15 @@
+{
+  "unique_id": "5diVkT2D",
+  "name": "checkbox",
+  "parent": "g1LGIFah",
+  "cascades": false,
+  "type": "element",
+  "value": "checkbox",
+  "values": {
+    "Checked": "false",
+    "OnClick": "",
+    "label": "",
+    "Switch": true
+  },
+  "prevent_delete": false
+}

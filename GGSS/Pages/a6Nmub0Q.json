@@ -1,0 +1,12 @@
+{
+  "unique_id": "a6Nmub0Q",
+  "name": "Page Header",
+  "parent": "CHDvg2pp",
+  "path": "ph.tpl",
+  "completePath": "elements/Aptugo Internal Use/ph.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "ph",
+  "prevent_delete": false
+}

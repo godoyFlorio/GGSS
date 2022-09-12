@@ -1,0 +1,20 @@
+{
+  "unique_id": "JsVzlWOR",
+  "name": "Ingresar observaciones",
+  "parent": "untG61l3",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements/Material-UI/uncontrolledInput.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "Ingresar observaciones",
+    "fieldname": "usNombre",
+    "className": "",
+    "placeholder": "",
+    "variant": "outlined",
+    "type": "text"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "Fn287rp7",
+  "name": "Seleccionar Subrubro",
+  "parent": "dr6Fqwk9",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Seleccionar Subrubro"
+  },
+  "prevent_delete": false
+}

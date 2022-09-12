@@ -1,0 +1,15 @@
+{
+  "unique_id": "xL8RJDOy",
+  "name": "Ingeniero",
+  "parent": "QgNR1xTb",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Ingeniero"
+  },
+  "prevent_delete": false
+}

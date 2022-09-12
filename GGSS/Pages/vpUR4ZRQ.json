@@ -1,0 +1,15 @@
+{
+  "unique_id": "vpUR4ZRQ",
+  "name": "MaterialIcon",
+  "parent": "PeauSQeK",
+  "path": "MaterialIcon.tpl",
+  "completePath": "elements/Material-UI/MaterialIcon.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "MaterialIcon",
+  "values": {
+    "icon": "ChevronLeft"
+  },
+  "prevent_delete": false
+}

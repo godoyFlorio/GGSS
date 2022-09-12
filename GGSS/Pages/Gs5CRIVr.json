@@ -1,0 +1,13 @@
+{
+  "unique_id": "Gs5CRIVr",
+  "path": "ph.tpl",
+  "completePath": "elements/Aptugo Internal Use/ph.tpl",
+  "prevent_delete": false,
+  "icon": "ico-field",
+  "name": "Page Header",
+  "value": "ph",
+  "cascades": false,
+  "type": "element",
+  "parent": "vwTC1bZo",
+  "collapseStatus": "collapse"
+}

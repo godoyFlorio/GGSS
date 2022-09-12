@@ -1,0 +1,15 @@
+{
+  "unique_id": "TfyLw1rM",
+  "name": "San Fernando",
+  "parent": "SJf4gBog",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "San Fernando"
+  },
+  "prevent_delete": false
+}

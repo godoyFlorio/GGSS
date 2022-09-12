@@ -1,0 +1,15 @@
+{
+  "unique_id": "J8iTeWWv",
+  "name": "Observaciones",
+  "parent": "Amxgf8nc",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Observaciones"
+  },
+  "prevent_delete": false
+}

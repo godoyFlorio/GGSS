@@ -1,0 +1,15 @@
+{
+  "unique_id": "OZ3fusU0",
+  "name": "Div",
+  "parent": "SQe6UVvt",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.bastidorYchasis"
+  },
+  "prevent_delete": false
+}

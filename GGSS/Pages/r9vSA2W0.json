@@ -1,0 +1,18 @@
+{
+  "unique_id": "r9vSA2W0",
+  "name": "navbar",
+  "parent": "lv3K0aR9",
+  "path": "navbar.tpl",
+  "completePath": "elements/Material-UI/navbar.tpl",
+  "collapseStatus": "expand",
+  "cascades": true,
+  "type": "element",
+  "value": "navbar",
+  "values": {
+    "Title": "",
+    "Color": "transparent",
+    "Position": "absolute",
+    "Elevation": "3"
+  },
+  "prevent_delete": false
+}

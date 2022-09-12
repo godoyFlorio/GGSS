@@ -1,0 +1,11 @@
+{
+  "unique_id": "1oT7G3lp",
+  "name": "Menu Principal",
+  "type": "page",
+  "path": "/mainmenu",
+  "filename": "mainmenu.tsx",
+  "prevent_delete": false,
+  "collapseStatus": "expand",
+  "parent": "hgcbLI6P",
+  "priority": 5
+}

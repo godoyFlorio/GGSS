@@ -1,0 +1,16 @@
+{
+  "unique_id": "CL0NuRIJ",
+  "name": "Eliminar",
+  "parent": "FXv8M02Q",
+  "path": "button.tpl",
+  "completePath": "elements\\Material-UI\\button.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Eliminar",
+    "icon": "Clear"
+  },
+  "prevent_delete": false
+}

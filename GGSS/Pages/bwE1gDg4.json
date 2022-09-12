@@ -1,0 +1,117 @@
+{
+  "unique_id": "bwE1gDg4",
+  "name": "dialog",
+  "parent": "2fSO5Ils",
+  "path": "dialog.tpl",
+  "completePath": "elements/Material-UI/dialog.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "dialog",
+  "values": {
+    "addProcedure": "Internal",
+    "title": "() => { return \"Add \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"uAdBrGWe\").singleName }",
+    "introText": "() => { return \"Enter \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"uAdBrGWe\").singleName + \" data\" }",
+    "color": "primary",
+    "table": "uAdBrGWe",
+    "button": "Add",
+    "editButton": "Edit",
+    "editTitle": "() => { return \"Edit \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"uAdBrGWe\").singleName }",
+    "editIntroText": "() => { return \"Update \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"uAdBrGWe\").singleName + \" data\" }"
+  },
+  "prevent_delete": false,
+  "icon": "ico-dialogs",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "table",
+      "display": "Table",
+      "type": "dropdown",
+      "options": "return aptugo.store.getState().application.tables.map(({ unique_id, name }) => [unique_id, name])"
+    },
+    {
+      "name": "addProcedure",
+      "display": "Add Records",
+      "type": "dropdown",
+      "options": "return [['No','None'],['Internal','Popup Dialog'],...aptugo.pageUtils.plainpages.map(({unique_id, name }) => [unique_id, name])]"
+    },
+    {
+      "name": "hideButton",
+      "display": "Hide Add Button",
+      "type": "checkbox",
+      "options": ""
+    },
+    {
+      "name": "color",
+      "display": "Color",
+      "type": "dropdown",
+      "options": "primary;inherit;secondary;default"
+    },
+    {
+      "name": "manuallyManaged",
+      "display": "Do not auto close",
+      "type": "checkbox",
+      "options": ""
+    },
+    {
+      "name": "classname",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    },
+    {
+      "name": "title",
+      "display": "Add - Title",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "introText",
+      "display": "Add - Intro Text",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "button",
+      "display": "Add - Button Text",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "editTitle",
+      "display": "Edit - Title",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "editIntroText",
+      "display": "Edit - Intro Text",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "editButton",
+      "display": "Edit - Button Text",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "deleteTitle",
+      "display": "Delete - Title",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "deleteIntroText",
+      "display": "Delete - Intro Text",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "deleteButton",
+      "display": "Delete - Button Text",
+      "type": "text",
+      "options": ""
+    }
+  ]
+}

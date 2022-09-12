@@ -1,0 +1,32 @@
+{
+  "unique_id": "A4M9o3zc",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "type": "element",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    }
+  ],
+  "name": "Estado de solicitud",
+  "value": "text",
+  "values": {
+    "Content": "Estado de solicitud"
+  },
+  "parent": "kGd28W9s",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

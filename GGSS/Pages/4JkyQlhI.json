@@ -1,0 +1,15 @@
+{
+  "unique_id": "4JkyQlhI",
+  "name": "Provincia",
+  "parent": "D7TWNOKi",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Provincia"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,12 @@
+{
+  "unique_id": "WQWxINyK",
+  "name": "Seleccionar valor de medición",
+  "parent": "uCh83cNT",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Seleccionar valor de medición"
+  },
+  "prevent_delete": false
+}

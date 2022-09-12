@@ -1,0 +1,12 @@
+{
+  "unique_id": "pLryKL2a",
+  "name": "Text Content",
+  "parent": "usUl1SUN",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Volver"
+  },
+  "prevent_delete": false
+}

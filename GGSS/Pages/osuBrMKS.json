@@ -1,0 +1,13 @@
+{
+  "unique_id": "osuBrMKS",
+  "name": "text",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "collapseStatus": "expand",
+  "values": {
+    "Content": "() => { return aptugo.store.getState().application.tables.find(table => table.unique_id === \"4HJ5gpFl\").singleName + \" list\" }"
+  },
+  "parent": "iOmDmfkV"
+}

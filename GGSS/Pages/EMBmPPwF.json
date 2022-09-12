@@ -1,0 +1,12 @@
+{
+  "unique_id": "EMBmPPwF",
+  "name": "Ingresos a Taller",
+  "value": "accordionDetails",
+  "values": {},
+  "path": "accordionDetails.tpl",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "iuNxQy6J",
+  "collapseStatus": "expand"
+}

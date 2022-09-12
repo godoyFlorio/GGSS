@@ -1,0 +1,15 @@
+{
+  "unique_id": "qqTz7hFt",
+  "name": "Seleccionar Agrupación Sindical",
+  "parent": "SmLM5h1e",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Seleccionar Agrupación Sindical"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,18 @@
+{
+  "unique_id": "NBwN319z",
+  "name": "Nombre ",
+  "parent": "DaahQ0gD",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "placeholder": "Ingresar Nombre",
+    "type": "text",
+    "margin": "none",
+    "variant": "outlined"
+  },
+  "prevent_delete": false
+}

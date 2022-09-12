@@ -1,0 +1,15 @@
+{
+  "unique_id": "39ru7EP4",
+  "name": "Text Content",
+  "parent": "E8fhDSgC",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Bastidor y Chasis"
+  },
+  "prevent_delete": false
+}

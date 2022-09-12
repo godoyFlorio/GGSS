@@ -1,0 +1,14 @@
+{
+  "unique_id": "Gsutfkil",
+  "name": "div",
+  "value": "div",
+  "values": {
+    "class": "theme.tallerText"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "77OkflmX",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

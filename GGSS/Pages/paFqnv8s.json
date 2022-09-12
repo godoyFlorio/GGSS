@@ -1,0 +1,15 @@
+{
+  "unique_id": "paFqnv8s",
+  "name": "Text Content",
+  "parent": "T2qdBHwD",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Recibido por"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,16 @@
+{
+  "unique_id": "9X86d5MB",
+  "name": "tipo de servicio",
+  "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
+  "parent": "DMhnb4kP",
+  "path": "typography.tpl",
+  "completePath": "elements/Material-UI/typography.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "typography",
+  "values": {
+    "tag": "body1"
+  },
+  "prevent_delete": false
+}

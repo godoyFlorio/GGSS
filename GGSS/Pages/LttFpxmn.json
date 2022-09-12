@@ -1,0 +1,14 @@
+{
+  "unique_id": "LttFpxmn",
+  "name": "image",
+  "value": "image",
+  "values": {
+    "useAsset": "mRQIbxle"
+  },
+  "type": "element",
+  "path": "image.tpl",
+  "parent": "BnX408zp",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

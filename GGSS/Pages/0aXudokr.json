@@ -1,0 +1,15 @@
+{
+  "unique_id": "0aXudokr",
+  "name": "div",
+  "parent": "7BZ15Bxs",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.divIzquierdoTrazas"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,32 @@
+{
+  "unique_id": "WbpZ7pXN",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "type": "element",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    }
+  ],
+  "name": "Km/Hs Anteriores 0.00",
+  "value": "text",
+  "values": {
+    "Content": "Km/Hs Anteriores<span> 0.00</span>"
+  },
+  "parent": "9mZ0CA6X",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

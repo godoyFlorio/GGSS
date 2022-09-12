@@ -1,0 +1,13 @@
+{
+  "unique_id": "dpTPxKsa",
+  "name": "Main Area",
+  "prevent_delete": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.mainarea"
+  },
+  "cascades": false,
+  "collapseStatus": "expand",
+  "parent": "S2DzlmuV"
+}

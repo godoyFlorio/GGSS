@@ -1,0 +1,51 @@
+{
+  "unique_id": "3MR67tuF",
+  "path": "loop.tpl",
+  "completePath": "elements\\Programming\\loop.tpl",
+  "type": "element",
+  "icon": "ico-loop",
+  "sourceType": "javascript",
+  "helpText": "Allows you to loop a variable and render child elements",
+  "options": [
+    {
+      "name": "variable",
+      "display": "Source Variable",
+      "type": "variable",
+      "options": "",
+      "settings": {
+        "aptugoOnLoad": "const allVariables = aptugo.variables.variables\nconst element = arguments[0];\nconst page = aptugo.pageUtils.findContainerPage(element.unique_id).unique_id;\nconst usesVariable = element.values.variable\nconst newLocalVarName = element.values.variablename || 'item'\nconst foundVariable = allVariables.find(thevar => thevar.name === usesVariable)\nfinalVarsToAdd = { [newLocalVarName]: foundVariable ? foundVariable.value : ''}\naptugo.variables.setElementVariable(element.unique_id, finalVarsToAdd);",
+        "active": true
+      }
+    },
+    {
+      "name": "variablename",
+      "display": "Variable name in which each item will be put in",
+      "type": "text",
+      "settings": {
+        "default": "item"
+      }
+    },
+    {
+      "name": "filtersource",
+      "display": "Condition to filter source values",
+      "type": "text",
+      "advanced": true
+    },
+    {
+      "name": "code",
+      "display": "Code",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "name": "loop",
+  "value": "loop",
+  "values": {
+    "variablename": "item",
+    "variable": "allDomicilios"
+  },
+  "parent": "N8FnaRW2",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

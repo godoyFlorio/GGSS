@@ -1,0 +1,15 @@
+{
+  "unique_id": "qFl0X7GC",
+  "name": "Trazas",
+  "parent": "3le7rUWk",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Trazas"
+  },
+  "prevent_delete": false
+}

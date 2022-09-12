@@ -1,0 +1,21 @@
+{
+  "unique_id": "HsmbuELm",
+  "name": "dialog",
+  "parent": "vPR4J2Qy",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "dialog",
+  "values": {
+    "addProcedure": "Internal",
+    "title": "() => { return \"Add \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"L9nAAoJJ\").singleName }",
+    "introText": "() => { return \"Enter \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"L9nAAoJJ\").singleName + \" data\" }",
+    "color": "primary",
+    "table": "L9nAAoJJ",
+    "button": "Add",
+    "editButton": "Edit",
+    "editTitle": "() => { return \"Edit \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"L9nAAoJJ\").singleName }",
+    "editIntroText": "() => { return \"Update \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"L9nAAoJJ\").singleName + \" data\" }"
+  },
+  "prevent_delete": false
+}

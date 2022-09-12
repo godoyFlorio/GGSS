@@ -1,0 +1,13 @@
+{
+  "unique_id": "X74070cC",
+  "path": "accordionDetails.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionDetails.tpl",
+  "name": "Altas y modificacion ",
+  "value": "accordionDetails",
+  "values": {},
+  "type": "element",
+  "parent": "qq57xilC",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

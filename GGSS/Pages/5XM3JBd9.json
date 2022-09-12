@@ -1,0 +1,15 @@
+{
+  "unique_id": "5XM3JBd9",
+  "name": "ABM - CRUD Bar",
+  "parent": "HUfDtXlA",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.crudBar"
+  },
+  "prevent_delete": false
+}

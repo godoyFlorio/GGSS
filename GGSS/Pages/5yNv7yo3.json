@@ -1,0 +1,32 @@
+{
+  "unique_id": "5yNv7yo3",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "type": "element",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "name": "text",
+  "parent": "9uFu4XDl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "value": "text",
+  "values": {
+    "Content": "© 2022 GGTT s.a. All rights reserved "
+  },
+  "prevent_delete": false
+}

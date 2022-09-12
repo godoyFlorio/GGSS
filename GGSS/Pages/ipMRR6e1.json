@@ -1,0 +1,12 @@
+{
+  "unique_id": "ipMRR6e1",
+  "name": "Before Page Render",
+  "parent": "UBoTWX3I",
+  "path": "bpr.tpl",
+  "completePath": "elements/Aptugo Internal Use/bpr.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "bpr",
+  "prevent_delete": false
+}

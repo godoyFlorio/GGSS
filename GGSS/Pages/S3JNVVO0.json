@@ -1,13 +1,43 @@
 {
+  "unique_id": "S3JNVVO0",
+  "path": "Container.tpl",
+  "completePath": "elements\\Material-UI\\Container.tpl",
+  "type": "element",
+  "icon": "ico-field",
+  "helpText": "The container centers your content horizontally. It's the most basic layout element.",
+  "options": [
+    {
+      "name": "disableGutters",
+      "display": "Disable Gutters",
+      "type": "checkbox",
+      "options": ""
+    },
+    {
+      "name": "fixed",
+      "display": "Fixed?",
+      "type": "checkbox",
+      "options": ""
+    },
+    {
+      "name": "maxWidth",
+      "display": "Max Width",
+      "type": "dropdown",
+      "options": "lg;md;sm;xl;xs;false"
+    },
+    {
+      "name": "className",
+      "display": "className",
+      "type": "styles",
+      "options": ""
+    }
+  ],
+  "sourceType": "javascript",
   "name": "Container",
   "value": "Container",
   "values": {
     "className": "theme.choferes"
   },
-  "type": "element",
-  "path": "Container.tpl",
   "parent": "zz27V2t0",
-  "unique_id": "S3JNVVO0",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

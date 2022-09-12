@@ -1,0 +1,15 @@
+{
+  "unique_id": "NxS1N2oz",
+  "name": "text",
+  "parent": "3cExPSRB",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Logout"
+  },
+  "prevent_delete": false
+}

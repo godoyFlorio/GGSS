@@ -1,0 +1,17 @@
+{
+  "unique_id": "PtguBBL3",
+  "name": "Body",
+  "parent": "HdlMpSmG",
+  "path": "b.tpl",
+  "completePath": "elements/Aptugo Internal Use/b.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "b",
+  "values": {
+    "className": [
+      "theme.taller"
+    ]
+  },
+  "prevent_delete": false
+}

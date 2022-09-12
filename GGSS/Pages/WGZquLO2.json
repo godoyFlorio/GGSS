@@ -1,0 +1,15 @@
+{
+  "unique_id": "WGZquLO2",
+  "name": "Servicio",
+  "parent": "Tv4chssH",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Servicio"
+  },
+  "prevent_delete": false
+}

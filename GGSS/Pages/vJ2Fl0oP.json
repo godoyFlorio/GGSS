@@ -1,0 +1,15 @@
+{
+  "unique_id": "vJ2Fl0oP",
+  "name": "Fuera de convenio",
+  "parent": "3eHKCpyu",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Fuera de convenio"
+  },
+  "prevent_delete": false
+}

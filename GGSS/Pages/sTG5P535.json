@@ -1,0 +1,16 @@
+{
+  "unique_id": "sTG5P535",
+  "name": "Container",
+  "parent": "fyvDTaRE",
+  "path": "Container.tpl",
+  "completePath": "elements/Material-UI/Container.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "Container",
+  "values": {
+    "className": "theme.mainContainer",
+    "maxWidth": "md"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,12 @@
+{
+  "unique_id": "Xsei3Gvf",
+  "name": "accordionDetails",
+  "parent": "BT14DX8d",
+  "path": "accordionDetails.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionDetails.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "accordionDetails",
+  "prevent_delete": false
+}

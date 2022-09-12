@@ -1,0 +1,19 @@
+{
+  "unique_id": "pNQBkpkR",
+  "name": "Fecha",
+  "parent": "f7v0dStA",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "className": "",
+    "type": "date",
+    "placeholder": "Seleccionar Fecha",
+    "variant": "outlined",
+    "margin": "normal"
+  },
+  "prevent_delete": false
+}

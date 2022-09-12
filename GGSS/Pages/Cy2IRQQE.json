@@ -1,0 +1,10 @@
+{
+  "unique_id": "Cy2IRQQE",
+  "name": "ABM-Valores de Medicion",
+  "path": "/menu/taller/ValoresDeMedicion",
+  "filename": "abmValoresDeMedicion.tsx",
+  "priority": 5,
+  "type": "page",
+  "parent": "qFKncRK7",
+  "collapseStatus": "collapse"
+}

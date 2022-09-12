@@ -1,0 +1,15 @@
+{
+  "unique_id": "qBv4Mkrc",
+  "name": "Input Options Observaciones",
+  "parent": "igtb7rsT",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.inputOptionsObservaciones"
+  },
+  "prevent_delete": false
+}

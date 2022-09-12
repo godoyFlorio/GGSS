@@ -1,0 +1,15 @@
+{
+  "unique_id": "pN7fUEGv",
+  "name": "MaterialIcon",
+  "parent": "OuO1Iv4o",
+  "path": "MaterialIcon.tpl",
+  "completePath": "elements\\Material-UI\\MaterialIcon.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "MaterialIcon",
+  "values": {
+    "icon": "RadioButtonUnchecked"
+  },
+  "prevent_delete": false
+}

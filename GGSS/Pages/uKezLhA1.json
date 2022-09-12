@@ -1,0 +1,12 @@
+{
+  "unique_id": "uKezLhA1",
+  "path": "accordionDetails.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionDetails.tpl",
+  "name": "Centros de costo",
+  "parent": "tupkNeyp",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "accordionDetails",
+  "prevent_delete": false
+}

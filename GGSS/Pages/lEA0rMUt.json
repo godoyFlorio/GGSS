@@ -1,0 +1,13 @@
+{
+  "unique_id": "lEA0rMUt",
+  "name": "searchField",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "value": "searchField",
+  "collapseStatus": "expand",
+  "values": {
+    "table": "9e6PHd87"
+  },
+  "parent": "ecuaxToO"
+}

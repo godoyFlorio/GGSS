@@ -1,0 +1,16 @@
+{
+  "unique_id": "URvLTme0",
+  "name": "simpleLink",
+  "parent": "KTgTNCMU",
+  "path": "simpleLink.tpl",
+  "completePath": "elements/Material-UI/simpleLink.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/menu/taller",
+    "tagToUse": "NavLink"
+  },
+  "prevent_delete": false
+}

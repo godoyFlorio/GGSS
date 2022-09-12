@@ -1,0 +1,13 @@
+{
+  "unique_id": "Vd7lnLsr",
+  "name": "Head",
+  "parent": "lG1TSAiG",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.tableHeading"
+  },
+  "prevent_delete": false
+}

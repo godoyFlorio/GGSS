@@ -1,0 +1,15 @@
+{
+  "unique_id": "iJ27iVJ9",
+  "name": "simpleLink",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/menu/taller/abm-unidades",
+    "tagToUse": "NavLink"
+  },
+  "type": "element",
+  "path": "simpleLink.tpl",
+  "parent": "bq911xQv",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

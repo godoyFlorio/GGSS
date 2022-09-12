@@ -1,0 +1,15 @@
+{
+  "unique_id": "CP7aeHKl",
+  "name": "ABM Select - Inputs",
+  "parent": "WpnZLeRh",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.abmSelectsInputs"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,12 @@
+{
+  "unique_id": "bq911xQv",
+  "name": "Articulos para equipamiento de las unidades",
+  "value": "accordionDetails",
+  "values": {},
+  "type": "element",
+  "path": "accordionDetails.tpl",
+  "parent": "1VZU2FyV",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

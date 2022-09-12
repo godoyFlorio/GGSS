@@ -1,0 +1,14 @@
+{
+  "unique_id": "HTOiOKeo",
+  "name": "button",
+  "value": "button",
+  "values": {
+    "ButtonText": "Listar"
+  },
+  "type": "element",
+  "path": "button.tpl",
+  "parent": "BMc6tyvA",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

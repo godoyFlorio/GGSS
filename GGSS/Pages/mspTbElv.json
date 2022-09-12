@@ -1,0 +1,15 @@
+{
+  "unique_id": "mspTbElv",
+  "name": "Text Content",
+  "parent": "ecnfLdXG",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Taller Circunvalacion CBA"
+  },
+  "prevent_delete": false
+}

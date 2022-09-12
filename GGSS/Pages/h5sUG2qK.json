@@ -1,0 +1,14 @@
+{
+  "name": "Electricidad",
+  "value": "text",
+  "values": {
+    "Content": "Electricidad"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "q2z4LXrZ",
+  "unique_id": "h5sUG2qK",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

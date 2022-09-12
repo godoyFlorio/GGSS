@@ -1,0 +1,15 @@
+{
+  "unique_id": "kpPrswUV",
+  "name": "Córdoba capital - Villa Dolores",
+  "parent": "NgrTwDrF",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Córdoba capital - Villa Dolores"
+  },
+  "prevent_delete": false
+}

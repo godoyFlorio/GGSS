@@ -1,0 +1,13 @@
+{
+  "unique_id": "k8oEWwZu",
+  "name": "Recover Error!",
+  "parent": "MfIwqWTq",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "condition",
+  "values": {
+    "condition": "recoverError"
+  },
+  "prevent_delete": false
+}

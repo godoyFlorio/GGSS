@@ -1,0 +1,15 @@
+{
+  "unique_id": "nTkTNVeD",
+  "name": "text",
+  "parent": "K3LvEGzR",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Neumáticos"
+  },
+  "prevent_delete": false
+}

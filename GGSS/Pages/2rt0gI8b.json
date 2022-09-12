@@ -1,0 +1,14 @@
+{
+  "unique_id": "2rt0gI8b",
+  "name": "button",
+  "value": "button",
+  "values": {
+    "ButtonText": "Salir"
+  },
+  "type": "element",
+  "path": "button.tpl",
+  "parent": "LiCBKfIL",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

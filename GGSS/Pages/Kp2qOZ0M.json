@@ -1,0 +1,15 @@
+{
+  "unique_id": "Kp2qOZ0M",
+  "name": "ABM Titulo",
+  "parent": "L8whiluk",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.tituloABM"
+  },
+  "prevent_delete": false
+}

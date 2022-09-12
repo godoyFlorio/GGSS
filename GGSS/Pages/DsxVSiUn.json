@@ -1,0 +1,23 @@
+{
+  "unique_id": "DsxVSiUn",
+  "path": "dummyEncloser.tpl",
+  "completePath": "elements/Basic/dummyEncloser.tpl",
+  "icon": "ico-dummy-enclosure",
+  "helpText": "Organizational unit with no render value",
+  "options": [
+    {
+      "name": "titleAsComment",
+      "display": "Use Name as Comment",
+      "type": "checkbox",
+      "options": ""
+    }
+  ],
+  "name": "Morty",
+  "value": "dummyEncloser",
+  "values": {},
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "DePREJ8h",
+  "collapseStatus": "expand"
+}

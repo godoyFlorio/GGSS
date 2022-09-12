@@ -1,0 +1,15 @@
+{
+  "unique_id": "OZaz2MLB",
+  "name": "Observaciones",
+  "parent": "7U4Htu5Z",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Observaciones"
+  },
+  "prevent_delete": false
+}

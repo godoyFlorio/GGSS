@@ -1,0 +1,14 @@
+{
+  "unique_id": "ISlVVRKm",
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Observaciones"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "rHGTnEcm",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

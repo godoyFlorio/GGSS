@@ -1,0 +1,15 @@
+{
+  "unique_id": "IKrboDSC",
+  "name": "Carriles Corrientes",
+  "parent": "x5yx1XCk",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Carriles Corrientes"
+  },
+  "prevent_delete": false
+}

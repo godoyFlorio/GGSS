@@ -1,0 +1,38 @@
+{
+  "unique_id": "PRpoN5Pi",
+  "path": "sidebar.tpl",
+  "completePath": "elements/Material-UI/sidebar.tpl",
+  "type": "element",
+  "icon": "ico-sidebar",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "colorSchema",
+      "display": "Color Schema",
+      "type": "dropdown",
+      "options": "Greens;Red;Blue;Black;Cyan"
+    },
+    {
+      "name": "open",
+      "display": "Open Variable",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "handleOpen",
+      "display": "Open/Close handler",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "name": "Sidebar",
+  "parent": "zfGzwxIV",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "value": "sidebar",
+  "values": {
+    "colorSchema": "Black",
+    "open": "sidebarOpen"
+  },
+  "prevent_delete": false
+}

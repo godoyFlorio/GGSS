@@ -1,0 +1,18 @@
+{
+  "unique_id": "WNN16Qga",
+  "name": "Hora",
+  "parent": "DvTUmpwi",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "placeholder": "Seleccionar hora",
+    "variant": "outlined",
+    "margin": "normal",
+    "type": "number"
+  },
+  "prevent_delete": false
+}

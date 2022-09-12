@@ -1,0 +1,15 @@
+{
+  "unique_id": "KTzvrvom",
+  "name": "Inputs Section 2",
+  "parent": "P3JRZ90B",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.inputSection"
+  },
+  "prevent_delete": false
+}

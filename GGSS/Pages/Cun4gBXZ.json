@@ -1,0 +1,32 @@
+{
+  "unique_id": "Cun4gBXZ",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "type": "element",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    }
+  ],
+  "name": "Solicitudes de Taller por mecánicos",
+  "value": "text",
+  "values": {
+    "Content": "Solicitudes de Taller por mecánicos"
+  },
+  "parent": "cSCTA5If",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

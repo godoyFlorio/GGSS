@@ -1,0 +1,14 @@
+{
+  "unique_id": "bedr6J02",
+  "name": "button",
+  "value": "button",
+  "values": {
+    "ButtonText": "Listar"
+  },
+  "type": "element",
+  "path": "button.tpl",
+  "parent": "JBvgIoIa",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

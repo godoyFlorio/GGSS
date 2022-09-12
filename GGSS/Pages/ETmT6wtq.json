@@ -1,0 +1,15 @@
+{
+  "unique_id": "ETmT6wtq",
+  "name": "text",
+  "parent": "8IcBITAf",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Profile"
+  },
+  "prevent_delete": false
+}

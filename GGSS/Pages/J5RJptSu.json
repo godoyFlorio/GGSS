@@ -1,0 +1,13 @@
+{
+  "unique_id": "J5RJptSu",
+  "path": "accordionDetails.tpl",
+  "completePath": "elements/Material-UI/Accordion/accordionDetails.tpl",
+  "name": "Grupos para modelos",
+  "value": "accordionDetails",
+  "values": {},
+  "type": "element",
+  "parent": "A0bHoLV2",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

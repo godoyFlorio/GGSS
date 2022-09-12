@@ -1,0 +1,41 @@
+{
+  "unique_id": "k2BQX0wQ",
+  "path": "b.tpl",
+  "completePath": "elements/Aptugo Internal Use/b.tpl",
+  "type": "element",
+  "icon": "ico-field",
+  "sourceType": "javascript",
+  "internalUse": true,
+  "options": [
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "chips",
+      "options": "return aptugo.assetUtils.grabCssSelectors( aptugo.variables.retrievePageVariablesFromElement(arguments[0],'theme') )"
+    },
+    {
+      "name": "primaryColor",
+      "display": "Primary Color",
+      "type": "dropdown",
+      "options": "red;pink;purple;deepPurple;indigo;blue;lightBlue;cyan;teal;green;lightGreen;lime;yellow;amber;orange;deepOrange;brown;grey;blueGrey"
+    },
+    {
+      "name": "extraThemeOptions",
+      "display": "Extra Theming options",
+      "type": "text"
+    }
+  ],
+  "name": "Body",
+  "parent": "DZHlugMh",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "value": "b",
+  "values": {
+    "className": [
+      "theme.abmTablasVarias",
+      "theme.taller",
+      "theme.proveedores"
+    ]
+  },
+  "prevent_delete": false
+}

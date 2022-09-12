@@ -1,0 +1,15 @@
+{
+  "unique_id": "a0xCt0zT",
+  "name": "Select Label",
+  "parent": "qEuR9ZfD",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.selectLabelh4"
+  },
+  "prevent_delete": false
+}

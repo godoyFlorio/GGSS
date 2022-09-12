@@ -1,0 +1,15 @@
+{
+  "unique_id": "128OWt0G",
+  "name": "ABM Titulo",
+  "parent": "tR37CEvS",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.tituloABM"
+  },
+  "prevent_delete": false
+}

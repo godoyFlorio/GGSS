@@ -1,0 +1,14 @@
+{
+  "name": "code",
+  "value": "code",
+  "values": {
+    "code": "console.log(results)"
+  },
+  "type": "element",
+  "path": "code.tpl",
+  "parent": "EgCqfsqr",
+  "unique_id": "DLZ4edP1",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

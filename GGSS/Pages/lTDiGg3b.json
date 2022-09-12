@@ -1,0 +1,33 @@
+{
+  "unique_id": "lTDiGg3b",
+  "path": "updateStateVariable.tpl",
+  "completePath": "elements\\Programming\\Snippets\\updateStateVariable.tpl",
+  "type": "element",
+  "icon": "ico-paper",
+  "sourceType": "javascript",
+  "helpText": "Updates the value of a state variable",
+  "options": [
+    {
+      "name": "variable",
+      "display": "Variable to Update",
+      "type": "variable",
+      "options": ""
+    },
+    {
+      "name": "newvalue",
+      "display": "New Value",
+      "type": "variable",
+      "options": ""
+    }
+  ],
+  "name": "updateStateVariable",
+  "value": "updateStateVariable",
+  "values": {
+    "variable": "lang",
+    "newvalue": "langStrings[localStorage.getItem('aptugolang') || 'en']"
+  },
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "D0zh0JUu",
+  "collapseStatus": "collapse"
+}

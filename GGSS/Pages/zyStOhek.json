@@ -1,0 +1,13 @@
+{
+  "unique_id": "zyStOhek",
+  "name": "alertMessage",
+  "parent": "k8oEWwZu",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "alertMessage",
+  "values": {
+    "severity": "error"
+  },
+  "prevent_delete": false
+}

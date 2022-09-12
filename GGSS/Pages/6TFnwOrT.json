@@ -1,0 +1,45 @@
+{
+  "unique_id": "6TFnwOrT",
+  "path": "performApiCall.tpl",
+  "completePath": "elements/Experimental/performApiCall.tpl",
+  "type": "element",
+  "icon": "ico-api-call",
+  "helpText": "Performs a call to an api and returns the response",
+  "options": [
+    {
+      "name": "url",
+      "display": "URL",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "method",
+      "display": "Method",
+      "type": "dropdown",
+      "options": "get;post;put;delete"
+    },
+    {
+      "name": "dataVariable",
+      "display": "Data Variable",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "extraOptions",
+      "display": "Extra options",
+      "type": "text"
+    }
+  ],
+  "sourceType": "javascript",
+  "name": "performApiCall",
+  "value": "performApiCall",
+  "values": {
+    "method": "post",
+    "url": "'http://52.90.12.208/provincias'",
+    "dataVariable": "dataProvincias"
+  },
+  "parent": "Tk8bJQoU",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

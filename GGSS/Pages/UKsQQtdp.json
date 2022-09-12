@@ -1,0 +1,15 @@
+{
+  "unique_id": "UKsQQtdp",
+  "name": "Body",
+  "type": "element",
+  "value": "b",
+  "prevent_delete": true,
+  "cascades": true,
+  "collapseStatus": "expand",
+  "values": {
+    "className": [
+      "theme.pages"
+    ]
+  },
+  "parent": "isbfI9zp"
+}

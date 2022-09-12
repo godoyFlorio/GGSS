@@ -1,0 +1,18 @@
+{
+  "unique_id": "elxWPH5S",
+  "name": "email",
+  "parent": "lRrltHvD",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "email",
+  "values": {
+    "smpthost": "",
+    "smptport": "",
+    "smptuser": "",
+    "smptpass": "",
+    "subject": "'Recover Password'",
+    "functionName": "recoverPasswordFormat"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "PH7mHag3",
+  "name": "Input",
+  "parent": "CP7aeHKl",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.abmInput"
+  },
+  "prevent_delete": false
+}

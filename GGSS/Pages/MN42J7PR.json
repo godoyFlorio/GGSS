@@ -1,0 +1,15 @@
+{
+  "unique_id": "MN42J7PR",
+  "name": "Secundario Completo",
+  "parent": "2P7xRg0i",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Secundario Completo"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,10 @@
+{
+  "unique_id": "qsAWZAnz",
+  "name": "Ingreso de una Unidad al Taller",
+  "path": "/menu/taller/ingreso-unidad-taller",
+  "filename": "IngresoTaller.tsx",
+  "type": "page",
+  "parent": "qFKncRK7",
+  "collapseStatus": "expand",
+  "priority": 5
+}

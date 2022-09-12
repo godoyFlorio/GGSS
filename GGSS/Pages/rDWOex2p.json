@@ -1,0 +1,50 @@
+{
+  "unique_id": "rDWOex2p",
+  "path": "simpleLink.tpl",
+  "completePath": "elements/Material-UI/simpleLink.tpl",
+  "type": "element",
+  "icon": "ico-link",
+  "options": [
+    {
+      "name": "destination",
+      "display": "Destination",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "tagToUse",
+      "display": "Use Tag",
+      "type": "dropdown",
+      "options": "NavLink;A"
+    },
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "style",
+      "display": "Extra Styles",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "target",
+      "display": "Link Target",
+      "type": "dropdown",
+      "options": "_self;_blank;_parent;_top"
+    }
+  ],
+  "sourceType": "javascript",
+  "name": "simpleLink",
+  "parent": "Fw5U3UZ3",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "value": "simpleLink",
+  "values": {
+    "destination": "/menu/taller/abm-unidades",
+    "tagToUse": "NavLink"
+  },
+  "prevent_delete": false
+}

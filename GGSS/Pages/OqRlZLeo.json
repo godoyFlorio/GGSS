@@ -1,0 +1,13 @@
+{
+  "unique_id": "OqRlZLeo",
+  "name": "text",
+  "parent": "gzBKq1ud",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Set your new password in the field below"
+  },
+  "prevent_delete": false
+}

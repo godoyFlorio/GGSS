@@ -1,0 +1,14 @@
+{
+  "unique_id": "3eLDPQL7",
+  "name": "Left Section",
+  "value": "div",
+  "values": {
+    "class": "theme.leftVariablesUnidadesSection"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "S71elwoy",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "egAaztKT",
+  "name": "Techint",
+  "parent": "6AEJhGRs",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Techint"
+  },
+  "prevent_delete": false
+}
