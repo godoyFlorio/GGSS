@@ -10,5 +10,6 @@
   "prevent_delete": true,
   "cascades": false,
   "parent": "Qg5kmosq",
-  "collapseStatus": "collapse"
+  "collapseStatus": "collapse",
+  "errored": false
 }

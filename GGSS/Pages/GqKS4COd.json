@@ -6,5 +6,6 @@
   "prevent_delete": true,
   "cascades": false,
   "collapseStatus": "expand",
-  "parent": "lglbZiB3"
+  "parent": "lglbZiB3",
+  "errored": false
 }

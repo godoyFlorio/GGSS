@@ -10,5 +10,6 @@
   "parent": "MMKS4Ekk",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

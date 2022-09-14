@@ -10,5 +10,6 @@
   "parent": "v7caJcxc",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

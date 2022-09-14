@@ -19,5 +19,6 @@
   "value": "dummyEncloser",
   "prevent_delete": false,
   "parent": "TlvIOpHe",
-  "collapseStatus": "collapse"
+  "collapseStatus": "collapse",
+  "errored": false
 }

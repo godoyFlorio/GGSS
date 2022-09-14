@@ -19,5 +19,6 @@
   "cascades": false,
   "type": "element",
   "parent": "DePREJ8h",
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

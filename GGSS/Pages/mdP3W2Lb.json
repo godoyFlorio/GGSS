@@ -2,6 +2,7 @@
   "unique_id": "mdP3W2Lb",
   "path": "b.tpl",
   "completePath": "elements/Aptugo Internal Use/b.tpl",
+  "keyPath": "elements\\Aptugo Internal Use\\b.tpl",
   "type": "element",
   "icon": "ico-field",
   "sourceType": "javascript",
@@ -35,5 +36,6 @@
       "theme.pages"
     ]
   },
-  "parent": "JAg0dXCC"
+  "parent": "JAg0dXCC",
+  "errored": false
 }

@@ -64,5 +64,6 @@
   "parent": "RaTh7gaM",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

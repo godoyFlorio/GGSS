@@ -52,5 +52,6 @@
   "parent": "xARXW85d",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

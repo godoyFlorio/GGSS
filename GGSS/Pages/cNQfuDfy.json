@@ -35,5 +35,6 @@
     "useInCode": true
   },
   "parent": "yVQMnXLM",
-  "collapseStatus": "collapse"
+  "collapseStatus": "collapse",
+  "errored": false
 }

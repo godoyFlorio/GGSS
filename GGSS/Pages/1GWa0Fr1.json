@@ -1,8 +1,8 @@
 {
+  "unique_id": "1GWa0Fr1",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
   "type": "element",
-  "unique_id": "1GWa0Fr1",
   "icon": "ico-div",
   "sourceType": "javascript",
   "options": [
@@ -47,10 +47,11 @@
   "name": "Crud Bar",
   "value": "div",
   "values": {
-    "class": "theme.cudBarProveedores"
+    "class": "theme.cudBarRegistros"
   },
   "parent": "lzILd8qW",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

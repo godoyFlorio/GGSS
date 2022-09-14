@@ -9,5 +9,6 @@
   "values": {
     "class": "theme.mainarea"
   },
-  "parent": "0auKHBmu"
+  "parent": "0auKHBmu",
+  "errored": false
 }

@@ -2,6 +2,7 @@
   "unique_id": "TTbhhxW4",
   "path": "navLink.tpl",
   "completePath": "elements\\Material-UI\\navLink.tpl",
+  "keyPath": "elements\\Material-UI\\navLink.tpl",
   "type": "element",
   "icon": "ico-navlink",
   "sourceType": "javascript",
@@ -47,5 +48,6 @@
     "destination": "/",
     "linkText": "Home"
   },
-  "parent": "StNqZaIv"
+  "parent": "StNqZaIv",
+  "errored": false
 }

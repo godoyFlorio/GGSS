@@ -52,5 +52,6 @@
   "parent": "heacLxww",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

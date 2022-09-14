@@ -52,5 +52,6 @@
   "parent": "HmpdU7PL",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

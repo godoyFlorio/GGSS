@@ -10,5 +10,6 @@
   "parent": "weNaac4k",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

@@ -2,6 +2,7 @@
   "unique_id": "l8eIi8td",
   "path": "typography.tpl",
   "completePath": "elements/Material-UI/typography.tpl",
+  "keyPath": "elements\\Material-UI\\typography.tpl",
   "icon": "ico-typography",
   "helpText": "Renders different typographic html elements",
   "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
@@ -24,9 +25,10 @@
   "cascades": false,
   "type": "element",
   "value": "typography",
-  "collapseStatus": "collapse",
+  "collapseStatus": "expand",
   "values": {
     "tag": "h1"
   },
-  "parent": "wwkoTrnS"
+  "parent": "wwkoTrnS",
+  "errored": false
 }

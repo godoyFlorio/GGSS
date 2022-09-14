@@ -1,7 +1,7 @@
 {
+  "unique_id": "X4hwyHRL",
   "path": "typography.tpl",
   "completePath": "elements/Material-UI/typography.tpl",
-  "unique_id": "X4hwyHRL",
   "icon": "ico-typography",
   "helpText": "Renders different typographic html elements",
   "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
@@ -28,5 +28,6 @@
   "parent": "cUpDp0ty",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

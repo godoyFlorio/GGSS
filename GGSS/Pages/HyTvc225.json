@@ -9,5 +9,6 @@
   "values": {
     "class": "classes.tableResponsive"
   },
-  "parent": "JOoSIG9l"
+  "parent": "JOoSIG9l",
+  "errored": false
 }

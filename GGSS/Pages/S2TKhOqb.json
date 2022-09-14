@@ -9,5 +9,6 @@
   "values": {
     "maxWidth": "lg"
   },
-  "parent": "FBzJHBP7"
+  "parent": "FBzJHBP7",
+  "errored": false
 }

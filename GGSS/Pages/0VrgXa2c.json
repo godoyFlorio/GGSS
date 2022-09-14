@@ -1,7 +1,7 @@
 {
+  "unique_id": "0VrgXa2c",
   "path": "image.tpl",
   "completePath": "elements/Material-UI/image.tpl",
-  "unique_id": "0VrgXa2c",
   "icon": "ico-image",
   "helpText": "Easily use images from Assets or the web",
   "options": [
@@ -64,5 +64,6 @@
   "parent": "rp6xZsom",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

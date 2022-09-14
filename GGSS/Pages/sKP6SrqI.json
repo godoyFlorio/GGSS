@@ -1,8 +1,8 @@
 {
+  "unique_id": "sKP6SrqI",
   "path": "useState.tpl",
   "completePath": "elements/Programming/useState.tpl",
   "type": "element",
-  "unique_id": "sKP6SrqI",
   "icon": "ico-use-state",
   "options": [
     {
@@ -35,5 +35,6 @@
   "values": {
     "variableName": "usName"
   },
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

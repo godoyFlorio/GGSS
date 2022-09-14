@@ -11,5 +11,6 @@
   "value": "bpr",
   "cascades": false,
   "parent": "B4ixA3P3",
-  "collapseStatus": "collapse"
+  "collapseStatus": "collapse",
+  "errored": false
 }

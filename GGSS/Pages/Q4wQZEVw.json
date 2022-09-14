@@ -1,8 +1,8 @@
 {
+  "unique_id": "Q4wQZEVw",
   "path": "text.tpl",
   "completePath": "elements\\Basic\\text.tpl",
   "type": "element",
-  "unique_id": "Q4wQZEVw",
   "icon": "ico-text",
   "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
   "sourceType": "javascript",
@@ -28,5 +28,6 @@
   "parent": "ZfzICMuw",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

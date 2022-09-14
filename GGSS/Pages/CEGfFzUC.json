@@ -6,5 +6,6 @@
   "type": "element",
   "value": "Paper",
   "collapseStatus": "expand",
-  "parent": "eZfTXpeO"
+  "parent": "eZfTXpeO",
+  "errored": false
 }

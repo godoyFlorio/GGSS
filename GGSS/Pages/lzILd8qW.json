@@ -1,8 +1,8 @@
 {
+  "unique_id": "lzILd8qW",
   "path": "Container.tpl",
   "completePath": "elements\\Material-UI\\Container.tpl",
   "type": "element",
-  "unique_id": "lzILd8qW",
   "icon": "ico-field",
   "helpText": "The container centers your content horizontally. It's the most basic layout element.",
   "options": [
@@ -35,10 +35,11 @@
   "name": "Container",
   "value": "Container",
   "values": {
-    "className": "theme.choferes"
+    "className": "theme.registros"
   },
   "parent": "vUcpAXGE",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

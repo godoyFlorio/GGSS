@@ -2,6 +2,7 @@
   "unique_id": "wwkoTrnS",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
+  "keyPath": "elements\\Basic\\div.tpl",
   "type": "element",
   "icon": "ico-div",
   "sourceType": "javascript",
@@ -52,5 +53,6 @@
   "values": {
     "class": "classes.bigHello"
   },
-  "parent": "3T1qizoI"
+  "parent": "3T1qizoI",
+  "errored": false
 }

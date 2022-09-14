@@ -12,5 +12,6 @@
     ],
     "primaryColor": "green"
   },
-  "parent": "GZacrvoV"
+  "parent": "GZacrvoV",
+  "errored": false
 }

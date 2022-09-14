@@ -10,5 +10,6 @@
   "parent": "ct89TNE3",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

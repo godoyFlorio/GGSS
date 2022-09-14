@@ -9,5 +9,6 @@
   "values": {
     "class": "theme.tableHeading"
   },
-  "parent": "hqe7z4ta"
+  "parent": "hqe7z4ta",
+  "errored": false
 }

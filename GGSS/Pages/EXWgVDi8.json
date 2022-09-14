@@ -36,5 +36,6 @@
   "prevent_delete": false,
   "cascades": false,
   "parent": "Qg5kmosq",
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

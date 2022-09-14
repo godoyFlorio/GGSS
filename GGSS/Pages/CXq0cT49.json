@@ -122,5 +122,6 @@
   "parent": "UUz1OAAN",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

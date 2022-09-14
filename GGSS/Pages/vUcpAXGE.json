@@ -1,8 +1,8 @@
 {
+  "unique_id": "vUcpAXGE",
   "path": "b.tpl",
   "completePath": "elements/Aptugo Internal Use/b.tpl",
   "type": "element",
-  "unique_id": "vUcpAXGE",
   "icon": "ico-field",
   "sourceType": "javascript",
   "internalUse": true,
@@ -30,12 +30,12 @@
   "values": {
     "className": [
       "theme.taller",
-      "theme.abmTablasVarias",
-      "theme.proveedores"
+      "theme.pages"
     ]
   },
   "prevent_delete": false,
   "cascades": false,
   "parent": "9VTyl4GX",
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

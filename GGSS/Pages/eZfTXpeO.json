@@ -9,5 +9,6 @@
   "values": {
     "maxWidth": "lg"
   },
-  "parent": "KniM3rFe"
+  "parent": "KniM3rFe",
+  "errored": false
 }

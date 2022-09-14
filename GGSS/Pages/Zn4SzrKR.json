@@ -10,5 +10,6 @@
   "parent": "2KTR2vV1",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

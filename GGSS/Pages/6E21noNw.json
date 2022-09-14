@@ -14,5 +14,6 @@
   "cascades": false,
   "type": "element",
   "parent": "VvTzIxf1",
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

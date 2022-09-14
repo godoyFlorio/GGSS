@@ -2,6 +2,7 @@
   "unique_id": "StNqZaIv",
   "path": "sidebar.tpl",
   "completePath": "elements\\Material-UI\\sidebar.tpl",
+  "keyPath": "elements\\Material-UI\\sidebar.tpl",
   "type": "element",
   "icon": "ico-sidebar",
   "sourceType": "javascript",
@@ -34,5 +35,6 @@
     "colorSchema": "Greens",
     "open": "true"
   },
-  "parent": "mdP3W2Lb"
+  "parent": "mdP3W2Lb",
+  "errored": false
 }

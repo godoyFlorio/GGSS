@@ -6,5 +6,6 @@
   "prevent_delete": true,
   "cascades": false,
   "collapseStatus": "collapse",
-  "parent": "KAHgaMzm"
+  "parent": "KAHgaMzm",
+  "errored": false
 }

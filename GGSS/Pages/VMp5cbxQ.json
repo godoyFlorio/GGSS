@@ -9,5 +9,6 @@
   "values": {
     "class": "theme.tabletoolbar"
   },
-  "parent": "k1aT328M"
+  "parent": "k1aT328M",
+  "errored": false
 }

@@ -9,5 +9,6 @@
   "values": {
     "maxWidth": "lg"
   },
-  "parent": "Fnmg5t2l"
+  "parent": "Fnmg5t2l",
+  "errored": false
 }

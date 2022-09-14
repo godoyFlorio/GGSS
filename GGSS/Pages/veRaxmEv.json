@@ -1,8 +1,8 @@
 {
+  "unique_id": "veRaxmEv",
   "path": "button.tpl",
   "completePath": "elements\\Material-UI\\button.tpl",
   "type": "element",
-  "unique_id": "veRaxmEv",
   "icon": "ico-button",
   "options": [
     {
@@ -72,5 +72,6 @@
   "parent": "a0cm95WT",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

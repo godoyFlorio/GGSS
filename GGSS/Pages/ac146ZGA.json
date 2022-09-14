@@ -6,5 +6,6 @@
   "type": "element",
   "value": "Paper",
   "collapseStatus": "expand",
-  "parent": "LBWkQpGD"
+  "parent": "LBWkQpGD",
+  "errored": false
 }

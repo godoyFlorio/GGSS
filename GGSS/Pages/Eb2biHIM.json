@@ -9,5 +9,6 @@
   "values": {
     "class": "theme.mainarea"
   },
-  "parent": "gT91vFxo"
+  "parent": "gT91vFxo",
+  "errored": false
 }

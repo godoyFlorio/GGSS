@@ -1,8 +1,8 @@
 {
+  "unique_id": "GgZzMMkS",
   "path": "bpr.tpl",
   "completePath": "elements\\Aptugo Internal Use\\bpr.tpl",
   "type": "element",
-  "unique_id": "GgZzMMkS",
   "icon": "ico-field",
   "sourceType": "javascript",
   "internalUse": true,
@@ -11,5 +11,6 @@
   "value": "bpr",
   "cascades": false,
   "parent": "9VTyl4GX",
-  "collapseStatus": "collapse"
+  "collapseStatus": "collapse",
+  "errored": false
 }

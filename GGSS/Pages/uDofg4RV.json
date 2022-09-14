@@ -40,5 +40,6 @@
   "parent": "nmR1ccvk",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

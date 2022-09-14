@@ -9,5 +9,6 @@
   "values": {
     "class": "classes.tableResponsive"
   },
-  "parent": "xn1B6XXL"
+  "parent": "xn1B6XXL",
+  "errored": false
 }

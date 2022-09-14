@@ -36,5 +36,6 @@
   "prevent_delete": false,
   "cascades": false,
   "parent": "mhgyRR9q",
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

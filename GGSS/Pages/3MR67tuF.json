@@ -47,5 +47,6 @@
   "parent": "N8FnaRW2",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

@@ -10,5 +10,6 @@
   "parent": "SUTx58us",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

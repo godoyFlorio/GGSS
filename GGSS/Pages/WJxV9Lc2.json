@@ -2,6 +2,7 @@
   "unique_id": "WJxV9Lc2",
   "path": "ph.tpl",
   "completePath": "elements/Aptugo Internal Use/ph.tpl",
+  "keyPath": "elements\\Aptugo Internal Use\\ph.tpl",
   "prevent_delete": true,
   "icon": "ico-field",
   "name": "Page Header",
@@ -9,5 +10,6 @@
   "value": "ph",
   "cascades": false,
   "collapseStatus": "expand",
-  "parent": "JAg0dXCC"
+  "parent": "JAg0dXCC",
+  "errored": false
 }

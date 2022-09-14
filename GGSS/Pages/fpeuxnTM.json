@@ -73,5 +73,6 @@
   "parent": "R3vr2x6A",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

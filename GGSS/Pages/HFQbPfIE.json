@@ -6,5 +6,6 @@
   "prevent_delete": true,
   "cascades": false,
   "collapseStatus": "collapse",
-  "parent": "2eNt4Idk"
+  "parent": "2eNt4Idk",
+  "errored": false
 }

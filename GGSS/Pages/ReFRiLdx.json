@@ -14,5 +14,6 @@
   "cascades": false,
   "type": "element",
   "parent": "OvsRtOl3",
-  "collapseStatus": "collapse"
+  "collapseStatus": "collapse",
+  "errored": false
 }

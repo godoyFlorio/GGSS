@@ -12,5 +12,6 @@
     ],
     "primaryColor": "green"
   },
-  "parent": "lglbZiB3"
+  "parent": "lglbZiB3",
+  "errored": false
 }

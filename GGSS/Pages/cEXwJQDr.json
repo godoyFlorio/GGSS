@@ -9,5 +9,6 @@
   "prevent_delete": true,
   "cascades": false,
   "parent": "mlKTukO8",
-  "collapseStatus": "collapse"
+  "collapseStatus": "collapse",
+  "errored": false
 }

@@ -6,5 +6,6 @@
   "type": "element",
   "value": "div",
   "collapseStatus": "expand",
-  "parent": "NcTEAmVy"
+  "parent": "NcTEAmVy",
+  "errored": false
 }

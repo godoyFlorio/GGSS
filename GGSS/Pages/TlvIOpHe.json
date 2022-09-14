@@ -10,5 +10,6 @@
   "type": "element",
   "value": "ph",
   "parent": "RVWzrZms",
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

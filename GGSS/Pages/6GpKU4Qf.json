@@ -10,5 +10,6 @@
   "parent": "6NV77LoS",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

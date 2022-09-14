@@ -11,5 +11,6 @@
   "cascades": false,
   "type": "element",
   "parent": "GG58FeC8",
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

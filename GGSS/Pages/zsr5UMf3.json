@@ -72,5 +72,6 @@
   "parent": "M0n2BzN1",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

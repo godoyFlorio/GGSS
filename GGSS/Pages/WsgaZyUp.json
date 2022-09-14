@@ -10,5 +10,6 @@
   "parent": "g8dk20dT",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

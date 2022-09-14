@@ -12,5 +12,6 @@
     "title": "Table Title",
     "headerColor": "rose"
   },
-  "parent": "lHPi3qyr"
+  "parent": "lHPi3qyr",
+  "errored": false
 }

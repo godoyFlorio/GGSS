@@ -9,5 +9,6 @@
   "values": {
     "class": "theme.tabletoolbar"
   },
-  "parent": "NcTEAmVy"
+  "parent": "NcTEAmVy",
+  "errored": false
 }

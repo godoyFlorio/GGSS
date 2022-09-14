@@ -37,5 +37,6 @@
   "prevent_delete": false,
   "cascades": false,
   "parent": "B4ixA3P3",
-  "collapseStatus": "collapse"
+  "collapseStatus": "collapse",
+  "errored": false
 }

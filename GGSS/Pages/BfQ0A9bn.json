@@ -10,5 +10,6 @@
   "prevent_delete": true,
   "cascades": false,
   "parent": "PWkKTG7N",
-  "collapseStatus": "collapse"
+  "collapseStatus": "collapse",
+  "errored": false
 }

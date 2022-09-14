@@ -9,5 +9,6 @@
   "values": {
     "class": "theme.mainarea"
   },
-  "parent": "XcGackAt"
+  "parent": "XcGackAt",
+  "errored": false
 }

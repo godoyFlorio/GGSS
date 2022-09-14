@@ -2,6 +2,7 @@
   "unique_id": "3T1qizoI",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
+  "keyPath": "elements\\Basic\\div.tpl",
   "type": "element",
   "icon": "ico-div",
   "sourceType": "javascript",
@@ -52,5 +53,6 @@
   },
   "cascades": false,
   "collapseStatus": "expand",
-  "parent": "mdP3W2Lb"
+  "parent": "mdP3W2Lb",
+  "errored": false
 }

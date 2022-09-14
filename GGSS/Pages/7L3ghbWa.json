@@ -36,5 +36,6 @@
   "prevent_delete": false,
   "cascades": false,
   "parent": "cQaBC63L",
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

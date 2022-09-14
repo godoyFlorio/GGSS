@@ -52,5 +52,6 @@
   "parent": "SJ9tD5tH",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

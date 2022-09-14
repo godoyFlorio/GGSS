@@ -64,5 +64,6 @@
   "parent": "dxPrUUSh",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

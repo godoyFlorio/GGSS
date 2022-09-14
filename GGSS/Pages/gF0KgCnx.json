@@ -6,5 +6,6 @@
   "prevent_delete": true,
   "cascades": false,
   "collapseStatus": "expand",
-  "parent": "5KyLsJ55"
+  "parent": "5KyLsJ55",
+  "errored": false
 }

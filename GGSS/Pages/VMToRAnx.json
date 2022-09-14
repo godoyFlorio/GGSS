@@ -9,5 +9,6 @@
   "values": {
     "class": "theme.tabletoolbar"
   },
-  "parent": "HyTvc225"
+  "parent": "HyTvc225",
+  "errored": false
 }

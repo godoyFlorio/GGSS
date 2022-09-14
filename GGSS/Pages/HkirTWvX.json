@@ -6,5 +6,6 @@
   "type": "element",
   "value": "div",
   "collapseStatus": "expand",
-  "parent": "HyTvc225"
+  "parent": "HyTvc225",
+  "errored": false
 }

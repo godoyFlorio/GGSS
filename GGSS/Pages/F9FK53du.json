@@ -9,5 +9,6 @@
   "prevent_delete": true,
   "cascades": false,
   "parent": "OvsRtOl3",
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

@@ -9,5 +9,6 @@
   "parent": "Kz4rKQwE",
   "value": "accordionSummary",
   "values": {},
-  "collapseStatus": "collapse"
+  "collapseStatus": "collapse",
+  "errored": false
 }

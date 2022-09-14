@@ -28,5 +28,6 @@
   "parent": "F11TKm5u",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

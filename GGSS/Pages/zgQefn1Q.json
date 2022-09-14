@@ -17,5 +17,6 @@
     "editTitle": "() => { return \"Edit \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"Q5IZWPPc\").singleName }",
     "editIntroText": "() => { return \"Update \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"Q5IZWPPc\").singleName + \" data\" }"
   },
-  "parent": "MAkcbohb"
+  "parent": "MAkcbohb",
+  "errored": false
 }

@@ -9,5 +9,6 @@
   "values": {
     "Content": "() => { return aptugo.store.getState().application.tables.find(table => table.unique_id === \"TJBzGo6B\").singleName + \" list\" }"
   },
-  "parent": "kHxDuQOI"
+  "parent": "kHxDuQOI",
+  "errored": false
 }

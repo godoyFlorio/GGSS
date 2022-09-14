@@ -2,6 +2,7 @@
   "unique_id": "Fr37tKV7",
   "path": "text.tpl",
   "completePath": "elements\\Basic\\text.tpl",
+  "keyPath": "elements\\Basic\\text.tpl",
   "type": "element",
   "icon": "ico-text",
   "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
@@ -28,5 +29,6 @@
   "values": {
     "Content": "<span>(you can edit me at the Page Manager)</span>"
   },
-  "parent": "wwkoTrnS"
+  "parent": "wwkoTrnS",
+  "errored": false
 }

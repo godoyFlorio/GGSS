@@ -6,5 +6,6 @@
   "type": "element",
   "value": "div",
   "collapseStatus": "expand",
-  "parent": "0ck2APzU"
+  "parent": "0ck2APzU",
+  "errored": false
 }

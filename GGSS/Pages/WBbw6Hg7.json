@@ -10,5 +10,6 @@
   "parent": "i70dW5mb",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

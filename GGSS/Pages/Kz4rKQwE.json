@@ -9,5 +9,6 @@
   "parent": "khcvSd17",
   "value": "accordion",
   "values": {},
-  "collapseStatus": "collapse"
+  "collapseStatus": "collapse",
+  "errored": false
 }

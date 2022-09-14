@@ -1,8 +1,8 @@
 {
+  "unique_id": "2cV9c0dK",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
   "type": "element",
-  "unique_id": "2cV9c0dK",
   "icon": "ico-div",
   "sourceType": "javascript",
   "options": [
@@ -52,5 +52,6 @@
   "parent": "lzILd8qW",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "collapse"
+  "collapseStatus": "expand",
+  "errored": false
 }

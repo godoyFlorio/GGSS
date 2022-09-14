@@ -52,5 +52,6 @@
   "parent": "S0nip7pp",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

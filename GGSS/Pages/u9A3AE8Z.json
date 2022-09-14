@@ -2,6 +2,7 @@
   "unique_id": "u9A3AE8Z",
   "path": "autolinking.tpl",
   "completePath": "elements\\Basic\\autolinking.tpl",
+  "keyPath": "elements\\Basic\\autolinking.tpl",
   "type": "element",
   "icon": "ico-autolinking",
   "sourceType": "javascript",
@@ -21,5 +22,6 @@
   "values": {
     "fromLink": "JAg0dXCC"
   },
-  "parent": "StNqZaIv"
+  "parent": "StNqZaIv",
+  "errored": false
 }

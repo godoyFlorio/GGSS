@@ -28,5 +28,6 @@
   "parent": "LOGH6WN9",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "errored": false
 }

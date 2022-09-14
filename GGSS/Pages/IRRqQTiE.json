@@ -2,6 +2,7 @@
   "unique_id": "IRRqQTiE",
   "path": "bpr.tpl",
   "completePath": "elements\\Aptugo Internal Use\\bpr.tpl",
+  "keyPath": "elements\\Aptugo Internal Use\\bpr.tpl",
   "type": "element",
   "icon": "ico-field",
   "sourceType": "javascript",
@@ -11,5 +12,6 @@
   "value": "bpr",
   "cascades": false,
   "collapseStatus": "collapse",
-  "parent": "JAg0dXCC"
+  "parent": "JAg0dXCC",
+  "errored": false
 }

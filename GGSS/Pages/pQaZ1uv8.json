@@ -9,5 +9,6 @@
   "values": {
     "maxWidth": "lg"
   },
-  "parent": "a0y9k4wm"
+  "parent": "a0y9k4wm",
+  "errored": false
 }
