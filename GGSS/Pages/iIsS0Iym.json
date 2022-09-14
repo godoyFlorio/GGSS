@@ -1,4 +1,5 @@
 {
+  "unique_id": "iIsS0Iym",
   "name": "Predeterminado",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "dvU6T9sd",
-  "unique_id": "iIsS0Iym",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

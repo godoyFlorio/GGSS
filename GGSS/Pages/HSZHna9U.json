@@ -1,8 +1,8 @@
 {
+  "unique_id": "HSZHna9U",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
   "type": "element",
-  "unique_id": "HSZHna9U",
   "icon": "ico-div",
   "sourceType": "javascript",
   "options": [

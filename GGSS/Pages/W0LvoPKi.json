@@ -1,4 +1,5 @@
 {
+  "unique_id": "W0LvoPKi",
   "name": "typography",
   "value": "typography",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "typography.tpl",
   "parent": "Enfq7KXT",
-  "unique_id": "W0LvoPKi",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

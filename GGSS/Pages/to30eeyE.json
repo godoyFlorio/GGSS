@@ -1,4 +1,5 @@
 {
+  "unique_id": "to30eeyE",
   "name": "Cancelar",
   "value": "button",
   "values": {
@@ -8,7 +9,6 @@
   "type": "element",
   "path": "button.tpl",
   "parent": "eQTO5W4e",
-  "unique_id": "to30eeyE",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

@@ -1,4 +1,5 @@
 {
+  "unique_id": "qVCuTZBT",
   "name": "Buttons - Cancel / Select",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "gKLTai1u",
-  "unique_id": "qVCuTZBT",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

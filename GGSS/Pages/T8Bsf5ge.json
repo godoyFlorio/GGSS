@@ -1,10 +1,10 @@
 {
+  "unique_id": "T8Bsf5ge",
   "name": "Page Footer",
   "type": "element",
   "value": "pf",
   "prevent_delete": true,
   "cascades": false,
   "collapseStatus": "expand",
-  "parent": "KAHgaMzm",
-  "unique_id": "T8Bsf5ge"
+  "parent": "KAHgaMzm"
 }

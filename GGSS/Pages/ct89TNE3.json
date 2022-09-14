@@ -1,4 +1,5 @@
 {
+  "unique_id": "ct89TNE3",
   "name": "Apellido",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "iNTmkkVx",
-  "unique_id": "ct89TNE3",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

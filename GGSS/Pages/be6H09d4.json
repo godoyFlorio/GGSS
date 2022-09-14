@@ -1,4 +1,5 @@
 {
+  "unique_id": "be6H09d4",
   "name": "País de origen:",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "WuggnicN",
-  "unique_id": "be6H09d4",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

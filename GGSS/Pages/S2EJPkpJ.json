@@ -1,8 +1,8 @@
 {
+  "unique_id": "S2EJPkpJ",
   "path": "button.tpl",
   "completePath": "elements\\Material-UI\\button.tpl",
   "type": "element",
-  "unique_id": "S2EJPkpJ",
   "icon": "ico-button",
   "options": [
     {

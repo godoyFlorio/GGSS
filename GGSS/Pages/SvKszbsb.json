@@ -1,4 +1,5 @@
 {
+  "unique_id": "SvKszbsb",
   "name": "Estado:",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "BcnvCXfQ",
-  "unique_id": "SvKszbsb",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

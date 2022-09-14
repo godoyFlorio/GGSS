@@ -1,4 +1,5 @@
 {
+  "unique_id": "mPJWChNI",
   "name": "Buttons",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "FISbv53u",
-  "unique_id": "mPJWChNI",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

@@ -1,4 +1,5 @@
 {
+  "unique_id": "d2eg3AsN",
   "name": "Piso/Dpto/Ofic/Torre",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "LWhRnb2g",
-  "unique_id": "d2eg3AsN",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

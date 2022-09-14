@@ -1,4 +1,5 @@
 {
+  "unique_id": "AzErtuih",
   "name": "table",
   "prevent_delete": false,
   "cascades": false,
@@ -11,6 +12,5 @@
     "title": "Table Title",
     "headerColor": "rose"
   },
-  "parent": "Bt9Sw1Qo",
-  "unique_id": "AzErtuih"
+  "parent": "Bt9Sw1Qo"
 }

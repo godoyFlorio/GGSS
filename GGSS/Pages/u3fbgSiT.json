@@ -1,4 +1,5 @@
 {
+  "unique_id": "u3fbgSiT",
   "name": "Provincia",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "ikiNQcdA",
-  "unique_id": "u3fbgSiT",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

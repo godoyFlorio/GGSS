@@ -1,8 +1,8 @@
 {
+  "unique_id": "WBxEFTNN",
   "path": "b.tpl",
   "completePath": "elements/Aptugo Internal Use/b.tpl",
   "type": "element",
-  "unique_id": "WBxEFTNN",
   "icon": "ico-field",
   "sourceType": "javascript",
   "internalUse": true,

@@ -1,4 +1,5 @@
 {
+  "unique_id": "DGf29TCS",
   "name": "Predeterminado",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "HirnF917",
-  "unique_id": "DGf29TCS",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

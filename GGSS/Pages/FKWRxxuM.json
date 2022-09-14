@@ -1,4 +1,5 @@
 {
+  "unique_id": "FKWRxxuM",
   "name": "image",
   "value": "image",
   "values": {
@@ -9,7 +10,6 @@
   "type": "element",
   "path": "image.tpl",
   "parent": "QG4SXRWc",
-  "unique_id": "FKWRxxuM",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

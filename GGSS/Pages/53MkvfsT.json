@@ -1,7 +1,7 @@
 {
-  "unique_id": "53MkvfsT",
   "path": "image.tpl",
   "completePath": "elements/Material-UI/image.tpl",
+  "unique_id": "53MkvfsT",
   "icon": "ico-image",
   "helpText": "Easily use images from Assets or the web",
   "options": [

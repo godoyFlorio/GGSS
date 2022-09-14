@@ -1,8 +1,8 @@
 {
+  "unique_id": "QBk01AMT",
   "path": "Container.tpl",
   "completePath": "elements\\Material-UI\\Container.tpl",
   "type": "element",
-  "unique_id": "QBk01AMT",
   "icon": "ico-field",
   "helpText": "The container centers your content horizontally. It's the most basic layout element.",
   "options": [

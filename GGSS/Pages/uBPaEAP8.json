@@ -1,4 +1,5 @@
 {
+  "unique_id": "uBPaEAP8",
   "name": "Head",
   "prevent_delete": false,
   "cascades": false,
@@ -8,6 +9,5 @@
   "values": {
     "class": "theme.tableHeading"
   },
-  "parent": "S2TKhOqb",
-  "unique_id": "uBPaEAP8"
+  "parent": "S2TKhOqb"
 }

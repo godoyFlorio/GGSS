@@ -1,4 +1,5 @@
 {
+  "unique_id": "DoFTilTk",
   "name": "Crud Bar Section",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "SeHcFtH2",
-  "unique_id": "DoFTilTk",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

@@ -1,4 +1,5 @@
 {
+  "unique_id": "TswRAuG5",
   "name": "typography",
   "prevent_delete": false,
   "cascades": false,
@@ -8,6 +9,5 @@
   "values": {
     "tag": "h4"
   },
-  "parent": "m7mp3vLo",
-  "unique_id": "TswRAuG5"
+  "parent": "m7mp3vLo"
 }

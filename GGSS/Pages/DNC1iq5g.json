@@ -1,4 +1,5 @@
 {
+  "unique_id": "DNC1iq5g",
   "name": "Table Toolbar",
   "prevent_delete": false,
   "cascades": false,
@@ -8,6 +9,5 @@
   "values": {
     "class": "theme.tabletoolbar"
   },
-  "parent": "cHIEEvCn",
-  "unique_id": "DNC1iq5g"
+  "parent": "cHIEEvCn"
 }

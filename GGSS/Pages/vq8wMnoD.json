@@ -1,4 +1,5 @@
 {
+  "unique_id": "vq8wMnoD",
   "name": "Table Area",
   "prevent_delete": false,
   "cascades": false,
@@ -8,6 +9,5 @@
   "values": {
     "class": "classes.tableResponsive"
   },
-  "parent": "ac146ZGA",
-  "unique_id": "vq8wMnoD"
+  "parent": "ac146ZGA"
 }

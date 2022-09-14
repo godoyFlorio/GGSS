@@ -1,4 +1,5 @@
 {
+  "unique_id": "upcGyBUa",
   "name": "Container",
   "value": "Container",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "Container.tpl",
   "parent": "hWuV9VBZ",
-  "unique_id": "upcGyBUa",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

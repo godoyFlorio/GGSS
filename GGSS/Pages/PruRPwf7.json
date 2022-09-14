@@ -1,8 +1,8 @@
 {
+  "unique_id": "PruRPwf7",
   "path": "button.tpl",
   "completePath": "elements\\Material-UI\\button.tpl",
   "type": "element",
-  "unique_id": "PruRPwf7",
   "icon": "ico-button",
   "options": [
     {

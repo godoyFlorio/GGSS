@@ -1,8 +1,8 @@
 {
+  "unique_id": "GMhy1P6A",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
   "type": "element",
-  "unique_id": "GMhy1P6A",
   "icon": "ico-div",
   "sourceType": "javascript",
   "options": [

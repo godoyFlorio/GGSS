@@ -1,8 +1,8 @@
 {
-  "unique_id": "veRaxmEv",
   "path": "button.tpl",
   "completePath": "elements\\Material-UI\\button.tpl",
   "type": "element",
+  "unique_id": "veRaxmEv",
   "icon": "ico-button",
   "options": [
     {

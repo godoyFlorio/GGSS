@@ -1,4 +1,5 @@
 {
+  "unique_id": "kbTeiVDh",
   "name": "Estado:",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "TCRMC42s",
-  "unique_id": "kbTeiVDh",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

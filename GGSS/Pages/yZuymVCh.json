@@ -1,4 +1,5 @@
 {
+  "unique_id": "yZuymVCh",
   "name": "Egreso",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "DuGHEsvm",
-  "unique_id": "yZuymVCh",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

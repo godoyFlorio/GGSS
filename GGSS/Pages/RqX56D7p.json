@@ -1,4 +1,5 @@
 {
+  "unique_id": "RqX56D7p",
   "name": "Body",
   "type": "element",
   "value": "b",
@@ -11,6 +12,5 @@
     ],
     "primaryColor": "green"
   },
-  "parent": "lglbZiB3",
-  "unique_id": "RqX56D7p"
+  "parent": "lglbZiB3"
 }

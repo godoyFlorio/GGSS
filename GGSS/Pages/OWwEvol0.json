@@ -1,4 +1,5 @@
 {
+  "unique_id": "OWwEvol0",
   "name": "text",
   "value": "text",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "text.tpl",
   "parent": "BTc58kxJ",
-  "unique_id": "OWwEvol0",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

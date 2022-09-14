@@ -1,4 +1,5 @@
 {
+  "unique_id": "SdG81Hh7",
   "name": "Apellido",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "WuggnicN",
-  "unique_id": "SdG81Hh7",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

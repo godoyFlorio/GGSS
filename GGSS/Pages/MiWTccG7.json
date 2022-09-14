@@ -1,4 +1,5 @@
 {
+  "unique_id": "MiWTccG7",
   "name": "E-mail:",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "h0hqBaN7",
-  "unique_id": "MiWTccG7",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

@@ -1,4 +1,5 @@
 {
+  "unique_id": "wpI8batB",
   "name": "Body",
   "value": "b",
   "values": {
@@ -9,7 +10,6 @@
     ]
   },
   "path": "b.tpl",
-  "unique_id": "wpI8batB",
   "prevent_delete": false,
   "cascades": false,
   "type": "element",

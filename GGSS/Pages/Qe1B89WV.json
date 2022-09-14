@@ -1,8 +1,8 @@
 {
+  "unique_id": "Qe1B89WV",
   "path": "button.tpl",
   "completePath": "elements\\Material-UI\\button.tpl",
   "type": "element",
-  "unique_id": "Qe1B89WV",
   "icon": "ico-button",
   "options": [
     {

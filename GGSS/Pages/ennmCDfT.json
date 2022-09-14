@@ -1,4 +1,5 @@
 {
+  "unique_id": "ennmCDfT",
   "name": "table",
   "prevent_delete": false,
   "cascades": false,
@@ -11,6 +12,5 @@
     "title": "Table Title",
     "headerColor": "rose"
   },
-  "parent": "rNcX236k",
-  "unique_id": "ennmCDfT"
+  "parent": "rNcX236k"
 }

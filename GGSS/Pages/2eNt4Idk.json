@@ -1,10 +1,10 @@
 {
+  "unique_id": "2eNt4Idk",
   "asociated_table": "TJBzGo6B",
   "name": "() => aptugo.activeApplication.tables.find(table => table.unique_id === \"TJBzGo6B\").name",
   "type": "page",
   "path": "() => '/' + aptugo.activeApplication.tables.find(table => table.unique_id === \"TJBzGo6B\").name",
   "parent": "RVWzrZms",
   "collapseStatus": "expand",
-  "filename": "() => aptugo.activeApplication.tables.find(table => table.unique_id === \"TJBzGo6B\").name + '.tsx'",
-  "unique_id": "2eNt4Idk"
+  "filename": "() => aptugo.activeApplication.tables.find(table => table.unique_id === \"TJBzGo6B\").name + '.tsx'"
 }

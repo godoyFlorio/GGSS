@@ -1,4 +1,5 @@
 {
+  "unique_id": "lQ7RzbhW",
   "name": "Boton Examinar",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "VINsDrd1",
-  "unique_id": "lQ7RzbhW",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

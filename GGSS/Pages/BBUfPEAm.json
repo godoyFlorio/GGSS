@@ -1,4 +1,5 @@
 {
+  "unique_id": "BBUfPEAm",
   "name": "Aceptar",
   "value": "button",
   "values": {
@@ -8,7 +9,6 @@
   "type": "element",
   "path": "button.tpl",
   "parent": "CeplThgN",
-  "unique_id": "BBUfPEAm",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

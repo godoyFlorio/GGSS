@@ -1,4 +1,5 @@
 {
+  "unique_id": "7Ze7znch",
   "name": "Crud Bar Section",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "2LowpWa0",
-  "unique_id": "7Ze7znch",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

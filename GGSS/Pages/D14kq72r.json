@@ -1,4 +1,5 @@
 {
+  "unique_id": "D14kq72r",
   "name": "Table Toolbar",
   "prevent_delete": false,
   "cascades": false,
@@ -8,6 +9,5 @@
   "values": {
     "class": "theme.tabletoolbar"
   },
-  "parent": "NcTEAmVy",
-  "unique_id": "D14kq72r"
+  "parent": "NcTEAmVy"
 }

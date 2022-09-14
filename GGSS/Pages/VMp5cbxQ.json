@@ -1,4 +1,5 @@
 {
+  "unique_id": "VMp5cbxQ",
   "name": "Table Toolbar",
   "prevent_delete": false,
   "cascades": false,
@@ -8,6 +9,5 @@
   "values": {
     "class": "theme.tabletoolbar"
   },
-  "parent": "k1aT328M",
-  "unique_id": "VMp5cbxQ"
+  "parent": "k1aT328M"
 }

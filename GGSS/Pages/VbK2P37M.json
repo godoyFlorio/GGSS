@@ -1,4 +1,5 @@
 {
+  "unique_id": "VbK2P37M",
   "name": "searchField",
   "prevent_delete": false,
   "cascades": false,
@@ -8,6 +9,5 @@
   "values": {
     "table": "SJUuhfEz"
   },
-  "parent": "VMToRAnx",
-  "unique_id": "VbK2P37M"
+  "parent": "VMToRAnx"
 }

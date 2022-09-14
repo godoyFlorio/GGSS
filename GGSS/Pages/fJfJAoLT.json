@@ -1,8 +1,8 @@
 {
+  "unique_id": "fJfJAoLT",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
   "type": "element",
-  "unique_id": "fJfJAoLT",
   "icon": "ico-div",
   "sourceType": "javascript",
   "options": [

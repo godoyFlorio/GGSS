@@ -1,4 +1,5 @@
 {
+  "unique_id": "VMToRAnx",
   "name": "Table Toolbar",
   "prevent_delete": false,
   "cascades": false,
@@ -8,6 +9,5 @@
   "values": {
     "class": "theme.tabletoolbar"
   },
-  "parent": "HyTvc225",
-  "unique_id": "VMToRAnx"
+  "parent": "HyTvc225"
 }

@@ -1,4 +1,5 @@
 {
+  "unique_id": "t4N9VDnf",
   "name": "Body",
   "type": "element",
   "value": "b",
@@ -11,6 +12,5 @@
     ],
     "primaryColor": "green"
   },
-  "parent": "KAHgaMzm",
-  "unique_id": "t4N9VDnf"
+  "parent": "KAHgaMzm"
 }

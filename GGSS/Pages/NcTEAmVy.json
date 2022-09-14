@@ -1,4 +1,5 @@
 {
+  "unique_id": "NcTEAmVy",
   "name": "Table Area",
   "prevent_delete": false,
   "cascades": false,
@@ -8,6 +9,5 @@
   "values": {
     "class": "classes.tableResponsive"
   },
-  "parent": "T4Op0CT2",
-  "unique_id": "NcTEAmVy"
+  "parent": "T4Op0CT2"
 }

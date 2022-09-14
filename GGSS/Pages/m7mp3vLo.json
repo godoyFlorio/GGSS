@@ -1,4 +1,5 @@
 {
+  "unique_id": "m7mp3vLo",
   "name": "Head",
   "prevent_delete": false,
   "cascades": false,
@@ -8,6 +9,5 @@
   "values": {
     "class": "theme.tableHeading"
   },
-  "parent": "cKotyEix",
-  "unique_id": "m7mp3vLo"
+  "parent": "cKotyEix"
 }

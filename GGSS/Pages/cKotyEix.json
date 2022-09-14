@@ -1,4 +1,5 @@
 {
+  "unique_id": "cKotyEix",
   "name": "Container",
   "prevent_delete": false,
   "cascades": false,
@@ -8,6 +9,5 @@
   "values": {
     "maxWidth": "lg"
   },
-  "parent": "uXdQGyTH",
-  "unique_id": "cKotyEix"
+  "parent": "uXdQGyTH"
 }

@@ -1,4 +1,5 @@
 {
+  "unique_id": "4gSXq13f",
   "name": "Calle/Numero",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "u30zsFcB",
-  "unique_id": "4gSXq13f",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

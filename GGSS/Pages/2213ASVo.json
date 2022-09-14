@@ -1,4 +1,5 @@
 {
+  "unique_id": "2213ASVo",
   "name": "Departamento",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "XBiX6udC",
-  "unique_id": "2213ASVo",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

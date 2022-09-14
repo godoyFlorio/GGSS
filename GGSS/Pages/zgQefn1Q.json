@@ -1,4 +1,5 @@
 {
+  "unique_id": "zgQefn1Q",
   "name": "dialog",
   "prevent_delete": false,
   "cascades": false,
@@ -16,6 +17,5 @@
     "editTitle": "() => { return \"Edit \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"Q5IZWPPc\").singleName }",
     "editIntroText": "() => { return \"Update \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"Q5IZWPPc\").singleName + \" data\" }"
   },
-  "parent": "MAkcbohb",
-  "unique_id": "zgQefn1Q"
+  "parent": "MAkcbohb"
 }

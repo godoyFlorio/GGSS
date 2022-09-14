@@ -1,8 +1,8 @@
 {
+  "unique_id": "TgTe6W5T",
   "path": "text.tpl",
   "completePath": "elements\\Basic\\text.tpl",
   "type": "element",
-  "unique_id": "TgTe6W5T",
   "icon": "ico-text",
   "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
   "sourceType": "javascript",

@@ -1,8 +1,8 @@
 {
+  "unique_id": "Rk5EPE35",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
   "type": "element",
-  "unique_id": "Rk5EPE35",
   "icon": "ico-div",
   "sourceType": "javascript",
   "options": [

@@ -1,4 +1,5 @@
 {
+  "unique_id": "SKBbvUZC",
   "name": "Nacionalidad",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "i10UDQ5p",
-  "unique_id": "SKBbvUZC",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

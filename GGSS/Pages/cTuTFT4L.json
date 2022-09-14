@@ -1,4 +1,5 @@
 {
+  "unique_id": "cTuTFT4L",
   "name": "image",
   "value": "image",
   "values": {
@@ -9,7 +10,6 @@
   "type": "element",
   "path": "image.tpl",
   "parent": "TAKxCA0Q",
-  "unique_id": "cTuTFT4L",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

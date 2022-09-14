@@ -1,8 +1,8 @@
 {
+  "unique_id": "16Rw1053",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
   "type": "element",
-  "unique_id": "16Rw1053",
   "icon": "ico-div",
   "sourceType": "javascript",
   "options": [

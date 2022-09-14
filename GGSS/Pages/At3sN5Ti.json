@@ -1,4 +1,5 @@
 {
+  "unique_id": "At3sN5Ti",
   "name": "Text Content",
   "value": "text",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "text.tpl",
   "parent": "TqMPViGV",
-  "unique_id": "At3sN5Ti",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

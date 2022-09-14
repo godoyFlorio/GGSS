@@ -1,4 +1,5 @@
 {
+  "unique_id": "DfDf9M7S",
   "name": "Espacio vacio",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "sCElCHit",
-  "unique_id": "DfDf9M7S",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

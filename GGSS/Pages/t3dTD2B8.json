@@ -1,4 +1,5 @@
 {
+  "unique_id": "t3dTD2B8",
   "name": "Observaciones",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "VAKpTecN",
-  "unique_id": "t3dTD2B8",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

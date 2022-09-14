@@ -1,4 +1,5 @@
 {
+  "unique_id": "pAc2kdVW",
   "name": "image",
   "value": "image",
   "values": {
@@ -9,7 +10,6 @@
   "type": "element",
   "path": "image.tpl",
   "parent": "DRBApvT9",
-  "unique_id": "pAc2kdVW",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

@@ -1,4 +1,5 @@
 {
+  "unique_id": "G70QxW4W",
   "name": "text",
   "value": "text",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "text.tpl",
   "parent": "TaLci51v",
-  "unique_id": "G70QxW4W",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

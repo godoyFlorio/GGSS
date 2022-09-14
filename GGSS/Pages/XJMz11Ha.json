@@ -1,4 +1,5 @@
 {
+  "unique_id": "XJMz11Ha",
   "name": "Piso/Dpto/Ofic/Torre",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "XGLmTZ0k",
-  "unique_id": "XJMz11Ha",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

@@ -1,4 +1,5 @@
 {
+  "unique_id": "TC47uVCg",
   "name": "Piso/Dpto/Ofic/Torre",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "uec8tfuJ",
-  "unique_id": "TC47uVCg",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

@@ -1,4 +1,5 @@
 {
+  "unique_id": "TU5O5OHB",
   "name": "Crud Bar",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "yoTFTIzP",
-  "unique_id": "TU5O5OHB",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

@@ -1,10 +1,10 @@
 {
+  "unique_id": "PTEJOCys",
   "name": "Page Footer",
   "type": "element",
   "value": "pf",
   "prevent_delete": true,
   "cascades": false,
   "collapseStatus": "expand",
-  "parent": "2eNt4Idk",
-  "unique_id": "PTEJOCys"
+  "parent": "2eNt4Idk"
 }

@@ -1,7 +1,7 @@
 {
+  "unique_id": "TFh2fG2o",
   "path": "typography.tpl",
   "completePath": "elements/Material-UI/typography.tpl",
-  "unique_id": "TFh2fG2o",
   "icon": "ico-typography",
   "helpText": "Renders different typographic html elements",
   "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",

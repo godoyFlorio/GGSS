@@ -1,4 +1,5 @@
 {
+  "unique_id": "dgLOG6Cx",
   "name": "Telefono fijo",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "kDowLAWA",
-  "unique_id": "dgLOG6Cx",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

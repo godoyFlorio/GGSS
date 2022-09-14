@@ -1,10 +1,10 @@
 {
+  "unique_id": "mkSPirFC",
   "name": "Page Footer",
   "type": "element",
   "value": "pf",
   "prevent_delete": true,
   "cascades": false,
   "collapseStatus": "expand",
-  "parent": "VeSnxeyc",
-  "unique_id": "mkSPirFC"
+  "parent": "VeSnxeyc"
 }

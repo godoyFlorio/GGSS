@@ -1,4 +1,5 @@
 {
+  "unique_id": "70BEw12V",
   "name": "Observaciones",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "uVdWSXhq",
-  "unique_id": "70BEw12V",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

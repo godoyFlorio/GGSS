@@ -1,10 +1,10 @@
 {
+  "unique_id": "GqKS4COd",
   "name": "Page Footer",
   "type": "element",
   "value": "pf",
   "prevent_delete": true,
   "cascades": false,
   "collapseStatus": "expand",
-  "parent": "lglbZiB3",
-  "unique_id": "GqKS4COd"
+  "parent": "lglbZiB3"
 }

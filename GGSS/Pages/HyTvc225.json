@@ -1,4 +1,5 @@
 {
+  "unique_id": "HyTvc225",
   "name": "Table Area",
   "prevent_delete": false,
   "cascades": false,
@@ -8,6 +9,5 @@
   "values": {
     "class": "classes.tableResponsive"
   },
-  "parent": "JOoSIG9l",
-  "unique_id": "HyTvc225"
+  "parent": "JOoSIG9l"
 }

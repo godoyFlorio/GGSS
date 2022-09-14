@@ -1,4 +1,5 @@
 {
+  "unique_id": "U421I8eh",
   "name": "Container",
   "prevent_delete": false,
   "cascades": false,
@@ -8,6 +9,5 @@
   "values": {
     "maxWidth": "lg"
   },
-  "parent": "OyWg036N",
-  "unique_id": "U421I8eh"
+  "parent": "OyWg036N"
 }

@@ -1,10 +1,10 @@
 {
+  "unique_id": "dLro2mTQ",
   "name": "Before Page Render",
   "type": "element",
   "value": "bpr",
   "prevent_delete": true,
   "cascades": false,
   "collapseStatus": "collapse",
-  "parent": "77JD8Uk3",
-  "unique_id": "dLro2mTQ"
+  "parent": "77JD8Uk3"
 }

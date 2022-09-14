@@ -1,4 +1,5 @@
 {
+  "unique_id": "VETiyf6z",
   "name": "Crud Bar Choferes",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "SrKl3Oxb",
-  "unique_id": "VETiyf6z",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

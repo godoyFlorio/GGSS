@@ -1,4 +1,5 @@
 {
+  "unique_id": "ezBEE6s1",
   "name": "Listar",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "dBFVwoGx",
-  "unique_id": "ezBEE6s1",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

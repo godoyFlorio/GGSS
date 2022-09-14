@@ -1,4 +1,5 @@
 {
+  "unique_id": "4RMpO8Se",
   "name": "Barrio",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "zitXdUTm",
-  "unique_id": "4RMpO8Se",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

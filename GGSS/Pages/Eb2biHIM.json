@@ -1,4 +1,5 @@
 {
+  "unique_id": "Eb2biHIM",
   "name": "div",
   "prevent_delete": false,
   "cascades": false,
@@ -8,6 +9,5 @@
   "values": {
     "class": "theme.mainarea"
   },
-  "parent": "gT91vFxo",
-  "unique_id": "Eb2biHIM"
+  "parent": "gT91vFxo"
 }

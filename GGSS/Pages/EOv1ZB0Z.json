@@ -1,4 +1,5 @@
 {
+  "unique_id": "EOv1ZB0Z",
   "name": "Title Section",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "upcGyBUa",
-  "unique_id": "EOv1ZB0Z",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

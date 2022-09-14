@@ -1,4 +1,5 @@
 {
+  "unique_id": "pLoBfqTF",
   "name": "searchField",
   "prevent_delete": false,
   "cascades": false,
@@ -8,6 +9,5 @@
   "values": {
     "table": "qxE2mNuF"
   },
-  "parent": "zz7feqax",
-  "unique_id": "pLoBfqTF"
+  "parent": "zz7feqax"
 }

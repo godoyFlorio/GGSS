@@ -1,4 +1,5 @@
 {
+  "unique_id": "LBWkQpGD",
   "name": "Container",
   "prevent_delete": false,
   "cascades": false,
@@ -8,6 +9,5 @@
   "values": {
     "maxWidth": "lg"
   },
-  "parent": "Fnmg5t2l",
-  "unique_id": "LBWkQpGD"
+  "parent": "Fnmg5t2l"
 }

@@ -1,4 +1,5 @@
 {
+  "unique_id": "haT6mfC6",
   "name": "Modificar",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "DoFTilTk",
-  "unique_id": "haT6mfC6",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

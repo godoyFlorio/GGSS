@@ -1,4 +1,5 @@
 {
+  "unique_id": "B6atp7vE",
   "name": "text",
   "value": "text",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "text.tpl",
   "parent": "igGxkCmG",
-  "unique_id": "B6atp7vE",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

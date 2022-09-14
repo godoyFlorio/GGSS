@@ -1,4 +1,5 @@
 {
+  "unique_id": "6wwKEOfA",
   "name": "text",
   "prevent_delete": false,
   "cascades": false,
@@ -8,6 +9,5 @@
   "values": {
     "Content": "() => { return aptugo.store.getState().application.tables.find(table => table.unique_id === \"AEa7Hx4O\").singleName + \" list\" }"
   },
-  "parent": "xtsmmJ9W",
-  "unique_id": "6wwKEOfA"
+  "parent": "xtsmmJ9W"
 }

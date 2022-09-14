@@ -1,4 +1,5 @@
 {
+  "unique_id": "n9p1notb",
   "name": "Telefono fijo",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "VhEKOxUf",
-  "unique_id": "n9p1notb",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

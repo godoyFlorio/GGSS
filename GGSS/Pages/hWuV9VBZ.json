@@ -1,4 +1,5 @@
 {
+  "unique_id": "hWuV9VBZ",
   "name": "Body",
   "value": "b",
   "values": {
@@ -9,7 +10,6 @@
     ]
   },
   "path": "b.tpl",
-  "unique_id": "hWuV9VBZ",
   "prevent_delete": false,
   "cascades": false,
   "type": "element",

@@ -1,4 +1,5 @@
 {
+  "unique_id": "dczqHVCo",
   "name": "Title",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "EOv1ZB0Z",
-  "unique_id": "dczqHVCo",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

@@ -1,4 +1,5 @@
 {
+  "unique_id": "1ZzO4ydc",
   "name": "CheckBox",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "MMKS4Ekk",
-  "unique_id": "1ZzO4ydc",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

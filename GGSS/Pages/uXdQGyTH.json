@@ -1,4 +1,5 @@
 {
+  "unique_id": "uXdQGyTH",
   "name": "div",
   "prevent_delete": false,
   "cascades": false,
@@ -8,6 +9,5 @@
   "values": {
     "class": "theme.mainarea"
   },
-  "parent": "9PmF9l8z",
-  "unique_id": "uXdQGyTH"
+  "parent": "9PmF9l8z"
 }

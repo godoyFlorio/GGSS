@@ -1,4 +1,5 @@
 {
+  "unique_id": "KniM3rFe",
   "name": "div",
   "prevent_delete": false,
   "cascades": false,
@@ -8,6 +9,5 @@
   "values": {
     "class": "theme.mainarea"
   },
-  "parent": "XcGackAt",
-  "unique_id": "KniM3rFe"
+  "parent": "XcGackAt"
 }

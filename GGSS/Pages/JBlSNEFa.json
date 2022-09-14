@@ -1,10 +1,10 @@
 {
+  "unique_id": "JBlSNEFa",
   "name": "Before Page Render",
   "type": "element",
   "value": "bpr",
   "prevent_delete": true,
   "cascades": false,
   "collapseStatus": "collapse",
-  "parent": "DF0zbz8u",
-  "unique_id": "JBlSNEFa"
+  "parent": "DF0zbz8u"
 }

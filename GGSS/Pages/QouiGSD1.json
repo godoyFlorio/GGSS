@@ -1,4 +1,5 @@
 {
+  "unique_id": "QouiGSD1",
   "name": "text",
   "value": "text",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "text.tpl",
   "parent": "LaDGfc3a",
-  "unique_id": "QouiGSD1",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

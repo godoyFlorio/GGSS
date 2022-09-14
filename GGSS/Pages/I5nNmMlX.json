@@ -1,8 +1,8 @@
 {
+  "unique_id": "I5nNmMlX",
   "path": "bpr.tpl",
   "completePath": "elements\\Aptugo Internal Use\\bpr.tpl",
   "type": "element",
-  "unique_id": "I5nNmMlX",
   "icon": "ico-field",
   "sourceType": "javascript",
   "internalUse": true,

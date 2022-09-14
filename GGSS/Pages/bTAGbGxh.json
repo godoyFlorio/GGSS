@@ -1,8 +1,8 @@
 {
-  "unique_id": "bTAGbGxh",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
   "type": "element",
+  "unique_id": "bTAGbGxh",
   "icon": "ico-div",
   "sourceType": "javascript",
   "options": [

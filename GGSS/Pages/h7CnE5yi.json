@@ -1,4 +1,5 @@
 {
+  "unique_id": "h7CnE5yi",
   "name": "Main Section",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "gA5dWNe6",
-  "unique_id": "h7CnE5yi",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"

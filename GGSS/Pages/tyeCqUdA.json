@@ -1,4 +1,5 @@
 {
+  "unique_id": "tyeCqUdA",
   "name": "Center Section Up",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "koQIWZLS",
-  "unique_id": "tyeCqUdA",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand"
