@@ -19,6 +19,18 @@
     width: $width;
     height: $height;
 }
+@mixin img (
+    $margin-left: 14px,
+    $width: 13px,
+    $height: 13px,
+    $margin-top: 13.5px,
+) {
+    margin-left: $margin-left;
+    width: $width;
+    height: $height;
+    margin-top: $margin-top;
+
+}
 @mixin buttonCancelar (
     $margin-top: 2px,
     $font-family: 'Poppins',
@@ -44,261 +56,68 @@
     color: $color;
     text-transform: $text-transform;
 }
+
+@mixin mainABMTitle (
+    $display: flex,
+    $justify-content: space-between,
+    $width: 1326px,
+    $height: 29px,
+    $left: 250px,
+    $margin-bottom: 20px
+) {
+    display: $display;
+    justify-content: $justify-content;
+    width: $width;
+    height: $height;
+    left: $left;
+    margin-bottom: $margin-bottom;
+}
+
+@mixin h4 (
+    $font-family: 'Poppins',
+    $font-style: normal,
+    $font-weight: 400,
+    $font-size: 20px,
+    $line-height: 36px,
+    $color: #003C70,
+){
+    font-family: $font-family;
+    font-style: $font-style;
+    font-weight: $font-weight;
+    font-size: $font-size;
+    line-height: $line-height;
+    color: $color;
+}
+
+@mixin h6 (
+    $font-family: 'Poppins',
+    $font-style: normal,
+    $font-weight: 400px,
+    $font-size: 16px,
+    $line-height: 24px,
+    $color: #4A5A68,
+)
+{
+    font-family: $font-family;
+    font-style: $font-style;
+    font-weight: $font-weight;
+    font-size: $font-size;
+    line-height: $line-height;
+    color: $color;
+} 
+
+
+
+
 // Global Settings // 
 :global #app{
     background: white;
     font-family: 'Poppins';
 }
 
-// Login //
-.loginpage{
-    .mainBackground{
-        width: 100%;
-        position: absolute;
-    }
-    .mainContainer{
-        .boxDiv{
-            width: 539px;
-            height: 669px;
-            background: #FFFFFF;
-            border-radius: 10px;
-            position: absolute;
-            margin-left: 325px;
-            margin-top: 150px;
-        
-            .appLogo{
-                picture{
-                    img{
-                        width: 150px;
-                        height: 41px;
-                        margin-left: auto;
-                        margin-right: auto;
-                        margin-top: 52px;
-                    }
-                }
-            }
-            .loginBox{
-                margin-left: auto;
-                margin-right: auto;
-                width: 392px;
-                margin-top: 63px;
-                .loginText{
-                    text-align: center;
-                    font-family: 'Poppins';
-                    font-style: normal;
-                    font-weight: 400;
-                    font-size: 24px;
-                    line-height: 29px;
-                    color: #003C70;
-                    margin-bottom: 85px;
-                }
-                button{
-                    background: #FA6100;
-                    border-radius: 40px;
-                    width: 190px;
-                    height: 40px;
-                    font-family: 'Inter';
-                    font-style: normal;
-                    font-weight: 700;
-                    font-size: 14px;
-                    line-height: 17px;
-                    text-align: center;
-                    color: #FAF9F9;
-                    margin-left: 100px;
-                    margin-bottom: 26px;
-                }
-                .forgot{
-                    font-family: 'Poppins';
-                    font-style: normal;
-                    font-weight: 400;
-                    font-size: 13px;
-                    line-height: 20px;
-                    text-align: center;
-                    color: #131720;
-                }
-                .fieldTitle{
-                    font-family: 'Helvetica Neue';
-                    font-style: normal;
-                    font-weight: 400;
-                    font-size: 12px;
-                    line-height: 14px;
-                    color: #003C70;
-                }
-                & :global(.MuiOutlinedInput-root){
-                    background-color: #FAF9F9;
-                    border-radius: 10px;
-                    height: 40px;
-                    margin-bottom: 42px;
-                }
-                & :global(.MuiInputLabel-root){
-                    font-family: 'Helvetica Neue';
-                    font-style: normal;
-                    font-weight: 400;
-                    font-size: 14px;
-                    line-height: 17px;
-                    color: #4A5A68;
-                }
-            }
-        }
-    }
-} 
-// Mainmenu // 
-.mainmenu{
-    .mainBackground{
-        width: 100%;
-        position: absolute;
-        picture{
-            img{
-                width: 100%;
-            }
-        }
-
-        .mainMask {
-            position: absolute;
-            background: #4A5A68;
-            width: 100%;
-            mix-blend-mode: multiply;
-            
-            picture {
-                img {
-                    mix-blend-mode: multiply;
-                }
-            }
-        }
-        .mainContainer{
-            margin-top: -1135px;
-            .divTitle{
-                .containerTitle{
-                    display: flex;
-                    margin-top: 120px;
-                    position: absolute;
-                }
-                .modulosText{
-                    margin-left: 30px;
-                    font-family: 'Poppins';
-                    font-style: normal;
-                    font-weight: 400;
-                    font-size: 24px;
-                    line-height: 29px;
-                    color: #E2E8ED;
-                }
-                .cuentaText{
-                    margin-left: 545px;
-                    font-family: 'Poppins';
-                    font-style: normal;
-                    font-weight: 400;
-                    font-size: 15px;
-                    line-height: 22px;
-                    text-align: center;
-                    color: #AEAFAF;
-                }
-            }
-            .divCenter{
-                .centerContainer{
-                    .centerGrid{
-                        justify-content: flex-start;
-                        margin-top: 224px;
-                        position: absolute;
-                        display: flex;
-                        gap: 25px;
-                        width: 50%;
-                        .tallerDiv{
-                            .tallerImg{
-                                .moduloNombre{
-                                    position: absolute;
-                                    margin-top: -152px;
-                                    margin-left: 81px;
-                                    font-family: 'Poppins';
-                                    font-style: normal;
-                                    font-weight: 400;
-                                    font-size: 24px;
-                                    line-height: 29px;
-                                    text-align: center;
-                                    color: #4A5A68;
-                                }
-
-                                .moduloNombrestock{
-                                    position: absolute;
-                                    margin-top: -152px;
-                                    margin-left: 101px;
-                                    font-family: 'Poppins';
-                                    font-style: normal;
-                                    font-weight: 400;
-                                    font-size: 24px;
-                                    line-height: 29px;
-                                    text-align: center;
-                                    color: #003C70;
-                                }
-                                .moduloNombremantenimiento{
-                                    position: absolute;
-                                    margin-top: -152px;
-                                    margin-left: 46px;
-                                    font-family: 'Poppins';
-                                    font-style: normal;
-                                    font-weight: 400;
-                                    font-size: 24px;
-                                    line-height: 29px;
-                                    text-align: center;
-                                    color: #4A5A68;
-                                }
-                                .moduloNombreneumaticos{
-                                    position: absolute;
-                                    margin-top: -152px;
-                                    margin-left: 63px;
-                                    font-family: 'Poppins';
-                                    font-style: normal;
-                                    font-weight: 400;
-                                    font-size: 24px;
-                                    line-height: 29px;
-                                    text-align: center;
-                                    color: #003C70;
-                                }
-                                .moduloNombresoporte{
-                                    position: absolute;
-                                    margin-top: -152px;
-                                    margin-left: 31px;
-                                    font-family: 'Poppins';
-                                    font-style: normal;
-                                    font-weight: 400;
-                                    font-size: 24px;
-                                    line-height: 29px;
-                                    text-align: center;
-                                    color: #FFFFFF;
-                                }
-
-                                .moduloNombretaller{
-                                    position: absolute;
-                                    margin-top: -152px;
-                                    margin-left: 98px;
-                                    font-family: 'Poppins';
-                                    font-style: normal;
-                                    font-weight: 400;
-                                    font-size: 24px;
-                                    line-height: 29px;
-                                    text-align: center;
-                                    color: #003C70;
-                                }
-                            }
-                            .mask{
-                                position: absolute;
-
-                                picture{
-                                    img{
-                                        width: 263px;
-                                    }
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-        }
-    }
-}
-
 // Clases Globales // 
     // General //
-        .inputTitle{
+       .inputTitle{
             width: 246px;
             font-family: 'Poppins';
             font-style: normal;
@@ -325,7 +144,6 @@
                 display: none;
             }
         }
-
         .unidadInputs{
             width: 270px;
             font-family: 'Poppins';
@@ -418,9 +236,7 @@
             }
             [class*='css-1ra8cd2']::after {
                 border-bottom: none;
-            }
-
-           
+            } 
         }
         .obsInputs {
             width: 647px;
@@ -560,214 +376,13 @@
             }
         }
 
-    .accesoDirecto{
-    .directosContainer{
-        margin-left: 241px;
-        display: flex;
-        background: #FAF9F9;
-        gap: 15px;
-        height: 46px;
-        width: 100%;
-        border: 1px solid #E2E8ED;
-        margin-top: 23px;
-        .directosText{
-            display: flex;
-            gap: 10px;
-            margin-top: auto;
-            margin-left: 24px;
-            margin-bottom: auto;
-            picture {
-                img {
-                    margin-top: 2.5px;
-                }
-            }
-            .accesosText{
-                font-family: 'Poppins';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 13px;
-                line-height: 20px;
-                color: #4A5A68;
-            }
-        }
-        .registrabajoButton{
-            margin-top: auto;
-            margin-bottom: auto;
-            button{
-                box-shadow: 0px 0px 0px;
-                box-sizing: border-box;
-                background: #FFFFFF;
-                border: 1px solid #E2E8ED;
-                border-radius: 5px;
-                width: 260.34000000000003px;
-                height: 31px;
-                font-family: 'Poppins';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 13px;
-                line-height: 20px;
-                text-align: center;
-                text-transform:initial;
-                color: #4A5A68;
-            } 
-        }
-        .aperturaButton{
-            margin-top: auto;
-            margin-bottom: auto;
-            button{
-                box-shadow: 0px 0px 0px;
-                box-sizing: border-box;
-                text-transform:initial;
-                background: #FFFFFF;
-                border: 1px solid #E2E8ED;
-                border-radius: 5px;
-                width: 386.34px;
-                height: 31px;
-                font-family: 'Poppins';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 13px;
-                line-height: 20px;
-                text-align: center;
-                color: #4A5A68;
-            }
-        }
-        .valoresButton{
-            margin-top: auto;
-            margin-bottom: auto;
-            button{
-                box-shadow: 0px 0px 0px;
-                box-sizing: border-box;
-                text-transform:initial;
-                background: #FFFFFF;
-                border: 1px solid #E2E8ED;
-                border-radius: 5px;
-                width: 184.33999999999997px;
-                height: 31px;
-                font-family: 'Poppins';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 13px;
-                line-height: 20px;
-                text-align: center;
-                color: #4A5A68;
-            }
-        }
-    }
-    }
-    .topButtons{
-        margin-left: -55px;
-    .topbuttonContainer{
-        margin-left: 1312px;
-        display: flex;
-        gap: 40px;
-        margin-top: 22px;
-
-        .modulosButton{
-            display: flex;
-            gap: 15px;
-
-            .topbuttonModulostext{
-                font-family: 'Poppins';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 15px;
-                line-height: 22px;
-                text-align: center;
-                color: #003C70;
-            }
-        }
-
-        .topbuttonMicuenta{
-            font-family: 'Poppins';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 15px;
-            line-height: 22px;
-            text-align: center;
-            color: #003C70;
-        }
-    }
-    }
-
-    .topSection{
-    display: flex;
-    margin-left: 269px;
-    margin-top: 24px;
-    gap: 623px;
-
-    .apertureTitle{
-        font-family: 'Poppins';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 24px;
-        line-height: 29px;
-        color: #003C70;
-    }
-
-    .accesoCheckbox{
-        display: flex;
-        gap: 15px;
-
-        .checkText{
-            font-family: 'Poppins';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 16px;
-            line-height: 24px;
-            color: #4A5A68;
-        }
-    }
-    }
-
-    // Global Footer //
-    .footerContainer{
-        display: flex;
-        gap: 15px;
-        height: 46px;
-        width: 100%;
-        margin-left: 231px;
-        margin-bottom: 36px;
-        .copy{
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            gap: 10px;
-            //width: 1200px;
-            height: 85px;
-            margin-left: 345px;
-            box-shadow:  0px -1px #E2E8ED  ;
-            font-family: 'Poppins';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 14px;
-            line-height: 21px;
-            color: #4A5A68;
-        }
-    }
     .mainABMTitle{
-        display: flex;
-        justify-content: space-between;
-        width: 1326px;
-        height: 29px;
-        left: 250px;
-        margin-bottom: 20px;
+       @include mainABMTitle();
                 h4{
-                    font-family: 'Poppins';
-                    font-style: normal;
-                    font-weight: 400;
-                    font-size: 20px;
-                    line-height: 36px;
-                    color: #003C70;
+                    @include h4 ();
                 }
-    
                 h6{
-                    font-family: 'Poppins';
-                    font-style: normal;
-                    font-weight: 400px;
-                    font-size: 16px;
-                    line-height: 24px;
-                    color: #4A5A68;
+                    @include h6 ();
                 }
     }
 
@@ -4072,38 +3687,11 @@ h4{
             .choferButtons {
                 display: flex;
                 margin-top: 24px;
-                @include choferButtonCancelar () 
-                {
-                   /*  display: flex;
-                    margin-right: 24px;
-                    background: #FFFFFF;
-                    border: 1px solid #C3CBD1;
-                    border-radius: 40px;
-                    width: 121px;
-                    height: 40px; */
+                @include choferButtonCancelar ();
                     picture {
-                        img {
-                            margin-left: 14px;
-                            width: 13px;
-                            height: 13px;
-                            margin-top: 13.5px;
-                        }
+                        @include img();
                     }
                     @include buttonCancelar( $text-transform: initial); 
-                    
-                   /*  {
-                        margin-top: 2px;
-                        font-family: 'Poppins';
-                        font-style: normal;
-                        font-weight: 600;
-                        font-size: 14px;
-                        line-height: 21px;
-                        display: flex;
-                        align-items: center;
-                        text-align: right;
-                        color: #003C70;
-                        text-transform: capitalize;
-                    } */
                 }
                 .choferButtonAceptar {
                     display: flex;
@@ -4292,7 +3880,7 @@ h4{
         }
     }
     
-}
+//}
 
 // --------- Tareas --------- 
 
