@@ -1,9 +1,9 @@
 {
-  "unique_id": "T2TiUbs8",
   "path": "checkbox.tpl",
-  "completePath": "C:\\Users\\Ines\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\checkbox.tpl",
+  "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\checkbox.tpl",
   "keyPath": "elements\\Material-UI\\checkbox.tpl",
   "type": "element",
+  "unique_id": "KcRM8lIZ",
   "icon": "ico-check-box",
   "options": [
     {
@@ -44,10 +44,10 @@
   "name": "checkbox",
   "prevent_delete": false,
   "cascades": false,
-  "parent": "XbNbxMNR",
+  "parent": "fv5ylwyT",
   "value": "checkbox",
   "values": {
-    "Checked": "{usName}"
+    "Checked": "false"
   },
   "collapseStatus": "expand",
   "errored": false
