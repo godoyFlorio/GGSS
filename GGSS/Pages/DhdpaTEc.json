@@ -1,7 +1,8 @@
 {
-  "unique_id": "DhdpaTEc",
   "path": "apr.tpl",
   "completePath": "elements/Aptugo Internal Use/apr.tpl",
+  "keyPath": "elements\\Aptugo Internal Use\\apr.tpl",
+  "unique_id": "DhdpaTEc",
   "icon": "ico-field",
   "helpText": "After Page Render",
   "name": "After Page Render",

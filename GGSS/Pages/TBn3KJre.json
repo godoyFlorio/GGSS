@@ -1,8 +1,9 @@
 {
-  "unique_id": "TBn3KJre",
   "path": "uncontrolledInput.tpl",
   "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "keyPath": "elements\\Material-UI\\uncontrolledInput.tpl",
   "type": "element",
+  "unique_id": "TBn3KJre",
   "icon": "ico-uncontrolled-input",
   "sourceType": "javascript",
   "options": [
@@ -69,10 +70,12 @@
   "name": "uncontrolledInput",
   "prevent_delete": false,
   "cascades": false,
-  "parent": "TdLNVMUN",
+  "parent": "6EUeNyIn",
   "value": "uncontrolledInput",
   "values": {
-    "fieldname": "usName"
+    "fieldname": "usName",
+    "variant": "standard",
+    "label": ""
   },
   "collapseStatus": "expand",
   "errored": false

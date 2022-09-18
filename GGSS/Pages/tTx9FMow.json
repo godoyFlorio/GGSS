@@ -1,0 +1,72 @@
+{
+  "path": "div.tpl",
+  "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Basic\\div.tpl",
+  "keyPath": "elements\\Basic\\div.tpl",
+  "type": "element",
+  "unique_id": "tTx9FMow",
+  "icon": "ico-div",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "class",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    },
+    {
+      "name": "useid",
+      "display": "Use UniqueID as ID",
+      "type": "checkbox",
+      "options": ""
+    },
+    {
+      "name": "id",
+      "display": "ID",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "style",
+      "display": "Extra Styles",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ref",
+      "display": "Use Reference",
+      "type": "text",
+      "options": "",
+      "advanced": true
+    },
+    {
+      "name": "onclick",
+      "display": "On Click",
+      "type": "function",
+      "options": "",
+      "advanced": true
+    },
+    {
+      "name": "tag",
+      "display": "Use a different HTML element",
+      "type": "text",
+      "options": "",
+      "settings": {
+        "default": "div",
+        "active": true
+      },
+      "advanced": true
+    }
+  ],
+  "helpText": "Basic HTML Div element",
+  "name": "uncontrolledInput",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.uncontrolledInput"
+  },
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "eeF7ecRR",
+  "collapseStatus": "expand",
+  "errored": false
+}

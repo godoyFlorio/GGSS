@@ -1,8 +1,9 @@
 {
-  "unique_id": "1ewGLRPU",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
+  "keyPath": "elements\\Basic\\div.tpl",
   "type": "element",
+  "unique_id": "1ewGLRPU",
   "icon": "ico-div",
   "sourceType": "javascript",
   "options": [
@@ -47,7 +48,7 @@
   "name": "CheckBox",
   "value": "div",
   "values": {
-    "class": "theme.checkboxChoferes"
+    "class": "theme.checkboxRegistros"
   },
   "parent": "53tIWvii",
   "prevent_delete": false,

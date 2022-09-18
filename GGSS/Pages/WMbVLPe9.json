@@ -1,7 +1,8 @@
 {
-  "unique_id": "WMbVLPe9",
   "path": "image.tpl",
   "completePath": "elements/Material-UI/image.tpl",
+  "keyPath": "elements\\Material-UI\\image.tpl",
+  "unique_id": "WMbVLPe9",
   "icon": "ico-image",
   "helpText": "Easily use images from Assets or the web",
   "options": [
@@ -56,7 +57,7 @@
   "name": "image",
   "value": "image",
   "values": {
-    "useAsset": "P2O1EQAE"
+    "useAsset": "8Dq4uMo6"
   },
   "type": "element",
   "parent": "ThOd54GB",

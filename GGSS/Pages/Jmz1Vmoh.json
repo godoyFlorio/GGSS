@@ -1,8 +1,9 @@
 {
-  "unique_id": "Jmz1Vmoh",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
+  "keyPath": "elements\\Basic\\div.tpl",
   "type": "element",
+  "unique_id": "Jmz1Vmoh",
   "icon": "ico-div",
   "sourceType": "javascript",
   "options": [
@@ -47,7 +48,7 @@
   "name": "CheckBox",
   "value": "div",
   "values": {
-    "class": "theme.checkboxChoferes"
+    "class": "theme.checkboxRegistros"
   },
   "parent": "XVv6seiG",
   "prevent_delete": false,

@@ -1,7 +1,8 @@
 {
-  "unique_id": "v4ecgsv4",
   "path": "typography.tpl",
   "completePath": "elements/Material-UI/typography.tpl",
+  "keyPath": "elements\\Material-UI\\typography.tpl",
+  "unique_id": "v4ecgsv4",
   "icon": "ico-typography",
   "helpText": "Renders different typographic html elements",
   "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",

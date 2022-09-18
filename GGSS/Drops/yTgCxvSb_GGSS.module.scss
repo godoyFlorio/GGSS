@@ -5,6 +5,7 @@
 @mixin registrosButtonCancelar (
     $display: flex,
     $margin-right: 24px,
+    $margin-top: 0px,
     $background: #FFFFFF,
     $border: 1px solid #C3CBD1,
     $border-radius: 40px,
@@ -12,7 +13,8 @@
     $height: 40px,
 ){
     display: $display;
-    margin-top: $margin-right;
+    margin-right: $margin-right;
+    margin-top: $margin-top;
     background: $background;
     border: $border;
     border-radius: $border-radius;
@@ -32,7 +34,7 @@
 
 }
 @mixin buttonCancelar (
-    $margin-top: 2px,
+    $margin-top: 0px,
     $font-family: 'Poppins',
     $font-style: normal,
     $font-weight: 600,
@@ -82,6 +84,7 @@
     $font-size: 20px,
     $line-height: 36px,
     $color: #003C70,
+    $margin-bottom: 0px
 ){
     font-family: $font-family;
     font-style: $font-style;
@@ -89,6 +92,7 @@
     font-size: $font-size;
     line-height: $line-height;
     color: $color;
+    margin-bottom: $margin-bottom;
 }
 
 @mixin h6 (
@@ -110,7 +114,7 @@
 
 @mixin listarCrud(
     $margin-right: 24px,
-    $width: 89px,
+    $width: auto,
     $height: 40px,
     $display: flex,
     $background: #FFFFFF,
@@ -124,6 +128,36 @@
     background: $background;
     border: $border;
     border-radius: $border-radius; 
+}
+@mixin uncontrolledInput (
+    //$margin-top: -20px,
+    $margin-left: 20px,
+    $border-bottom: none,
+    $height: 20px,
+    $background: #FAF9F9,
+    $border-radius: 10px,
+    $border-width: 0px,
+    $font-family: 'Helvetica Neue',
+    $font-style: normal,
+    $font-weight: 400,
+    $font-size: 14px,
+    $line-height: 17px,
+    $color: #C3CBD1,
+
+){
+    //margin-top: $margin-top;
+    margin-left: $margin-left;
+    border-bottom: $border-bottom;
+    height: $height;
+    background: $background;
+    border-radius: $border-radius;
+    border-width: $border-width;
+    font-family: $font-family;
+    font-style: $font-style;
+    font-weight: $font-weight;
+    font-size: $font-size;
+    line-height: $line-height;
+    color: $color;
 }
 
 // Global Settings // 
@@ -141,118 +175,63 @@
             font-size: 16px;
             line-height: 24px;
             color: #003C70;
-    
-            [class*='css-o943dk']{
-                display: none;
-            }
-            [class*='css-yk16xz']{
-                background: #FAF9F9;
-                border-radius: 10px;
-                border-width: 0px;
-                font-family: 'Helvetica Neue';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 14px;
-                line-height: 17px;
-                color: #4A5A68;
-            }
-            [class*='css-1okebmr']{
-                display: none;
-            }
+
         }
         .unidadInputs{
-            width: 270px;
+            margin-top: -20px;
+            display: flex;
+            width: auto;
             font-family: 'Poppins';
             font-style: normal;
             font-weight: 400;
             font-size: 16px;
             line-height: 24px;
             color: #003C70;
-            margin-top: 24px;
+            margin-top: 22px;
+            .uncontrolledInput{
+                margin-left: 10px;
+                margin-top: -4px;
+                color: #FAF9F9;
             
-            div > label {
-                color: #C3CBD1;
-            }
+                & :global(.MuiOutlinedInput-root){
+                    margin-top: -20px;
+                    background-color: #FAF9F9;
+                    border-radius: 10px;
+                    height: 40px;
+                    margin-bottom: 42px;
+                    color: #FA6100;
+                }
+                & :global(.MuiInputLabel-root){
+                    margin-top: -20px;
+                    font-family: 'Poppins';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 14px;
+                    line-height: 17px;
+                    color: #e51313;
+                }
+                & :global(.MuiInput-root){
+                    font-family: "Roboto","Helvetica","Arial",sans-serif;
+                    font-weight: 400;
+                    font-size: 1rem;
+                    line-height: 1.4375em;
+                    letter-spacing: 0.00938em;
+                    color: #0b0070;
+                    box-sizing: border-box;
+                    position: relative;
+                    cursor: text;
+                    display: -webkit-inline-box;
+                    display: -webkit-inline-flex;
+                    display: -ms-inline-flexbox;
+                    display: inline-flex;
+                    -webkit-align-items: center;
+                    -webkit-box-align: center;
+                    -ms-flex-align: center;
+                    align-items: center;
+                    position: relative;
+                }
+        }
 
-            [class*='css-1t8l2tu'] {
-                height: 20px;
-            }
-
-            [class*='css-10botns'] {
-                height: 20px;
-            }
-    
-            [class*='css-o943dk']{
-                display: none;
-            }
-
-            [class*='css-1d3z3hw'] {
-                background: #FAF9F9;
-                border-radius: 10px;
-                border-width: 0px;
-                font-family: 'Helvetica Neue';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 14px;
-                line-height: 17px;
-                color: #C3CBD1;
-            }
-
-            [class*='css-yk16xz']{
-                background: #FAF9F9;
-                border-radius: 10px;
-                border-width: 0px;
-                font-family: 'Helvetica Neue';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 14px;
-                line-height: 17px;
-                color: #4A5A68;
-            }
-            [class*='css-gjbq6i']{
-                background: #FAF9F9;
-                border-radius: 10px;
-                border-width: 0px;
-                font-family: 'Helvetica Neue';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 14px;
-                line-height: 17px;
-                color: #4A5A68;
-            }
-            [class*='css-gjbq6i-MuiInputBase-root-MuiFilledInput-root']::before{
-                border-bottom: none;
-            }
-            [class*='css-gjbq6i-MuiInputBase-root-MuiFilledInput-root']::after{
-                border-bottom: none;
-            }
-            [class*='css-gjbq6i-MuiInputBase-root-MuiFilledInput-root']:hover{
-                background: #FAF9F9;
-                border-radius: 10px;
-                border-width: 0px;
-                font-family: 'Helvetica Neue';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 14px;
-                line-height: 17px;
-                color: #4A5A68;
-                border-bottom: none;
-            }
-            [class*='css-1okebmr']{
-                display: none;
-            }
-            [class*='css-1ra8cd2'] {
-                background: #FAF9F9;
-                border-radius: 10px;
-                width: 643px;
-                height: 75px;
-            }
-            [class*='css-1ra8cd2']::before {
-                border-bottom: none;
-            }
-            [class*='css-1ra8cd2']::after {
-                border-bottom: none;
-            } 
         }
         .obsInputs {
             width: 647px;
@@ -263,66 +242,8 @@
             line-height: 24px;
             color: #003C70;
             margin-top: 24px;
-            div > label {
-                color: #C3CBD1;
-            }
-            [class*='css-17vbkzs'] {
-                background: #FAF9F9;
-                border-radius: 10px;
-                border-width: 0px;
-                font-family: 'Helvetica Neue';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 14px;
-                line-height: 17px;
-                color: #4A5A68; 
-            }
-            [class*='css-17vbkzs']::after{
-                border-bottom: none;
-            }
-            [class*='css-17vbkzs']::after{
-                border-bottom: none;
-            }
-            [class*='css-10botns'] {
-                background: #FAF9F9;
-                border-radius: 10px;
-                border-width: 0px;
-                font-family: 'Helvetica Neue';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 14px;
-                line-height: 17px;
-                color: #4A5A68;   
-                height: 55px;  
-            }
-            [class*='css-10botns']::after { 
-                border-bottom: none;
-            }
-            
-            [class*='css-10botns']::before { 
-                border-bottom: none;
-            }
-            
-            [class*='css-gjbq6i'] {
-                background: #FAF9F9;
-                border-radius: 10px;
-                border-width: 0px;
-                font-family: 'Helvetica Neue';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 14px;
-                line-height: 17px;
-                color: #4A5A68;     
-            }
-            [class*='css-gjbq6i']::after {
-                border-bottom: none;
-            }
-            [class*='css-gjbq6i']::before {
-                border-bottom: none;
-            }
-            [class*='css-e4w4as'] {
-                color: #C3CBD1;
-            }
+
+          
         }
         .descriptionInputs {
             margin-top: 22px;
@@ -333,75 +254,21 @@
             font-size: 16px;
             line-height: 24px;
             color: #003C70;
-            div > label {
-                color: #C3CBD1;
-            }
-            [class*='css-17vbkzs'] {
-                background: #FAF9F9;
-                border-radius: 10px;
-                border-width: 0px;
-                font-family: 'Helvetica Neue';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 14px;
-                line-height: 17px;
-                color: #4A5A68;
-            }
-            [class*='css-17vbkzs']::after{
-                border-bottom: none;
-            }
-            [class*='css-17vbkzs']::after{
-                border-bottom: none;
-            }
-            [class*='css-10botns'] {
-                background: #FAF9F9;
-                border-radius: 10px;
-                border-width: 0px;
-                font-family: 'Helvetica Neue';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 14px;
-                line-height: 17px;
-                color: #4A5A68;   
-                height: 55px;  
-            }
-            [class*='css-10botns']::after { 
-                border-bottom: none;
-            }
-            
-            [class*='css-10botns']::before { 
-                border-bottom: none;
-            }
-            
-            [class*='css-gjbq6i'] {
-                background: #FAF9F9;
-                border-radius: 10px;
-                border-width: 0px;
-                font-family: 'Helvetica Neue';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 14px;
-                line-height: 17px;
-                color: #4A5A68;     
-            }
-            [class*='css-gjbq6i']::after {
-                border-bottom: none;
-            }
-            [class*='css-gjbq6i']::before {
-                border-bottom: none;
-            }
+
         }
         .mainABMTitle{
          @include mainABMTitle();
                 h4{
-                    @include h4 ();
+                    @include h4 (
+                        //$margin-bottom: 10px
+                    );
                 }
                 h6{
                     @include h6 ();
                 }
         }
 
-  // Menu Taller //
+  // Body //
 .ggss{
 .centerSection{
         .centerContainer{
@@ -428,7 +295,7 @@
                     }
                 }
             }
-// ------- choferes -------
+// ------- registros --------------
 .registros{
     .mainRegistros {
         display: flex;
@@ -453,40 +320,31 @@
 
         }
         .centerSection {
-            margin-top: 94px;
-            margin-left: 155px;
+            margin-top: 2px;
+            margin-left: 135px;
             .checkboxRegistros {
                 display: flex;
-                margin-left: 275px;
-                margin-top: -50px;
-                label {
-                    margin-left: 11px;
-                    margin-top: -11px;
-                    span {
-                        font-family: 'Poppins';
-                        font-style: normal;
-                        font-weight: 400;
-                        font-size: 13px;
-                        line-height: 20px;
-                        color: #003C70;
-                    }
-                }
+               
             }
+        }
             .registrosButtons {
                 display: flex;
                 margin-top: 24px;
-                @include registrosButtonCancelar ();
+                .registrosButtonCancelar{
+                    
+                    @include registrosButtonCancelar ();
                     picture {
-                        @include img();
+                        img {
+                            @include img();
+                        }
                     }
                     button {
                         @include buttonCancelar();
                     }
                 }
+                
                 .registrosButtonAceptar {
-                    @include registrosButtonCancelar(
-                        $margin-right:0px
-                    );
+                    @include registrosButtonCancelar();
                     picture {
                         img {
                             @include img();
@@ -568,9 +426,10 @@
                 border-radius: 40px;
                 button {
                     @include buttonCancelar( 
+                        $margin-top: 2px,
                         $color: #FFFFFF,
                         $text-align: center,
-                        $margin-left: 41px,
+                        $margin-left: 38px,
                         );
                 }
             }
