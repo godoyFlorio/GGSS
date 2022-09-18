@@ -1,9 +1,9 @@
 {
-  "unique_id": "zJ6rzlPw",
   "path": "text.tpl",
   "completePath": "elements\\Basic\\text.tpl",
   "keyPath": "elements\\Basic\\text.tpl",
   "type": "element",
+  "unique_id": "zJ6rzlPw",
   "icon": "ico-text",
   "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
   "sourceType": "javascript",

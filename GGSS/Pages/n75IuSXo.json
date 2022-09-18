@@ -1,9 +1,9 @@
 {
-  "unique_id": "n75IuSXo",
   "path": "div.tpl",
   "completePath": "C:\\Users\\Ines\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Basic\\div.tpl",
   "keyPath": "elements\\Basic\\div.tpl",
   "type": "element",
+  "unique_id": "n75IuSXo",
   "icon": "ico-div",
   "sourceType": "javascript",
   "options": [
@@ -66,6 +66,6 @@
   "parent": "Rn9qPB7e",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand",
+  "collapseStatus": "collapse",
   "errored": false
 }

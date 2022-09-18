@@ -1,8 +1,8 @@
 {
-  "unique_id": "T892ck0t",
   "path": "image.tpl",
   "completePath": "C:\\Users\\Ines\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\image.tpl",
   "keyPath": "elements\\Material-UI\\image.tpl",
+  "unique_id": "T892ck0t",
   "icon": "ico-image",
   "helpText": "Easily use images from Assets or the web",
   "options": [
