@@ -1,9 +1,9 @@
 {
-  "unique_id": "ixAnsU5t",
   "path": "div.tpl",
   "completePath": "C:\\Users\\Ines\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Basic\\div.tpl",
   "keyPath": "elements\\Basic\\div.tpl",
   "type": "element",
+  "unique_id": "uBnJwMHT",
   "icon": "ico-div",
   "sourceType": "javascript",
   "options": [
@@ -58,14 +58,15 @@
     }
   ],
   "helpText": "Basic HTML Div element",
-  "name": "Apellido y Nombre:",
-  "value": "div",
-  "values": {
-    "class": "theme.unidadInputs"
-  },
-  "parent": "wh09KH3s",
+  "name": "Tabla",
   "prevent_delete": false,
   "cascades": false,
+  "parent": "7yrrHkfc",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.espacioTablaFamilia"
+  },
   "collapseStatus": "expand",
   "errored": false
 }

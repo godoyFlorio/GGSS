@@ -1,9 +1,9 @@
 {
-  "unique_id": "VPBSI9PA",
   "path": "button.tpl",
   "completePath": "C:\\Users\\Ines\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\button.tpl",
   "keyPath": "elements\\Material-UI\\button.tpl",
   "type": "element",
+  "unique_id": "1Ta67z8t",
   "icon": "ico-button",
   "options": [
     {
@@ -65,15 +65,16 @@
     }
   ],
   "sourceType": "javascript",
-  "name": "button",
-  "value": "button",
-  "values": {
-    "ButtonText": "Eliminar",
-    "icon": "DeleteOutline"
-  },
-  "parent": "TIKrTzO7",
+  "name": "...",
   "prevent_delete": false,
   "cascades": false,
+  "parent": "8167pbU1",
+  "value": "button",
+  "values": {
+    "ButtonText": "...",
+    "Color": "primary",
+    "Variant": "outlined"
+  },
   "collapseStatus": "expand",
   "errored": false
 }

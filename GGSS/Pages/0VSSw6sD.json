@@ -66,6 +66,6 @@
   "parent": "enW3gpLp",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "collapse",
+  "collapseStatus": "expand",
   "errored": false
 }
