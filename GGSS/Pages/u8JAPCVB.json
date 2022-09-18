@@ -1,0 +1,16 @@
+{
+  "path": "accordionSummary.tpl",
+  "completePath": "C:\\Users\\Ines\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\Accordion\\accordionSummary.tpl",
+  "keyPath": "elements\\Material-UI\\Accordion\\accordionSummary.tpl",
+  "unique_id": "u8JAPCVB",
+  "icon": "f:accordionSummary.svg",
+  "name": "accordionSummary",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "F5cShhR2",
+  "value": "accordionSummary",
+  "values": {},
+  "collapseStatus": "expand",
+  "errored": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Apellido y Nombre:",
+  "value": "div",
+  "values": {
+    "class": "theme.titleChofer"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "P8O4iz4X",
+  "unique_id": "bf1yxSFi",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}
