@@ -62,7 +62,7 @@
   "value": "div",
   "values": {
     "tag": "div",
-    "class": "theme.unidadInputsFamilia"
+    "class": "theme.unidadInputsFamiliaSmall"
   },
   "parent": "ohDJXrs8",
   "prevent_delete": false,

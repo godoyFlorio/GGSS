@@ -162,6 +162,7 @@
         }
         .unidadInputs{
             width: auto;
+            height: 40px;
             font-family: 'Poppins';
             font-style: normal;
             font-weight: 400;
@@ -599,6 +600,9 @@
     margin-top: 100px;
     margin-left: 200px;
     display: flex;
+}
+.inputLeftFamilia{
+    margin-right: 20px;
 }
 
 .unidadInputsFamilia{
