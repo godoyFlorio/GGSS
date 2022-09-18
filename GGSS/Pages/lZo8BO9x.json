@@ -1,0 +1,55 @@
+{
+  "path": "IconButton.tpl",
+  "completePath": "C:\\Users\\Ines\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\IconButton.tpl",
+  "keyPath": "elements\\Material-UI\\IconButton.tpl",
+  "type": "element",
+  "unique_id": "lZo8BO9x",
+  "icon": "ico-icon-button",
+  "options": [
+    {
+      "name": "Action",
+      "display": "Action",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "Color",
+      "display": "Color",
+      "type": "dropdown",
+      "options": "default;inherit;primary;secondary;error;info;success;warning",
+      "settings": {
+        "default": "primary"
+      }
+    },
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    },
+    {
+      "name": "icon",
+      "display": "Icon",
+      "type": "dropdown",
+      "options": "None;AcUnit;Add;AddShoppingCart;CallMade;ChevronLeft;ChevronRight;HelpOutline;Home;Link;MoreVert;Search;Send;ShoppingBasket;ShoppingCart;SportsBasketball;AllInbox;Menu;DeleteOutline;Favorite;Clear;Google;Facebook;Twitter;Person;ThumbUp"
+    },
+    {
+      "name": "iconstyle",
+      "display": "Icon Style",
+      "type": "dropdown",
+      "options": "Filled;Outlined;Rounded;TwoTone;Sharp"
+    }
+  ],
+  "sourceType": "javascript",
+  "name": "delete",
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "T1GTgFHC",
+  "value": "IconButton",
+  "values": {
+    "Color": "error",
+    "icon": "Clear"
+  },
+  "collapseStatus": "expand",
+  "errored": false
+}

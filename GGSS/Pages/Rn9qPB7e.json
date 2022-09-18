@@ -67,6 +67,6 @@
   "prevent_delete": false,
   "cascades": false,
   "parent": "0907AfWR",
-  "collapseStatus": "expand",
+  "collapseStatus": "collapse",
   "errored": false
 }

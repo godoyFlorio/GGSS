@@ -66,6 +66,6 @@
   "parent": "wh09KH3s",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "collapse",
+  "collapseStatus": "expand",
   "errored": false
 }
