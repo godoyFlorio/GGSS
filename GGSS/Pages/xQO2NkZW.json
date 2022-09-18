@@ -1,0 +1,15 @@
+{
+  "name": "text",
+  "value": "text",
+  "values": {
+    "Content": "Apellido y Nombre:"
+  },
+  "type": "element",
+  "path": "text.tpl",
+  "parent": "bf1yxSFi",
+  "unique_id": "xQO2NkZW",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

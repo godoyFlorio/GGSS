@@ -2,6 +2,7 @@
   "unique_id": "TBn3KJre",
   "path": "uncontrolledInput.tpl",
   "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "keyPath": "elements\\Material-UI\\uncontrolledInput.tpl",
   "type": "element",
   "icon": "ico-uncontrolled-input",
   "sourceType": "javascript",

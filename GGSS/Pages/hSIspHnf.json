@@ -2,6 +2,7 @@
   "unique_id": "hSIspHnf",
   "path": "image.tpl",
   "completePath": "elements/Material-UI/image.tpl",
+  "keyPath": "elements\\Material-UI\\image.tpl",
   "icon": "ico-image",
   "helpText": "Easily use images from Assets or the web",
   "options": [

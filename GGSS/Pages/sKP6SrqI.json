@@ -2,6 +2,7 @@
   "unique_id": "sKP6SrqI",
   "path": "useState.tpl",
   "completePath": "elements/Programming/useState.tpl",
+  "keyPath": "elements\\Programming\\useState.tpl",
   "type": "element",
   "icon": "ico-use-state",
   "options": [

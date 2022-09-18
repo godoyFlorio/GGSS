@@ -2,6 +2,7 @@
   "unique_id": "LL4wm3f1",
   "path": "button.tpl",
   "completePath": "elements\\Material-UI\\button.tpl",
+  "keyPath": "elements\\Material-UI\\button.tpl",
   "type": "element",
   "icon": "ico-button",
   "options": [

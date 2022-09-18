@@ -2,6 +2,7 @@
   "unique_id": "vUcpAXGE",
   "path": "b.tpl",
   "completePath": "elements/Aptugo Internal Use/b.tpl",
+  "keyPath": "elements\\Aptugo Internal Use\\b.tpl",
   "type": "element",
   "icon": "ico-field",
   "sourceType": "javascript",
@@ -36,6 +37,6 @@
   "prevent_delete": false,
   "cascades": false,
   "parent": "9VTyl4GX",
-  "collapseStatus": "expand",
+  "collapseStatus": "collapse",
   "errored": false
 }

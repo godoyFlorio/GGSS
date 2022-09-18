@@ -2,6 +2,7 @@
   "unique_id": "oiW9Onv5",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
+  "keyPath": "elements\\Basic\\div.tpl",
   "type": "element",
   "icon": "ico-div",
   "sourceType": "javascript",

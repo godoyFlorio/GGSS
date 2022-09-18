@@ -2,6 +2,7 @@
   "unique_id": "X4hwyHRL",
   "path": "typography.tpl",
   "completePath": "elements/Material-UI/typography.tpl",
+  "keyPath": "elements\\Material-UI\\typography.tpl",
   "icon": "ico-typography",
   "helpText": "Renders different typographic html elements",
   "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",

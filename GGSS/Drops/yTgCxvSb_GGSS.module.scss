@@ -161,7 +161,7 @@
             }
         }
         .unidadInputs{
-            width: 270px;
+            width: auto;
             font-family: 'Poppins';
             font-style: normal;
             font-weight: 400;
@@ -576,3 +576,39 @@
             }
         }
     }
+
+//-------Datos Familia--------//
+.divImage{
+    border: solid gray 1px;
+    margin-top: 50px;
+    width: 200px;
+    height: 200px;
+}
+
+.centerSectionFamilia{
+        margin-left: 200px;
+        margin-top: 50px;
+}
+
+.rightSectionFamilia {
+    margin-top: 50px;
+    margin-left: 172px;
+}
+
+.inputsSectionFamilia{
+    margin-top: 100px;
+    margin-left: 200px;
+    display: flex;
+}
+
+.unidadInputsFamilia{
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+}
+
+.unidadInputFamiliaSmall{
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+}

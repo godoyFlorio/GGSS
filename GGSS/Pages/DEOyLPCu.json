@@ -1,0 +1,52 @@
+{
+  "path": "radio.tpl",
+  "completePath": "C:\\Users\\Ines\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\Forms\\radio.tpl",
+  "keyPath": "elements\\Material-UI\\Forms\\radio.tpl",
+  "type": "element",
+  "unique_id": "DEOyLPCu",
+  "icon": "f:radio.svg",
+  "options": [
+    {
+      "name": "checked",
+      "display": "Checked",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "onchange",
+      "display": "On Change",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "value",
+      "display": "Value",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "name",
+      "display": "Name",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "label",
+      "display": "label",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "name": "Masculino",
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "9TJ7wSS5",
+  "value": "radio",
+  "values": {
+    "checked": "{usName}",
+    "label": "Masculino",
+    "value": "{usName}"
+  },
+  "collapseStatus": "expand",
+  "errored": false
+}
