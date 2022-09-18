@@ -1,0 +1,16 @@
+{
+  "name": "checkbox",
+  "value": "checkbox",
+  "values": {
+    "Checked": "{usName}",
+    "label": ""
+  },
+  "path": "checkbox.tpl",
+  "unique_id": "SlvoESxr",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "fv5ylwyT",
+  "collapseStatus": "expand",
+  "errored": false
+}

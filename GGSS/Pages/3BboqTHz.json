@@ -1,9 +1,9 @@
 {
-  "unique_id": "3BboqTHz",
   "path": "button.tpl",
   "completePath": "C:\\Users\\Ines\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\button.tpl",
   "keyPath": "elements\\Material-UI\\button.tpl",
   "type": "element",
+  "unique_id": "3BboqTHz",
   "icon": "ico-button",
   "options": [
     {
@@ -68,8 +68,7 @@
   "name": "button",
   "value": "button",
   "values": {
-    "ButtonText": "Listar",
-    "icon": "Menu"
+    "ButtonText": "Listar"
   },
   "parent": "CiFlqkV5",
   "prevent_delete": false,

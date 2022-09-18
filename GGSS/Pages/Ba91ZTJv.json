@@ -1,9 +1,9 @@
 {
   "path": "radio.tpl",
-  "completePath": "C:\\Users\\Ines\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\Forms\\radio.tpl",
+  "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\Forms\\radio.tpl",
   "keyPath": "elements\\Material-UI\\Forms\\radio.tpl",
   "type": "element",
-  "unique_id": "G9gOIT91",
+  "unique_id": "Ba91ZTJv",
   "icon": "f:radio.svg",
   "options": [
     {
@@ -37,15 +37,15 @@
       "options": ""
     }
   ],
-  "name": "Masculino",
-  "prevent_delete": false,
-  "cascades": false,
-  "parent": "xOMzzfId",
+  "name": "Femenino",
   "value": "radio",
   "values": {
-    "label": "Masculino",
+    "label": "Femenino",
     "value": "{usName}"
   },
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "wN8VTp8o",
   "collapseStatus": "expand",
   "errored": false
 }

@@ -1,9 +1,9 @@
 {
   "path": "checkbox.tpl",
-  "completePath": "C:\\Users\\Ines\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\checkbox.tpl",
+  "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\checkbox.tpl",
   "keyPath": "elements\\Material-UI\\checkbox.tpl",
   "type": "element",
-  "unique_id": "tILkWW1N",
+  "unique_id": "M8mzmGBU",
   "icon": "ico-check-box",
   "options": [
     {
@@ -42,14 +42,14 @@
   ],
   "sourceType": "javascript",
   "name": "checkbox",
-  "prevent_delete": false,
-  "cascades": false,
-  "parent": "P8O4iz4X",
   "value": "checkbox",
   "values": {
     "Checked": "{usName}",
-    "label": "Fijar"
+    "label": ""
   },
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "LgVBu0K5",
   "collapseStatus": "expand",
   "errored": false
 }

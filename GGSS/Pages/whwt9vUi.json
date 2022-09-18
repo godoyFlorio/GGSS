@@ -45,7 +45,7 @@
     }
   ],
   "helpText": "Basic HTML Div element",
-  "name": "AQUI VA SEXO MASCULINO FEMENINO CON CHECKS",
+  "name": "checkbox Masc Fem",
   "value": "div",
   "values": {
     "class": "theme.unidadInputs"
