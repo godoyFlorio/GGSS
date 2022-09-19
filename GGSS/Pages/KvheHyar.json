@@ -48,9 +48,9 @@
   "name": "Perfil",
   "value": "div",
   "values": {
-    "class": "theme.choferButtons"
+    "class": "theme.divPerfil"
   },
-  "parent": "vLkvAhtx",
+  "parent": "7Ero6Zuu",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand",

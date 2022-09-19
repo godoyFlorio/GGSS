@@ -24,7 +24,7 @@
   "name": "text",
   "value": "text",
   "values": {
-    "Content": "Barrio"
+    "Content": "Barrio:"
   },
   "parent": "IweQdCEO",
   "prevent_delete": false,

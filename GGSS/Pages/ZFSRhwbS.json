@@ -1,0 +1,15 @@
+{
+  "name": "Table Toolbar",
+  "value": "div",
+  "values": {
+    "class": "theme.tabletoolbar"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "ouqasita",
+  "unique_id": "ZFSRhwbS",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

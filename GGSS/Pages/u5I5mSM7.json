@@ -24,7 +24,7 @@
   "name": "text",
   "value": "text",
   "values": {
-    "Content": "Observaciones"
+    "Content": "Observaciones:"
   },
   "parent": "R0on97zZ",
   "prevent_delete": false,

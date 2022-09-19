@@ -24,7 +24,7 @@
   "name": "text",
   "value": "text",
   "values": {
-    "Content": "Piso/Dpto/Ofic/Torre"
+    "Content": "Piso/Dpto/Ofic/Torre:"
   },
   "parent": "WQrfHX73",
   "prevent_delete": false,

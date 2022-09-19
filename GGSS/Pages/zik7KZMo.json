@@ -1,0 +1,15 @@
+{
+  "name": "div",
+  "value": "div",
+  "values": {
+    "tag": "div"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "aiFTScgT",
+  "unique_id": "zik7KZMo",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

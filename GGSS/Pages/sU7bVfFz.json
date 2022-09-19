@@ -48,7 +48,7 @@
   "name": "Perfil",
   "value": "div",
   "values": {
-    "class": "theme.choferButtonCancelar"
+    "class": "theme.registrosButtonCancelar"
   },
   "parent": "KvheHyar",
   "prevent_delete": false,

@@ -72,7 +72,8 @@
   "values": {
     "fieldname": "usName",
     "variant": "standard",
-    "label": ""
+    "label": "",
+    "type": "date"
   },
   "parent": "oqOgwVz8",
   "prevent_delete": false,

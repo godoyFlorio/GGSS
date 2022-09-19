@@ -1,0 +1,47 @@
+{
+  "path": "performApiCall.tpl",
+  "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Experimental\\performApiCall.tpl",
+  "keyPath": "elements\\Experimental\\performApiCall.tpl",
+  "type": "element",
+  "unique_id": "6iC0Ovf4",
+  "icon": "ico-api-call",
+  "helpText": "Performs a call to an api and returns the response",
+  "options": [
+    {
+      "name": "url",
+      "display": "URL",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "method",
+      "display": "Method",
+      "type": "dropdown",
+      "options": "get;post;put;delete"
+    },
+    {
+      "name": "dataVariable",
+      "display": "Data Variable",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "extraOptions",
+      "display": "Extra options",
+      "type": "text"
+    }
+  ],
+  "sourceType": "javascript",
+  "name": "performApiCall",
+  "value": "performApiCall",
+  "values": {
+    "method": "post",
+    "url": "'http://52.90.12.208/convenios'",
+    "dataVariable": "dataConvenios"
+  },
+  "parent": "mUIv4ofS",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

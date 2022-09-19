@@ -1,0 +1,31 @@
+{
+  "path": "list.tpl",
+  "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\Lists\\list.tpl",
+  "keyPath": "elements\\Material-UI\\Lists\\list.tpl",
+  "type": "element",
+  "unique_id": "xvsQ8ve3",
+  "icon": "f:list.svg",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    },
+    {
+      "name": "disablePadding",
+      "display": "Disable Padding",
+      "type": "checkbox",
+      "options": ""
+    }
+  ],
+  "name": "list",
+  "value": "list",
+  "values": {},
+  "parent": "pRssXBFX",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

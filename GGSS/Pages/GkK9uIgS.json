@@ -24,7 +24,7 @@
   "name": "text",
   "value": "text",
   "values": {
-    "Content": "Localidad/CP"
+    "Content": "Localidad/CP.:"
   },
   "parent": "5zKsuqKC",
   "prevent_delete": false,

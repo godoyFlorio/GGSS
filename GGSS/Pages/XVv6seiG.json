@@ -53,6 +53,6 @@
   "parent": "7Ero6Zuu",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand",
+  "collapseStatus": "collapse",
   "errored": false
 }

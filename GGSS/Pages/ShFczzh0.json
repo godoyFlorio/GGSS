@@ -24,7 +24,7 @@
   "name": "text",
   "value": "text",
   "values": {
-    "Content": "LEGAJO N°"
+    "Content": "LEGAJO N°:"
   },
   "parent": "wWglefHP",
   "prevent_delete": false,

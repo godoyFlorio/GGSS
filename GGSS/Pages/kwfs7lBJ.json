@@ -53,6 +53,6 @@
   "parent": "1GWa0Fr1",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand",
+  "collapseStatus": "collapse",
   "errored": false
 }

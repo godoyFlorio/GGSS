@@ -1,0 +1,15 @@
+{
+  "name": "searchField",
+  "value": "searchField",
+  "values": {
+    "table": "lOHhZA65"
+  },
+  "type": "element",
+  "path": "searchField.tpl",
+  "parent": "ZFSRhwbS",
+  "unique_id": "yeQsFT32",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

@@ -24,7 +24,7 @@
   "name": "text",
   "value": "text",
   "values": {
-    "Content": "Calle/Numero"
+    "Content": "Calle/Número:"
   },
   "parent": "v6C44qzm",
   "prevent_delete": false,

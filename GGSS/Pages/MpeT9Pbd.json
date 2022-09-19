@@ -1,0 +1,15 @@
+{
+  "unique_id": "MpeT9Pbd",
+  "name": "Table Toolbar",
+  "value": "div",
+  "values": {
+    "class": "theme.tabletoolbar"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "tyn6o2b4",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

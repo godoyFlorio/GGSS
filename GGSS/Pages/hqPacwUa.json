@@ -1,0 +1,13 @@
+{
+  "name": "Body",
+  "value": "div",
+  "values": {},
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "ouqasita",
+  "unique_id": "hqPacwUa",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

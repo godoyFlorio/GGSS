@@ -1,0 +1,13 @@
+{
+  "name": "D.N.I",
+  "value": "accordionDetails",
+  "values": {},
+  "type": "element",
+  "path": "accordionDetails.tpl",
+  "parent": "QuNrooKH",
+  "unique_id": "gDIspc9k",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

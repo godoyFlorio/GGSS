@@ -1,0 +1,13 @@
+{
+  "unique_id": "6LbUK8i3",
+  "name": "Paper",
+  "value": "Paper",
+  "values": {},
+  "path": "Paper.tpl",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "7Ero6Zuu",
+  "collapseStatus": "expand",
+  "errored": false
+}

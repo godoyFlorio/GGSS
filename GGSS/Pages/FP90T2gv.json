@@ -1,0 +1,16 @@
+{
+  "name": "Imagen",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.divImagePerfil"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "IsFJcJr2",
+  "unique_id": "FP90T2gv",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

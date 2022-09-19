@@ -24,7 +24,7 @@
   "name": "text",
   "value": "text",
   "values": {
-    "Content": "Departamento"
+    "Content": "Departamento:"
   },
   "parent": "1TqgfkQe",
   "prevent_delete": false,

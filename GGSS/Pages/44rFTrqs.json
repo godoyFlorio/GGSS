@@ -70,7 +70,7 @@
   "name": "uncontrolledInput",
   "value": "uncontrolledInput",
   "values": {
-    "fieldname": "usName",
+    "fieldname": "dataDomicilios",
     "variant": "standard",
     "label": ""
   },

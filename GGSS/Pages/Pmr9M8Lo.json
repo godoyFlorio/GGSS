@@ -1,0 +1,15 @@
+{
+  "name": "Crud Bar",
+  "value": "div",
+  "values": {
+    "class": "theme.cudBarRegistros"
+  },
+  "path": "div.tpl",
+  "unique_id": "Pmr9M8Lo",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "KvheHyar",
+  "collapseStatus": "collapse",
+  "errored": false
+}

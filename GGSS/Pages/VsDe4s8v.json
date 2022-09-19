@@ -24,7 +24,7 @@
   "name": "text",
   "value": "text",
   "values": {
-    "Content": "Teléfono fijo"
+    "Content": "Teléfono fijo:"
   },
   "parent": "L4wtRaC5",
   "prevent_delete": false,
