@@ -1,5 +1,10 @@
 {
+  "path": "apr.tpl",
+  "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Aptugo Internal Use\\apr.tpl",
+  "keyPath": "elements\\Aptugo Internal Use\\apr.tpl",
   "unique_id": "TgXL2P0X",
+  "icon": "ico-field",
+  "helpText": "After Page Render",
   "name": "After Page Render",
   "type": "element",
   "value": "apr",

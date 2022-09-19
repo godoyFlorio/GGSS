@@ -1,7 +1,32 @@
 {
-  "unique_id": "0kOqTgAR",
-  "name": "Body",
+  "path": "b.tpl",
+  "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Aptugo Internal Use\\b.tpl",
+  "keyPath": "elements\\Aptugo Internal Use\\b.tpl",
   "type": "element",
+  "unique_id": "0kOqTgAR",
+  "icon": "ico-field",
+  "sourceType": "javascript",
+  "internalUse": true,
+  "options": [
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "chips",
+      "options": "return aptugo.assetUtils.grabCssSelectors( aptugo.variables.retrievePageVariablesFromElement(arguments[0],'theme') )"
+    },
+    {
+      "name": "primaryColor",
+      "display": "Primary Color",
+      "type": "dropdown",
+      "options": "red;pink;purple;deepPurple;indigo;blue;lightBlue;cyan;teal;green;lightGreen;lime;yellow;amber;orange;deepOrange;brown;grey;blueGrey"
+    },
+    {
+      "name": "extraThemeOptions",
+      "display": "Extra Theming options",
+      "type": "text"
+    }
+  ],
+  "name": "Body",
   "value": "b",
   "prevent_delete": true,
   "cascades": false,

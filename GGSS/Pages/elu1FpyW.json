@@ -1,10 +1,10 @@
 {
+  "unique_id": "elu1FpyW",
   "path": "loadFromRedux.tpl",
   "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Programming\\loadFromRedux.tpl",
   "keyPath": "elements\\Programming\\loadFromRedux.tpl",
   "display": "Load from Database",
   "type": "element",
-  "unique_id": "elu1FpyW",
   "icon": "ico-load-redux",
   "sourceType": "javascript",
   "calculatedName": "function (ele) { \n  try {\n    const tblname = aptugo.store.getState().application.tables.find(tbl => tbl.unique_id === ele.values.data).name\n    const calc = 'Load ' + tblname + ' from database'\n    return calc\n  } catch(e) {\n    return ele.name\n  }\n}",

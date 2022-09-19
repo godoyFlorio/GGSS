@@ -1,0 +1,45 @@
+{
+  "path": "listItemText.tpl",
+  "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\Lists\\listItemText.tpl",
+  "keyPath": "elements\\Material-UI\\Lists\\listItemText.tpl",
+  "type": "element",
+  "unique_id": "aRrGLXfL",
+  "icon": "f:listItemText.svg",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "text",
+      "display": "Text",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    },
+    {
+      "name": "secondaryText",
+      "display": "Secondary Text",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "onClick",
+      "display": "On Click",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "name": "listItemText",
+  "value": "listItemText",
+  "values": {
+    "text": "{item.Dni}"
+  },
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "1goQqSwv",
+  "collapseStatus": "expand",
+  "errored": false
+}

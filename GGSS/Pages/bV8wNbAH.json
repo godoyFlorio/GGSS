@@ -1,8 +1,8 @@
 {
+  "unique_id": "bV8wNbAH",
   "path": "typography.tpl",
   "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\typography.tpl",
   "keyPath": "elements\\Material-UI\\typography.tpl",
-  "unique_id": "bV8wNbAH",
   "icon": "ico-typography",
   "helpText": "Renders different typographic html elements",
   "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",

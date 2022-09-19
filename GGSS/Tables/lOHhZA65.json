@@ -7,13 +7,33 @@
   "fields": [
     {
       "data_type": "String",
-      "column_name": "Direcciones",
+      "column_name": "Legajo",
       "unique_id": "hZKqkAeg"
     },
     {
       "data_type": "String",
-      "column_name": "Altura",
+      "column_name": "Estado",
       "unique_id": "DpIT86T1"
+    },
+    {
+      "data_type": "String",
+      "column_name": "Apellido",
+      "unique_id": "dWgil7uu"
+    },
+    {
+      "data_type": "String",
+      "column_name": "Nombres",
+      "unique_id": "eeImniIQ"
+    },
+    {
+      "data_type": "String",
+      "column_name": "Dni",
+      "unique_id": "MVWalm3b"
+    },
+    {
+      "data_type": "String",
+      "column_name": "Cuil",
+      "unique_id": "hdl1valr"
     }
   ],
   "definedRoutes": [

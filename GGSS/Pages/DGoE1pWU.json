@@ -1,9 +1,106 @@
 {
+  "path": "dialog.tpl",
+  "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\Dialogs\\dialog.tpl",
+  "keyPath": "elements\\Material-UI\\Dialogs\\dialog.tpl",
+  "type": "element",
   "unique_id": "DGoE1pWU",
+  "icon": "ico-dialogs",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "table",
+      "display": "Table",
+      "type": "dropdown",
+      "options": "return aptugo.store.getState().application.tables.map(({ unique_id, name }) => [unique_id, name])"
+    },
+    {
+      "name": "addProcedure",
+      "display": "Add Records",
+      "type": "dropdown",
+      "options": "return [['No','None'],['Internal','Popup Dialog'],...aptugo.pageUtils.plainpages.map(({unique_id, name }) => [unique_id, name])]"
+    },
+    {
+      "name": "hideButton",
+      "display": "Hide Add Button",
+      "type": "checkbox",
+      "options": ""
+    },
+    {
+      "name": "color",
+      "display": "Color",
+      "type": "dropdown",
+      "options": "primary;inherit;secondary;default"
+    },
+    {
+      "name": "manuallyManaged",
+      "display": "Do not auto close",
+      "type": "checkbox",
+      "options": ""
+    },
+    {
+      "name": "classname",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    },
+    {
+      "name": "title",
+      "display": "Add - Title",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "introText",
+      "display": "Add - Intro Text",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "button",
+      "display": "Add - Button Text",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "editTitle",
+      "display": "Edit - Title",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "editIntroText",
+      "display": "Edit - Intro Text",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "editButton",
+      "display": "Edit - Button Text",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "deleteTitle",
+      "display": "Delete - Title",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "deleteIntroText",
+      "display": "Delete - Intro Text",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "deleteButton",
+      "display": "Delete - Button Text",
+      "type": "text",
+      "options": ""
+    }
+  ],
   "name": "dialog",
   "prevent_delete": false,
   "cascades": false,
-  "type": "element",
   "value": "dialog",
   "collapseStatus": "expand",
   "values": {

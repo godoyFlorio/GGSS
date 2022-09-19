@@ -1,9 +1,9 @@
 {
+  "unique_id": "pRssXBFX",
   "path": "loop.tpl",
   "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Programming\\loop.tpl",
   "keyPath": "elements\\Programming\\loop.tpl",
   "type": "element",
-  "unique_id": "pRssXBFX",
   "icon": "f:loop.svg",
   "sourceType": "javascript",
   "helpText": "Allows you to loop a variable and render child elements",

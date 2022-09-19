@@ -1,5 +1,33 @@
 {
+  "path": "Paper.tpl",
+  "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\Paper.tpl",
+  "keyPath": "elements\\Material-UI\\Paper.tpl",
+  "icon": "ico-paper",
+  "sourceType": "javascript",
   "unique_id": "CEGfFzUC",
+  "options": [
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "styles"
+    },
+    {
+      "name": "elevation",
+      "display": "Elevation",
+      "type": "text"
+    },
+    {
+      "name": "square",
+      "display": "Square Looking",
+      "type": "checkbox"
+    },
+    {
+      "name": "variant",
+      "display": "Variant",
+      "type": "dropdown",
+      "options": "elevation;outlined"
+    }
+  ],
   "name": "Paper",
   "prevent_delete": false,
   "cascades": false,

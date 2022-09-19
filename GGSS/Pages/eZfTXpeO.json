@@ -1,9 +1,41 @@
 {
+  "path": "Container.tpl",
+  "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\Container.tpl",
+  "keyPath": "elements\\Material-UI\\Container.tpl",
+  "type": "element",
   "unique_id": "eZfTXpeO",
+  "icon": "f:Container.svg",
+  "helpText": "The container centers your content horizontally. It's the most basic layout element.",
+  "options": [
+    {
+      "name": "disableGutters",
+      "display": "Disable Gutters",
+      "type": "checkbox",
+      "options": ""
+    },
+    {
+      "name": "fixed",
+      "display": "Fixed?",
+      "type": "checkbox",
+      "options": ""
+    },
+    {
+      "name": "maxWidth",
+      "display": "Max Width",
+      "type": "dropdown",
+      "options": "lg;md;sm;xl;xs;false"
+    },
+    {
+      "name": "className",
+      "display": "className",
+      "type": "styles",
+      "options": ""
+    }
+  ],
+  "sourceType": "javascript",
   "name": "Container",
   "prevent_delete": false,
   "cascades": false,
-  "type": "element",
   "value": "Container",
   "collapseStatus": "expand",
   "values": {

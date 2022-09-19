@@ -1,0 +1,13 @@
+{
+  "name": "uncontrolledInput",
+  "value": "uncontrolledInput",
+  "values": {},
+  "type": "element",
+  "path": "uncontrolledInput.tpl",
+  "parent": "ogRsbpag",
+  "unique_id": "mNvAdF21",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

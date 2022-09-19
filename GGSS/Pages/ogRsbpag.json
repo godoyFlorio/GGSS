@@ -1,0 +1,16 @@
+{
+  "name": "uncontrolledInput",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.uncontrolledInputFamilia"
+  },
+  "path": "div.tpl",
+  "unique_id": "ogRsbpag",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "5AgGqvbm",
+  "collapseStatus": "expand",
+  "errored": false
+}
