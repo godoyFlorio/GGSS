@@ -1,0 +1,15 @@
+{
+  "name": "Listar",
+  "value": "div",
+  "values": {
+    "class": "theme.listarCrud"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "gLUMeNy2",
+  "unique_id": "mTEXBsbO",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}
