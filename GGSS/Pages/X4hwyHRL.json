@@ -1,8 +1,8 @@
 {
-  "unique_id": "X4hwyHRL",
   "path": "typography.tpl",
   "completePath": "elements/Material-UI/typography.tpl",
   "keyPath": "elements\\Material-UI\\typography.tpl",
+  "unique_id": "X4hwyHRL",
   "icon": "ico-typography",
   "helpText": "Renders different typographic html elements",
   "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
@@ -26,7 +26,7 @@
     "tag": "h4"
   },
   "type": "element",
-  "parent": "cUpDp0ty",
+  "parent": "2cV9c0dK",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand",

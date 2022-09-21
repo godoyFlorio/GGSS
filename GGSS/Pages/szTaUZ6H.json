@@ -1,0 +1,15 @@
+{
+  "name": "Número",
+  "value": "div",
+  "values": {
+    "class": "theme.title"
+  },
+  "path": "div.tpl",
+  "unique_id": "szTaUZ6H",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "lCa79gN4",
+  "collapseStatus": "expand",
+  "errored": false
+}

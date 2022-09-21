@@ -1,6 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-
-
 //Variables standarized
 @mixin registrosButtonCancelar (
     $display: flex,
@@ -181,13 +179,17 @@
         width: 1px;
         background: white;
     }
+    & :global(.MuiPaper-root){
+        border: white;
+        border-radius: 0px 0px 0px 0px;
+        box-shadow: none;
+    }
+    & :global(.MuiButton-root){
+        border-radius: 10px;
+    }
 }
-
-
-
 // Clases Globales // 
     // General //
-    
        .inputTitle{
             width: 246px;
             font-family: 'Poppins';
@@ -196,6 +198,11 @@
             font-size: 16px;
             line-height: 24px;
             color: #003C70;
+
+        }
+        .unidadInputsColumn{
+            margin-left: 200px;
+            align-items: center;
 
         }
         .unidadInputs{
@@ -209,7 +216,7 @@
             font-size: 16px;
             line-height: 24px;
             color: #003C70;
-            margin-top: 22px; 
+            margin-top: 16px; 
             & :global(.MuiButtonBase-root){
                 background-color: #fff;
                 color: #003C70;
@@ -223,17 +230,13 @@
                 overflow-anchor: none;
                 border-radius: 0;
             }
-          
-           
         }
-         
             .uncontrolledInput{
                 display: inline-block;
                 min-width: 100px;
                 margin-left: 10px;
                 margin-top: -4px;
                 color: #FAF9F9;
-            
                 & :global(.MuiOutlinedInput-root){
                     margin-top: -20px;
                     background-color: #FAF9F9;
@@ -271,11 +274,7 @@
                     align-items: center;
                     position: relative;
                 }
-
-               
-              
         }
-
         .obsInputs {
             width: 647px;
             font-family: 'Poppins';
@@ -285,7 +284,6 @@
             line-height: 24px;
             color: #003C70;
             margin-top: 24px;
-
         }
         .descriptionInputs {
             margin-top: 22px;
@@ -296,7 +294,6 @@
             font-size: 16px;
             line-height: 24px;
             color: #003C70;
-
         }
         .mainABMTitle{
             margin-top: 35px;
@@ -312,16 +309,13 @@
                     @include h6 ();
                 }
         }
-
   // Body //
 .ggss{
 .centerSection{
-    
-    
-        .centerContainer{
-            margin-left: 288px;
+        /* .centerContainer{
+            margin-left: 238px;
             margin-top: 74px;
-        }
+        } */
     }
 }
 // Tablas Varias // 
@@ -344,32 +338,21 @@
             }
 // ------- registros --------------
 .registros{
-    display: flex;
-    justify-content: columns;
+    // display: grid;
+    // grid-template-columns: 12 columns;
    
+    justify-content: columns;
     .mainRegistros {
+        // display: grid;
+        // grid-template-columns: 12 columns;
+        //display: flex;
         
-        display: flex;
-        .printExecute{
-            background: ghostwhite;
-            width: 600px;
-            height: 600px;
-            margin: 0;
-            padding: 0;
-            margin-top: 18px;
-            margin-left: -5px;
-            font-family: 'Poppins';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 16px;
-            line-height: 24px;
-            color: #003C70;
-            }
         }
-        
         .centerSection {
+            // display: grid;
+            // grid-template-columns: 12 columns;
             margin-top: 2px;
-            margin-left: 25px;
+            margin-left: 200px;
             .checkboxRegistros {
                 display: flex;
                 margin-left: 20px;
@@ -383,7 +366,6 @@
                     color: #0f3f6f;
                 }
             }
-
             .divPerfil{
                 margin-left: 484px;
                 margin-top: -308px;
@@ -405,7 +387,6 @@
                 margin-top: 24px;
                 margin-left: 462px;
                 .registrosButtonCancelar{
-                    
                     @include registrosButtonCancelar ();
                     picture {
                         img {
@@ -416,7 +397,6 @@
                         @include buttonCancelar();
                     }
                 }
-                
                 .registrosButtonAceptar {
                     @include registrosButtonCancelar();
                     picture {
@@ -434,7 +414,6 @@
                 display: flex;
                 margin-top: 24px;
                 .registrosButtonCancelar{
-                    
                     @include registrosButtonCancelar ();
                     picture {
                         img {
@@ -445,7 +424,6 @@
                         @include buttonCancelar();
                     }
                 }
-                
                 .registrosButtonAceptar {
                     @include registrosButtonCancelar();
                     picture {
@@ -459,20 +437,18 @@
                 }
             }
         }
-        
-
     .cudBarRegistros {
         background: #FAF9F9;
         height: 88px;
         width: 2000px;
-        margin-left: -100px;
+        margin-left: -592px;
         margin-top: 48px;
         .crudBarRegistros {
             margin-left: 388px;
         }
-        .crudBarSection {
+        .crudBarSectionUp {
             display: flex;
-            margin-left: 340px;
+            margin-left: -105px;
             padding-top: 23px;
             padding-bottom: 23px;
             .agregarCrud {
@@ -519,6 +495,94 @@
                     @include buttonCancelar();
                 }
             }
+
+            .extrasCrud {
+                @include listarCrud();
+                picture {
+                    img {
+                        @include img ();
+                    }
+                }
+                button {
+                    @include buttonCancelar();
+                }
+            }
+            .salidaCrud {
+                height: 40px;
+                width: 142px;
+                background: #FA6100;
+                border-radius: 40px;
+                button {
+                    @include buttonCancelar( 
+                        $margin-top: 2px,
+                        $color: #FFFFFF,
+                        $text-align: center,
+                        $margin-left: 38px,
+                        );
+                }
+            }
+        }
+        .crudBarSection {
+            display: flex;
+            margin-left: 850px;
+            padding-top: 0px;
+            padding-bottom: 23px;
+            .agregarCrud {
+                @include listarCrud();
+                picture {
+                    img {
+                        @include img ();
+                    }
+                }
+                button {
+                    @include buttonCancelar();
+                }
+            }
+            .modificarCrud {
+                @include listarCrud();
+                picture {
+                    img {
+                       @include img ();
+                    }
+                }
+                button {
+                    @include buttonCancelar();
+                }
+            }
+            .eliminarCrud {
+                @include listarCrud();
+                picture {
+                    img {
+                        @include img ();
+                    }
+                }
+                button {
+                    @include buttonCancelar();
+                }
+            }
+            .listarCrud {
+                @include listarCrud();
+                picture {
+                    img {
+                        @include img ();
+                    }
+                }
+                button {
+                    @include buttonCancelar();
+                }
+            }
+
+            .extrasCrud {
+                @include listarCrud();
+                picture {
+                    img {
+                        @include img ();
+                    }
+                }
+                button {
+                    @include buttonCancelar();
+                }
+            }
             .salidaCrud {
                 height: 40px;
                 width: 142px;
@@ -535,7 +599,6 @@
             }
         }
     }
-
 //--------- Familia--------
 //-------Datos Familia--------//
 .divImage{
@@ -546,32 +609,26 @@
     border-radius: 5px;
     box-shadow: 2px 2px 4px #00327067;
 }
-
 .centerSectionFamilia{
         margin-left: 200px;
         margin-top: 50px;
 }
-
 .rightSectionFamilia {
     margin-top: 50px;
     margin-left: 172px;
 }
-
 .inputsSectionFamilia{
     margin-top: 100px;
     margin-left: 200px;
     display: flex;
 }
-
 .inputLeftFamilia{
     margin-right: 20px;
 }
-
 .unidadInputsFamilia{
     display: flex;
     width: 500px;
     justify-content: space-between;
-
 }
 .uncontrolledInputFamilia{
     width: 120px;
@@ -580,7 +637,6 @@
     margin-left: 10px;
     margin-top: -4px;
     color: #FAF9F9;
-
     & :global(.MuiOutlinedInput-root){
         margin-top: -20px;
         background-color: #FAF9F9;
@@ -588,7 +644,6 @@
         height: 40px;
         margin-bottom: 42px;
         color: #FA6100;
-       
     }
     & :global(.MuiInputLabel-root){
         margin-top: -20px;
@@ -598,7 +653,6 @@
         font-size: 14px;
         line-height: 17px;
         color: #e51313;
-        
     }
     & :global(.MuiInput-root){
         font-family: "Roboto","Helvetica","Arial",sans-serif;
@@ -621,10 +675,8 @@
         position: relative;
         width: 350px;
         margin-left: -219px;
-        
     }
 }
-
 .uncontrolledInputParentesco{
     width: 120px;
     display: inline-block;
@@ -639,7 +691,6 @@
         height: 40px;
         margin-bottom: 42px;
         color: #FA6100;
-       
     }
     & :global(.MuiInputLabel-root){
         margin-top: -20px;
@@ -649,7 +700,6 @@
         font-size: 14px;
         line-height: 17px;
         color: #e51313;
-        
     }
     & :global(.MuiInput-root){
         font-family: "Roboto","Helvetica","Arial",sans-serif;
@@ -674,24 +724,20 @@
         margin-left: -103px;
     }
 }
-
-
 .unidadInputFamiliaSmall{
     display: flex;
     width: 300px;
     justify-content: space-between;
 }
-
 .btnObsFamilia{
     display: flex;
     margin-top: 55px;
     width: 200px;
     justify-content: space-between;
 }
-
 .espacioTablaFamilia{
     margin-top: 40px;
-    margin-left: auto;
+    margin-left: 5px;
     width: 1100px;
     height: 200px;
     border: solid 1px gray;

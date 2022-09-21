@@ -1,9 +1,9 @@
 {
+  "unique_id": "2cx5Hss1",
   "path": "searchField.tpl",
   "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Interact\\searchField.tpl",
   "keyPath": "elements\\Interact\\searchField.tpl",
   "type": "element",
-  "unique_id": "2cx5Hss1",
   "icon": "f:searchField.svg",
   "helpText": "Adds a search field and performs searches on a specific table when changed",
   "options": [

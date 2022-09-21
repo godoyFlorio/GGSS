@@ -1,9 +1,9 @@
 {
-  "unique_id": "OOz6K3t5",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
   "keyPath": "elements\\Basic\\div.tpl",
   "type": "element",
+  "unique_id": "OOz6K3t5",
   "icon": "ico-div",
   "sourceType": "javascript",
   "options": [
@@ -50,7 +50,7 @@
   "values": {
     "class": "theme.mainABMTitle"
   },
-  "parent": "lzILd8qW",
+  "parent": "F4qS9WTm",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "collapse",

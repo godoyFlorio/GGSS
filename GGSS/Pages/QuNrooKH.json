@@ -1,8 +1,8 @@
 {
-  "unique_id": "QuNrooKH",
   "path": "accordionSummary.tpl",
   "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\Accordion\\accordionSummary.tpl",
   "keyPath": "elements\\Material-UI\\Accordion\\accordionSummary.tpl",
+  "unique_id": "QuNrooKH",
   "icon": "f:accordionSummary.svg",
   "name": "accordionSummary",
   "value": "accordionSummary",
@@ -11,6 +11,6 @@
   "parent": "NPUu0Abb",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "collapse",
+  "collapseStatus": "expand",
   "errored": false
 }

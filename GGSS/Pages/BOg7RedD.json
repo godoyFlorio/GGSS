@@ -1,0 +1,63 @@
+{
+  "path": "dataTable.tpl",
+  "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Experimental\\dataTable.tpl",
+  "keyPath": "elements\\Experimental\\dataTable.tpl",
+  "type": "element",
+  "unique_id": "BOg7RedD",
+  "icon": "f:dataTable.svg",
+  "helpText": "Data table",
+  "sourceType": "javascript",
+  "extraFiles": [
+    {
+      "source": "elements/Experimental/DataTable/index.js",
+      "destination": "front-end/components/DataTable/index.js"
+    }
+  ],
+  "options": [
+    {
+      "name": "table",
+      "display": "Table",
+      "type": "dropdown",
+      "options": "return [...aptugo.store.getState().application.tables.map(({ unique_id, name }) => [unique_id, name])]",
+      "settings": {
+        "aptugoOnLoad": "const element = arguments[0]\nconst page = aptugo.pageUtils.findContainerPage(element.unique_id).unique_id;\nconst varsToAdd = {\n  [aptugo.friendly(element.name) + 'loadoptions']: {\n    page: 1,\n    populate: true,\n    limit: 25,\n    sort: {},\n    totalItems: 0,\n    searchString: null,\n    searchField: null\n  }\n}\naptugo.variables.setPageVariable(page, element.unique_id,varsToAdd);\naptugo.variables.setPageFunction(page, 'f' + element.unique_id, `set${aptugo.friendly(element.name)}loadoptions` );"
+      }
+    },
+    {
+      "name": "allowEdit",
+      "display": "Allow Edition",
+      "type": "checkbox",
+      "settings": {
+        "default": true,
+        "condition": ""
+      }
+    },
+    {
+      "name": "allowDeletion",
+      "display": "Allow Deletion",
+      "type": "checkbox",
+      "settings": {
+        "default": true,
+        "condition": ""
+      }
+    }
+  ],
+  "settings": [
+    {
+      "name": "Packages",
+      "value": "\"react-data-table-component\": \"latest\",\"styled-components\": \"latest\","
+    }
+  ],
+  "name": "dataTable",
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "0MfoGa3B",
+  "value": "dataTable",
+  "values": {
+    "allowEdit": true,
+    "allowDeletion": true,
+    "table": "lOHhZA65"
+  },
+  "collapseStatus": "expand",
+  "errored": false
+}

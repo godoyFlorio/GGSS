@@ -1,9 +1,9 @@
 {
-  "unique_id": "TdLNVMUN",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
   "keyPath": "elements\\Basic\\div.tpl",
   "type": "element",
+  "unique_id": "TdLNVMUN",
   "icon": "ico-div",
   "sourceType": "javascript",
   "options": [
@@ -45,14 +45,14 @@
     }
   ],
   "helpText": "Basic HTML Div element",
-  "name": "Legajo N",
+  "name": "Legajo",
   "value": "div",
   "values": {
     "class": "theme.unidadInputs"
   },
-  "parent": "7Ero6Zuu",
+  "parent": "NB6Ov1Is",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand",
+  "collapseStatus": "collapse",
   "errored": false
 }

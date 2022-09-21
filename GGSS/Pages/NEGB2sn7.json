@@ -1,0 +1,15 @@
+{
+  "name": "CheckBox",
+  "value": "div",
+  "values": {
+    "class": "theme.checkboxRegistros"
+  },
+  "path": "div.tpl",
+  "unique_id": "NEGB2sn7",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "lCa79gN4",
+  "collapseStatus": "expand",
+  "errored": false
+}

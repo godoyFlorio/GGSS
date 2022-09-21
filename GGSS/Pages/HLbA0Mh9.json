@@ -1,9 +1,9 @@
 {
+  "unique_id": "HLbA0Mh9",
   "path": "table.tpl",
   "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\table.tpl",
   "keyPath": "elements\\Material-UI\\table.tpl",
   "type": "element",
-  "unique_id": "HLbA0Mh9",
   "icon": "ico-table",
   "sourceType": "javascript",
   "calculatedName": "function (ele) { \n  try {\n    const tblname = aptugo.store.getState().application.tables.find(tbl => tbl.unique_id === ele.values.table).name\n    const calc = tblname + ' Table'\n    return calc\n  } catch(e) {\n    return 'Table'\n  }\n}",

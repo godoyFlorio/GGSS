@@ -1,0 +1,135 @@
+{
+  "path": "grid.tpl",
+  "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\grid.tpl",
+  "keyPath": "elements\\Material-UI\\grid.tpl",
+  "unique_id": "TocO8zKp",
+  "calculatedName": "function (ele) { \n  try {\n    if (ele.values.container && ele.values.item) {\n      return `${ele.name} item container`\n    }\n    if (ele.values.container) {\n      return `${ele.name} container`\n    }\n    if (ele.values.item) {\n      return `${ele.name} item`\n    }\n  } catch(e) {\n    return ele.name\n  }\n}",
+  "options": [
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    },
+    {
+      "name": "container",
+      "display": "Is a container",
+      "type": "checkbox",
+      "options": "",
+      "settings": {
+        "default": false
+      }
+    },
+    {
+      "name": "justify",
+      "display": "Justify",
+      "type": "dropdown",
+      "options": "flex-start;center;flex-end;space-between;space-around;space-evenly",
+      "settings": {
+        "propertyCondition": "container",
+        "condition": true
+      }
+    },
+    {
+      "name": "align",
+      "display": "Align",
+      "type": "dropdown",
+      "options": "flex-start;center;flex-end;stretch;baseline",
+      "settings": {
+        "propertyCondition": "container",
+        "condition": true
+      }
+    },
+    {
+      "name": "direction",
+      "display": "Direction",
+      "type": "dropdown",
+      "options": "column;column-reverse;row;row-reverse",
+      "settings": {
+        "propertyCondition": "container",
+        "condition": true
+      }
+    },
+    {
+      "name": "wrap",
+      "display": "Wrap",
+      "type": "dropdown",
+      "options": "nowrap;wrap-reverse;wrap",
+      "settings": {
+        "propertyCondition": "container",
+        "condition": true
+      }
+    },
+    {
+      "name": "spacing",
+      "display": "Spacing",
+      "type": "text",
+      "settings": {
+        "propertyCondition": "container",
+        "condition": true
+      }
+    },
+    {
+      "name": "item",
+      "display": "Is an item",
+      "type": "checkbox",
+      "options": "",
+      "settings": {
+        "default": false
+      }
+    },
+    {
+      "name": "extrasmallcolumns",
+      "display": "Columns (extra small)",
+      "type": "text",
+      "settings": {
+        "propertyCondition": "item",
+        "condition": true
+      }
+    },
+    {
+      "name": "smallcolumns",
+      "display": "Columns (small)",
+      "type": "text",
+      "settings": {
+        "propertyCondition": "item",
+        "condition": true
+      }
+    },
+    {
+      "name": "midcolumns",
+      "display": "Columns (mid)",
+      "type": "text",
+      "settings": {
+        "propertyCondition": "item",
+        "condition": true
+      }
+    },
+    {
+      "name": "largecolumns",
+      "display": "Columns (large)",
+      "type": "text",
+      "settings": {
+        "propertyCondition": "item",
+        "condition": true
+      }
+    }
+  ],
+  "helpText": "The Material Design responsive layout grid adapts to screen size and orientation, ensuring consistency across layouts.",
+  "icon": "ico-grid",
+  "name": "grid itemUP",
+  "originalName": "grid",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "XbMyS29C",
+  "value": "grid",
+  "values": {
+    "className": "theme.centerSection",
+    "item": true,
+    "smallcolumns": "6",
+    "midcolumns": "6"
+  },
+  "collapseStatus": "expand",
+  "errored": false
+}
