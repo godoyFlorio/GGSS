@@ -1,6 +1,6 @@
 {
-  "name": "Main Area",
   "unique_id": "UeQv2KtD",
+  "name": "Main Area",
   "parent": "LeohCe5W",
   "collapseStatus": "expand",
   "cascades": false,
@@ -8,5 +8,6 @@
   "value": "div",
   "values": {
     "class": "theme.mainarea"
-  }
+  },
+  "errored": false
 }

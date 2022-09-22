@@ -1,7 +1,7 @@
 {
+  "unique_id": "0AgWdCnZ",
   "name": "table",
   "calculatedName": "function (ele) { \n  try {\n    const tblname = aptugo.store.getState().application.tables.find(tbl => tbl.unique_id === ele.values.table).name\n    const calc = tblname + ' Table'\n    return calc\n  } catch(e) {\n    return 'Table'\n  }\n}",
-  "unique_id": "0AgWdCnZ",
   "parent": "oz791bCT",
   "path": "table.tpl",
   "completePath": "elements\\Material-UI\\table.tpl",
@@ -15,5 +15,6 @@
     "title": "Table Title",
     "headerColor": "rose",
     "confirmDeletes": true
-  }
+  },
+  "errored": false
 }

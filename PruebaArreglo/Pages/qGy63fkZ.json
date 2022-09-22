@@ -1,6 +1,6 @@
 {
-  "name": "sidebar",
   "unique_id": "qGy63fkZ",
+  "name": "sidebar",
   "parent": "LeohCe5W",
   "collapseStatus": "collapse",
   "cascades": true,
@@ -9,5 +9,6 @@
   "values": {
     "colorSchema": "Greens",
     "open": "true"
-  }
+  },
+  "errored": false
 }

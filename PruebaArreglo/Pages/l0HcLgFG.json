@@ -1,6 +1,6 @@
 {
-  "name": "modalEliminar",
   "unique_id": "l0HcLgFG",
+  "name": "modalEliminar",
   "parent": "1TSSyMUi",
   "path": "useState.tpl",
   "completePath": "elements/Programming/useState.tpl",
@@ -11,5 +11,6 @@
   "values": {
     "variableName": "modalEliminar",
     "defaultValue": "false"
-  }
+  },
+  "errored": false
 }

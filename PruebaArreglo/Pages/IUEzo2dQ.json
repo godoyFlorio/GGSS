@@ -1,9 +1,10 @@
 {
-  "name": "Page Footer",
   "unique_id": "IUEzo2dQ",
+  "name": "Page Footer",
   "parent": "IfDsh3SJ",
   "collapseStatus": "collapse",
   "cascades": false,
   "type": "element",
-  "value": "pf"
+  "value": "pf",
+  "errored": false
 }

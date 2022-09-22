@@ -1,6 +1,6 @@
 {
-  "name": "cancelar",
   "unique_id": "Kg1Ww91U",
+  "name": "cancelar",
   "parent": "im5nEwvu",
   "path": "button.tpl",
   "completePath": "elements\\Material-UI\\button.tpl",
@@ -11,5 +11,6 @@
   "values": {
     "ButtonText": "Cancelar",
     "Action": "setmodalInsertar(false)"
-  }
+  },
+  "errored": false
 }

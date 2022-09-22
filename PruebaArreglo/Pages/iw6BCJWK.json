@@ -1,6 +1,6 @@
 {
-  "name": "text",
   "unique_id": "iw6BCJWK",
+  "name": "text",
   "parent": "OJTOpbnn",
   "collapseStatus": "expand",
   "cascades": false,
@@ -8,5 +8,6 @@
   "value": "text",
   "values": {
     "Content": "I'm your Aptugo application"
-  }
+  },
+  "errored": false
 }

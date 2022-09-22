@@ -1,6 +1,6 @@
 {
-  "name": "updateStateVariable",
   "unique_id": "8iox6MSl",
+  "name": "updateStateVariable",
   "parent": "TKPiBbSt",
   "path": "updateStateVariable.tpl",
   "completePath": "elements\\Programming\\Snippets\\updateStateVariable.tpl",
@@ -11,5 +11,6 @@
   "values": {
     "variable": "lang",
     "newvalue": "langStrings[localStorage.getItem('aptugolang') || 'en']"
-  }
+  },
+  "errored": false
 }

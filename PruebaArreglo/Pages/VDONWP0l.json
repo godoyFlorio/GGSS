@@ -1,11 +1,12 @@
 {
-  "name": "Page Footer",
   "unique_id": "VDONWP0l",
+  "name": "Page Footer",
   "parent": "frvg2h5k",
   "path": "pf.tpl",
   "completePath": "elements/Aptugo Internal Use/pf.tpl",
   "collapseStatus": "expand",
   "cascades": false,
   "type": "element",
-  "value": "pf"
+  "value": "pf",
+  "errored": false
 }

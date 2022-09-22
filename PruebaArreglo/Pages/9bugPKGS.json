@@ -1,6 +1,6 @@
 {
-  "name": "agregar",
   "unique_id": "9bugPKGS",
+  "name": "agregar",
   "parent": "im5nEwvu",
   "path": "button.tpl",
   "completePath": "elements\\Material-UI\\button.tpl",
@@ -13,5 +13,6 @@
     "Action": "grabarPopup()",
     "Variant": "contained",
     "icon": "Add"
-  }
+  },
+  "errored": false
 }

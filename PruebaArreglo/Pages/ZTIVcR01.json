@@ -1,11 +1,12 @@
 {
-  "name": "Content",
   "unique_id": "ZTIVcR01",
+  "name": "Content",
   "parent": "XiOCPtPf",
   "path": "dialogContent.tpl",
   "completePath": "elements\\Material-UI\\dialogContent.tpl",
   "collapseStatus": "expand",
   "cascades": false,
   "type": "element",
-  "value": "dialogContent"
+  "value": "dialogContent",
+  "errored": false
 }

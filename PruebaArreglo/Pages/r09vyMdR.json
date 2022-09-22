@@ -1,6 +1,6 @@
 {
-  "name": "Agregar Datos a Tabla",
   "unique_id": "r09vyMdR",
+  "name": "Agregar Datos a Tabla",
   "parent": "gIGbtzU9",
   "path": "button.tpl",
   "completePath": "elements\\Material-UI\\button.tpl",
@@ -13,5 +13,6 @@
     "fullWidth": true,
     "Variant": "contained",
     "Action": "guardar()"
-  }
+  },
+  "errored": false
 }

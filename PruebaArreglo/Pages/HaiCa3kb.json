@@ -1,6 +1,6 @@
 {
-  "name": "text",
   "unique_id": "HaiCa3kb",
+  "name": "text",
   "parent": "v9GFKfsV",
   "collapseStatus": "expand",
   "cascades": false,
@@ -8,5 +8,6 @@
   "value": "text",
   "values": {
     "Content": "<span>(you can edit me at the Page Manager)</span>"
-  }
+  },
+  "errored": false
 }

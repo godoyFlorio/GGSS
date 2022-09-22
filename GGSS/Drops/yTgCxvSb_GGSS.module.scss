@@ -9,7 +9,8 @@
     $border-radius: 40px,
     $width: 121px,
     $height: 40px,
-){
+    $margin-left: 0px,
+) {
     display: $display;
     margin-right: $margin-right;
     margin-top: $margin-top;
@@ -18,6 +19,7 @@
     border-radius: $border-radius;
     width: $width;
     height: $height;
+    margin-left: $margin-left;
 }
 @mixin img (
     $margin-left: 14px,
@@ -29,7 +31,6 @@
     width: $width;
     height: $height;
     margin-top: $margin-top;
-
 }
 @mixin buttonCancelar (
     $margin-top: 0px,
@@ -58,7 +59,6 @@
     text-transform: $text-transform;
     margin-left: $margin-left;
 }
-
 @mixin mainABMTitle (
     $display: flex,
     $justify-content: space-between,
@@ -74,7 +74,6 @@
     left: $left;
     margin-bottom: $margin-bottom;
 }
-
 @mixin h4 (
     $font-family: 'Poppins',
     $font-style: normal,
@@ -92,7 +91,6 @@
     color: $color;
     margin-bottom: $margin-bottom;
 }
-
 @mixin h6 (
     $font-family: 'Poppins',
     $font-style: normal,
@@ -109,7 +107,6 @@
     line-height: $line-height;
     color: $color;
 } 
-
 @mixin listarCrud(
     $margin-right: 24px,
     $width: auto,
@@ -126,36 +123,6 @@
     background: $background;
     border: $border;
     border-radius: $border-radius; 
-}
-@mixin uncontrolledInput (
-    //$margin-top: -20px,
-    $margin-left: 20px,
-    $border-bottom: none,
-    $height: 20px,
-    $background: #FAF9F9,
-    $border-radius: 10px,
-    $border-width: 0px,
-    $font-family: 'Helvetica Neue',
-    $font-style: normal,
-    $font-weight: 400,
-    $font-size: 14px,
-    $line-height: 17px,
-    $color: #C3CBD1,
-
-){
-    //margin-top: $margin-top;
-    margin-left: $margin-left;
-    border-bottom: $border-bottom;
-    height: $height;
-    background: $background;
-    border-radius: $border-radius;
-    border-width: $border-width;
-    font-family: $font-family;
-    font-style: $font-style;
-    font-weight: $font-weight;
-    font-size: $font-size;
-    line-height: $line-height;
-    color: $color;
 }
 
 // Global Settings // 
@@ -187,6 +154,38 @@
     & :global(.MuiButton-root){
         border-radius: 10px;
     }
+    & :global(.MuiAccordionSummary-root.MuiAccordionSummary-root){
+        margin-left: 0px;
+        // border-radius: 40px;
+        // margin: 0%;
+        // padding: 0%;
+        // width: 5px;
+        // height: 5px;
+    }
+    //MuiAccordion-root:before
+    & :global(.MuiAccordionSummary-content){
+        margin-left: 0px;
+        // border-radius: 10px;
+        // margin: 0%;
+        // padding: 0%;
+        // width: 5px;
+        // height: 5px;
+    }
+    & :global(.MuiAccordionSummary-root){
+        margin-left: 0px;
+        padding-left: 10px;
+        padding-right: 0px;
+        //padding-top: -10px;
+        // border-radius: 10px;
+        // margin: 0%;
+        // padding: 0%;
+        // width: 5px;
+        // height: 5px;
+    }
+    & :global(.Mui-expanded){
+        min-height: 0px;
+    }
+    
 }
 // Clases Globales // 
     // General //
@@ -195,10 +194,9 @@
             font-family: 'Poppins';
             font-style: normal;
             font-weight: 400;
-            font-size: 16px;
+            font-size: 12px;
             line-height: 24px;
             color: #003C70;
-
         }
         .unidadInputsColumn{
             display: flex;
@@ -215,9 +213,6 @@
                 display: flex;
                 margin-left: 300px;
             }
-            
-       
-
         }
         .unidadInputs{
             width: 950px;
@@ -228,10 +223,11 @@
             font-family: 'Poppins';
             font-style: normal;
             font-weight: 400;
-            font-size: 16px;
+            font-size: 15px;
             line-height: 24px;
             color: #003C70;
             margin-top: 16px; 
+            
             & :global(.MuiButtonBase-root){
                 background-color: #fff;
                 color: #003C70;
@@ -245,10 +241,18 @@
                 overflow-anchor: none;
                 border-radius: 0;
             }
+            .accordeonLetter{
+                margin-left: -3px;
+                margin-top: -14px;
+                padding-left: 1px;
+                padding-right: 0px;
+                padding-top: 0px;
+            }
         }
+            
             .uncontrolledInput{
                 display: inline-block;
-                min-width: 500px;
+                min-width: 300px;
                 margin-left: 10px;
                 margin-top: -4px;
                 color: #FAF9F9;
@@ -317,23 +321,13 @@
             border-radius: 6px;
          @include mainABMTitle();
                 h4{
-                    @include h4 (
-                        //$margin-bottom: 10px
-                    );
+                    @include h4 ();
                 }
                 h6{
                     @include h6 ();
                 }
         }
   // Body //
-.ggss{
-.centerSection{
-        /* .centerContainer{
-            margin-left: 238px;
-            margin-top: 74px;
-        } */
-    }
-}
 // Tablas Varias // 
         .abmTablasVarias{
                 .centerContainer{ 
@@ -354,24 +348,13 @@
             }
 // ------- registros --------------
 .registros{
-    // display: grid;
-    // grid-template-columns: 12 columns;
-   
     justify-content: columns;
-    .mainRegistros {
-        // display: grid;
-        // grid-template-columns: 12 columns;
-        //display: flex;
-        
-        }
         .centerSection {
-            // display: grid;
-            // grid-template-columns: 12 columns;
-            margin-top: 2px;
+            margin-top: -20px;
             margin-left: 200px;
             .checkboxRegistros {
                 display: flex;
-                margin-left: -180px;
+                margin-left: 8px;
                 & :global(.MuiButtonBase-root-MuiButton-root) {
                     margin-left: 8px;
                     cursor: pointer;
@@ -424,6 +407,31 @@
                         @include buttonCancelar();
                     }
                 }
+                .registrosButtonValidar{
+                    @include registrosButtonCancelar(
+                        $margin-left: -440px,
+                        $margin-top: -32px,
+                        $border-radius: 11px,
+                        $width: 82px,
+                        $height: 33px,
+                        $border: 1px solid #01427a,
+                    );
+                    svg {
+                        width: 18px;
+                        margin-top: 4px;
+                        margin-left: -2px;
+                        color: orangered;
+                     }
+                    picture {
+                        img {
+                            @include img();
+                        }
+                    }
+                    button {
+                        @include buttonCancelar();
+                    }
+                    
+                }
             }
         }
             .registrosButtons {
@@ -448,7 +456,7 @@
                         }
                     }
                     button {
-                        @include buttonCancelar();
+                        @include buttonCancelar( );
                     }
                 }
             }
@@ -511,7 +519,6 @@
                     @include buttonCancelar();
                 }
             }
-
             .extrasCrud {
                 @include listarCrud();
                 picture {
@@ -587,7 +594,6 @@
                     @include buttonCancelar();
                 }
             }
-
             .extrasCrud {
                 @include listarCrud();
                 picture {
@@ -615,8 +621,7 @@
             }
         }
     }
-//--------- Familia--------
-//-------Datos Familia--------//
+
 .divImage{
     border: solid gray 1px;
     margin-top: 50px;

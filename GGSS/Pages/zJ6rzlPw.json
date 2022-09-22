@@ -24,7 +24,8 @@
   "name": "text",
   "value": "text",
   "values": {
-    "Content": "Tipo y Nro Doc.:"
+    "Content": "Tipo y Nro Doc.:",
+    "className": ""
   },
   "parent": "aQza30cW",
   "prevent_delete": false,

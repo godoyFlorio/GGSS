@@ -1,9 +1,9 @@
 {
   "path": "div.tpl",
-  "completePath": "elements/Basic/div.tpl",
+  "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Basic\\div.tpl",
   "keyPath": "elements\\Basic\\div.tpl",
   "type": "element",
-  "unique_id": "aQza30cW",
+  "unique_id": "RQ5urCFa",
   "icon": "ico-div",
   "sourceType": "javascript",
   "options": [
@@ -26,33 +26,46 @@
       "options": ""
     },
     {
-      "name": "onclick",
-      "display": "On Click",
-      "type": "function",
+      "name": "style",
+      "display": "Extra Styles",
+      "type": "text",
       "options": ""
     },
     {
       "name": "ref",
       "display": "Use Reference",
       "type": "text",
-      "options": ""
+      "options": "",
+      "advanced": true
     },
     {
-      "name": "style",
-      "display": "Extra Styles",
+      "name": "onclick",
+      "display": "On Click",
+      "type": "function",
+      "options": "",
+      "advanced": true
+    },
+    {
+      "name": "tag",
+      "display": "Use a different HTML element",
       "type": "text",
-      "options": ""
+      "options": "",
+      "settings": {
+        "default": "div",
+        "active": true
+      },
+      "advanced": true
     }
   ],
   "helpText": "Basic HTML Div element",
-  "name": "Tipo y Nro Doc",
+  "name": "Buttons - Cancel / Select",
   "value": "div",
   "values": {
-    "class": "theme.title"
+    "class": "theme.registrosButtonValidar"
   },
-  "parent": "XVv6seiG",
+  "parent": "TB6o2W71",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "collapse",
+  "collapseStatus": "expand",
   "errored": false
 }

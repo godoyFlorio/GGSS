@@ -1,6 +1,6 @@
 {
-  "name": "paisSeleccionado",
   "unique_id": "iFC50eVB",
+  "name": "paisSeleccionado",
   "parent": "1TSSyMUi",
   "path": "useState.tpl",
   "completePath": "elements/Programming/useState.tpl",
@@ -11,5 +11,6 @@
   "values": {
     "variableName": "paisSeleccionado",
     "defaultValue": "[]"
-  }
+  },
+  "errored": false
 }

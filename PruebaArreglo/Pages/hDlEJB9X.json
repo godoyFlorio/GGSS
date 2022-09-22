@@ -1,6 +1,6 @@
 {
-  "name": "guardar en tabla",
   "unique_id": "hDlEJB9X",
+  "name": "guardar en tabla",
   "parent": "1TSSyMUi",
   "path": "function.tpl",
   "completePath": "elements\\Programming\\function.tpl",
@@ -11,5 +11,6 @@
   "values": {
     "functionName": "guardar",
     "functionBody": "console.log('tabla',tabla)"
-  }
+  },
+  "errored": false
 }

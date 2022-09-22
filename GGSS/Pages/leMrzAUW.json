@@ -1,0 +1,39 @@
+{
+  "path": "MaterialIcon.tpl",
+  "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\MaterialIcon.tpl",
+  "keyPath": "elements\\Material-UI\\MaterialIcon.tpl",
+  "type": "element",
+  "unique_id": "leMrzAUW",
+  "icon": "f:MaterialIcon.svg",
+  "helpText": "Shows a material icon from the list",
+  "options": [
+    {
+      "name": "icon",
+      "display": "Icon",
+      "type": "text",
+      "options": "Access"
+    },
+    {
+      "name": "color",
+      "display": "Color",
+      "type": "dropdown",
+      "options": "default;primary;secondary;action;disabled"
+    },
+    {
+      "name": "className",
+      "display": "className",
+      "type": "styles"
+    }
+  ],
+  "name": "MaterialIcon",
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "RQ5urCFa",
+  "value": "MaterialIcon",
+  "values": {
+    "icon": "KeyboardDoubleArrowRight",
+    "color": "primary"
+  },
+  "collapseStatus": "expand",
+  "errored": false
+}

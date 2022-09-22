@@ -1,6 +1,6 @@
 {
-  "name": "text",
   "unique_id": "GLHrZECp",
+  "name": "text",
   "parent": "leGeB5cT",
   "path": "text.tpl",
   "completePath": "elements\\Basic\\text.tpl",
@@ -10,5 +10,6 @@
   "value": "text",
   "values": {
     "Content": "() => { return aptugo.store.getState().application.tables.find(table => table.unique_id === \"kATr0zQs\").singleName + \" list\" }"
-  }
+  },
+  "errored": false
 }

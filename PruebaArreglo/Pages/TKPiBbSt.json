@@ -1,6 +1,6 @@
 {
-  "name": "Lang Strings Exist?",
   "unique_id": "TKPiBbSt",
+  "name": "Lang Strings Exist?",
   "parent": "ofAOFx9t",
   "path": "condition.tpl",
   "completePath": "elements/Programming/condition.tpl",
@@ -11,5 +11,6 @@
   "values": {
     "condition": "typeof langStrings !== 'undefined'",
     "useInCode": true
-  }
+  },
+  "errored": false
 }

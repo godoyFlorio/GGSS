@@ -1,6 +1,6 @@
 {
-  "name": "Aceptar",
   "unique_id": "2uKOag7U",
+  "name": "Aceptar",
   "parent": "whmLTcqM",
   "path": "button.tpl",
   "completePath": "elements\\Material-UI\\button.tpl",
@@ -13,5 +13,6 @@
     "Action": "grabarPopup()",
     "disabled": "",
     "Variant": "contained"
-  }
+  },
+  "errored": false
 }

@@ -3,7 +3,7 @@
   "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Basic\\div.tpl",
   "keyPath": "elements\\Basic\\div.tpl",
   "type": "element",
-  "unique_id": "KaXavDu4",
+  "unique_id": "8p9dEFDH",
   "icon": "ico-div",
   "sourceType": "javascript",
   "options": [
@@ -58,14 +58,15 @@
     }
   ],
   "helpText": "Basic HTML Div element",
-  "name": "Buttons",
-  "value": "div",
-  "values": {
-    "class": "theme.registrosButtonsPerfil"
-  },
+  "name": "div",
   "prevent_delete": false,
   "cascades": false,
-  "parent": "NB6Ov1Is",
+  "parent": "QuNrooKH",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.accordeonLetter"
+  },
   "collapseStatus": "expand",
   "errored": false
 }

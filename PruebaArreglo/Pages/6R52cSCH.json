@@ -1,11 +1,12 @@
 {
-  "name": "Title",
   "unique_id": "6R52cSCH",
+  "name": "Title",
   "parent": "XiOCPtPf",
   "path": "dialogTitle.tpl",
   "completePath": "elements/Material-UI/dialogTitle.tpl",
   "collapseStatus": "expand",
   "cascades": false,
   "type": "element",
-  "value": "dialogTitle"
+  "value": "dialogTitle",
+  "errored": false
 }

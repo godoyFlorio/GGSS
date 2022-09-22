@@ -1,6 +1,6 @@
 {
-  "name": "text",
   "unique_id": "OLizdxLI",
+  "name": "text",
   "parent": "6R52cSCH",
   "path": "text.tpl",
   "completePath": "elements\\Basic\\text.tpl",
@@ -10,5 +10,6 @@
   "value": "text",
   "values": {
     "Content": "¿Desea Eliminar este Registro?"
-  }
+  },
+  "errored": false
 }

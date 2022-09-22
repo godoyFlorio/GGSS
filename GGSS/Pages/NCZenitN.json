@@ -1,0 +1,34 @@
+{
+  "path": "ButtonWithIcon.tpl",
+  "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\ButtonWithIcon.tpl",
+  "keyPath": "elements\\Material-UI\\ButtonWithIcon.tpl",
+  "type": "element",
+  "unique_id": "NCZenitN",
+  "icon": "f:ButtonWithIcon.svg",
+  "helpText": "Shows a button with an icon",
+  "options": [
+    {
+      "name": "texto",
+      "display": "Texto del Boton",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "icon",
+      "display": "Icono",
+      "type": "dropdown",
+      "options": "Delete;Add;Plus"
+    }
+  ],
+  "name": "ButtonWithIcon",
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "EHsWcBqc",
+  "value": "ButtonWithIcon",
+  "values": {
+    "icon": "Plus",
+    "texto": "Validar"
+  },
+  "collapseStatus": "expand",
+  "errored": false
+}

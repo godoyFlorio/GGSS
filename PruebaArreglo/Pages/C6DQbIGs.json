@@ -1,6 +1,6 @@
 {
-  "name": "Variable data",
   "unique_id": "C6DQbIGs",
+  "name": "Variable data",
   "parent": "hDlEJB9X",
   "path": "defineVariable.tpl",
   "completePath": "elements\\Programming\\defineVariable.tpl",
@@ -12,5 +12,6 @@
     "variableName": "data",
     "variableValue": "[]",
     "willbeModified": true
-  }
+  },
+  "errored": false
 }

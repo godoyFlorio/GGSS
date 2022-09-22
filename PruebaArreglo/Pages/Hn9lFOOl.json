@@ -1,6 +1,6 @@
 {
-  "name": "Table Toolbar",
   "unique_id": "Hn9lFOOl",
+  "name": "Table Toolbar",
   "parent": "iT5wcsOq",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
@@ -10,5 +10,6 @@
   "value": "div",
   "values": {
     "class": "theme.tabletoolbar"
-  }
+  },
+  "errored": false
 }

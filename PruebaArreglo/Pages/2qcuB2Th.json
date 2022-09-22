@@ -1,6 +1,6 @@
 {
-  "name": "Editar",
   "unique_id": "2qcuB2Th",
+  "name": "Editar",
   "parent": "vSMfPPvc",
   "path": "button.tpl",
   "completePath": "elements\\Material-UI\\button.tpl",
@@ -13,5 +13,6 @@
     "Variant": "outlined",
     "icon": "Add",
     "Action": "{\nsetpaisSeleccionado(e.element)\nsetaccion('Editar')\nabrirPopup()\n}"
-  }
+  },
+  "errored": false
 }

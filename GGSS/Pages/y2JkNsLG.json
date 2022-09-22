@@ -24,9 +24,10 @@
   "name": "text",
   "value": "text",
   "values": {
-    "Content": "DNI"
+    "Content": "DNI",
+    "className": ""
   },
-  "parent": "QuNrooKH",
+  "parent": "8p9dEFDH",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand",

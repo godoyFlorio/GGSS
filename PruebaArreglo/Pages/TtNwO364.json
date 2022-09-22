@@ -1,6 +1,6 @@
 {
-  "name": "ID",
   "unique_id": "TtNwO364",
+  "name": "ID",
   "parent": "vSMfPPvc",
   "path": "field.tpl",
   "completePath": "elements\\Material-UI\\field.tpl",
@@ -11,6 +11,7 @@
   "values": {
     "Field": "useVar",
     "fieldVariable": "fieldData.ID",
-    "Type": "show"
-  }
+    "Type": "edit"
+  },
+  "errored": false
 }

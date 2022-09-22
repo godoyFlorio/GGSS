@@ -1,6 +1,6 @@
 {
-  "name": "Table Area",
   "unique_id": "iT5wcsOq",
+  "name": "Table Area",
   "parent": "FizAJcQx",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
@@ -10,5 +10,6 @@
   "value": "div",
   "values": {
     "class": "classes.tableResponsive"
-  }
+  },
+  "errored": false
 }

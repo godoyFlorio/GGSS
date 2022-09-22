@@ -64,7 +64,8 @@
   "parent": "K49pxTwF",
   "value": "div",
   "values": {
-    "tag": "div"
+    "tag": "div",
+    "class": "theme.accordeonLetter"
   },
   "collapseStatus": "expand",
   "errored": false

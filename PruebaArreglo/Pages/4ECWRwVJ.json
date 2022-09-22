@@ -1,6 +1,6 @@
 {
-  "name": "minutos",
   "unique_id": "4ECWRwVJ",
+  "name": "minutos",
   "parent": "vSMfPPvc",
   "path": "field.tpl",
   "completePath": "elements\\Material-UI\\field.tpl",
@@ -11,6 +11,7 @@
   "values": {
     "Field": "useVar",
     "fieldVariable": "fieldData.minutos",
-    "Type": "show"
-  }
+    "Type": "edit"
+  },
+  "errored": false
 }

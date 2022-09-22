@@ -1,6 +1,6 @@
 {
-  "name": "text",
   "unique_id": "sd4DNmFv",
+  "name": "text",
   "parent": "3Iw89Di5",
   "collapseStatus": "expand",
   "cascades": false,
@@ -8,5 +8,6 @@
   "value": "text",
   "values": {
     "Content": "Hello!"
-  }
+  },
+  "errored": false
 }

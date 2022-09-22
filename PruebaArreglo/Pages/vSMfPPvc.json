@@ -1,8 +1,8 @@
 {
+  "unique_id": "vSMfPPvc",
   "name": "vistaPaises",
   "originalName": "table",
   "calculatedName": "function (ele) { \n  try {\n    const tblname = aptugo.store.getState().application.tables.find(tbl => tbl.unique_id === ele.values.table).name\n    const calc = tblname + ' Table'\n    return calc\n  } catch(e) {\n    return 'Table'\n  }\n}",
-  "unique_id": "vSMfPPvc",
   "parent": "lUiokFop",
   "path": "table.tpl",
   "completePath": "elements\\Material-UI\\table.tpl",
@@ -18,5 +18,6 @@
     "variableToUse": "tabla.length ? tabla : (tabla as any)",
     "headerVariable": "['ID','Nombre','Minutos (por día)','Acciones']",
     "editProcedure": "Internal"
-  }
+  },
+  "errored": false
 }

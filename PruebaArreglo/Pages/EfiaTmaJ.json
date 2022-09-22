@@ -1,11 +1,12 @@
 {
-  "name": "Page Header",
   "unique_id": "EfiaTmaJ",
+  "name": "Page Header",
   "parent": "frvg2h5k",
   "path": "ph.tpl",
   "completePath": "elements/Aptugo Internal Use/ph.tpl",
   "collapseStatus": "expand",
   "cascades": false,
   "type": "element",
-  "value": "ph"
+  "value": "ph",
+  "errored": false
 }

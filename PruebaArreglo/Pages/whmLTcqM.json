@@ -1,11 +1,12 @@
 {
-  "name": "Actions",
   "unique_id": "whmLTcqM",
+  "name": "Actions",
   "parent": "XiOCPtPf",
   "path": "dialogActions.tpl",
   "completePath": "elements\\Material-UI\\dialogActions.tpl",
   "collapseStatus": "expand",
   "cascades": false,
   "type": "element",
-  "value": "dialogActions"
+  "value": "dialogActions",
+  "errored": false
 }

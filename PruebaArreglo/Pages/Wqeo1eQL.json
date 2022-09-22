@@ -1,6 +1,6 @@
 {
-  "name": "div",
   "unique_id": "Wqeo1eQL",
+  "name": "div",
   "parent": "GrKBVw3X",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
@@ -10,5 +10,6 @@
   "value": "div",
   "values": {
     "class": "theme.mainarea"
-  }
+  },
+  "errored": false
 }

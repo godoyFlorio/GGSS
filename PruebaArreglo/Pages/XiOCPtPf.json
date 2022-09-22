@@ -1,6 +1,6 @@
 {
-  "name": "pdEliminar",
   "unique_id": "XiOCPtPf",
+  "name": "pdEliminar",
   "parent": "wRXMzkHE",
   "path": "popupDialog.tpl",
   "completePath": "elements\\Material-UI\\popupDialog.tpl",
@@ -12,5 +12,6 @@
     "open": "modalEliminar",
     "onclose": "setmodalEliminar(false)",
     "maxWidth": "'sm'"
-  }
+  },
+  "errored": false
 }

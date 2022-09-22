@@ -1,6 +1,6 @@
 {
-  "name": "Head",
   "unique_id": "VRTlzQ5R",
+  "name": "Head",
   "parent": "MNiD3LXE",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
@@ -10,5 +10,6 @@
   "value": "div",
   "values": {
     "class": "theme.tableHeading"
-  }
+  },
+  "errored": false
 }
