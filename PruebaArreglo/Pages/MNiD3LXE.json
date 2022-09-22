@@ -1,0 +1,14 @@
+{
+  "name": "Container",
+  "unique_id": "MNiD3LXE",
+  "parent": "Wqeo1eQL",
+  "path": "Container.tpl",
+  "completePath": "elements\\Material-UI\\Container.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "Container",
+  "values": {
+    "maxWidth": "lg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Prepare Data minutos",
+  "unique_id": "t5EUrqci",
+  "parent": "hDlEJB9X",
+  "path": "prepareForSaving.tpl",
+  "completePath": "elements\\Programming\\Crud\\prepareForSaving.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "prepareForSaving",
+  "values": {
+    "table": "kATr0zQs",
+    "field": "eDmNlAuB",
+    "value": "tabla.minutos"
+  }
+}

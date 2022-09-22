@@ -1,0 +1,16 @@
+{
+  "name": "arrayOperation",
+  "unique_id": "MnTu4nRc",
+  "parent": "1TSSyMUi",
+  "path": "arrayOperation.tpl",
+  "completePath": "elements\\Programming\\Snippets\\arrayOperation.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "arrayOperation",
+  "values": {
+    "variableName": "prueba",
+    "operation": "Filter matching values",
+    "helperVariable": "prueba"
+  }
+}

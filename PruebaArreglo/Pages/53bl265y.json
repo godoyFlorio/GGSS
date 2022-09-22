@@ -1,0 +1,19 @@
+{
+  "name": "minutos",
+  "unique_id": "53bl265y",
+  "parent": "WT3ifcaQ",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "minutos",
+    "value": "{paisSeleccionado && paisSeleccionado.minutos || ''}",
+    "onChange": "handleChange",
+    "variant": "standard",
+    "fieldname": "minutos",
+    "type": "text"
+  }
+}

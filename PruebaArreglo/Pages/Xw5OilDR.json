@@ -1,0 +1,14 @@
+{
+  "name": "Text Content",
+  "unique_id": "Xw5OilDR",
+  "parent": "LPv1bKFf",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Países en los que la gente pasa más tiempo en redes sociales (2019)"
+  }
+}

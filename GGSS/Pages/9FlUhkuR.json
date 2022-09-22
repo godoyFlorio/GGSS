@@ -1,0 +1,27 @@
+{
+  "path": "code.tpl",
+  "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Programming\\code.tpl",
+  "keyPath": "elements\\Programming\\code.tpl",
+  "type": "element",
+  "unique_id": "9FlUhkuR",
+  "icon": "ico-code",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "code",
+      "display": "Code",
+      "type": "code",
+      "options": ""
+    }
+  ],
+  "name": "code",
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "0MfoGa3B",
+  "value": "code",
+  "values": {
+    "code": "$(document).ready(function () {\r\n    $('#example').DataTable();\r\n});"
+  },
+  "collapseStatus": "expand",
+  "errored": false
+}

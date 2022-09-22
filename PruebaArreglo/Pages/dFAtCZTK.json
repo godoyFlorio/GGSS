@@ -1,0 +1,15 @@
+{
+  "name": "abrirModalInsertar",
+  "unique_id": "dFAtCZTK",
+  "parent": "1TSSyMUi",
+  "path": "function.tpl",
+  "completePath": "elements\\Programming\\function.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "function",
+  "values": {
+    "functionBody": "//setpaisSeleccionado(null);\n//    setmodalInsertar(true);",
+    "functionName": "abrirModalInsertar"
+  }
+}

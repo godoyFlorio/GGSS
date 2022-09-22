@@ -1,0 +1,14 @@
+{
+  "name": "IconButton",
+  "unique_id": "ZdMQlzpc",
+  "parent": "4uS1itye",
+  "path": "IconButton.tpl",
+  "completePath": "elements\\Material-UI\\IconButton.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "IconButton",
+  "values": {
+    "icon": "Add"
+  }
+}

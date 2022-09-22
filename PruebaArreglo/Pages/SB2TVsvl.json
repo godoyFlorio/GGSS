@@ -1,0 +1,14 @@
+{
+  "name": "code",
+  "unique_id": "SB2TVsvl",
+  "parent": "q89hcT2F",
+  "path": "code.tpl",
+  "completePath": "elements\\Programming\\code.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "code",
+  "values": {
+    "code": "//prueba"
+  }
+}

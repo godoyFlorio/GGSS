@@ -1,0 +1,11 @@
+{
+  "name": "Language",
+  "unique_id": "zERT0pte",
+  "parent": "UugdfsCn",
+  "path": "dummyEncloser.tpl",
+  "completePath": "elements/Basic/dummyEncloser.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "dummyEncloser"
+}

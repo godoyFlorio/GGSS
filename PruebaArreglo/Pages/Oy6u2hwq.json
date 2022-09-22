@@ -1,0 +1,15 @@
+{
+  "name": "editar",
+  "unique_id": "Oy6u2hwq",
+  "parent": "1TSSyMUi",
+  "path": "function.tpl",
+  "completePath": "elements\\Programming\\function.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "function",
+  "values": {
+    "functionName": "editar",
+    "functionBody": "var dataNueva=data;\n    dataNueva.map(pais=>{\n      if(pais.id===paisSeleccionado.id){\n        pais.minutos=paisSeleccionado.minutos;\n        pais.nombre=paisSeleccionado.nombre;\n      }\n    });\n    setdata(dataNueva);\n    setmodalEditar(false);"
+  }
+}

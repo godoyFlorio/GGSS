@@ -1,0 +1,14 @@
+{
+  "name": "searchField",
+  "unique_id": "BTF2Qp5Z",
+  "parent": "Hn9lFOOl",
+  "path": "searchField.tpl",
+  "completePath": "elements\\Interact\\searchField.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "searchField",
+  "values": {
+    "table": "kATr0zQs"
+  }
+}

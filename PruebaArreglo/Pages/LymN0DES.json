@@ -1,0 +1,14 @@
+{
+  "name": "prueba",
+  "unique_id": "LymN0DES",
+  "parent": "im5nEwvu",
+  "path": "condition.tpl",
+  "completePath": "elements\\Programming\\condition.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "condition",
+  "values": {
+    "condition": "if (dialogPaisesAction === 'delete') {\n                          dispatch(removePais(data))\n                        } else {\n                          dialogPaisesAction === 'add' ? dispatch(addPaises(data)) : dispatch(editPaises(data))\n                        }"
+  }
+}

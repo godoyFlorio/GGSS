@@ -1,0 +1,17 @@
+{
+  "name": "Eliminar",
+  "unique_id": "v4J3l62D",
+  "parent": "A2yR30oh",
+  "path": "button.tpl",
+  "completePath": "elements\\Material-UI\\button.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "",
+    "Variant": "outlined",
+    "icon": "Clear",
+    "Action": "{\nsetpaisSeleccionado(e.element)\nsetaccion('Eliminar')\nabrirPopup()\n}"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ID",
+  "unique_id": "TtNwO364",
+  "parent": "vSMfPPvc",
+  "path": "field.tpl",
+  "completePath": "elements\\Material-UI\\field.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "field",
+  "values": {
+    "Field": "useVar",
+    "fieldVariable": "fieldData.ID",
+    "Type": "show"
+  }
+}

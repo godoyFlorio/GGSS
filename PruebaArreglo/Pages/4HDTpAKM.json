@@ -1,0 +1,17 @@
+{
+  "name": "Cancelar",
+  "unique_id": "4HDTpAKM",
+  "parent": "whmLTcqM",
+  "path": "button.tpl",
+  "completePath": "elements\\Material-UI\\button.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Cancelar",
+    "Variant": "outlined",
+    "icon": "Add",
+    "Action": "setmodalEliminar(false)"
+  }
+}

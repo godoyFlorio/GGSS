@@ -1,0 +1,11 @@
+{
+  "name": "muiTable",
+  "unique_id": "uew2RFMo",
+  "parent": "lUiokFop",
+  "path": "muiTable.tpl",
+  "completePath": "elements\\Experimental\\muiTable.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "muiTable"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "accion1",
+  "unique_id": "rfPRsgpT",
+  "parent": "1TSSyMUi",
+  "path": "defineVariable.tpl",
+  "completePath": "elements\\Programming\\defineVariable.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "defineVariable",
+  "values": {
+    "variableName": "accion1",
+    "variableValue": "''",
+    "willbeModified": false,
+    "serverSide": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "editar",
+  "unique_id": "p3kFsgqf",
+  "parent": "vSMfPPvc",
+  "path": "IconButton.tpl",
+  "completePath": "elements\\Material-UI\\IconButton.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "IconButton",
+  "values": {
+    "Action": "seleccionarPais(data,'Editar')",
+    "icon": "Add",
+    "iconstyle": "Rounded"
+  }
+}

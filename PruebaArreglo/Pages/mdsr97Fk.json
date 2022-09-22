@@ -1,0 +1,10 @@
+{
+  "unique_id": "mdsr97Fk",
+  "name": "Application Root",
+  "type": "page",
+  "subtype": "cascade",
+  "prevent_delete": true,
+  "path": "",
+  "parent": false,
+  "collapseStatus": "expand"
+}

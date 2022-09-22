@@ -1,0 +1,15 @@
+{
+  "name": "modalEliminar",
+  "unique_id": "l0HcLgFG",
+  "parent": "1TSSyMUi",
+  "path": "useState.tpl",
+  "completePath": "elements/Programming/useState.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "useState",
+  "values": {
+    "variableName": "modalEliminar",
+    "defaultValue": "false"
+  }
+}

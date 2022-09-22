@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "unique_id": "C7Trbtbo",
+  "parent": "WeRO0o8v",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Gestion de Paises (Agrega)"
+  }
+}

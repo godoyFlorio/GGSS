@@ -1,0 +1,11 @@
+{
+  "name": "dialogTitle",
+  "unique_id": "Emk0W3P3",
+  "parent": "FGC08A2G",
+  "path": "dialogTitle.tpl",
+  "completePath": "elements/Material-UI/dialogTitle.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "dialogTitle"
+}

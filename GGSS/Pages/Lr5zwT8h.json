@@ -72,7 +72,8 @@
   "values": {
     "fieldname": "usName",
     "variant": "standard",
-    "label": ""
+    "label": "",
+    "onChange": ""
   },
   "parent": "QRMo7rE9",
   "prevent_delete": false,

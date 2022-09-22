@@ -1,0 +1,16 @@
+{
+  "name": "Popup Minutos",
+  "unique_id": "DOltaVFW",
+  "parent": "WT3ifcaQ",
+  "path": "field.tpl",
+  "completePath": "elements\\Material-UI\\field.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "field",
+  "values": {
+    "Field": "useVar",
+    "fieldVariable": "fieldData.minutos",
+    "Type": "edit"
+  }
+}

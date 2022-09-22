@@ -1,0 +1,23 @@
+{
+  "name": "dialog",
+  "unique_id": "9VGaAmoP",
+  "parent": "Hn9lFOOl",
+  "path": "dialog.tpl",
+  "completePath": "elements\\Material-UI\\dialog.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "dialog",
+  "values": {
+    "addProcedure": "Internal",
+    "title": "Agregar Pais",
+    "introText": "() => { return \"Enter \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"kATr0zQs\").singleName + \" data\" }",
+    "color": "primary",
+    "table": "kATr0zQs",
+    "button": "Agregar",
+    "editButton": "Edit",
+    "editTitle": "() => { return \"Edit \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"kATr0zQs\").singleName }",
+    "editIntroText": "() => { return \"Update \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"kATr0zQs\").singleName + \" data\" }",
+    "hideButton": false
+  }
+}

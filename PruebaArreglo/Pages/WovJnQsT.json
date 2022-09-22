@@ -1,0 +1,16 @@
+{
+  "name": "defineVariable Grabacion",
+  "unique_id": "WovJnQsT",
+  "parent": "hDlEJB9X",
+  "path": "defineVariable.tpl",
+  "completePath": "elements\\Programming\\defineVariable.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "defineVariable",
+  "values": {
+    "variableName": "grabacion",
+    "variableValue": "{}",
+    "willbeModified": true
+  }
+}

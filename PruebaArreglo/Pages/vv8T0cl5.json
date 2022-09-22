@@ -1,0 +1,16 @@
+{
+  "name": "grabarPopup",
+  "unique_id": "vv8T0cl5",
+  "parent": "1TSSyMUi",
+  "path": "function.tpl",
+  "completePath": "elements\\Programming\\function.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "function",
+  "values": {
+    "functionName": "grabarPopup",
+    "functionParameters": "",
+    "functionBody": "let tablaNueva = tabla\n    switch (accion) {\n      case 'Insertar':\n        tablaNueva.push(paisSeleccionado)\n        settabla(tablaNueva)\n        setmodalInsertar(false)\n        break\n      case 'Editar':\n        tablaNueva.map((pais) => {\n          if (pais.id === paisSeleccionado.id) {\n            pais.minutos = paisSeleccionado.minutos\n            pais.nombre = paisSeleccionado.nombre\n          }\n        })\n        settabla(tablaNueva)\n        setmodalInsertar(false)\n        break\n      case 'Eliminar':\n        settabla(tabla.filter((pais) => pais.id !== paisSeleccionado.id))\n        setmodalEliminar(false)\n        break\n      default:\n      //            resultadoOperacion = 99;\n    }"
+  }
+}

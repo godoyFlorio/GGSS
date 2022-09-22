@@ -1,0 +1,19 @@
+{
+  "name": "id",
+  "unique_id": "1rwVQ7hU",
+  "parent": "WT3ifcaQ",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "value": "{paisSeleccionado && paisSeleccionado.id || ''}",
+    "type": "text",
+    "variant": "standard",
+    "onChange": "handleChange",
+    "label": "id",
+    "fieldname": "id"
+  }
+}

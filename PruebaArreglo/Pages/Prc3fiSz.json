@@ -1,0 +1,16 @@
+{
+  "name": "Prepare Data for Saving Id",
+  "unique_id": "Prc3fiSz",
+  "parent": "hDlEJB9X",
+  "path": "prepareForSaving.tpl",
+  "completePath": "elements\\Programming\\Crud\\prepareForSaving.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "prepareForSaving",
+  "values": {
+    "table": "kATr0zQs",
+    "field": "34mbrJ93",
+    "value": "tabla.id"
+  }
+}

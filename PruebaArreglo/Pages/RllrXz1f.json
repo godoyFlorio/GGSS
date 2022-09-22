@@ -1,0 +1,16 @@
+{
+  "name": "editar",
+  "unique_id": "RllrXz1f",
+  "parent": "vSMfPPvc",
+  "path": "IconButton.tpl",
+  "completePath": "elements\\Material-UI\\IconButton.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "IconButton",
+  "values": {
+    "Action": "abrirPopup('Editar')",
+    "icon": "Add",
+    "iconstyle": "Rounded"
+  }
+}

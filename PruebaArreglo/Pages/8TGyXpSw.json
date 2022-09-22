@@ -1,0 +1,15 @@
+{
+  "name": "insertar",
+  "unique_id": "8TGyXpSw",
+  "parent": "1TSSyMUi",
+  "path": "function.tpl",
+  "completePath": "elements\\Programming\\function.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "function",
+  "values": {
+    "functionBody": "var valorInsertar=paisSeleccionado;\n    valorInsertar.id=data[data.length-1].id+1;\n    var dataNueva = data;\n    dataNueva.push(valorInsertar);\n    setdata(dataNueva);\n    setmodalInsertar(false);",
+    "functionName": "insertar"
+  }
+}

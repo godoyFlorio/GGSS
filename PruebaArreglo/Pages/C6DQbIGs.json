@@ -1,0 +1,16 @@
+{
+  "name": "Variable data",
+  "unique_id": "C6DQbIGs",
+  "parent": "hDlEJB9X",
+  "path": "defineVariable.tpl",
+  "completePath": "elements\\Programming\\defineVariable.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "defineVariable",
+  "values": {
+    "variableName": "data",
+    "variableValue": "[]",
+    "willbeModified": true
+  }
+}

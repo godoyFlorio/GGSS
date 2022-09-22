@@ -1,0 +1,19 @@
+{
+  "name": "Insertar Arreglo",
+  "unique_id": "Opkg1TqD",
+  "parent": "lUiokFop",
+  "path": "button.tpl",
+  "completePath": "elements\\Material-UI\\button.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "Action": "setaccion('Insertar')\nabrirPopup()",
+    "ButtonText": "Insertar",
+    "Variant": "contained",
+    "Color": "default",
+    "fullWidth": true,
+    "icon": "Add"
+  }
+}

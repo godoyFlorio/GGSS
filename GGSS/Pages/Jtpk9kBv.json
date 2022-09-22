@@ -1,0 +1,56 @@
+{
+  "path": "function.tpl",
+  "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Programming\\function.tpl",
+  "keyPath": "elements\\Programming\\function.tpl",
+  "type": "element",
+  "unique_id": "Jtpk9kBv",
+  "icon": "ico-function",
+  "sourceType": "javascript",
+  "helpText": "Prepares a function to be called by other components and actions",
+  "options": [
+    {
+      "name": "functionName",
+      "display": "Function Name",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "functionParameters",
+      "display": "Parameters",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "functionBody",
+      "display": "Body",
+      "type": "function",
+      "options": ""
+    },
+    {
+      "name": "priority",
+      "display": "Priiority",
+      "type": "dropdown",
+      "options": "Normal;High;Low"
+    },
+    {
+      "name": "async",
+      "display": "Async",
+      "type": "checkbox",
+      "advanced": true,
+      "settings": {
+        "default": false
+      }
+    }
+  ],
+  "name": "function",
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "xJX5t8Zx",
+  "value": "function",
+  "values": {
+    "functionName": "",
+    "functionBody": "  (() => {\r\n    const updateButton = document.getElementById(\"updateDetails\");\r\n    const cancelButton = document.getElementById(\"cancel\");\r\n    const dialog = document.getElementById(\"favDialog\");\r\n    dialog.returnValue = \"favAnimal\";\r\n\r\n    function openCheck(dialog) {\r\n      if (dialog.open) {\r\n        console.log(\"Dialog open\");\r\n      } else {\r\n        console.log(\"Dialog closed\");\r\n      }\r\n    }\r\n\r\n    // Update button opens a modal dialog\r\n    updateButton.addEventListener(\"click\", () => {\r\n      dialog.showModal();\r\n      openCheck(dialog);\r\n    });\r\n\r\n    // Form cancel button closes the dialog box\r\n    cancelButton.addEventListener(\"click\", () => {\r\n      dialog.close(\"animalNotChosen\");\r\n      openCheck(dialog);\r\n    });\r\n  })();\r\n"
+  },
+  "collapseStatus": "expand",
+  "errored": false
+}

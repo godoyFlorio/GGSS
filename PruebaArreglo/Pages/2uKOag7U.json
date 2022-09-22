@@ -1,0 +1,17 @@
+{
+  "name": "Aceptar",
+  "unique_id": "2uKOag7U",
+  "parent": "whmLTcqM",
+  "path": "button.tpl",
+  "completePath": "elements\\Material-UI\\button.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Aceptar",
+    "Action": "grabarPopup()",
+    "disabled": "",
+    "Variant": "contained"
+  }
+}

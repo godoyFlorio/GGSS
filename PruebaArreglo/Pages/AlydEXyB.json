@@ -1,0 +1,17 @@
+{
+  "name": "Grabar",
+  "unique_id": "AlydEXyB",
+  "parent": "L5Drae0i",
+  "path": "button.tpl",
+  "completePath": "elements\\Material-UI\\button.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Grabar",
+    "Action": "editar()",
+    "Variant": "contained",
+    "icon": "Add"
+  }
+}

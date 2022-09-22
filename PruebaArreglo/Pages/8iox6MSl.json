@@ -1,0 +1,15 @@
+{
+  "name": "updateStateVariable",
+  "unique_id": "8iox6MSl",
+  "parent": "TKPiBbSt",
+  "path": "updateStateVariable.tpl",
+  "completePath": "elements\\Programming\\Snippets\\updateStateVariable.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "updateStateVariable",
+  "values": {
+    "variable": "lang",
+    "newvalue": "langStrings[localStorage.getItem('aptugolang') || 'en']"
+  }
+}

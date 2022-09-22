@@ -1,0 +1,14 @@
+{
+  "name": "Save to Paises",
+  "unique_id": "s8ZCao9m",
+  "parent": "hDlEJB9X",
+  "path": "saveToRedux.tpl",
+  "completePath": "elements\\Programming\\saveToRedux.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "saveToRedux",
+  "values": {
+    "data": "kATr0zQs"
+  }
+}

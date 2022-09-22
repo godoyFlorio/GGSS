@@ -1,0 +1,16 @@
+{
+  "name": "abrirPopup",
+  "unique_id": "BZZ9AmXT",
+  "parent": "1TSSyMUi",
+  "path": "function.tpl",
+  "completePath": "elements\\Programming\\function.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "function",
+  "values": {
+    "functionBody": "if (accion === 'Insertar') {\n      setpaisSeleccionado(null)\n      setmodalInsertar(true)\n    } else {\n      accion === 'Editar' ? setmodalInsertar(true) : setmodalEliminar(true)\n    }",
+    "functionParameters": "",
+    "functionName": "abrirPopup"
+  }
+}

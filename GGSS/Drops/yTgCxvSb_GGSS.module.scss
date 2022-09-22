@@ -163,8 +163,8 @@
     background: white;
     font-family: 'Poppins';
     & :global(.MuiFab-root){
-        top: -766px;
-        left: 879px;
+        //top: -766px;
+        //left: 879px;
         height: 1px;
         width: 1px;
         background: white;
@@ -201,15 +201,30 @@
 
         }
         .unidadInputsColumn{
-            margin-left: 200px;
-            align-items: center;
+            display: flex;
+            justify-content: columns;
+            .unidadInputsColumnEstado{
+                display: flex;
+                margin-left: 300px;
+            }
+            .uncontrolledInputEstado{
+                display: flex;
+                margin-left: 300px;
+            }
+            .checkboxRegistrosEstado{
+                display: flex;
+                margin-left: 300px;
+            }
+            
+       
 
         }
         .unidadInputs{
+            width: 950px;
             cursor: pointer;
             margin-top: -20px;
             display: flex;
-            width: auto;
+            //width: auto;
             font-family: 'Poppins';
             font-style: normal;
             font-weight: 400;
@@ -233,7 +248,7 @@
         }
             .uncontrolledInput{
                 display: inline-block;
-                min-width: 100px;
+                min-width: 500px;
                 margin-left: 10px;
                 margin-top: -4px;
                 color: #FAF9F9;
@@ -255,6 +270,7 @@
                     color: #e51313;
                 }
                 & :global(.MuiInput-root){
+                    width: 300px;
                     font-family: "Roboto","Helvetica","Arial",sans-serif;
                     font-weight: 400;
                     font-size: 1rem;
@@ -355,7 +371,7 @@
             margin-left: 200px;
             .checkboxRegistros {
                 display: flex;
-                margin-left: 20px;
+                margin-left: -180px;
                 & :global(.MuiButtonBase-root-MuiButton-root) {
                     margin-left: 8px;
                     cursor: pointer;
@@ -448,8 +464,8 @@
         }
         .crudBarSectionUp {
             display: flex;
-            margin-left: -105px;
-            padding-top: 23px;
+            margin-left: 200px;
+            padding-top: 0px;
             padding-bottom: 23px;
             .agregarCrud {
                 @include listarCrud();
@@ -524,7 +540,7 @@
         }
         .crudBarSection {
             display: flex;
-            margin-left: 850px;
+            margin-left: 200px;
             padding-top: 0px;
             padding-bottom: 23px;
             .agregarCrud {

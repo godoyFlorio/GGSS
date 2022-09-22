@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "unique_id": "RizmcWTc",
+  "parent": "nGQNPszE",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Editar"
+  }
+}

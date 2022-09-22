@@ -45,9 +45,9 @@
   "name": "function",
   "value": "function",
   "values": {
-    "functionName": "addDomicilios",
+    "functionName": "favAnimal",
     "functionParameters": "",
-    "functionBody": ""
+    "functionBody": "function openCheck(dialog) {\r\n      if (dialog.open) {\r\n        console.log(\"Dialog open\");\r\n      } else {\r\n        console.log(\"Dialog closed\");\r\n      }\r\n    }"
   },
   "prevent_delete": false,
   "cascades": false,

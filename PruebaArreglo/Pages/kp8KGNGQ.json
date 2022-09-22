@@ -1,0 +1,15 @@
+{
+  "name": "modalInsertar",
+  "unique_id": "kp8KGNGQ",
+  "parent": "1TSSyMUi",
+  "path": "useState.tpl",
+  "completePath": "elements/Programming/useState.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "useState",
+  "values": {
+    "variableName": "modalInsertar",
+    "defaultValue": "false"
+  }
+}

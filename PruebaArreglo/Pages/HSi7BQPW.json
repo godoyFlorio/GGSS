@@ -1,0 +1,11 @@
+{
+  "name": "Componentes Edicion",
+  "unique_id": "HSi7BQPW",
+  "parent": "1TSSyMUi",
+  "path": "dummyEncloser.tpl",
+  "completePath": "elements/Basic/dummyEncloser.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "dummyEncloser"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Componentes Eliminar",
+  "unique_id": "FSB8gV0S",
+  "parent": "1TSSyMUi",
+  "path": "dummyEncloser.tpl",
+  "completePath": "elements/Basic/dummyEncloser.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "dummyEncloser"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Content",
+  "unique_id": "WT3ifcaQ",
+  "parent": "fr70m9yO",
+  "path": "dialogContent.tpl",
+  "completePath": "elements\\Material-UI\\dialogContent.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "dialogContent"
+}

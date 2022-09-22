@@ -1,0 +1,18 @@
+{
+  "name": "Id",
+  "unique_id": "J94TZRxU",
+  "parent": "twGpx5I7",
+  "path": "uncontrolledInput.tpl",
+  "completePath": "elements\\Material-UI\\uncontrolledInput.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "Id",
+    "value": "{paisSeleccionado && paisSeleccionado.id || ''}",
+    "variant": "standard",
+    "fieldname": "ID",
+    "type": "text"
+  }
+}

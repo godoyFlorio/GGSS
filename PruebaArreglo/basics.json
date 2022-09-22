@@ -1,0 +1,39 @@
+{
+  "_id": "tEzJHVXvd7VGg8vQ",
+  "createdAt": 1651592062087,
+  "modifiedAt": 1653438765956,
+  "lastSaved": 1653438765949,
+  "settings": {
+    "name": "PruebaArreglo",
+    "description": "No description given",
+    "development": {
+      "type": "Local",
+      "url": "https://pruebaarreglo_.aptugo.com",
+      "folder": "PruebaArreglo",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "http://127.0.0.1:4567",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/",
+      "variables": ""
+    },
+    "stagging": {
+      "type": "Local",
+      "url": "https://pruebaarreglo_.aptugo.com",
+      "folder": "PruebaArreglo_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "https://PruebaArreglo_ingaudisiohotmailcom.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/",
+      "variables": ""
+    },
+    "production": {
+      "type": "Remote (Aptugo)",
+      "url": "https://pruebaarreglo_ingaudisiohotmailcom.aptugo.app",
+      "folder": "PruebaArreglo",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "https://pruebaarreglo_ingaudisiohotmailcom.backend.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/pruebaarreglo",
+      "variables": ""
+    },
+    "lastSaved": null,
+    "lastBuild": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "handleChange",
+  "unique_id": "vlEhBrQq",
+  "parent": "1TSSyMUi",
+  "path": "function.tpl",
+  "completePath": "elements\\Programming\\function.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "function",
+  "values": {
+    "functionName": "handleChange",
+    "functionBody": "{\n    const {name, value}=e.target;\n    setpaisSeleccionado((prevState)=>({\n      ...prevState,\n      [name]: value\n    }));\n  }",
+    "functionParameters": "e"
+  }
+}

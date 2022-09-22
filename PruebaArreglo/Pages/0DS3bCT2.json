@@ -1,0 +1,16 @@
+{
+  "name": "seleccionarPais",
+  "unique_id": "0DS3bCT2",
+  "parent": "1TSSyMUi",
+  "path": "function.tpl",
+  "completePath": "elements\\Programming\\function.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "function",
+  "values": {
+    "functionName": "seleccionarPais",
+    "functionParameters": "elemento, caso",
+    "functionBody": "setpaisSeleccionado(elemento);\n(caso==='Editar')?setmodalEditar(true):setmodalEliminar(true)"
+  }
+}

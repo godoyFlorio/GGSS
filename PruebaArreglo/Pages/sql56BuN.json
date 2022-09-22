@@ -1,0 +1,15 @@
+{
+  "name": "Tabla",
+  "unique_id": "sql56BuN",
+  "parent": "1TSSyMUi",
+  "path": "useState.tpl",
+  "completePath": "elements/Programming/useState.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "useState",
+  "values": {
+    "variableName": "tabla",
+    "defaultValue": "[]"
+  }
+}

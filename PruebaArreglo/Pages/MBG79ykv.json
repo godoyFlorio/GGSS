@@ -1,0 +1,15 @@
+{
+  "name": "initialDataPaises",
+  "unique_id": "MBG79ykv",
+  "parent": "1TSSyMUi",
+  "path": "defineVariable.tpl",
+  "completePath": "elements\\Programming\\defineVariable.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "defineVariable",
+  "values": {
+    "variableName": "initialDataPaises",
+    "variableValue": "[{\n    id: '',\n    nombre: '',\n    minutos: '',\n  }]"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Actions",
+  "unique_id": "L5Drae0i",
+  "parent": "FGC08A2G",
+  "path": "dialogActions.tpl",
+  "completePath": "elements\\Material-UI\\dialogActions.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "dialogActions"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Actions",
+  "unique_id": "im5nEwvu",
+  "parent": "fr70m9yO",
+  "path": "dialogActions.tpl",
+  "completePath": "elements\\Material-UI\\dialogActions.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "dialogActions"
+}
