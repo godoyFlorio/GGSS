@@ -62,7 +62,7 @@
   "value": "div",
   "values": {
     "tag": "div",
-    "class": "theme.uncontrolledInput"
+    "class": "theme.uncontrolledInputApellido"
   },
   "prevent_delete": false,
   "cascades": false,

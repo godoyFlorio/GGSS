@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 //Variables standarized
+
 @mixin registrosButtonCancelar (
     $display: flex,
     $margin-right: 24px,
@@ -241,6 +242,10 @@
                 overflow-anchor: none;
                 border-radius: 0;
             }
+
+            .legajoInput{
+                margin-left: 57px;
+            }
             .accordeonLetter{
                 margin-left: -3px;
                 margin-top: -14px;
@@ -295,6 +300,480 @@
                     position: relative;
                 }
         }
+    //------------- ACOMODAR CON VARIABLES -----------------------//
+        .uncontrolledInputLegajo{
+            display: inline-block;
+            min-width: 300px;
+            margin-left: 10px;
+            margin-top: -4px;
+            color: #FAF9F9;
+            & :global(.MuiOutlinedInput-root){
+                margin-top: -20px;
+                background-color: #FAF9F9;
+                border-radius: 10px;
+                height: 40px;
+                margin-bottom: 42px;
+                color: #FA6100;
+            }
+            & :global(.MuiInputLabel-root){
+                margin-top: -20px;
+                font-family: 'Poppins';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 17px;
+                color: #e51313;
+            }
+            & :global(.MuiInput-root){
+                margin-left: 49px;
+                width: 300px;
+                font-family: "Roboto","Helvetica","Arial",sans-serif;
+                font-weight: 400;
+                font-size: 1rem;
+                line-height: 1.4375em;
+                letter-spacing: 0.00938em;
+                color: #0b0070;
+                box-sizing: border-box;
+                position: relative;
+                cursor: text;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                position: relative;
+            }
+        }
+        .uncontrolledInputApellido{
+            display: inline-block;
+            min-width: 300px;
+            margin-left: 10px;
+            margin-top: -4px;
+            color: #FAF9F9;
+            & :global(.MuiOutlinedInput-root){
+                margin-top: -20px;
+                background-color: #FAF9F9;
+                border-radius: 10px;
+                height: 40px;
+                margin-bottom: 42px;
+                color: #FA6100;
+                
+            }
+            & :global(.MuiInputLabel-root){
+                margin-top: -20px;
+                font-family: 'Poppins';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 17px;
+                color: #e51313;
+            }
+            & :global(.MuiInput-root){
+                margin-left: 39px;
+                width: 300px;
+                font-family: "Roboto","Helvetica","Arial",sans-serif;
+                font-weight: 400;
+                font-size: 1rem;
+                line-height: 1.4375em;
+                letter-spacing: 0.00938em;
+                color: #0b0070;
+                box-sizing: border-box;
+                position: relative;
+                cursor: text;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                position: relative;
+            }
+        }
+        .uncontrolledInputCUIL{
+            display: inline-block;
+            min-width: 300px;
+            margin-left: 10px;
+            margin-top: -4px;
+            color: #FAF9F9;
+            & :global(.MuiOutlinedInput-root){
+                margin-top: -20px;
+                background-color: #FAF9F9;
+                border-radius: 10px;
+                height: 40px;
+                margin-bottom: 42px;
+                color: #FA6100;
+                
+            }
+            & :global(.MuiInputLabel-root){
+                margin-top: -20px;
+                font-family: 'Poppins';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 17px;
+                color: #e51313;
+            }
+            & :global(.MuiInput-root){
+                margin-left: 57px;
+                width: 300px;
+                font-family: "Roboto","Helvetica","Arial",sans-serif;
+                font-weight: 400;
+                font-size: 1rem;
+                line-height: 1.4375em;
+                letter-spacing: 0.00938em;
+                color: #0b0070;
+                box-sizing: border-box;
+                position: relative;
+                cursor: text;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                position: relative;
+            }
+        }
+        .uncontrolledInputTel{
+            display: inline-block;
+            min-width: 300px;
+            margin-left: 10px;
+            margin-top: -4px;
+            color: #FAF9F9;
+            & :global(.MuiOutlinedInput-root){
+                margin-top: -20px;
+                background-color: #FAF9F9;
+                border-radius: 10px;
+                height: 40px;
+                margin-bottom: 42px;
+                color: #FA6100;
+                
+            }
+            & :global(.MuiInputLabel-root){
+                margin-top: -20px;
+                font-family: 'Poppins';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 17px;
+                color: #e51313;
+            }
+            & :global(.MuiInput-root){
+                margin-left: 12px;
+                width: 300px;
+                font-family: "Roboto","Helvetica","Arial",sans-serif;
+                font-weight: 400;
+                font-size: 1rem;
+                line-height: 1.4375em;
+                letter-spacing: 0.00938em;
+                color: #0b0070;
+                box-sizing: border-box;
+                position: relative;
+                cursor: text;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                position: relative;
+            }
+        }
+        .uncontrolledInputEmail{
+            display: inline-block;
+            min-width: 300px;
+            margin-left: 10px;
+            margin-top: -4px;
+            color: #FAF9F9;
+            & :global(.MuiOutlinedInput-root){
+                margin-top: -20px;
+                background-color: #FAF9F9;
+                border-radius: 10px;
+                height: 40px;
+                margin-bottom: 42px;
+                color: #FA6100;
+                
+            }
+            & :global(.MuiInputLabel-root){
+                margin-top: -20px;
+                font-family: 'Poppins';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 17px;
+                color: #e51313;
+            }
+            & :global(.MuiInput-root){
+                margin-left: 53px;
+                width: 300px;
+                font-family: "Roboto","Helvetica","Arial",sans-serif;
+                font-weight: 400;
+                font-size: 1rem;
+                line-height: 1.4375em;
+                letter-spacing: 0.00938em;
+                color: #0b0070;
+                box-sizing: border-box;
+                position: relative;
+                cursor: text;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                position: relative;
+            }
+        }
+        .uncontrolledInputEstCivil{
+            display: inline-block;
+            min-width: 300px;
+            margin-left: 10px;
+            margin-top: -4px;
+            color: #FAF9F9;
+            & :global(.MuiOutlinedInput-root){
+                margin-top: -20px;
+                background-color: #FAF9F9;
+                border-radius: 10px;
+                height: 40px;
+                margin-bottom: 42px;
+                color: #FA6100;
+                
+            }
+            & :global(.MuiInputLabel-root){
+                margin-top: -20px;
+                font-family: 'Poppins';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 17px;
+                color: #e51313;
+            }
+            & :global(.MuiInput-root){
+                margin-left: 16px;
+                width: 300px;
+                font-family: "Roboto","Helvetica","Arial",sans-serif;
+                font-weight: 400;
+                font-size: 1rem;
+                line-height: 1.4375em;
+                letter-spacing: 0.00938em;
+                color: #0b0070;
+                box-sizing: border-box;
+                position: relative;
+                cursor: text;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                position: relative;
+            }
+        }
+        .uncontrolledInputPaisOr{
+            display: inline-block;
+            min-width: 300px;
+            margin-left: 10px;
+            margin-top: -4px;
+            color: #FAF9F9;
+            & :global(.MuiOutlinedInput-root){
+                margin-top: -20px;
+                background-color: #FAF9F9;
+                border-radius: 10px;
+                height: 40px;
+                margin-bottom: 42px;
+                color: #FA6100;
+                
+            }
+            & :global(.MuiInputLabel-root){
+                margin-top: -20px;
+                font-family: 'Poppins';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 17px;
+                color: #e51313;
+            }
+            & :global(.MuiInput-root){
+                margin-left: -4px;
+                width: 300px;
+                font-family: "Roboto","Helvetica","Arial",sans-serif;
+                font-weight: 400;
+                font-size: 1rem;
+                line-height: 1.4375em;
+                letter-spacing: 0.00938em;
+                color: #0b0070;
+                box-sizing: border-box;
+                position: relative;
+                cursor: text;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                position: relative;
+            }
+        }
+        .uncontrolledInputEstudios{
+            display: inline-block;
+            min-width: 300px;
+            margin-left: 10px;
+            margin-top: -4px;
+            color: #FAF9F9;
+            & :global(.MuiOutlinedInput-root){
+                margin-top: -20px;
+                background-color: #FAF9F9;
+                border-radius: 10px;
+                height: 40px;
+                margin-bottom: 42px;
+                color: #FA6100;
+                
+            }
+            & :global(.MuiInputLabel-root){
+                margin-top: -20px;
+                font-family: 'Poppins';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 17px;
+                color: #e51313;
+            }
+            & :global(.MuiInput-root){
+                margin-left: 39px;
+                width: 300px;
+                font-family: "Roboto","Helvetica","Arial",sans-serif;
+                font-weight: 400;
+                font-size: 1rem;
+                line-height: 1.4375em;
+                letter-spacing: 0.00938em;
+                color: #0b0070;
+                box-sizing: border-box;
+                position: relative;
+                cursor: text;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                position: relative;
+            }
+        }
+        .uncontrolledInputMovil{
+            display: inline-block;
+            min-width: 300px;
+            margin-left: 10px;
+            margin-top: -4px;
+            color: #FAF9F9;
+            & :global(.MuiOutlinedInput-root){
+                margin-top: -20px;
+                background-color: #FAF9F9;
+                border-radius: 10px;
+                height: 40px;
+                margin-bottom: 42px;
+                color: #FA6100;
+                
+            }
+            & :global(.MuiInputLabel-root){
+                margin-top: -20px;
+                font-family: 'Poppins';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 17px;
+                color: #e51313;
+            }
+            & :global(.MuiInput-root){
+                margin-left: 27px;
+                width: 300px;
+                font-family: "Roboto","Helvetica","Arial",sans-serif;
+                font-weight: 400;
+                font-size: 1rem;
+                line-height: 1.4375em;
+                letter-spacing: 0.00938em;
+                color: #0b0070;
+                box-sizing: border-box;
+                position: relative;
+                cursor: text;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                position: relative;
+            }
+        }
+        .uncontrolledInputEstadoPersonales{
+            display: inline-block;
+            min-width: 300px;
+            margin-left: 10px;
+            margin-top: -4px;
+            color: #FAF9F9;
+            & :global(.MuiOutlinedInput-root){
+                margin-top: -20px;
+                background-color: #FAF9F9;
+                border-radius: 10px;
+                height: 40px;
+                margin-bottom: 42px;
+                color: #FA6100;
+                
+            }
+            & :global(.MuiInputLabel-root){
+                margin-top: -20px;
+                font-family: 'Poppins';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 17px;
+                color: #e51313;
+            }
+            & :global(.MuiInput-root){
+                margin-left: 15px;
+                width: 300px;
+                font-family: "Roboto","Helvetica","Arial",sans-serif;
+                font-weight: 400;
+                font-size: 1rem;
+                line-height: 1.4375em;
+                letter-spacing: 0.00938em;
+                color: #0b0070;
+                box-sizing: border-box;
+                position: relative;
+                cursor: text;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                position: relative;
+            }
+        }
+        
+        
+
+    //------------- ACOMODAR CON VARIABLES -----------------------//    
         .obsInputs {
             width: 647px;
             font-family: 'Poppins';
@@ -765,3 +1244,4 @@
     border-radius: 5px;
     box-shadow: 2px 2px 4px #00327067;
 }
+
