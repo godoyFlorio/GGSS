@@ -1,9 +1,9 @@
 {
-  "unique_id": "o4TSiT07",
   "path": "button.tpl",
   "completePath": "elements\\Material-UI\\button.tpl",
   "keyPath": "elements\\Material-UI\\button.tpl",
   "type": "element",
+  "unique_id": "o4TSiT07",
   "icon": "ico-button",
   "options": [
     {

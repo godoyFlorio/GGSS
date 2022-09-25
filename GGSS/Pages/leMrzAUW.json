@@ -1,9 +1,9 @@
 {
-  "unique_id": "leMrzAUW",
   "path": "MaterialIcon.tpl",
   "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\MaterialIcon.tpl",
   "keyPath": "elements\\Material-UI\\MaterialIcon.tpl",
   "type": "element",
+  "unique_id": "leMrzAUW",
   "icon": "f:MaterialIcon.svg",
   "helpText": "Shows a material icon from the list",
   "options": [

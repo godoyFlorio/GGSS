@@ -3,7 +3,7 @@
   "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Basic\\text.tpl",
   "keyPath": "elements\\Basic\\text.tpl",
   "type": "element",
-  "unique_id": "ABnkoMnS",
+  "unique_id": "fAnIuMcW",
   "icon": "ico-text",
   "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
   "sourceType": "javascript",
@@ -21,14 +21,14 @@
       "options": ""
     }
   ],
-  "name": "text",
+  "name": "Foto",
   "value": "text",
-  "values": {
-    "Content": "Número:"
-  },
-  "parent": "zF4vcglc",
+  "parent": "Z3MQeKb9",
   "prevent_delete": false,
   "cascades": false,
+  "values": {
+    "Content": "Foto"
+  },
   "collapseStatus": "expand",
   "errored": false
 }

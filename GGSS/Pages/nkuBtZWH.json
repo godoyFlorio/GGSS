@@ -1,9 +1,9 @@
 {
-  "unique_id": "nkuBtZWH",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
   "keyPath": "elements\\Basic\\div.tpl",
   "type": "element",
+  "unique_id": "nkuBtZWH",
   "icon": "ico-div",
   "sourceType": "javascript",
   "options": [

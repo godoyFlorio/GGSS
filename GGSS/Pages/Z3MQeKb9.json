@@ -1,8 +1,8 @@
 {
   "path": "typography.tpl",
-  "completePath": "elements/Material-UI/typography.tpl",
+  "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\typography.tpl",
   "keyPath": "elements\\Material-UI\\typography.tpl",
-  "unique_id": "v4ecgsv4",
+  "unique_id": "Z3MQeKb9",
   "icon": "ico-typography",
   "helpText": "Renders different typographic html elements",
   "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
@@ -21,14 +21,15 @@
     }
   ],
   "name": "typography",
+  "originalName": "typography",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "QryodI8P",
   "value": "typography",
   "values": {
     "tag": "h4"
   },
-  "type": "element",
-  "parent": "wDz6rV16",
-  "prevent_delete": false,
-  "cascades": false,
   "collapseStatus": "expand",
   "errored": false
 }
