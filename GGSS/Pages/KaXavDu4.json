@@ -66,6 +66,6 @@
   "prevent_delete": false,
   "cascades": false,
   "parent": "NB6Ov1Is",
-  "collapseStatus": "expand",
+  "collapseStatus": "collapse",
   "errored": false
 }

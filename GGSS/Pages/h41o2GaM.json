@@ -129,6 +129,6 @@
     "smallcolumns": "6",
     "midcolumns": "6"
   },
-  "collapseStatus": "collapse",
+  "collapseStatus": "expand",
   "errored": false
 }

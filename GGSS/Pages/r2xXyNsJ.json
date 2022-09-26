@@ -53,6 +53,6 @@
   "parent": "h41o2GaM",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand",
+  "collapseStatus": "collapse",
   "errored": false
 }

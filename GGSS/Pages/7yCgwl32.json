@@ -62,7 +62,7 @@
   "value": "div",
   "values": {
     "tag": "div",
-    "class": "theme.uncontrolledInput"
+    "class": "theme.uncontrolledInputPaisOr"
   },
   "parent": "L1WOGn1N",
   "prevent_delete": false,
