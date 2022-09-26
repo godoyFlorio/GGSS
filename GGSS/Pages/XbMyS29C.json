@@ -131,7 +131,8 @@
     "smallcolumns": "12",
     "midcolumns": "12",
     "extrasmallcolumns": "12",
-    "largecolumns": "12"
+    "largecolumns": "12",
+    "direction": "column"
   },
   "collapseStatus": "expand",
   "errored": false

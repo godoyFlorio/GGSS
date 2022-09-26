@@ -1,0 +1,16 @@
+{
+  "name": "Predeterminado",
+  "value": "radio",
+  "values": {
+    "label": "Predeterminado",
+    "value": "{usName}"
+  },
+  "type": "element",
+  "path": "radio.tpl",
+  "parent": "Dw7JQMS7",
+  "unique_id": "nMhdyyQE",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

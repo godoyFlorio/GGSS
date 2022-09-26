@@ -64,9 +64,9 @@
     "tag": "div",
     "class": "theme.uncontrolledInputEstadoPersonales"
   },
-  "parent": "TdLNVMUN",
+  "parent": "hrNdgZAT",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "expand",
+  "collapseStatus": "collapse",
   "errored": false
 }

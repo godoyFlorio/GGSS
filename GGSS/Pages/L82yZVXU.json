@@ -1,0 +1,17 @@
+{
+  "name": "uncontrolledInput",
+  "value": "uncontrolledInput",
+  "values": {
+    "fieldname": "usName",
+    "variant": "standard",
+    "label": ""
+  },
+  "type": "element",
+  "path": "uncontrolledInput.tpl",
+  "parent": "PXplt3HN",
+  "unique_id": "L82yZVXU",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

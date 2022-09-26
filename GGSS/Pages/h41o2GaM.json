@@ -126,9 +126,9 @@
   "value": "grid",
   "values": {
     "item": true,
-    "smallcolumns": "6",
-    "midcolumns": "6"
+    "smallcolumns": "4",
+    "midcolumns": "4"
   },
-  "collapseStatus": "expand",
+  "collapseStatus": "collapse",
   "errored": false
 }

@@ -1,0 +1,17 @@
+{
+  "name": "...",
+  "value": "button",
+  "values": {
+    "ButtonText": "...",
+    "Color": "primary",
+    "Variant": "outlined"
+  },
+  "type": "element",
+  "path": "button.tpl",
+  "parent": "r9Wcx7pn",
+  "unique_id": "QmHc0xpt",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

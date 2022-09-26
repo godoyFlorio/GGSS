@@ -61,7 +61,7 @@
   "name": "CheckBox",
   "value": "div",
   "values": {
-    "class": "theme.checkboxRegistros"
+    "class": "theme.checkboxPaisOr"
   },
   "prevent_delete": false,
   "cascades": false,

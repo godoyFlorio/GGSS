@@ -61,11 +61,11 @@
   "name": "Nacimiento",
   "value": "div",
   "values": {
-    "class": "theme.unidadInputsColumn"
+    "class": "theme.unidadInputsColumnNacimiento"
   },
   "parent": "EHsWcBqc",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "collapse",
+  "collapseStatus": "expand",
   "errored": false
 }

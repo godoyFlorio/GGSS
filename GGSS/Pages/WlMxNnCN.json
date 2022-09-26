@@ -1,0 +1,15 @@
+{
+  "name": "Buttons - Cancel / Select",
+  "value": "div",
+  "values": {
+    "class": "theme.registrosButtonAceptar"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "tGp00KPF",
+  "unique_id": "WlMxNnCN",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

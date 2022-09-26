@@ -1,0 +1,16 @@
+{
+  "name": "Tabla",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.espacioTablaFamilia"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "muT1M2p1",
+  "unique_id": "m594ml4f",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

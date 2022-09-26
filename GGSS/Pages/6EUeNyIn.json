@@ -67,6 +67,6 @@
     "tag": "div",
     "class": "theme.uncontrolledInput"
   },
-  "collapseStatus": "collapse",
+  "collapseStatus": "expand",
   "errored": false
 }

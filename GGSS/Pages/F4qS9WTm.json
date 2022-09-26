@@ -127,8 +127,8 @@
   "values": {
     "className": "theme.centerSection",
     "item": true,
-    "smallcolumns": "6",
-    "midcolumns": "6",
+    "smallcolumns": "12",
+    "midcolumns": "12",
     "container": false
   },
   "collapseStatus": "expand",

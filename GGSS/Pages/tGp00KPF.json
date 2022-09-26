@@ -1,0 +1,15 @@
+{
+  "name": "Buttons",
+  "value": "div",
+  "values": {
+    "class": "theme.registrosButtons"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "muT1M2p1",
+  "unique_id": "tGp00KPF",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

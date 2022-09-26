@@ -1,0 +1,16 @@
+{
+  "name": "uncontrolledInput",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.uncontrolledInputEstudios"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "Q5z8aTxJ",
+  "unique_id": "6QoWrV2B",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

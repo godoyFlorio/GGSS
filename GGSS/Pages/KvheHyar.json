@@ -50,9 +50,9 @@
   "values": {
     "class": "theme.divPerfil"
   },
-  "parent": "NB6Ov1Is",
+  "parent": "XF2Mam0E",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "collapse",
+  "collapseStatus": "expand",
   "errored": false
 }

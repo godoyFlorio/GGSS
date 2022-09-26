@@ -1,0 +1,17 @@
+{
+  "name": "grid",
+  "value": "grid",
+  "values": {
+    "item": true,
+    "smallcolumns": "4",
+    "midcolumns": "4"
+  },
+  "path": "grid.tpl",
+  "unique_id": "muT1M2p1",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "F4qS9WTm",
+  "collapseStatus": "collapse",
+  "errored": false
+}

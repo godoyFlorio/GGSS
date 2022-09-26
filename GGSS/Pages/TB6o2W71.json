@@ -61,7 +61,7 @@
   "name": "Buttons",
   "value": "div",
   "values": {
-    "class": "theme.registrosButtonsPerfil"
+    "class": "theme.validarButtonsCuil"
   },
   "prevent_delete": false,
   "cascades": false,
