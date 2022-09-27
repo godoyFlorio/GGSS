@@ -1,0 +1,15 @@
+{
+  "name": "button",
+  "value": "button",
+  "values": {
+    "ButtonText": "Imprimir Resumen Legajo Empleado"
+  },
+  "type": "element",
+  "path": "button.tpl",
+  "parent": "NcHhIMzx",
+  "unique_id": "yFdAv6NZ",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

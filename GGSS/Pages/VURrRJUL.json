@@ -1,0 +1,15 @@
+{
+  "name": "button",
+  "value": "button",
+  "values": {
+    "ButtonText": "Imprimir Constancia de Asignaciones Familiares"
+  },
+  "type": "element",
+  "path": "button.tpl",
+  "parent": "r9phAl6H",
+  "unique_id": "VURrRJUL",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

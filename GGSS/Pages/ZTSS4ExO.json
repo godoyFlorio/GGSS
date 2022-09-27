@@ -1,0 +1,15 @@
+{
+  "name": "button",
+  "value": "button",
+  "values": {
+    "ButtonText": "Licencias/Franquicias"
+  },
+  "type": "element",
+  "path": "button.tpl",
+  "parent": "oXB8USCG",
+  "unique_id": "ZTSS4ExO",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

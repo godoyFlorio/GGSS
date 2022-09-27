@@ -1,0 +1,15 @@
+{
+  "name": "button",
+  "value": "button",
+  "values": {
+    "ButtonText": "Imprimir Ficha Empleado"
+  },
+  "type": "element",
+  "path": "button.tpl",
+  "parent": "ttoIilt9",
+  "unique_id": "QgOpBMmU",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

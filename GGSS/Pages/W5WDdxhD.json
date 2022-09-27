@@ -1,0 +1,15 @@
+{
+  "name": "Salir",
+  "value": "div",
+  "values": {
+    "class": "theme.salidaCrud"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "ZR8aGHhl",
+  "unique_id": "W5WDdxhD",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

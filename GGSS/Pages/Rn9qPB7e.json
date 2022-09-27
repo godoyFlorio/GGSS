@@ -1,9 +1,9 @@
 {
-  "unique_id": "Rn9qPB7e",
   "path": "div.tpl",
   "completePath": "C:\\Users\\Ines\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Basic\\div.tpl",
   "keyPath": "elements\\Basic\\div.tpl",
   "type": "element",
+  "unique_id": "Rn9qPB7e",
   "icon": "ico-div",
   "sourceType": "javascript",
   "options": [
@@ -62,7 +62,7 @@
   "value": "div",
   "values": {
     "tag": "div",
-    "class": ""
+    "class": "theme.inputRightFamilia"
   },
   "prevent_delete": false,
   "cascades": false,
