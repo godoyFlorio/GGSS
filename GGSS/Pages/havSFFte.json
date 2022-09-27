@@ -63,9 +63,9 @@
   "values": {
     "class": "theme.checkboxRegistros"
   },
-  "parent": "hrNdgZAT",
+  "parent": "TdLNVMUN",
   "prevent_delete": false,
   "cascades": false,
-  "collapseStatus": "collapse",
+  "collapseStatus": "expand",
   "errored": false
 }

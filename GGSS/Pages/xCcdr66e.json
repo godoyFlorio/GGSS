@@ -1,13 +1,32 @@
 {
+  "path": "text.tpl",
+  "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Basic\\text.tpl",
+  "keyPath": "elements\\Basic\\text.tpl",
+  "type": "element",
+  "unique_id": "xCcdr66e",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    }
+  ],
   "name": "text",
   "value": "text",
   "values": {
     "Content": "Barrio:"
   },
-  "type": "element",
-  "path": "text.tpl",
   "parent": "iMLKgz78",
-  "unique_id": "xCcdr66e",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand",

@@ -117,7 +117,7 @@
   ],
   "helpText": "The Material Design responsive layout grid adapts to screen size and orientation, ensuring consistency across layouts.",
   "icon": "ico-grid",
-  "name": "grid Left",
+  "name": "grid",
   "originalName": "grid",
   "prevent_delete": false,
   "cascades": false,
@@ -127,8 +127,8 @@
   "values": {
     "item": true,
     "container": false,
-    "smallcolumns": "4",
-    "midcolumns": "4"
+    "smallcolumns": "6",
+    "midcolumns": "6"
   },
   "collapseStatus": "collapse",
   "errored": false

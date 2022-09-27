@@ -1,14 +1,49 @@
 {
+  "path": "radio.tpl",
+  "completePath": "C:\\Users\\Usuario\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\Forms\\radio.tpl",
+  "keyPath": "elements\\Material-UI\\Forms\\radio.tpl",
+  "type": "element",
+  "unique_id": "nMhdyyQE",
+  "icon": "f:radio.svg",
+  "options": [
+    {
+      "name": "checked",
+      "display": "Checked",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "onchange",
+      "display": "On Change",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "value",
+      "display": "Value",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "name",
+      "display": "Name",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "label",
+      "display": "label",
+      "type": "text",
+      "options": ""
+    }
+  ],
   "name": "Predeterminado",
   "value": "radio",
   "values": {
     "label": "Predeterminado",
     "value": "{usName}"
   },
-  "type": "element",
-  "path": "radio.tpl",
   "parent": "Dw7JQMS7",
-  "unique_id": "nMhdyyQE",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand",
