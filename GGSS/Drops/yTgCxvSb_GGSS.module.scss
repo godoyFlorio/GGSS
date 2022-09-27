@@ -106,7 +106,7 @@
     -webkit-box-align: $-webkit-box-align;
     -ms-flex-align: $-ms-flex-align;
     align-items: $align-items;
-    position: $position;
+    //position: $position;
 }
 
 @mixin registrosButtonCancelar (
@@ -278,6 +278,7 @@
         // height: 5px;
     }
     //MuiAccordion-root:before
+   
     & :global(.MuiAccordionSummary-content){
         margin-left: 0px;
         // border-radius: 10px;
@@ -300,7 +301,6 @@
     & :global(.Mui-expanded){
         min-height: 0px;
     }
-    
 }
 // Clases Globales // 
     // General //
@@ -315,6 +315,7 @@
         }
         .unidadInputsColumn{
             display: flex;
+            margin-left: 10px;
             justify-content: columns;
             .unidadInputsColumnEstado{
                 display: flex;
@@ -342,7 +343,6 @@
             line-height: 24px;
             color: #003C70;
             margin-top: 16px; 
-            
             & :global(.MuiButtonBase-root){
                 background-color: #fff;
                 color: #003C70;
@@ -356,7 +356,6 @@
                 overflow-anchor: none;
                 border-radius: 0;
             }
-
             .legajoInput{
                 margin-left: 57px;
             }
@@ -367,61 +366,19 @@
                 padding-right: 0px;
                 padding-top: 0px;
             }
+
+            .checkboxMascFem{
+                margin-left: 60px;
+            }
         }
-            
-            .uncontrolledInput{
-                display: inline-block;
-                min-width: 300px;
-                margin-left: 10px;
-                margin-top: -4px;
-                color: #FAF9F9;
-                & :global(.MuiOutlinedInput-root){
-                    margin-top: -20px;
-                    background-color: #FAF9F9;
-                    border-radius: 10px;
-                    height: 40px;
-                    margin-bottom: 42px;
-                    color: #FA6100;
-                }
-                & :global(.MuiInputLabel-root){
-                    margin-top: -20px;
-                    font-family: 'Poppins';
-                    font-style: normal;
-                    font-weight: 400;
-                    font-size: 14px;
-                    line-height: 17px;
-                    color: #e51313;
-                }
-                & :global(.MuiInput-root){
-                    width: 300px;
-                    font-family: "Roboto","Helvetica","Arial",sans-serif;
-                    font-weight: 400;
-                    font-size: 1rem;
-                    line-height: 1.4375em;
-                    letter-spacing: 0.00938em;
-                    color: #0b0070;
-                    box-sizing: border-box;
-                    position: relative;
-                    cursor: text;
-                    display: -webkit-inline-box;
-                    display: -webkit-inline-flex;
-                    display: -ms-inline-flexbox;
-                    display: inline-flex;
-                    -webkit-align-items: center;
-                    -webkit-box-align: center;
-                    -ms-flex-align: center;
-                    align-items: center;
-                    position: relative;
-                }
-        }
-    //------------- ACOMODAR CON VARIABLES -----------------------//
+
+ //------------- ACOMODAR CON VARIABLES -----------------------//
         .uncontrolledInputLegajo{
             display: inline-block;
             min-width: 300px;
             margin-left: -45px;
             margin-top: -4px;
             color: #FAF9F9;
-
             & :global(.MuiOutlinedInput-root){
                 margin-top: -20px;
                 background-color: #FAF9F9;
@@ -462,7 +419,6 @@
                 align-items: center;
                 position: relative;
             }
-
             // @include uncontrolledInputAlineados(
             //    // $margin-top: 10px,
             // );
@@ -477,57 +433,54 @@
                 // $display: -webkit-inline-box,
                 // //$display: -webkit-inline-flex,
                 // //$display: -ms-inline-flexbox 
-            }
+        }
+        .uncontrolledInputApellido{
+            display: inline-block;
+            min-width: 300px;
+            margin-left: -45px;
+            margin-top: -4px;
+            color: #FAF9F9;
 
-            .uncontrolledInputApellido{
-                display: inline-block;
-                min-width: 300px;
-                margin-left: -45px;
-                margin-top: -4px;
-                color: #FAF9F9;
-    
-                & :global(.MuiOutlinedInput-root){
-                    margin-top: -20px;
-                    background-color: #FAF9F9;
-                    border-radius: 10px;
-                    height: 40px;
-                    margin-bottom: 42px;
-                    color: #FA6100;
-                    
-                }
-                & :global(.MuiInputLabel-root){
-                    margin-top: -20px;
-                    font-family: 'Poppins';
-                    font-style: normal;
-                    font-weight: 400;
-                    font-size: 14px;
-                    line-height: 17px;
-                    color: #e51313;
-                }
-                & :global(.MuiInput-root){
-                    margin-left: 95px;
-                    width: 300px;
-                    font-family: "Roboto","Helvetica","Arial",sans-serif;
-                    font-weight: 400;
-                    font-size: 1rem;
-                    line-height: 1.4375em;
-                    letter-spacing: 0.00938em;
-                    color: #0b0070;
-                    box-sizing: border-box;
-                    position: relative;
-                    cursor: text;
-                    display: -webkit-inline-box;
-                    display: -webkit-inline-flex;
-                    display: -ms-inline-flexbox;
-                    display: inline-flex;
-                    -webkit-align-items: center;
-                    -webkit-box-align: center;
-                    -ms-flex-align: center;
-                    align-items: center;
-                    position: relative;
-                }
+            & :global(.MuiOutlinedInput-root){
+                margin-top: -20px;
+                background-color: #FAF9F9;
+                border-radius: 10px;
+                height: 40px;
+                margin-bottom: 42px;
+                color: #FA6100;
             }
-        
+            & :global(.MuiInputLabel-root){
+                margin-top: -20px;
+                font-family: 'Poppins';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 17px;
+                color: #e51313;
+            }
+            & :global(.MuiInput-root){
+                margin-left: 95px;
+                width: 300px;
+                font-family: "Roboto","Helvetica","Arial",sans-serif;
+                font-weight: 400;
+                font-size: 1rem;
+                line-height: 1.4375em;
+                letter-spacing: 0.00938em;
+                color: #0b0070;
+                box-sizing: border-box;
+                position: relative;
+                cursor: text;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                position: relative;
+            }
+        }
         .uncontrolledInputCUIL{
             display: inline-block;
             min-width: 300px;
@@ -555,6 +508,63 @@
             & :global(.MuiInput-root){
                 margin-left: 57px;
                 width: 300px;
+                font-family: "Roboto","Helvetica","Arial",sans-serif;
+                font-weight: 400;
+                font-size: 1rem;
+                line-height: 1.4375em;
+                letter-spacing: 0.00938em;
+                color: #0b0070;
+                box-sizing: border-box;
+                position: relative;
+                cursor: text;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                position: relative;
+            }
+        }
+        .uncontrolledInputNacimiento{
+            display: inline-block;
+            min-width: 300px;
+            margin-left: 10px;
+            margin-top: -4px;
+            color: #FAF9F9;
+            div>div{
+                & :global(.MuiInput-input){
+                    color: #003C70;
+                    font-size: 20px;
+                }
+                & :global(.MuiInput-input)
+                ::before{
+                    font-size: 10px;                
+                }
+                ::after{
+                }
+            }
+            & :global(.MuiOutlinedInput-root){
+                margin-top: -20px;
+                background-color: #FAF9F9;
+                border-radius: 10px;
+                height: 40px;
+                margin-bottom: 42px;
+                color: #FA6100;
+            }
+            & :global(.MuiInputLabel-root){
+                margin-top: -20px;
+                font-family: 'Poppins';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 17px;
+                color: #e51313;
+            }
+            & :global(.MuiInput-root){
+                width: 235px;
                 font-family: "Roboto","Helvetica","Arial",sans-serif;
                 font-weight: 400;
                 font-size: 1rem;
@@ -993,7 +1003,7 @@
                     box-shadow: 2px 2px 4px #00327067;
                     & h4{
                         @include h4 ();
-                        margin-top: 75px;
+                        margin-top: 80px;
                         margin-left: 75px;
                     }
                 }

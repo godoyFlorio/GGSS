@@ -61,7 +61,7 @@
   "name": "checkbox Masc Fem",
   "value": "div",
   "values": {
-    "class": "theme.title"
+    "class": "theme.checkboxMascFem"
   },
   "parent": "XVv6seiG",
   "prevent_delete": false,

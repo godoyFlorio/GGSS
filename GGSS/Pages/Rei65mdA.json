@@ -62,7 +62,7 @@
   "value": "div",
   "values": {
     "tag": "div",
-    "class": "theme.uncontrolledInputMovil"
+    "class": "theme.uncontrolledInputEstadoPersonales"
   },
   "parent": "AiIkZAOa",
   "prevent_delete": false,
