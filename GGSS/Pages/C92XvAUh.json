@@ -1,0 +1,15 @@
+{
+  "path": "pf.tpl",
+  "completePath": "C:\\Users\\Ines\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Aptugo Internal Use\\pf.tpl",
+  "keyPath": "elements\\Aptugo Internal Use\\pf.tpl",
+  "unique_id": "C92XvAUh",
+  "icon": "ico-field",
+  "name": "Page Footer",
+  "type": "element",
+  "value": "pf",
+  "prevent_delete": true,
+  "cascades": false,
+  "parent": "ORPM2FAp",
+  "errored": false,
+  "collapseStatus": "expand"
+}

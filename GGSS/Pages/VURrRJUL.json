@@ -1,4 +1,5 @@
 {
+  "unique_id": "VURrRJUL",
   "name": "button",
   "value": "button",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "button.tpl",
   "parent": "r9phAl6H",
-  "unique_id": "VURrRJUL",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand",

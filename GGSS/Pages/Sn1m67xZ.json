@@ -1,0 +1,16 @@
+{
+  "path": "ph.tpl",
+  "completePath": "C:\\Users\\Ines\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Aptugo Internal Use\\ph.tpl",
+  "keyPath": "elements\\Aptugo Internal Use\\ph.tpl",
+  "unique_id": "Sn1m67xZ",
+  "prevent_delete": false,
+  "icon": "ico-field",
+  "name": "Page Header",
+  "value": "ph",
+  "values": {},
+  "cascades": false,
+  "type": "element",
+  "parent": "ORPM2FAp",
+  "collapseStatus": "collapse",
+  "errored": false
+}

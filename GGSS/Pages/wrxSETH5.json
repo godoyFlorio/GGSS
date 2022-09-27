@@ -1,4 +1,5 @@
 {
+  "unique_id": "wrxSETH5",
   "name": "Agregar",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "ZR8aGHhl",
-  "unique_id": "wrxSETH5",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand",

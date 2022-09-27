@@ -7,5 +7,6 @@
   "value": "div",
   "collapseStatus": "expand",
   "parent": "NcTEAmVy",
-  "errored": false
+  "errored": false,
+  "path": "div.tpl"
 }

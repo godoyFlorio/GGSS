@@ -1,0 +1,68 @@
+{
+  "path": "image.tpl",
+  "completePath": "C:\\Users\\Ines\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\image.tpl",
+  "keyPath": "elements\\Material-UI\\image.tpl",
+  "unique_id": "4zT5cahF",
+  "icon": "ico-image",
+  "helpText": "Easily use images from Assets or the web",
+  "options": [
+    {
+      "name": "useAsset",
+      "display": "Use an asset",
+      "type": "dropdown",
+      "options": "return [['none', 'none'], ...aptugo.assetUtils.images().map(image => [image.id, image.name])]"
+    },
+    {
+      "name": "path",
+      "display": "Image Path",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "webppath",
+      "display": "Image Path (WebP)",
+      "type": "text",
+      "options": "return aptugo.assetUtils.grabCssSelectors( aptugo.variables.retrievePageVariablesFromElement(arguments[0],'theme') )"
+    },
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "styles"
+    },
+    {
+      "name": "alt",
+      "display": "Alt Text",
+      "type": "text",
+      "options": "return aptugo.assetUtils.grabCssSelectors( aptugo.variables.retrievePageVariablesFromElement(arguments[0],'theme') )"
+    },
+    {
+      "name": "width",
+      "display": "Width",
+      "type": "text",
+      "options": "return aptugo.assetUtils.grabCssSelectors( aptugo.variables.retrievePageVariablesFromElement(arguments[0],'theme') )"
+    },
+    {
+      "name": "height",
+      "display": "Height",
+      "type": "text",
+      "options": "return aptugo.assetUtils.grabCssSelectors( aptugo.variables.retrievePageVariablesFromElement(arguments[0],'theme') )"
+    },
+    {
+      "name": "onError",
+      "display": "On Error",
+      "type": "text",
+      "advanced": true
+    }
+  ],
+  "name": "image",
+  "value": "image",
+  "values": {
+    "useAsset": "05nZuhtL"
+  },
+  "type": "element",
+  "parent": "QJziSTvw",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

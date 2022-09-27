@@ -1,11 +1,11 @@
 {
+  "unique_id": "G4EugJ2Z",
   "name": "Crud Bar",
   "value": "div",
   "values": {
     "class": "theme.cudBarRegistros"
   },
   "path": "div.tpl",
-  "unique_id": "G4EugJ2Z",
   "prevent_delete": false,
   "cascades": false,
   "type": "element",

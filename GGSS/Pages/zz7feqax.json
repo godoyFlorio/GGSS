@@ -10,5 +10,6 @@
     "class": "theme.tabletoolbar"
   },
   "parent": "0ck2APzU",
-  "errored": false
+  "errored": false,
+  "path": "div.tpl"
 }

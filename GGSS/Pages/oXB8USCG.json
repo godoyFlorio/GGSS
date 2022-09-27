@@ -1,4 +1,5 @@
 {
+  "unique_id": "oXB8USCG",
   "name": "Licencias/Franquicias",
   "value": "div",
   "values": {
@@ -7,7 +8,6 @@
   "type": "element",
   "path": "div.tpl",
   "parent": "sRiTARfC",
-  "unique_id": "oXB8USCG",
   "prevent_delete": false,
   "cascades": false,
   "collapseStatus": "expand",

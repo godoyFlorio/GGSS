@@ -18,5 +18,6 @@
     "editIntroText": "() => { return \"Update \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"Q5IZWPPc\").singleName + \" data\" }"
   },
   "parent": "MAkcbohb",
-  "errored": false
+  "errored": false,
+  "path": "dialog.tpl"
 }
