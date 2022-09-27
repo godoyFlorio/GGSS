@@ -72,7 +72,9 @@
   "values": {
     "fieldname": "dataDomicilios",
     "variant": "standard",
-    "label": ""
+    "label": "",
+    "onChange": "",
+    "value": ""
   },
   "parent": "tgcUMptw",
   "prevent_delete": false,
