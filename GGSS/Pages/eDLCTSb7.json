@@ -1,0 +1,34 @@
+{
+  "path": "typography.tpl",
+  "completePath": "C:\\Users\\Ines\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\typography.tpl",
+  "keyPath": "elements\\Material-UI\\typography.tpl",
+  "unique_id": "eDLCTSb7",
+  "icon": "ico-typography",
+  "helpText": "Renders different typographic html elements",
+  "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
+  "options": [
+    {
+      "name": "tag",
+      "display": "Tag",
+      "type": "dropdown",
+      "options": "h1;h2;h3;h4;h5;h6;subtitle1;subtitle2;body1;body2;caption;button;overline;srOnly;inherit"
+    }
+  ],
+  "childs": [
+    {
+      "name": "Text Content",
+      "element": "text"
+    }
+  ],
+  "name": "typography",
+  "value": "typography",
+  "values": {
+    "tag": "h4"
+  },
+  "type": "element",
+  "parent": "naMoCEQN",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "oXB8USCG",
+  "name": "Licencias/Franquicias",
+  "value": "div",
+  "values": {
+    "class": "theme.extrasCrud"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "sRiTARfC",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

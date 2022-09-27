@@ -1,0 +1,15 @@
+{
+  "unique_id": "NcHhIMzx",
+  "name": "Imprimir Resumen Legajo Empleado",
+  "value": "div",
+  "values": {
+    "class": "theme.extrasCrud"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "hel8WrLn",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

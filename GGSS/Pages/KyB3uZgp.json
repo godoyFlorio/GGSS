@@ -1,0 +1,17 @@
+{
+  "path": "bpr.tpl",
+  "completePath": "C:\\Users\\Ines\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Aptugo Internal Use\\bpr.tpl",
+  "keyPath": "elements\\Aptugo Internal Use\\bpr.tpl",
+  "type": "element",
+  "unique_id": "KyB3uZgp",
+  "icon": "ico-field",
+  "sourceType": "javascript",
+  "internalUse": true,
+  "prevent_delete": true,
+  "name": "Before Page Render",
+  "value": "bpr",
+  "cascades": false,
+  "parent": "ORPM2FAp",
+  "errored": false,
+  "collapseStatus": "expand"
+}

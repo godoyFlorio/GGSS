@@ -1,0 +1,15 @@
+{
+  "unique_id": "TB03wQ91",
+  "name": "Crud Bar Choferes",
+  "value": "div",
+  "values": {
+    "class": "theme.crudBarRegistros"
+  },
+  "type": "element",
+  "path": "div.tpl",
+  "parent": "G4EugJ2Z",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

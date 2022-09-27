@@ -10,5 +10,6 @@
     "Content": "() => { return aptugo.store.getState().application.tables.find(table => table.unique_id === \"AEa7Hx4O\").singleName + \" list\" }"
   },
   "parent": "xtsmmJ9W",
-  "errored": false
+  "errored": false,
+  "path": "text.tpl"
 }

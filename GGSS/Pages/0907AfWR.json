@@ -67,6 +67,6 @@
     "tag": "div",
     "class": "theme.inputsSectionFamilia"
   },
-  "collapseStatus": "expand",
+  "collapseStatus": "collapse",
   "errored": false
 }

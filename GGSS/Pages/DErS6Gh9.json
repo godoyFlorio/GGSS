@@ -1,0 +1,15 @@
+{
+  "unique_id": "DErS6Gh9",
+  "name": "image",
+  "value": "image",
+  "values": {
+    "useAsset": "qEoFWxpi"
+  },
+  "type": "element",
+  "path": "image.tpl",
+  "parent": "ttoIilt9",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

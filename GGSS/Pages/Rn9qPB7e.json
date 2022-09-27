@@ -62,7 +62,7 @@
   "value": "div",
   "values": {
     "tag": "div",
-    "class": ""
+    "class": "theme.inputRightFamilia"
   },
   "prevent_delete": false,
   "cascades": false,

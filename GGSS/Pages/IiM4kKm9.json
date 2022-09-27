@@ -1,0 +1,11 @@
+{
+  "name": "Body",
+  "type": "element",
+  "value": "b",
+  "prevent_delete": true,
+  "cascades": false,
+  "parent": "ORPM2FAp",
+  "unique_id": "IiM4kKm9",
+  "path": "b.tpl",
+  "errored": false
+}

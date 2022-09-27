@@ -1,0 +1,16 @@
+{
+  "path": "accordion.tpl",
+  "completePath": "C:\\Users\\Ines\\Aptugo\\templates\\5ec1574d22999c4a5e8e0dc7\\elements\\Material-UI\\Accordion\\accordion.tpl",
+  "keyPath": "elements\\Material-UI\\Accordion\\accordion.tpl",
+  "unique_id": "xTqHhXm6",
+  "icon": "f:accordion.svg",
+  "name": "accordion",
+  "value": "accordion",
+  "values": {},
+  "type": "element",
+  "parent": "Xtm3p8su",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "collapse",
+  "errored": false
+}

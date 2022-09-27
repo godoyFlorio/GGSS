@@ -10,5 +10,6 @@
     "class": "classes.tableResponsive"
   },
   "parent": "JOoSIG9l",
-  "errored": false
+  "errored": false,
+  "path": "div.tpl"
 }

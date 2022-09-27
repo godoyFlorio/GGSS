@@ -1,0 +1,15 @@
+{
+  "unique_id": "WGeH7pzT",
+  "name": "button",
+  "value": "button",
+  "values": {
+    "ButtonText": "Imprimir Certificado de Convenio/Oficio"
+  },
+  "type": "element",
+  "path": "button.tpl",
+  "parent": "lkU01LFh",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand",
+  "errored": false
+}

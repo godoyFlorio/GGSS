@@ -989,8 +989,8 @@
                 }
             }
             .divPerfil{
-                margin-left: 584px;
-                margin-top: -308px;
+                margin-left: 100px;
+                //margin-top: -308px;
                 .divImagePerfil{
                     -webkit-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
                     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
@@ -1012,8 +1012,8 @@
                 margin-top: 25px;
                 display: flex;
                 margin-top: 24px;
-                margin-left: 558px;
-                margin-right: -393px;
+                margin-left: 70px;
+                //margin-right: -393px;
                 .registrosButtonCancelar{
                     @include registrosButtonCancelar ();
                     picture {
@@ -1036,10 +1036,15 @@
                         @include buttonCancelar();
                     }
                 }
+            }
+            .buttonValidar{
                 .registrosButtonValidar{
+                    margin-top: -3px;
+                    display: flex;
+                    margin-left: 13px;
                     @include registrosButtonCancelar(
-                        $margin-left: -521px,
-                        $margin-top: -32px,
+                        //$margin-left: -549px,
+                        //$margin-top: -32px,
                         $border-radius: 11px,
                         $width: 82px,
                         $height: 33px,
@@ -1050,7 +1055,7 @@
                         margin-top: 4px;
                         margin-left: -2px;
                         color: orangered;
-                     }
+                    }
                     picture {
                         img {
                             @include img();
@@ -1274,6 +1279,9 @@
 }
 .inputLeftFamilia{
     margin-right: 20px;
+}
+.inputRightFamilia{
+    margin-left: -430px;
 }
 .unidadInputsFamilia{
     display: flex;

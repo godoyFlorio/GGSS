@@ -10,5 +10,6 @@
     "class": "theme.tableHeading"
   },
   "parent": "hqe7z4ta",
-  "errored": false
+  "errored": false,
+  "path": "div.tpl"
 }

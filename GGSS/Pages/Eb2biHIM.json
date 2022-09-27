@@ -10,5 +10,6 @@
     "class": "theme.mainarea"
   },
   "parent": "gT91vFxo",
-  "errored": false
+  "errored": false,
+  "path": "div.tpl"
 }
